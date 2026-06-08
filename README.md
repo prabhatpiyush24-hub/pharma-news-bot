@@ -105,3 +105,4 @@ india-pharma-digest/
 ---
 
 MIT License
+"# pharma-news-bot" 

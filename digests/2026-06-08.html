@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Pharma Digest — 2026-06-08</title>
+<style>
+  :root{--bg:#f0f4f8;--surface:#fff;--border:#dde3ea;--primary:#1a3a5c;
+        --accent:#1565c0;--muted:#607d8b;--green:#1a7a4a;--red:#c0392b;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+       background:var(--bg);color:#1a1a2e;line-height:1.6;}
+
+  /* Header */
+  header{background:var(--primary);color:#fff;padding:1.2rem 2rem;
+          display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.8rem;}
+  header h1{font-size:1.4rem;font-weight:700;}
+  header .meta{font-size:.82rem;opacity:.8;}
+
+  /* Tabs */
+  .tabs{background:#122740;padding:0 1rem;overflow-x:auto;display:flex;
+         scrollbar-width:none;border-top:1px solid rgba(255,255,255,.08);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{background:none;border:none;color:rgba(255,255,255,.65);
+            padding:.65rem 1rem;font-size:.8rem;cursor:pointer;white-space:nowrap;
+            border-bottom:3px solid transparent;transition:all .18s;}
+  .tab-btn:hover{color:#fff;background:rgba(255,255,255,.06);}
+  .tab-btn.active{color:#fff;border-bottom-color:#64b5f6;font-weight:600;}
+
+  /* Layout */
+  .container{max-width:1400px;margin:0 auto;padding:1.5rem 1rem;}
+  .section{margin-bottom:2rem;}
+  h2{font-size:1.1rem;font-weight:700;color:var(--primary);
+      border-left:4px solid var(--accent);padding-left:.75rem;
+      margin-bottom:.9rem;display:flex;align-items:center;gap:.5rem;}
+  .count{background:var(--accent);color:#fff;border-radius:99px;
+          font-size:.7rem;padding:.1rem .45rem;}
+  .note{font-size:.8rem;color:var(--muted);margin-bottom:.75rem;}
+  .legend{font-size:.78rem;font-weight:600;}
+  .green-leg{color:var(--green);}
+  .red-leg  {color:var(--red);}
+
+  /* Stock table */
+  .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);}
+  .stock-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .stock-table th{background:var(--primary);color:#fff;padding:.6rem .75rem;
+                   text-align:left;white-space:nowrap;font-weight:600;}
+  .stock-table td{padding:.5rem .75rem;border-bottom:1px solid var(--border);
+                   white-space:nowrap;}
+  .stock-table tbody tr:last-child td{border-bottom:none;}
+  .stock-table tbody tr:hover td{background:#f0f6ff;}
+  .stock-table tr.near-high td{background:#e8f5e9;}
+  .stock-table tr.near-low  td{background:#fdecea;}
+  .co-name{max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .num{text-align:right;font-variant-numeric:tabular-nums;font-family:'SF Mono',Consolas,monospace;}
+
+  /* News cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.85rem;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:9px;
+         padding:.95rem;display:flex;flex-direction:column;gap:.4rem;
+         transition:box-shadow .15s;}
+  .card:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);}
+  .card-title{font-weight:600;color:var(--accent);text-decoration:none;
+               font-size:.88rem;line-height:1.45;}
+  .card-title:hover{text-decoration:underline;}
+  .card-summary{font-size:.8rem;color:#444;line-height:1.5;}
+  .card-meta{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap;margin-top:.15rem;}
+  .badge{color:#fff;font-size:.7rem;padding:.12rem .45rem;border-radius:4px;font-weight:500;}
+  .date{font-size:.7rem;color:var(--muted);}
+
+  footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.78rem;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🏥 India Pharma Investor Digest</h1>
+    <div class="meta">NSE · BSE · News · Filings</div>
+  </div>
+  <div class="meta">2026-06-08 &nbsp;·&nbsp; 0 stocks &nbsp;·&nbsp; 64 news items</div>
+</header>
+<nav class="tabs" id="tabNav"><button class="tab-btn" onclick="showTab('tab_stocks')" id="btn-tab_stocks">📈 Stocks (0)</button><button class="tab-btn" onclick="showTab('tab___BSE___NSE_Filings')" id="btn-tab___BSE___NSE_Filings">📊 BSE / NSE Filings (10)</button><button class="tab-btn" onclick="showTab('tab___Results___Financials')" id="btn-tab___Results___Financials">💰 Results & Financials (11)</button><button class="tab-btn" onclick="showTab('tab___Deals__M_A___Partnerships')" id="btn-tab___Deals__M_A___Partnerships">🤝 Deals, M&A & Partnerships (4)</button><button class="tab-btn" onclick="showTab('tab___Corporate_Actions')" id="btn-tab___Corporate_Actions">💸 Corporate Actions (4)</button><button class="tab-btn" onclick="showTab('tab___Operations___Approvals')" id="btn-tab___Operations___Approvals">🏭 Operations & Approvals (6)</button><button class="tab-btn" onclick="showTab('tab___Analyst___Brokerage_Calls')" id="btn-tab___Analyst___Brokerage_Calls">📉 Analyst & Brokerage Calls (15)</button><button class="tab-btn" onclick="showTab('tab___Industry___Policy_News')" id="btn-tab___Industry___Policy_News">📰 Industry & Policy News (14)</button></nav>
+<div class="container">
+  
+    <div class="section" id="tab_stocks">
+      <h2>📈 Indian Pharma — NSE Stock Prices <span class="count">0</span></h2>
+      <p class="note">
+        Prices in ₹ (INR) &nbsp;·&nbsp; Source: Yahoo Finance / NSE &nbsp;·&nbsp; As of 2026-06-08
+        &nbsp;&nbsp;
+        <span class="legend green-leg">■ Near 52W High</span>
+        &nbsp;
+        <span class="legend red-leg">■ Near 52W Low</span>
+      </p>
+      <div class="table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Company</th>
+              <th class="num">Price (₹)</th>
+              <th class="num">Change %</th>
+              <th class="num">Change (₹)</th>
+              <th class="num">Prev Close</th>
+              <th class="num">Day High</th>
+              <th class="num">Day Low</th>
+              <th class="num">52W High</th>
+              <th class="num">52W Low</th>
+              <th class="num">Mkt Cap</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  
+        <div class="section" id="tab___BSE___NSE_Filings">
+          <h2>📊 BSE / NSE Filings <span class="count">10</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/431e1b1e-eb4a-49fe-b656-a04ce363cf18.pdf" target="_blank" rel="noopener">Cipla: Please find enclosed email communication dated 8th June, 2026, sent to members of the Company.</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 500087</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/7bb67af7-6ec5-40c6-9797-287d2ad8f42c.pdf" target="_blank" rel="noopener">Lupin: Lupin Collaborates with ERN for Luforbec (beclometasone/formoterol) pMDI Launch in Spain.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/89fb369a-c92b-40b2-b623-8c13d9e58c23.pdf" target="_blank" rel="noopener">Biocon: The Company has informed the Exchanges that Motilal Oswal Asset Management Company Limited ('MOAMC'), a Material Wholly-Owned Subsidiary of Motilal Oswal Financial Services Limited ('the ....</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 532892</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/1f16b385-56c2-462b-b375-f8d02667e380.pdf" target="_blank" rel="noopener">Alkem Laboratories: Pursuant to Regulation 30 read with Clause 15 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, this is to inform you that a one-to-one meet with an Institutional ....</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500825</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/8b28ae36-5928-4c89-9c0f-641693f28c4e.pdf" target="_blank" rel="noopener">Gland Pharma: Intimation of Analyst/ Institutional Investor Meet/ Con. Call/Updates.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 543213</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/983aed7f-bb95-4d6d-8390-bfa563be322a.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Postal Ballot - Outcome</a>
+              <p class='card-summary'>Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/c8734c96-2edb-4947-9231-4c577d6f641c.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Postal Ballot - Scrutinizer''s Report</a>
+              <p class='card-summary'>Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/eea5c4e9-a943-4693-a249-496a5d11d763.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Intimation of Schedule of Meetings with Analyst(s)/Institutional Investor(s)</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=524606" target="_blank" rel="noopener">Beryl Drugs Ltd: Beryl Drugs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 16/06/2026 ,inter alia, to consider and approve change in registered office of ....</a>
+              <p class='card-summary'>BSE Code: 524606</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=540359" target="_blank" rel="noopener">Parmax Pharma Ltd: Issue of Shares and Warrants on Preferential basis pursuant to SEBI ICDR Regulations</a>
+              <p class='card-summary'>BSE Code: 540359</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Results___Financials">
+          <h2>💰 Results & Financials <span class="count">11</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/sbi-pays-rs-8813-crore-dividend-to-government-for-fy26-fm-nirmala-sitharaman-receives-cheque/articleshow/131585078.cms" target="_blank" rel="noopener">SBI pays Rs 8,813 crore dividend to government for FY26, FM Nirmala Sitharaman receives cheque</a>
+              <p class='card-summary'>The State Bank of India (SBI) presented a dividend cheque of Rs 8,813 crore to the government for the financial year ending March 31, 2026. This follows SBI's reported 6% year-on-year rise in net profit for the January-March quarter of FY26, reaching Rs 19,684 crore.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-shares-hit-5-lower-circuit-for-third-session-on-alleged-rs-15-15-lakh-crore-fraud/articleshow/131582525.cms" target="_blank" rel="noopener">Rajesh Exports shares hit 5% lower circuit for third session on alleged Rs 15.15 lakh crore fraud</a>
+              <p class='card-summary'>Rajesh Exports shares hit lower circuits for a third straight session after Sebi alleged massive revenue inflation and financial irregularities. The regulator barred promoter Rajesh Mehta from trading and flagged auditor lapses. The company denied wrongdoing, attributing discrepancies to accounting </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/luxury-beauty-boom-in-india-premium-fragrance-shoppers-stop-global-ss-beauty-brands-11780888731858.html" target="_blank" rel="noopener">Luxury beauty becomes everyday indulgence in India, lifting Shoppers Stop’s distribution arm</a>
+              <p class='card-summary'>Global SS Beauty Brands, a distribution arm of Shoppers Stop, has reported gross revenue of ₹426 crore in FY26—up 81%, CEO and MD Biju Kassim says.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/from-singapore-to-mumbai-the-trail-of-rajesh-exports-elusive-financial-statements-11780829570733.html" target="_blank" rel="noopener">From Singapore to Mumbai, the trail of Rajesh Exports’ elusive financial statements</a>
+              <p class='card-summary'>Rajesh Exports Ltd and its Singapore subsidiary gave contradictory statements to regulators in the two countries, blurring the actual finances of overseas units that account for nearly all of its consolidated revenues.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solutions-vs-power-grid-corp-which-stock-is-jefferies-betting-on/articleshow/131584988.cms" target="_blank" rel="noopener">Adani Energy Solutions vs Power Grid Corp: Which stock is Jefferies betting on?</a>
+              <p class='card-summary'>Jefferies remains bullish on both Adani Energy Solutions and Power Grid Corp but sees significantly stronger growth in AESL, driven by transmission expansion and smart metering. The brokerage expects AESL’s earnings growth to outpace Power Grid and believes improving valuations and execution momentu</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/capital-markets-becoming-a-core-avenue-for-household-savings-sebi-chief-tuhin-kanta-pandey/articleshow/131582663.cms" target="_blank" rel="noopener">Capital markets becoming a core avenue for household savings: Sebi chief Tuhin Kanta Pandey</a>
+              <p class='card-summary'>Sebi Chairman Tuhin Kanta Pandey said capital markets are becoming a key avenue for household savings and wealth creation, supported by rising investor participation and strong fund inflows. Equity issuances crossed Rs 4.5 lakh crore and corporate bond issuances exceeded Rs 9 lakh crore in FY26, ref</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/100-days-of-iran-war-rs-450000-crore-wiped-out-is-your-stock-portfolio-safe-from-missiles/articleshow/131581114.cms" target="_blank" rel="noopener">100 days of Iran war, Rs 4,50,000 crore wiped out: Is your stock portfolio safe from missiles?</a>
+              <p class='card-summary'>Indian equities have lost Rs 4.5 lakh crore in 100 days as the Iran-led West Asia conflict and a global AI trade unwind trigger sharp FII outflows. Banking, oil and IT stocks led declines, while pharma outperformed. Analysts warn of earnings downgrades, though valuations are turning attractive in se</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-slip-10-in-two-sessions-after-sharp-165-rally-in-2026/articleshow/131579111.cms" target="_blank" rel="noopener">HFCL shares slip 10% in two sessions after sharp 165% rally in 2026</a>
+              <p class='card-summary'>HFCL shares have corrected about 10% in two sessions after a sharp 165% rally in 2026, driven largely by profit booking. Despite strong fundamentals, rising order inflows, and robust earnings recovery, elevated valuations and overbought technical indicators suggest the possibility of near-term conso</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/nestle-among-nuvamas-top-5-consumer-picks-after-q4-earnings-season-do-you-own-any/slideshow/131578968.cms" target="_blank" rel="noopener">Nestle among Nuvama's top 5 consumer picks after Q4 earnings season. Do you own any?</a>
+              <p class='card-summary'>Nestle is among Nuvama's top consumer picks following strong Q4 earnings, driven by resilient rural and urban demand. Despite challenges like unseasonal weather impacting seasonal products, the brokerage highlighted Nestle, Asian Paints, Pidilite Industries, Berger Paints, and Marico as key investme</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/the-ai-play-no-one-is-talking-about-why-bofa-is-snapping-up-power-metals-instead-of-it/articleshow/131578083.cms" target="_blank" rel="noopener">The AI play no one is talking about: Why BofA is snapping up power &amp;amp; metals instead of IT</a>
+              <p class='card-summary'>BofA Securities India's Amish Shah advises shifting from IT to infrastructure, citing a 'dangerous gap' in consensus earnings forecasts. He highlights that commodity-driven earnings won't command premium valuations, and warns of potential downside from current market levels. Shah's strategy favors v</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131577535.cms" target="_blank" rel="noopener">Adani Green Energy among 5 stocks flashing bullish signals, hinting at a possible uptrend</a>
+              <p class='card-summary'>Five Nifty500 stocks appeared on the White Marubozu bullish scanner on June 5, signalling strong buying momentum across select counters. The pattern reflects sustained bullish sentiment throughout the session, with buyers maintaining control from open to close, indicating potential continuation of u</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Deals__M_A___Partnerships">
+          <h2>🤝 Deals, M&A & Partnerships <span class="count">4</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/promoter-entities-sell-rs-153-crore-worth-shares-in-motilal-oswal-block-deal-hdfc-life-picks-up-stake/articleshow/131591029.cms" target="_blank" rel="noopener">Promoter entities sell Rs 153 crore worth shares in Motilal Oswal block deal; HDFC Life picks up stake</a>
+              <p class='card-summary'>Two promoter-group charitable entities of Motilal Oswal Financial Services sold shares worth about Rs 153 crore through block deals, with HDFC Life acquiring the entire stake. The transaction reflects strong institutional interest in financial-sector stocks and does not indicate any change in promot</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-in-focus-after-hong-kong-based-hedge-fund-viridian-buys-stake-worth-rs-96-crore-via-block-deal/articleshow/131577611.cms" target="_blank" rel="noopener">Lenskart shares in focus after Viridian completes stake transfer from Copthall Mauritius</a>
+              <p class='card-summary'>Hong Kong-based Viridian Asia Opportunities Master Fund acquired an 18.96 lakh share stake in Lenskart Solutions for Rs 96 crore. This follows a recent Rs 2,873 crore block deal where SoftBank affiliate SVF II Lightbulb (Cayman) reduced its holding.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/two-adani-group-stocks-in-focus-as-gqg-sells-stake-in-rs-5750-crore-deal-sbi-mf-lone-buyer/articleshow/131577572.cms" target="_blank" rel="noopener">Two Adani Group stocks in focus as GQG sells stake in Rs 5,750 crore deal; SBI MF lone buyer</a>
+              <p class='card-summary'>Adani Enterprises and Adani Energy Solutions will be in focus after GQG Partners sold stakes worth about Rs 5,750 crore via block deals, with SBI Mutual Fund buying the shares. The move is seen as portfolio rebalancing following a strong recovery in Adani Group stocks over the past year.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/cbc-india-and-metalco-alupack-sign-exclusive-strategic-partnership/" target="_blank" rel="noopener">CBC India and Metalco-Alupack sign exclusive strategic partnership</a>
+              <p class='card-summary'>CBC India has announced an exclusive partnership between its Ingredients &amp;#38; Packaging Solutions (IPS) Division and Metalco-Alupack, a leading European manufacturer of pharmaceutical aluminium packaging solutions. This partnership represents a [&amp;#8230;] The post CBC India and Metalco-Alupa</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Corporate_Actions">
+          <h2>💸 Corporate Actions <span class="count">4</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-crack-5-down-8-in-two-sessions-whats-behind-the-selloff/articleshow/131578390.cms" target="_blank" rel="noopener">Wipro shares plunge over 8%. What’s behind the selloff?</a>
+              <p class='card-summary'>Wipro shares dropped significantly on Monday. This decline follows the company's share buyback record date. Investors who bought shares for the buyback are now selling. Morgan Stanley maintains an 'Underweight' rating. Challenges in growth and competition are impacting the IT sector. US market senti</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-this-smallcap-company-announced-a-25-bonus-issue-do-you-own/articleshow/131579997.cms" target="_blank" rel="noopener">Bonus issue alert! This smallcap company announced a 2:5 bonus issue. Do you own?</a>
+              <p class='card-summary'>Hardwyn India has announced a 2:5 bonus issue, subject to shareholder approval at an EGM on July 3. The company also plans to increase its authorised share capital to Rs 70 crore. While the record date is yet to be announced, analysts remain positive on the stock's near-term technical outlook.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/merritronix-shares-to-list-today-gmp-hints-at-strong-sme-debut/articleshow/131577198.cms" target="_blank" rel="noopener">Stellar debut! Merritronix shares list at 90% premium on BSE SME platform</a>
+              <p class='card-summary'>Merritronix shares debuted with a 90% premium on the BSE SME platform, listing at Rs 283 against an issue price of Rs 149. The Rs 70 crore IPO saw overwhelming investor response, subscribed 315.36 times overall. The company, operating in the defence and aerospace ESDM segment, reported strong financ</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/will-flex-fuel-vehicles-rule-indian-roads-e85-fuel-11780900419771.html" target="_blank" rel="noopener">Mint Explainer: Will flex fuel vehicles rule Indian roads?</a>
+              <p class='card-summary'>Maruti and Hero’s recent launches signal India’s biggest ethanol push yet, but the segment faces steep hurdles without government subsidy support.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Operations___Approvals">
+          <h2>🏭 Operations & Approvals <span class="count">6</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/government-to-sell-3-stake-in-nlc-india-through-ofs-sets-floor-price-at-rs-303/articleshow/131590726.cms" target="_blank" rel="noopener">Government to sell 3% stake in NLC India through OFS, sets floor price at Rs 303</a>
+              <p class='card-summary'>The government has launched a two-day offer for sale in NLC India, aiming to divest up to 3% stake through a base offer and greenshoe option. The issue, priced at a discount to the market rate, could raise up to Rs 1,263 crore and forms part of the broader disinvestment programme.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/rajesh-exports-sebi-pli-acc-heavy-industries-ministry-hd-kumaraswamy-11780922648137.html" target="_blank" rel="noopener">Rajesh Exports’ PLI-ACC future to be decided this week</a>
+              <p class='card-summary'>There is a clause in the 2021 scheme's request for proposal to set up battery capacity that allows the ministry of heavy industries to disqualify a company.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/immuneel-west-asia-asia-pacific-expansion-car-t-therapy-india-funding-11780916604472.html" target="_blank" rel="noopener">Immuneel eyes West Asia, Asia-Pacific expansion for cancer therapy after  ₹100 crore funding</a>
+              <p class='card-summary'>The company says its lower-cost treatment could help it compete in emerging markets across West Asia and Asia-Pacific.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/haleon-to-invest-rs-2000-crore-in-india-for-first-sensodyne-manufacturingplant-11780891711713.html" target="_blank" rel="noopener">Sensodyne maker Haleon to invest £175 million in first manufacturing plant in India</a>
+              <p class='card-summary'>The ₹2,000-crore facility in Madhya Pradesh will mark a shift away from contract manufacturing as India becomes the company’s second-largest oral care market.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/lupin-collaborates-with-ern-for-luforbec-pmdi-launch-in-spain/" target="_blank" rel="noopener">Lupin collaborates with ERN for Luforbec pMDI launch in Spain</a>
+              <p class='card-summary'>Global pharma major Lupin announced its strategic collaboration with LABORATORIOS ERN S.A. (ERN), a well‑established Spanish pharmaceutical company, for the launch of Luforbec (beclometasone/formoterol) 100/6, a fixed dose combination in [&amp;#8230;] The post Lupin collaborates with ERN for Luforbe</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/maiva-pharma-inaugurates-state-of-the-art-sterile-injectable-manufacturing-facility-at-shoolagiri-india/" target="_blank" rel="noopener">Maiva Pharma inaugurates state-of-the-art sterile injectable manufacturing facility at Shoolagiri, India</a>
+              <p class='card-summary'>Maiva Pharma, a leading global Contract Manufacturing Organization (CMO) and Contract Development and Manufacturing Organization (CDMO) specialising in sterile injectables inaugurated its new manufacturing facility at Shoolagiri, Tamil Nadu, India. [&amp;#8230;] The post Maiva Pharma inaugurates sta</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Analyst___Brokerage_Calls">
+          <h2>📉 Analyst & Brokerage Calls <span class="count">15</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131591609.cms" target="_blank" rel="noopener">Ahead of Market: 10 things that will decide stock market action on Tuesday</a>
+              <p class='card-summary'>Indian equities ended sharply lower as weak global cues and geopolitical tensions triggered broad-based selling. Nifty slipped 1.04% to 23,123, with analysts advising caution and a sell-on-rise strategy. Market breadth remained weak, while select stocks attracted buying interest and several counters</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-16-largecap-stocks-over-two-quarters-shares-fell-up-to-40/slideshow/131583501.cms" target="_blank" rel="noopener">FIIs cut stakes in 16 largecap stocks over two quarters; shares fall up to 40%</a>
+              <p class='card-summary'>Foreign institutional investors reduced stakes across over 100 large-cap stocks in the past two quarters, with 13 names falling up to 40%. Despite the selling pressure, three stocks delivered strong gains. The data highlights divergence in market performance and signals that FII exits do not always </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/textile-stocks-to-rally-emkay-sees-sector-at-inflection-point-to-regain-lost-glory-initiates-buy-call-on-3-stocks/articleshow/131581351.cms" target="_blank" rel="noopener">Textile stocks to rally? Emkay sees sector at inflection point to regain lost glory, initiates 'Buy' call on 3 stocks</a>
+              <p class='card-summary'>India’s textile sector is nearing an inflection point and could regain lost global market share, according to Emkay Global. The brokerage initiated coverage with ‘Buy’ ratings on Arvind, Nitin Spinners and Sanathan Textiles, citing FTAs, tariff advantages over China, a strong domestic market and gro</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-slide-5-after-rallying-56-in-one-month-heres-why/articleshow/131579879.cms" target="_blank" rel="noopener">Sterlite Tech shares slide 5% after rallying 56% in one month. Here's why</a>
+              <p class='card-summary'>Sterlite Technologies shares hit the lower circuit on Monday as a sharp global selloff in AI and technology stocks dented investor sentiment. The decline comes after the stock's stellar 474% rally in 2026 and a 56% gain over the past month, with shares locked at Rs 588.30 on the NSE amid profit-book</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/the-ai-trade-trap-why-successful-tech-stocks-are-triggering-a-trillion-dollar-market-meltdown-in-korea-taiwan/articleshow/131579623.cms" target="_blank" rel="noopener">The AI trade trap: Why successful tech stocks are triggering a trillion-dollar market meltdown in Korea, Taiwan</a>
+              <p class='card-summary'>A sharp tech selloff exposed concentration risks in Asian markets, where chip giants such as TSMC, Samsung and SK Hynix dominate benchmarks. As their rapid gains pushed portfolio weights beyond risk limits, active fund managers were forced to sell despite strong fundamentals. The unwind triggered ma</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-tumble-2-down-12-in-4-straight-sessions-whats-triggering-the-decline/articleshow/131579402.cms" target="_blank" rel="noopener">TCS shares slip 2%, down 12% in 4 straight sessions. What’s triggering the decline?</a>
+              <p class='card-summary'>TCS shares tumbled 2% Monday, extending a four-day loss to 12%, as rising U.S. bond yields fueled fears of further Federal Reserve rate hikes. This downturn, coupled with AI disruption concerns, has pushed the stock down over 32% this year. Experts advise caution, citing weakening momentum and a bea</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-crashing-today-sensex-plunges-800-points-nifty-below-23100-6-factors-behind-bloodbath-on-d-street/articleshow/131577901.cms" target="_blank" rel="noopener">Why market crashed today? Sensex plunges 719 points, Nifty closes below 23,150; 7 factors behind Rs 7 lakh crore sell-off</a>
+              <p class='card-summary'>Indian equity markets experienced a significant sell-off on Monday, with the Sensex and Nifty declining around 1% each. This downturn was driven by a global market crash, persistent foreign institutional investor outflows, and escalating Middle East tensions, leading to a surge in oil prices and bon</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/kospi-crashes-9-trading-halted-for-20-minutes-as-chip-rout-deepens-samsung-sk-hynix-worst-hit/articleshow/131576947.cms" target="_blank" rel="noopener">Kospi ends 8% lower as chip rout deepens; Samsung, SK Hynix crash up to 10%</a>
+              <p class='card-summary'>South Korea's KOSPI index experienced a significant selloff, plunging 8.23% as investors cashed in on the AI rally, revealing the market's heavy reliance on semiconductor stocks. This sharp reversal, exacerbated by geopolitical tensions, saw major chipmakers like Samsung and SK Hynix tumble, highlig</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/urban-company-bets-on-micro-market-strategy-india-home-services-market-11780895123460.html" target="_blank" rel="noopener">Urban Company bets on micro-market densification to grow 2x faster than industry</a>
+              <p class='card-summary'>The company said the densification strategy is built around increasing the concentration of both customers and service professionals within small, neighbourhood-level clusters. The densification strategy is also central to InstaHelp, the company's on-demand household-help business.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlDUkJvSjVHaGlWeFA3MlZHNmlyZ0Q2bXFpVXFlT1htcHR5STF1MFZtS3FJYzBzbWZGQmFXcjgxRmotX1R5UFZpTEZLenpvb3J2cklRZmJPNnZyeFlSNDBzeW9wWlBUcG0zVnVLbUlCR0szVDhiektxbWl0YWxGU0FkelZlMEJQMGR4SDZwQjFHdXJaeTkzRFJSTjVkUUJNUHRhYXNkWXhkcVE1SWRUV1Jvc0RLdEh3czV0cm9R?oc=5" target="_blank" rel="noopener">Dr. Reddy's Laboratories stock: Hold call and mixed FY26 signals - AD HOC NEWS</a>
+              <p class='card-summary'>Dr. Reddy's Laboratories stock: Hold call and mixed FY26 signals &amp;nbsp;&amp;nbsp; AD HOC NEWS</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Dr Reddys</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/world/us-iran-war-news-live-updates-trump-netanyahu-phone-call-ceasefire-deal-israel-lebanon-hezbollah-fight-gulf-news-11605020#publisher=newsstand" target="_blank" rel="noopener">US-Iran War Highlights: Israel Rejects Iran's Warning To Not Hit Lebanon; Netanyahu Says Holding Fire In Iran</a>
+              <p class='card-summary'>Iran War Live Updates</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/trade-setup-for-june-9-nifty-support-slips-below-23-000-as-analysts-expect-weakness-to-persist-11608562#publisher=newsstand" target="_blank" rel="noopener">Trade Setup For June 9: Nifty Support Slips Below 23,000 As Analysts Expect Weakness To Persist</a>
+              <p class='card-summary'>The Bank Nifty also remained under pressure, although it managed to recover from intraday lows after attracting buying interest near the 54,000 region.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/fpi-exodus-overseas-investors-dump-over-rs-51-000-crore-in-june-so-far-11609110#publisher=newsstand" target="_blank" rel="noopener">FPI Exodus: Overseas Investors Dump Over Rs 51,000 Crore In June So Far</a>
+              <p class='card-summary'>FPIs remain net sellers for ninth day.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/ftx-co-founder-sam-bankman-fried-applies-for-presidential-pardon-from-trump-11609088#publisher=newsstand" target="_blank" rel="noopener">FTX Co-Founder Sam Bankman-Fried Applies For Presidential Pardon From Trump</a>
+              <p class='card-summary'>Sam Bankman-Fried was sentenced to 25 years in prison in 2024 after he was convicted of orchestrating a fraud at FTX.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/nlc-india-ofs-govt-to-sell-up-to-3-stake-sets-floor-price-at-rs-303-share-11608241#publisher=newsstand" target="_blank" rel="noopener">NLC India OFS: Govt To Sell Up To 3% Stake, Sets Floor Price At Rs 303/Share</a>
+              <p class='card-summary'>The OFS comprises a base offer of 2% of the paid-up equity capital, with an additional 1% stake available under a green shoe option</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Industry___Policy_News">
+          <h2>📰 Industry & Policy News <span class="count">14</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-08-jun-2026/liveblog/131576959.cms" target="_blank" rel="noopener">Sun Pharma Share Price Highlights: Sun Pharma Stock Price History</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-08-jun-2026/liveblog/131576753.cms" target="_blank" rel="noopener">Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/not-a-luxury-many-indians-can-afford-nithin-kamath-flags-deep-divide-in-access-to-cooling-as-india-warms-up-11780930433888.html" target="_blank" rel="noopener">Not a luxury many Indians can afford: Nithin Kamath flags deep divide in access to cooling as India warms up</a>
+              <p class='card-summary'>Nithin Kamath pointed out that despite massive strides in national electrification, access to cooling remains heavily concentrated among the wealthy.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-7-consumer-discretionary-stocks-that-hit-52-week-highs-amp-rallied-up-to-50-in-a-month/slideshow/131586861.cms" target="_blank" rel="noopener">Ather Energy among 7 consumer discretionary stocks that hit 52-week highs &amp;amp; rallied up to 50% in a month</a>
+              <p class='card-summary'>Seven stocks from the BSE Consumer Discretionary index defied Monday's downturn and scaled fresh 52-week highs. Companies including United Foodbrands, Stylam Industries, Thangamayil Jewellery and Ather Energy posted strong gains.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-in-focus-as-uk-project-may-face-6-8-month-delay-amid-electricity-access-issues/articleshow/131577882.cms" target="_blank" rel="noopener">Tata Steel shares dip over 2% as UK project may face 6-8 month delay amid electricity access issues</a>
+              <p class='card-summary'>Tata Steel's ambitious low-carbon steel project in the UK is facing a significant delay. The commissioning of the new electric arc furnace at Port Talbot may be pushed back by six to eight months. This setback is due to delays in securing the necessary electricity infrastructure.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-08-jun-2026/liveblog/131576914.cms" target="_blank" rel="noopener">Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/priya-nair-hul-ceo-turnaround-strategy-11780914258503.html" target="_blank" rel="noopener">From Kan Khajura to corner office: Inside Priya Nair’s high-stakes bet to reshape HUL</a>
+              <p class='card-summary'>HUL, India’s biggest FMCG company, has been underperforming—in the last three years, the company’s shares tanked 20% even as the benchmark NIFTY 50 gained 24% during the same period. What can CEO Priya Nair do to revive the giant?</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/carlsberg-to-file-draft-papers-for-700-million-india-ipo-soon-report-11780913598010.html" target="_blank" rel="noopener">Carlsberg to file draft papers for $700 million India IPO soon: Report</a>
+              <p class='card-summary'>Carlsberg is reportedly preparing to file draft IPO papers for its India unit, potentially raising $700 million. The IPO may involve a secondary share sale and is expected later this year.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/now-india-s-apex-drug-regulator-hits-the-pause-button-on-bharat-biotech-s-tb-vaccine-11780656879002.html" target="_blank" rel="noopener">Regulator flags gaps in Bharat Biotech's TB vaccine trial</a>
+              <p class='card-summary'>The decision delays regulatory clearance for Bharat Biotech's proposed phase III trial of MTBVAC, one of the world's most advanced tuberculosis vaccine candidates and a potential successor to the century-old BCG</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/ather-energy-turns-to-rs-1-trillion-rdi-scheme-for-ev-growth-11780814822029.html" target="_blank" rel="noopener">Ather taps govt’s  ₹1-trillion innovation fund to counter rivals' incentive advantage</a>
+              <p class='card-summary'>The EV maker is finalising 2-3% low-interest loans under the research, development, and innovation scheme to bankroll its upcoming electric motorcycle and EL platforms after being locked out of the production-linked incentive scheme.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/world/pushed-back-but-039-pseudo-agreed-039-inside-trump-and-netanyahu-039-s-tense-call-11608973#publisher=newsstand" target="_blank" rel="noopener">Pushed Back But 'Pseudo Agreed': Inside Trump And Netanyahu's Tense Call After Iran Face-Off</a>
+              <p class='card-summary'>File image of US President Donald Trump with Israeli Prime Minister Benjamin Netanyahu</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/hexagon-nutrition-ipo-day-2-issue-booked-4-5x-gmp-remains-constant-at-rs-6-11608764#publisher=newsstand" target="_blank" rel="noopener">Hexagon Nutrition IPO Day 2: Issue Booked 4.5x; GMP Remains Constant At Rs 6</a>
+              <p class='card-summary'>Hexagon Nutrition IPO saw strong demand on day two with 4.59 times subscription, receiving nearly 1 billion bids against 216 million shares offered.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/rupee-may-recover-up-to-92-dollar-on-fresh-capital-inflows-after-rbis-g-secs-move-11600541#publisher=newsstand" target="_blank" rel="noopener">Rupee May Recover Up To 92/Dollar On Fresh Capital Inflows After RBI's G-Secs Move</a>
+              <p class='card-summary'>Rupee's imminent rebound on the horizon for experts</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/ipo/hexagon-nutrition-ipo-sees-strong-response-on-day-1-gmp-indicates-over-26-listing-gains-11594920#publisher=newsstand" target="_blank" rel="noopener">Hexagon Nutrition IPO GMP Today: What Does Latest Grey Market Signals Ahead Of Day 2 Of Subscription</a>
+              <p class='card-summary'>The GMP for the Hexagon Nutrition IPO remains positive.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-06-08</span>
+              </div>
+            </div></div>
+        </div>
+</div>
+<footer>
+  Auto-generated by india-pharma-digest &nbsp;·&nbsp;
+  2026-06-08 18:21 UTC &nbsp;·&nbsp;
+  Data: Yahoo Finance, BSE, NSE, Economic Times, Moneycontrol
+</footer>
+<script>
+  function showTab(id) {
+    document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    var el  = document.getElementById(id);
+    var btn = document.getElementById('btn-' + id);
+    if (el)  el.style.display  = 'block';
+    if (btn) btn.classList.add('active');
+    // Scroll tab button into view
+    if (btn) btn.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  }
+  document.addEventListener('DOMContentLoaded', function() { showTab('tab_stocks'); });
+</script>
+</body>
+</html>
