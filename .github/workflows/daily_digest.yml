@@ -1,0 +1,53 @@
+name: India Pharma Daily Digest
+
+on:
+  schedule:
+    # 4:00 AM UTC = 9:30 AM IST (just after NSE/BSE opens)
+    - cron: '0 4 * * 1-5'
+    # Also run at 12:00 PM UTC = 5:30 PM IST (after market close)
+    - cron: '0 12 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: 'Days back to fetch (default: 1)'
+        required: false
+        default: '1'
+
+jobs:
+  build-digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO:  ${{ secrets.EMAIL_TO }}
+          DAYS_BACK: ${{ github.event.inputs.days_back || '1' }}
+        run: python main.py
+
+      - name: Commit digests
+        run: |
+          git config user.name  "pharma-bot"
+          git config user.email "pharma-bot@users.noreply.github.com"
+          git add digests/
+          git diff --cached --quiet || git commit -m "digest: $(date +%Y-%m-%d-%H%M)"
+          git push
