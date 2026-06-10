@@ -1,18 +1,28 @@
 # 🏥 India Pharma Investor Digest — 2026-06-10
 
-> 71 items · 2026-06-10 08:05 UTC
+> 79 items · 2026-06-10 15:30 UTC
 
-## 📊 BSE / NSE Filings (8)
+## 📊 BSE / NSE Filings (12)
+
+### [Ajanta Pharma: Intimation regarding Presidential Approval for the proposed merger of REC Limited into Power Finance Corporation Limited.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/014b19af-870f-477f-884e-dc484647fc88.pdf)
+Category: Company Update | Sub: General | BSE Code: 532955
+
+**Source:** BSE Filing  **Date:** 2026-06-10
+
+### [Jubilant Pharmova: Acquisition](https://www.bseindia.com/xml-data/corpfiling/AttachLive/37035e83-b285-4530-9da9-25b36973367c.pdf)
+Category: Company Update | Sub: Acquisition | BSE Code: 532523
+
+**Source:** BSE Filing  **Date:** 2026-06-10
 
 ### [Goldline Pharmaceutical Ltd: Outcome of Board Meeting held today, i.e. 09th June, 2026 for approval of financials results for the half year and year ended 31st March, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=544759)
 BSE Code: 544759
 
 **Source:** BSE Filing  **Date:** 2026-06-09
 
-### [Aptus Pharma Ltd: Aptus Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/06/2026 ,inter alia, to consider and approve Intimation of Board Meeting to ....](https://www.bseindia.com/corporates/ann.html?scrip=544529)
-BSE Code: 544529
+### [Dr. Reddy's Laboratories: Intimation of analyst meet](https://www.bseindia.com/xml-data/corpfiling/AttachLive/38bc23bf-ea77-44b8-9c5c-797a37d1dda1.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500124
 
-**Source:** BSE Filing  **Date:** 2026-06-09
+**Source:** BSE Filing  **Date:** 2026-06-10
 
 ### [Cipla: Please find enclosed corrigendum.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/505db3cb-0088-49fd-ad9a-a2e013b56cd3.pdf)
 Category: Company Update | Sub: General | BSE Code: 500087
@@ -39,6 +49,16 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 524570
 
 **Source:** BSE Filing  **Date:** 2026-06-09
 
+### [Krishna Institute of Medical Sciences Ltd: Krishna Institute Of Medical Sciences Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/06/2026 ,inter alia, to consider and approve the proposal ....](https://www.bseindia.com/corporates/ann.html?scrip=543308)
+BSE Code: 543308
+
+**Source:** BSE Filing  **Date:** 2026-06-10
+
+### [Shukra Pharmaceuticals Ltd: Outcome of the meeting of the Board of Directors held on Wednesday, June 10, 2026](https://www.bseindia.com/corporates/ann.html?scrip=524632)
+BSE Code: 524632
+
+**Source:** BSE Filing  **Date:** 2026-06-10
+
 ### [Omkar Speciality Chemicals Ltd: Omkar Speciality Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/06/2026 ,inter alia, to consider and approve Intimation of meeting ....](https://www.bseindia.com/corporates/ann.html?scrip=533317)
 BSE Code: 533317
 
@@ -46,7 +66,12 @@ BSE Code: 533317
 
 ---
 
-## 💰 Results & Financials (8)
+## 💰 Results & Financials (11)
+
+### [Physicswallah is ‘class’ apart, says DAM Capital after initiating with Buy rating. 3 reasons why](https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-is-class-apart-says-dam-capital-after-initiating-with-buy-rating-3-reasons-why/articleshow/131632508.cms)
+DAM Capital has initiated coverage on PhysicsWallah with a Buy rating, calling the ed-tech firm ‘a class apart’ and highlighting strong growth drivers. Brokerage cites low customer acquisition cost, a scalable online business, and expanding offline centres as key positives, expecting sustained revenue growth and improving profitability over coming years.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-10
 
 ### [Wipro's Rs 15,000 crore buyback opens tomorrow: 10 key things to know before tendering shares](https://economictimes.indiatimes.com/markets/stocks/news/wipros-rs-15000-crore-buyback-opens-tomorrow-10-key-things-to-know-before-tendering-shares/slideshow/131625831.cms)
 Wipro's substantial Rs 15,000 crore share buyback commences tomorrow, June 11, closing on June 17. Investors can tender shares at Rs 250 each, offering a significant premium. Small shareholders receive preferential treatment with a dedicated quota. This move aims to boost share value and utilize surplus cash, with promoters also participating.
@@ -63,16 +88,6 @@ Jefferies sees significant growth for Meesho. The brokerage initiated coverage w
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
-### [BSNL slips deeper into loss in Q4FY26 as revenue falls](https://www.livemint.com/companies/company-results/bsnl-fy26-loss-revenue-growth-stalls-missed-target-arpu-surge-11781002371214.html)
-The state-run telco reported a ₹4,738 crore loss for FY26, missed government revenue target.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
-### [IPO-bound Zepto leans on ads to offset lower commissions, keep prices low](https://www.livemint.com/companies/zepto-advertising-revenue-surges-as-quick-commerce-profitability-remains-elusive-11780946702501.html)
-Zepto is increasingly using advertising revenue to offset lower merchant commissions and support competitive pricing, but overall losses continue to mount.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
 ### [Bank of Baroda among 4 stocks flashing bullish signals, hinting at a possible uptrend](https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131623953.cms)
 Four NSE large-cap stocks appeared on the White Marubozu bullish scanner on June 09, signalling strong buying momentum across select counters. The pattern reflects sustained bullish sentiment throughout the session, with buyers maintaining control from open to close, indicating potential continuation of upward momentum in the near term.
 
@@ -83,29 +98,44 @@ India's equity markets are poised for a busy period with over $6.3 billion in of
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
-### [India patent office can bridge the gap with global patent search platforms](https://www.expresspharma.in/india-patent-office-can-bridge-the-gap-with-global-patent-search-platforms/)
-The author highlights how India’s patent search ecosystem compares with WIPO, USPTO and Espacenet, and outlines the features needed to support event-based analytics, delay measurement and data-driven patent administration The post India patent office can bridge the gap with global patent search platforms appeared first on Express Pharma .
+### [Merck India and Oval Fertility sign MoU to expand access to fertility care](https://www.expresspharma.in/merck-india-and-oval-fertility-sign-mou-to-expand-access-to-fertility-care/)
+Partnership focuses on clinical capability building, patient support, technology integration and data-led approaches to improve fertility treatment access and outcomes in India The post Merck India and Oval Fertility sign MoU to expand access to fertility care appeared first on Express Pharma .
 
-**Source:** Express Pharma  **Date:** 2026-06-09
+**Source:** Express Pharma  **Date:** 2026-06-10
+
+### [Rajesh Exports Chief Defends Financials, Says SEBI Mistook Valcambi's Ebitda For Standalone Revenue](https://www.ndtvprofit.com/business/rajesh-exports-chief-defends-financials-says-sebi-mistook-valcambis-ebitda-for-standalone-revenue-11618574#publisher=newsstand)
+Mehta pushed back, contending the discrepancy stems from a misreading by the regulator.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
+
+### [Torrent Pharma shares in focus after Q4 results; Nirmal Bang sees limited upside at current valuations — check revised target price - MSN](https://news.google.com/rss/articles/CBMivwNBVV95cUxQenRwZXVObXNYdVE4Z2lxM1RqOFRCSEVxOE1IcDhNd1NGTm5fWC00UXJUb0dTUHh0NUhqSG0zenRmM1lPdUxZOUlDOHdLMmpiZHF4OGNJc2VjaElKdTdqaldTdEh1aUQ0bkVZNE5LZF9DRGpVdzRfVmZ4RkJlelctZ3dLRFo0RGJhWnFFT1p6ZS04ZUhVaFpaOW9yU2pBZ2d6ZGJ5cG5PY3hfMjlqSEkzTm9rcXVHX2otVUxjdFBDMzFVLVNscjFFTFliTUZzMy1kQmFhcllaQ3ZxR1IxNnRJNGtKNVZ5bWlmUFpMdG1DWWF1ZG42c19UUW1pRXNNcVpkMzNLNWZ4dmJQRE13Ull0VU82M1ZscDJTS093STE0bS11bkVhX3JJbGdDZy1SdzVqOHBnSWlDTWJaMGJzZGhQb1NYVk1QNWtTQ0xKQkkwWi02dDFueHJvYzVUUkpwU2tuZWxvTVI4a3R1eG5OVVc1QmJfT1pWTld6V0psY1hyaWtuTEYyWEpiMHh6QkZmWFU1WjljNnlTOGhGNmNtMlI1cDZJa1V2SlBVUGdkT2MzdVdpN3RWT3I5TEdPSUVCOFU?oc=5)
+Torrent Pharma shares in focus after Q4 results; Nirmal Bang sees limited upside at current valuations — check revised target price &nbsp;&nbsp; MSN
+
+**Source:** GNews - Torrent Pharma  **Date:** 2026-06-09
+
+### [Ahead Of OYO IPO, Parent Prism Gets 'Positive' Outlook From S&P Global](https://www.ndtvprofit.com/markets/ahead-of-oyo-ipo-parent-prism-gets-positive-outlook-from-s-p-global-11618498#publisher=newsstand)
+It observed that Prism's earnings could continue to improve over the next 12 months on an improving scale, better operating efficiencies and a healthy cash conversion rate.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
+
+### [Peddi Box Office Collection Day 7: Ram Charan Starrer Maintains Healthy Occupancy, Collects This Amount](https://www.ndtvprofit.com/business/peddi-box-office-collection-day-7-ram-charan-starrer-maintains-healthy-occupancy-collects-this-amount-11618311#publisher=newsstand)
+Peddi stars Ram Charan, Janhvi Kapoor, Divyendu Sharma, Jagapathi Babu and Shivarajkumar in key roles.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (13)
+## 🤝 Deals, M&A & Partnerships (15)
+
+### [ASK Property Fund to raise  ₹3,500 cr amid surge in demand for private credit](https://www.livemint.com/companies/news/amid-rise-in-real-estate-credit-funds-ask-property-fund-to-raise-3-500-crore-11781083132539.html)
+ASK Property's new fund will offer solution capital, as well as growth capital for acquisitions, including the purchase of projects stalled in NCLT or with established approvals
+
+**Source:** Mint - Pharma  **Date:** 2026-06-10
 
 ### [QIP pipeline swells as listed firms line up over  ₹30k crore fundraise](https://www.livemint.com/companies/start-ups/qip-qualified-institutional-placement-waaree-energies-premier-energy-jsw-infra-max-financial-services-au-small-finance-11780987079229.html)
 Improving market sentiment and steady domestic institutional support are prompting a fresh wave of QIPs as companies seek funds for expansion, acquisitions and debt reduction. Experts say investors will likely favour listed firms before the appetite spills over to IPO pipelines. &amp;nbsp; &amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-06-10
-
-### [Adani Group to acquire NIIF-EESL smart-metering joint venture IntelliSmart for  ₹3,050 crore](https://www.livemint.com/companies/news/adani-group-niif-eesl-smart-meters-intellismart-adani-energy-solutions-11780994502659.html)
-The acquisition will cement Adani Energy Solutions' position as India's largest smart-metering platform
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
-### [SBI steps in with $1-billion funding for Sun Pharma’s Organon deal](https://www.livemint.com/companies/news/sbi-steps-in-with-1-billion-funding-for-sun-pharma-s-organon-deal-11780999076258.html)
-The size of SBI’s funding for the $12-billion Sun Pharma-Organon deal underscores the growing appetite among state-run banks to back M&amp;amp;A deals by Indian companies.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
 
 ### [CleanMax shares soar 15% to record high on Meta partnership](https://economictimes.indiatimes.com/markets/stocks/news/cleanmax-shares-soar-15-to-record-high-on-meta-partnership/articleshow/131624487.cms)
 CleanMax Enviro Energy Solutions shares surged 15% to a 52-week high after announcing a 900 MW renewable energy partnership with Meta Platforms. The projects include solar and wind assets, with Meta purchasing 100% of environmental attributes. The deal strengthens Meta’s clean energy goals and reinforces CleanMax’s position in India’s C&amp;I renewable energy market, backed by strong long-term customer contracts.
@@ -137,11 +167,6 @@ Stadium workers near LA say they have a tentative deal, averting strike ahead of
 
 **Source:** Mint - Pharma  **Date:** 2026-06-09
 
-### [SBI May Lead $1 Billion Funding For Sun Pharma’s $12 Billion Organon Acquisition - Free Press Journal](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGd1MUtSU2IyMDRGS01PdDJBTmpDZ0k0WnZTSy1EME9QRk9OamlvdlJ2Q2M1TWJsNGtyeXZwUHBVcm82MmwxTjg3Wnlna2ZQRFdkOEVBQnQ4N1g2YlU2VmNzNVFkVl94LTVVU3h6ei1laEthd2wwSVhZZmlieEVia0M1UU9qVnRYekEyS0t1T2xBNnA1TFExOGJabU9VOTBlVU1RUWlJLUVFT3N0alozOEgwOVZjUmJZOEY0MVNaVdIBvwFBVV95cUxQeGd1MUtSU2IyMDRGS01PdDJBTmpDZ0k0WnZTSy1EME9QRk9OamlvdlJ2Q2M1TWJsNGtyeXZwUHBVcm82MmwxTjg3Wnlna2ZQRFdkOEVBQnQ4N1g2YlU2VmNzNVFkVl94LTVVU3h6ei1laEthd2wwSVhZZmlieEVia0M1UU9qVnRYekEyS0t1T2xBNnA1TFExOGJabU9VOTBlVU1RUWlJLUVFT3N0alozOEgwOVZjUmJZOEY0MVNaVQ?oc=5)
-SBI May Lead $1 Billion Funding For Sun Pharma’s $12 Billion Organon Acquisition &nbsp;&nbsp; Free Press Journal
-
-**Source:** GNews - India Pharma M&A  **Date:** 2026-06-09
-
 ### [Commerce Ministry highlights pharma export growth in Mumbai outreach](https://www.expresspharma.in/commerce-ministry-highlights-pharma-export-growth-in-mumbai-outreach/)
 Government details 12-year reforms, rising exports, trade partnerships and roadmap for value-led expansion at Pharmexcil event The post Commerce Ministry highlights pharma export growth in Mumbai outreach appeared first on Express Pharma .
 
@@ -152,14 +177,34 @@ The deal adds zidesamtinib, neladalkib and NVL-330 to GSK’s oncology pipeline,
 
 **Source:** Express Pharma  **Date:** 2026-06-10
 
-### [Meesho Share Price Rallies 5% After Block Deal; Jefferies Initiates Bullish 'Buy' — Check Target Price](https://www.ndtvprofit.com/markets/meesho-share-price-rallies-5-after-block-deal-jefferies-initiates-bullish-buy-call-check-target-price-11615860#publisher=newsstand)
-Meesho share price hit an intraday high of Rs 174.86 apiece on the NSE
+### [Trump Media Drops Truth Social Spinoff Plan, Sticks With $6 Billion TAE Merger](https://www.ndtvprofit.com/business/trump-media-drops-truth-social-spinoff-plan-sticks-with-6-billion-tae-merger-11618286#publisher=newsstand)
+Trump Media & Technology is valued at about a $1.3 billion and is part of the Trump family's fortune.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
+
+### [Fidelity Investments Sells 1.3% Stake In Meesho For Rs 988 Crore Via Open Market Deal](https://www.ndtvprofit.com/markets/fidelity-investments-sells-1-3-stake-in-meesho-for-rs-988-crore-via-open-market-deal-11618747#publisher=newsstand)
+Last month, Meesho said its consolidated net loss narrowed to Rs 166.34 crore for the fourth quarter ended March 31.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
+
+### [Honda Recalls More Than 8,80,000 Cars Due To Problem With Rear Suspension Components In US](https://www.ndtvprofit.com/business/honda-recalls-more-than-8-80-000-cars-due-to-problem-with-rear-suspension-components-in-us-11618715#publisher=newsstand)
+The problem centres around the rear subframe, which can corrode at suspension mounting points and cause the rear suspension to fail.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
+
+### [Zidane Headbutt, Lampard Ghost Goal To Suarez Bite Gate: FIFA World Cup's Most Infamous Controversies](https://www.ndtvprofit.com/sports/football-zidane-headbutt-lampard-ghost-goal-suarez-bite-gate-fifa-world-cup-most-infamous-controversies-11618157#publisher=newsstand)
+Zinedine Zidane was sent off in the 2006 World Cup final after headbutting Italy's Marco Materazzi.
+
+**Source:** NDTV Profit  **Date:** 2026-06-10
+
+### [ECLGS 5.0: Guarantee Issuance Under War-Time Credit Scheme Hits 1 Lakh, Amount Exceeds Rs 48,000 Crore](https://www.ndtvprofit.com/economy/eclgs-5-0-guarantee-issuance-under-war-time-credit-scheme-hits-1-lakh-amount-exceeds-rs-48-000-crore-11618144#publisher=newsstand)
+ECLGS 5.0 is designed to facilitate additional credit flow of up to Rs 2.55 lakh crore to stressed and eligible borrowers.
 
 **Source:** NDTV Profit  **Date:** 2026-06-10
 
 ---
 
-## 💸 Corporate Actions (3)
+## 💸 Corporate Actions (2)
 
 ### [Wipro's Rs 15,000 crore buyback opens tomorrow: Should retail investors tender shares?](https://economictimes.indiatimes.com/markets/stocks/news/wipros-rs-15000-crore-buyback-opens-tomorrow-should-retail-investors-tender-shares/articleshow/131624600.cms)
 Wipro's Rs 15,000 crore share buyback opens on Thursday, offering shareholders an opportunity to tender their shares at Rs 250 apiece, a 38% premium to the stock's previous closing price of Rs 181.67. The buyback, open from June 10 to June 17.
@@ -171,14 +216,9 @@ The parent company has been divesting from non-core segments to focus on high-gr
 
 **Source:** Mint - Pharma  **Date:** 2026-06-10
 
-### [Rajiv Bajaj to step down from Bajaj Finserv board, will not seek re-election at 2026 AGM](https://www.livemint.com/companies/news/rajiv-bajaj-to-step-down-from-bajaj-finserv-board-will-not-seek-re-election-at-2026-agm-11780994806159.html)
-Bajaj Finserv's non-executive director Rajiv Bajaj will exit the board due to increased responsibilities at Bajaj Auto. He will not seek re-election at the upcoming AGM. Details here.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
 ---
 
-## 🏭 Operations & Approvals (14)
+## 🏭 Operations & Approvals (12)
 
 ### [Concord Biotech shares gain 6% after USFDA approval for Tofacitinib tablets](https://economictimes.indiatimes.com/markets/stocks/news/concord-biotech-shares-gain-6-after-usfda-approval-for-tofacitinib-tablets/articleshow/131628753.cms)
 Concord Biotech's shares surged over 6% after receiving USFDA approval for its Tofacitinib Tablets in 5 mg and 10 mg strengths. This approval for rheumatoid arthritis and other conditions is expected to bolster its U.S. market presence and product portfolio, targeting a $500 million market opportunity.
@@ -199,6 +239,11 @@ Brokerages have initiated coverage on eight Indian stocks, including Bharti Airt
 IndiGo shares are in focus after state-run fuel retailers raised aviation turbine fuel prices by around 10% while introducing a three-year price stabilisation scheme. Airlines can lock in Rs 115 per litre under the plan, but operating costs may rise amid already weak demand and geopolitical disruptions affecting travel.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
+
+### [Novelis restarts production at New York plant key to Ford trucks](https://www.livemint.com/companies/news/novelis-restarts-production-at-new-york-plant-key-to-ford-trucks-11781104140991.html)
+Novelis resumed production at its Oswego, New York plant, crucial for Ford's F-150, after two fires halted operations.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-06-10
 
 ### [Starlink responds as report claims India launch has been put on hold: 'We have heard nothing but...'](https://www.livemint.com/companies/news/starlink-responds-as-report-claims-india-launch-has-been-put-on-hold-we-have-heard-nothing-but-11781071521642.html)
 Starlink has responded to reports of the Indian government freezing its approvals, calling them ‘misleading’ and saying that ‘they remain fully committed to India and to working with the Government to bring Starlink’s services very soon to the country.’
@@ -225,34 +270,29 @@ JSW Infrastructure Limited on Tuesday said it has emerged as the successful bidd
 
 **Source:** Mint - Pharma  **Date:** 2026-06-10
 
-### [Buying a new car? Maruti Suzuki announces price protection for small cars till June 14 ahead of planned hike](https://www.livemint.com/companies/news/buying-a-new-car-maruti-suzuki-announces-price-protection-for-small-cars-till-june-14-ahead-of-planned-hike-11781015955837.html)
-Maruti Suzuki India has launched a price protection scheme for its small car range, ensuring prices remain stable for bookings made until June 14, 2026. Details here.
+### [Beyond ozempic: GLP-1s and the next wave of anti-obesity drugs](https://www.expresspharma.in/beyond-ozempic-glp-1s-and-the-next-wave-of-anti-obesity-drugs/)
+Saloni Paliwal, Co-founder, Voy India highlights the evolution of GLP-1 therapies beyond Ozempic, examining the science, market expansion, next-generation drug pipeline, and access challenges shaping the future of anti-obesity treatment The post Beyond ozempic: GLP-1s and the next wave of anti-obesity drugs appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-06-09
+**Source:** Express Pharma  **Date:** 2026-06-10
 
-### [Chandrasekaran says TCS has seen the worst; AI to reshape workforce](https://www.livemint.com/companies/news/tcs-seen-worst-of-slowdown-ai-agents-workforce-hiring-chairman-chandrasekaran-11780995650384.html)
-Speaking at TCS's annual general meeting, the chairman said artificial intelligence will drive the company's next phase of growth, reduce hiring needs and eventually see the software exporter deploy as many AI agents as employees.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
-### [Pune Municipal Corporation Gets Bomb Threat Via Email, Searches Underway](https://www.ndtvprofit.com/india/pune-municipal-corporation-gets-bomb-threat-via-email-searches-underway-11616272#publisher=newsstand)
-Pune Municipal Corporation headquarters and mayor’s office were evacuated after a bomb threat email. Police and BDDS carried out searches, restricted access, and launched a cyber investigation while the building remained shut.
-
-**Source:** NDTV Profit  **Date:** 2026-06-10
-
-### [Hind Rectifiers To Rebrand As Hirect After Board Approval](https://www.ndtvprofit.com/business/hind-rectifiers-to-rebrand-as-hirect-after-board-approval-11616302#publisher=newsstand)
-While the revised name is subject to approval of the shareholders and Ministry of Corporate Affairs, the board has also approved to increase share capital to Rs 30 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-06-10
-
-### [Apple iPhone 18 Pro Max Price May Stay Same — But It Could Cost You More](https://www.ndtvprofit.com/technology/apple-iphone-18-pro-max-price-may-stay-same-but-it-could-cost-you-more-11616132#publisher=newsstand)
-Apple may maintain the launch price of the iPhone 18 Pro lineup at $1,099, but there's a catch.
+### [Starlink Says India Launch Plans On Track, Awaits Final Regulatory Approval: VP Lauren Dreyer](https://www.ndtvprofit.com/business/starlink-in-active-talks-with-indian-government-received-encouraging-feedback-vp-lauren-dreyer-11615396#publisher=newsstand)
+Starlink is in active talks with the Indian government.
 
 **Source:** NDTV Profit  **Date:** 2026-06-10
 
 ---
 
 ## 📉 Analyst & Brokerage Calls (10)
+
+### [Market Trading Guide: Akums Drugs among two stock recommendations for Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-akums-drugs-among-two-stock-recommendations-for-thursday/articleshow/131638616.cms)
+Domestic equities ended lower amid global uncertainty and caution ahead of key US inflation data. Despite market weakness, analysts remain bullish on Akums Drugs and Aditya Birla Sun Life AMC after strong technical breakouts, rising volumes and improving momentum indicators.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-10
+
+### [Goldman Sachs buys CMR Green Technologies shares on listing day after strong debut](https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-buys-cmr-green-technologies-shares-on-listing-day-after-strong-debut/articleshow/131637219.cms)
+Goldman Sachs India Equity Portfolio bought shares worth Rs 49.82 crore in CMR Green Technologies on its listing day, which saw a 43% premium. Despite investor optimism, analysts advise caution and partial profit booking amid high valuations.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-10
 
 ### [CMR Green Tech shares fall 8% after solid 43% stock market debut. Buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/cmr-green-tech-shares-fall-8-after-solid-43-stock-market-debut-what-should-investors-do/articleshow/131626778.cms)
 CMR Green Technologies shares fell sharply from their post-listing highs after debuting at a 43% premium to the IPO price. While analysts remain positive on the company's long-term prospects in the recycled metals space, they advise investors to avoid chasing the stock and wait for better entry levels.
@@ -266,11 +306,6 @@ Fertiliser stocks rallied after reports of a proposed doubling of subsidy alloca
 
 ### [Will AI-led tech unwinding pause Rs 60,000 crore FII selloff in Indian IT stocks?](https://economictimes.indiatimes.com/markets/stocks/news/will-ai-led-tech-unwinding-pause-rs-60000-crore-fii-selloff-in-indian-it-stocks/articleshow/131624965.cms)
 Global markets are experiencing a tech selloff driven by AI fears, impacting Indian IT stocks with FIIs pulling Rs 60,000 crore. However, some analysts believe the sector is poised for recovery, arguing Gen-AI presents an opportunity rather than an existential threat. Valuations have become attractive, leading to upgrades for major IT firms.
-
-**Source:** Economic Times - Markets  **Date:** 2026-06-10
-
-### [Sensex jumps over 500 pts, Nifty above 23,400; Reliance Industries, HUL shares gain 1%](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-300-pts-nifty-above-23300-reliance-industries-hul-shares-gain-1/articleshow/131624412.cms)
-Indian stock markets saw gains on Wednesday. The Sensex and Nifty traded higher, led by major companies. Broader markets also showed marginal increases. Sectoral performance was mixed. Geopolitical tensions in the Middle East and rising oil prices are being monitored. The rupee opened lower against the US dollar. Analysts expect market stabilization amid ongoing developments.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
@@ -292,29 +327,41 @@ SPACEX-IPO-SHORTSELLERS:Analysis-Short-sellers to tread carefully as Musk's Spac
 
 **Source:** Mint - Pharma  **Date:** 2026-06-09
 
-### [SC brings curtain down on India’s first class action suit, refers Jindal Poly dispute to arbitration](https://www.livemint.com/companies/jindal-poly-class-action-suit-india-jindal-poly-vs-minority-shareholders-india-arbitration-11780991365545.html)
-The Supreme Court has referred the dispute between minority shareholders and Jindal Poly Films Ltd. to arbitration after both sides agreed to a consent order on 8 June.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
-### [Oil India Share Price Falls After Morgan Stanley Downgrades Stock To Underweight — Check Target Price](https://www.ndtvprofit.com/markets/oil-india-share-price-falls-after-morgan-stanley-downgrades-stock-to-underweight-check-target-price-11615832#publisher=newsstand)
-Morgan Stanley cuts Oil India target to Rs 404 from Rs 566, warning of diesel surplus, weak gas prices and a production outlook set to disappoint
+### [Disclosure Day India Release: Date, Cast, Plot, Reviews And More About Steven Spielberg's Sci-Fi Thriller](https://www.ndtvprofit.com/lifestyle/disclosure-day-india-release-date-cast-plot-reviews-and-more-about-steven-spielbergs-sci-fi-thriller-11618160#publisher=newsstand)
+Disclosure Day stars Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson, Wyatt Russell and Elizabeth Marvel in key roles.
 
 **Source:** NDTV Profit  **Date:** 2026-06-10
 
 ---
 
-## 📰 Industry & Policy News (15)
+## 📰 Industry & Policy News (17)
+
+### [Lalithaa Jewellery to restart IPO roadshows for stalled  ₹1,700-cr issue](https://www.livemint.com/companies/lalithaa-jewellery-ipo-revival-roadshows-governance-concerns-gold-prices-11781076959854.html)
+Last year, the company had unofficially paused its ₹1,700-crore share sale amid media scrutiny over promoter remuneration, corporate governance and structural metrics.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-10
+
+### [Zydus Lifesciences among 4 stocks that hit 52-week highs &amp; rallied up to 17% in a month](https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-among-4-stocks-that-hit-52-week-highs-amp-rallied-up-to-17-in-a-month/slideshow/131634027.cms)
+The Sensex ended marginally higher, while four BSE 200 stocks touched fresh 52-week highs, signaling strong investor confidence. Zydus Lifesciences, Apollo Hospitals, Federal Bank and Adani Ports reached their highest levels in a year, supported by steady recent gains.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-10
 
 ### [Sebi proposes consolidated disclosure of executive pay at asset managers](https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-consolidated-disclosure-of-executive-pay-at-asset-managers/articleshow/131628140.cms)
 India's markets regulator, SEBI, has proposed a change for asset management companies. Executives and high earners in these firms may soon have their pay disclosed together, not individually. This aims to give investors a clearer picture of senior management compensation. SEBI is seeking public feedback on this proposal until June 30.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys records a slight increase in share price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-10-jun-2026/liveblog/131623098.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-10-jun-2026/liveblog/131623098.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
-### [Divis Labs Share Price Live Updates: Divis Labs Current Price Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-10-jun-2026/liveblog/131623079.cms)
+### [These 13 microcap stocks skyrocketed up to 250% in just 3 months; 5 turned into multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/these-13-microcap-stocks-skyrocketed-up-to-250-in-just-3-months-5-turned-into-multibaggers/slideshow/131633272.cms)
+Despite broader market weakness, several microcap stocks delivered exceptional returns over the past three months. Sterlite Technologies led the pack with a 252% surge, while five stocks more than doubled investors’ wealth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-10
+
+### [Banks pay 7% on dollar deposits as India seeks fresh foreign currency](https://economictimes.indiatimes.com/markets/stocks/news/banks-pay-7-on-dollar-deposits-as-india-seeks-fresh-foreign-currency/articleshow/131630435.cms)
+Indian banks are significantly increasing rates on foreign-currency deposits to attract overseas residents, testing the central bank's new measures to boost capital inflows and support the rupee. This strategy aims to strengthen the currency amidst high oil prices and intense domestic deposit competition.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
 ### [Why is market rising? Sensex jumps 1,000 points in 2 days, Nifty crosses 23,400. 3 key factors behind the surge](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-sensex-jumps-1000-points-in-2-days-nifty-crosses-23400-3-key-factors-behind-the-surge/articleshow/131628175.cms)
@@ -342,39 +389,34 @@ Afcons Infrastructure shares surged following a significant contract win. The co
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
 
+### [Market wrap: Sensex rises 64 points, Nifty closes below 23,250; broader markets crash](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-300-pts-nifty-above-23300-reliance-industries-hul-shares-gain-1/articleshow/131624412.cms)
+Indian stock markets saw mixed trading as the Sensex eked out marginal gains while the Nifty slipped into the red. Small and midcap indices experienced significant declines. Geopolitical tensions between Iran and the US resurfaced, impacting market sentiment, though oil prices cooled down.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-10
+
 ### [CMR Green shares make strong D-Street debut, list at 43% premium over IPO price](https://economictimes.indiatimes.com/markets/stocks/news/cmr-green-technologies-shares-to-list-today-investors-eye-strong-listing-with-36-gmp/articleshow/131623691.cms)
 CMR Green Technologies made a strong debut on the stock market, with shares listing at a 43% premium on the BSE and 40% on the NSE. The company's IPO was highly subscribed, attracting significant interest from institutional investors. As a leading non-ferrous metal recycler, CMR Green is well-positioned to capitalize on the growing demand for sustainable manufacturing practices.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-10
+
+### [Asics to spin off its Onitsuka Tiger sneaker business](https://www.livemint.com/companies/news/asics-to-spin-off-its-onitsuka-tiger-sneaker-business-11781100683071.html)
+Asics will spin off its Onitsuka Tiger business to enhance decision-making and capitalize on its recent profit surge. The split, effective January 1, will transfer the brand to OT Group, with plans for flagship stores globally. Onitsuka Tiger's popularity has soared, driven by retro sneaker trends.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-10
+
+### [Margin play: Why Supertails is doubling down on the lucrative pet healthcare market](https://www.livemint.com/companies/news/supertails-pet-healthcare-veterinary-clinics-india-pet-care-market-growth-11781076441043.html)
+With medical services yielding double the margins of retail, the startup is expanding its clinic and pharmacy footprint to anchor itself at the centre of India's formalizing pet economy.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-10
 
 ### [Muthoot Fincorp begins discussions with bankers for  ₹4,000 crore IPO](https://www.livemint.com/companies/news/muthoot-fincorp-ipo-valuation-stock-market-india-kotak-mahindra-capital-11781068078505.html)
 The IPO may value Muthoot Fincorp between ₹25,000 crore and ₹28,000 crore.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-10
 
-### [Flipkart faces fresh insolvency petition as NCLT seeks response over  ₹1.7 crore dues](https://www.livemint.com/companies/news/flipkart-fresh-insolvency-petition-nclt-applabs-media-advertising-campaigns-11781003713345.html)
-Applabs Media Pvt Ltd said the e-commerce company owes it almost ₹1.7 crore for advertising campaigns.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-09
-
 ### [Hashgraph Group and Merck collaborate to expand Digital Product Passport platform](https://www.expresspharma.in/hashgraph-group-and-merck-collaborate-to-expand-digital-product-passport-platform/)
 Collaboration combines TrackTrace and M-Trust technologies to support product traceability, authentication and compliance with EU regulations The post Hashgraph Group and Merck collaborate to expand Digital Product Passport platform appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-10
-
-### [Lilly’s orforglipron outperforms oral semaglutide in Phase 3 diabetes trial](https://www.expresspharma.in/lillys-orforglipron-outperforms-oral-semaglutide-in-phase-3-diabetes-trial/)
-Results from the ACHIEVE programme show A1C reduction and weight loss outcomes for orforglipron across three Phase 3 trials The post Lilly’s orforglipron outperforms oral semaglutide in Phase 3 diabetes trial appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-06-09
-
-### [Immuneel raises ₹100 crore in Series B funding to expand CAR-T therapy operations and global presence](https://www.expresspharma.in/immuneel-raises-100-crore-in-series-b-funding-to-expand-car-t-therapy-operations-and-global-presence/)
-Immuneel Therapeutics outlines plans to scale manufacturing, advance its cell and gene therapy pipeline, commercialise Qartemi and expand across Asia Pacific and the Middle East The post Immuneel raises ₹100 crore in Series B funding to expand CAR-T therapy operations and global presence appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-06-09
-
-### [Stock Market News Today Live Updates: Nifty Nears 23,400, Sensex Gains Over 500 Points; Nifty Metal Index Bucks The Trend](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-futures-options-11614992#publisher=newsstand)
-The Nifty FMCG rose 0.75%, followed by Oil & Gas up 0.59%, and IT up 0.36%. Nifty Metal fell 1.02%, the biggest decline, while Realty, PSU Bank and Auto indices also edged lower.
-
-**Source:** NDTV Profit  **Date:** 2026-06-10
 
 ---
