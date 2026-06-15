@@ -1,27 +1,32 @@
 # 🏥 India Pharma Investor Digest — 2026-06-15
 
-> 54 items · 2026-06-15 10:00 UTC
+> 67 items · 2026-06-15 17:13 UTC
 
-## 📊 BSE / NSE Filings (3)
+## 📊 BSE / NSE Filings (4)
 
 ### [Sun Pharma: As attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/bd5c9272-7b24-410b-8da5-dc6b0068e5f5.pdf)
 Category: Company Update | Sub: General | BSE Code: 524715
 
 **Source:** BSE Filing  **Date:** 2026-06-14
 
+### [Biocon: Motilal Oswal Financial Services Limited has informed the Exchanges regarding allotment of 1,02,050 securities pursuant to ESOP/ESPS at its meeting held on June 15, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b19f28a6-5dc6-43b8-b63c-af7d29e3d8ed.pdf)
+Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-06-15
+
 ### [Alkem Laboratories: Newspaper Advertisement regarding the transfer of Equity Shares of the Company to the demat account of IEPF Authority.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2ec4fff4-61a2-4f35-afa5-f487644145aa.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500825
 
 **Source:** BSE Filing  **Date:** 2026-06-14
 
-### [Vivanza Biosciences Ltd: Vivanza Biosciences Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/06/2026 ,inter alia, to consider and approve 1.To authorise Mr. Sarang ....](https://www.bseindia.com/corporates/ann.html?scrip=530057)
-BSE Code: 530057
+### [Sudarshan Pharma Industries Ltd: Sudarshan Pharma Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/06/2026 ,inter alia, to consider and approve proposal for raising ....](https://www.bseindia.com/corporates/ann.html?scrip=543828)
+BSE Code: 543828
 
 **Source:** BSE Filing  **Date:** 2026-06-15
 
 ---
 
-## 💰 Results & Financials (11)
+## 💰 Results & Financials (14)
 
 ### [Rajesh Exports shares jump 5% after 30% crash in 7 days. How the alleged Rs 15.15 lakh cr fraud saga unfolded](https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-shares-jump-5-after-30-crash-in-7-days-how-the-alleged-rs-15-15-lakh-cr-fraud-saga-unfolded/articleshow/131737381.cms)
 Rajesh Exports shares hit the upper circuit after a steep seven-session decline triggered by SEBI’s interim order alleging large-scale revenue inflation. The company denied overstating revenue, attributed the issue to a reporting misunderstanding, and said it is cooperating fully while submitting supporting documents.
@@ -35,6 +40,11 @@ Oswal Pumps has secured 63 MW rooftop solar projects in Bihar under the PM Surya
 
 ### [Vedanta Power shares list at Rs 42 as mega demerger concludes](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-shares-list-at-rs-42-after-special-pre-open-session-as-mega-demerger-concludes/articleshow/131733298.cms)
 Vedanta Power shares began trading on the NSE and BSE today. This listing follows a major demerger by Vedanta. The company has significant installed power capacity across four states. Analysts had anticipated its market debut performance. The demerger involved four new entities spinning off from Vedanta. Investors awaited the market debut of these newly listed companies.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
+
+### [Monarch Networth says Nifty can hit 28,000 in 2026, picks three top stocks](https://economictimes.indiatimes.com/markets/stocks/news/monarch-networth-says-nifty-can-hit-28000-in-2026-picks-three-top-stocks/articleshow/131743507.cms)
+Monarch Networth Capital expects Nifty to reach 27,000-28,000 in 2026, driven by earnings recovery, capex growth and lower interest rates. The brokerage favours banking, telecom and IT sectors, while seeing opportunities in select midcap and smallcap stocks including SBI, HFCL and Hindustan Copper.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
@@ -68,19 +78,29 @@ Indian airline and travel stocks up to 7% surged as U.S. President Trump announc
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
-### [Jio Platforms breaks into global top 20 in latest WIPO patents rankings; climbs 320 places on coveted chart](https://www.livemint.com/companies/news/jio-platforms-breaks-into-global-top-20-in-latest-wipo-patents-rankings-climbs-320-places-on-coveted-chart-11781438222964.html)
-Akash Ambani, Managing Director of Jio Platforms said that the rise of JPL to the global top 20 in the WIPO PCT rankings reflects years of efforts towards transformation into a deep-tech company
+### [Sarvam raises $234 million to further India's sovereign AI play](https://www.livemint.com/companies/start-ups/sarvam-funding-india-sovereign-ai-hcl-technologies-bessemer-venture-partners-khosla-ventures-peak-xv-partners-11781527932995.html)
+HCL Technologies led the round, committing $150 million for a 10.46% stake. Bessemer Venture Partners and existing investors Khosla Ventures and Peak XV Partners participated in the round.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-14
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [Natural intelligence on the ropes: Why India’s middle managers are becoming obsolete](https://www.livemint.com/companies/ai-middle-management-layoffs-india-jobs-future-11781522868959.html)
+For decades, the corporate ladder had a clearly defined path: start low, reach middle management, and rise to the top. AI is taking out the middle rungs in that ladder, ending careers midstream. If you’re a manager or a junior, this is a must-read.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
 
 ### [Novartis India launches Pluvicto for PSMA-positive metastatic prostate cancer](https://www.expresspharma.in/novartis-india-launches-pluvicto-for-psma-positive-metastatic-prostate-cancer/)
 Radioligand therapy approved for eligible patients with PSMA-positive prostate cancer in India The post Novartis India launches Pluvicto for PSMA-positive metastatic prostate cancer appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-15
 
+### [Peddi Box Office Collection Day 12: Ram Charan's Film Holds Momentum After Record Weekend | Check Earnings](https://www.ndtvprofit.com/business/peddi-box-office-collection-day-12-ram-charans-film-holds-momentum-after-record-weekend-check-earnings-11640013#publisher=newsstand)
+Peddi stars Ram Charan, Janhvi Kapoor, Divyendu Sharma, Jagapathi Babu and Shivarajkumar in key roles.
+
+**Source:** NDTV Profit  **Date:** 2026-06-15
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (19)
+## 🤝 Deals, M&A & Partnerships (22)
 
 ### [JAL shares to delist from BSE and NSE on Thursday. What happens to its 6 lakh shareholders?](https://economictimes.indiatimes.com/markets/stocks/news/jal-shares-to-delist-from-bse-and-nse-on-thursday-what-happens-to-its-6-lakh-shareholders/articleshow/131739500.cms)
 Jaiprakash Associates is set to be delisted from the BSE and NSE from June 18 following the completion of insolvency proceedings and Adani Group’s acquisition. Existing shareholders will receive no consideration as the approved resolution plan fully extinguishes the current shareholding structure.
@@ -117,6 +137,16 @@ Vedanta Demerger: Vedanta shares surged over 2% as four demerged entities prepar
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
+### [Arun Misra set for Vedanta Group CEO role as demerger takes shape](https://www.livemint.com/companies/news/arun-misra-set-to-become-vedanta-group-ceo-amid-demerger-restructuringplans-11781515048666.html)
+Hindustan Zinc chief's likely elevation comes as Vedanta lists four demerged entities and reshapes its leadership for the next phase of its restructuring.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [Market trading guide: NDR Auto among 2 stock recommendations for Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ndr-auto-among-2-stock-recommendations-for-tuesday/articleshow/131748920.cms)
+Improved investor sentiment following the interim US-Iran peace agreement has supported equities as crude fell below $85, easing inflation concerns and improving the FY27 outlook. Analysts favour growth sectors such as autos, industrials, capital goods and real estate, while recommending NDR Auto and Divgi TorqTransfer on bullish technical setups.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
+
 ### [US-Iran peace deal: Is it enough to end the 2-year drought for Nifty bulls, bring FIIs back?](https://economictimes.indiatimes.com/markets/stocks/news/us-iran-peace-deal-is-it-enough-to-end-the-2-year-drought-for-nifty-bulls-bring-fiis-back/articleshow/131739664.cms)
 A US-Iran peace framework has sparked a sharp rally in Indian markets, sending crude oil prices lower, strengthening the rupee and prompting FII short covering. Analysts believe easing macroeconomic pressures could improve growth prospects, though caution persists over elevated valuations in mid- and small-cap stocks.
 
@@ -142,6 +172,11 @@ South Korean stocks jumped 6% on Monday as easing geopolitical tensions lifted g
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
+### [Salesforce to acquire AI customer service platform Fin for $3.6 billion, days after fresh layoffs](https://www.livemint.com/companies/news/salesforce-to-acquire-ai-customer-service-platform-fin-for-3-6-billion-days-after-fresh-layoffs-11781535444579.html)
+Salesforce announces a $3.6 billion deal to buy AI agent firm Fin just days after cutting dozens of roles, as the software giant races to expand its autonomous AI capabilities for enterprise clients.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
 ### [Verlinvest deepens India push with larger cheques, new sector bets](https://www.livemint.com/companies/news/verlinvest-deepens-india-push-with-larger-cheques-new-sector-bets-11781502230821.html)
 The global PE firm is expanding deal sizes and building a full-stack consumer platform in India through growth and early-stage investing, while warning that weak exits and currency volatility could weigh on returns.
 
@@ -152,34 +187,39 @@ Agreement enables development and commercialisation of monoclonal antibody produ
 
 **Source:** Express Pharma  **Date:** 2026-06-15
 
-### [Bharti Airtel Secures Shareholders Nod To Raise Airtel Africa Stake To 79% In Share-Swap Deal](https://www.ndtvprofit.com/markets/bharti-airtel-secures-shareholders-nod-to-raise-airtel-africa-stake-to-79-in-share-swap-deal-11637996#publisher=newsstand)
-Bharti Airtel will issue shares to ICIL after 100% of shareholders voted in favour of the transaction
+### [Sun Pharma-Organon deal: How a $12-billion merger will reshape India's pharma landscape - MSN](https://news.google.com/rss/articles/CBMigANBVV95cUxQWXUzV0d1RHlzX1lzcGZvOXZOTTRfOWJsbUkwTFpvRlJaX0MyZW5kSGRuZXV5ZWlFOGcxUTNjQzR3NTlTU044QlAybGtmR0NOOFY4ZDFXME8yd2VOZWYwXzFuTm5pMjl5TFR4RWYtLXdpVDA3S051S3VmQnVWWUF6RVJCMnZsSElqcUlYejROVVFOSVl6S1QyejhxUHU2TE9zNGs4ZzQwX3o1LXNmUHY3NEluUmx2ZDBIUVlHUnNkTzBIMXJhSmZEY2pjTS0zSUZVQTMtNVlDQjg4Z3JBakVFS1JGQVdJY2ZLdWU1aUxoU0VZVVk3dXVBNWFoNTJyV1lvc180YnltUU92TGE4YnI3X3pZcGNXNTZuMVJfS01tc2h1QmJleVIyM2xocHBJNXAzV3JDQWJlem5hVEFjdXN0bm9sRW9oNFBXVWZzbkRYNXc2bXdUOFdERU5uRTRZaFJ0eDVUS2pjdVg1aUwyYVFDN2ZBZGVZd3Z2NTBpME5DUno?oc=5)
+Sun Pharma-Organon deal: How a $12-billion merger will reshape India's pharma landscape &nbsp;&nbsp; MSN
+
+**Source:** GNews - India Pharma M&A  **Date:** 2026-06-14
+
+### [Fox To Buy Roku At $22 Billion Value In Streaming Video Push](https://www.ndtvprofit.com/business/fox-to-buy-roku-at-22-billion-value-in-streaming-video-push-11639943#publisher=newsstand)
+The acquisition will create the third-largest player in the US television market by share of viewing.
 
 **Source:** NDTV Profit  **Date:** 2026-06-15
 
-### [Peddi Weekend Box Office Collections: Ram Charan Starrer Registers Strong Growth, Mints This Amount](https://www.ndtvprofit.com/lifestyle/peddi-weekend-box-office-collections-day-10-day-11-ram-charan-starrer-registers-strong-growth-mints-this-amount-11637982#publisher=newsstand)
-The Telugu version continued to contribute the bulk of the film's collections.
-
-**Source:** NDTV Profit  **Date:** 2026-06-15
-
-### [Trump Calls Netanyahu 'Very Difficult Guy', Says Israel Won't Be Around For Two Hours, If...](https://www.ndtvprofit.com/world/trump-calls-netanyahu-very-difficult-guy-says-israel-wont-be-around-for-two-hours-if-11637526#publisher=newsstand)
-The comments were directed at Netanyahu, whom Trump excoriated for mounting attacks.
-
-**Source:** NDTV Profit  **Date:** 2026-06-15
-
-### [US-Iran War News Live Updates: PM Modi Welcomes Peace Deal, Hopes For Peace And Freedom Of Navigation](https://www.ndtvprofit.com/world/us-iran-war-news-live-updates-trump-announces-peace-deal-assures-toll-free-access-to-hormuz-11636743#publisher=newsstand)
+### [US-Iran War News Live Updates: US To Put Nuclear Talks Upfront With Iran Via Peace Deal MoU](https://www.ndtvprofit.com/world/us-iran-war-news-live-updates-trump-announces-peace-deal-assures-toll-free-access-to-hormuz-11636743#publisher=newsstand)
 Officials from US and Iran will reportedly meet in Switzerland on 19 to formally sign the deal.
 
 **Source:** NDTV Profit  **Date:** 2026-06-15
 
-### [Paint Stocks In Green: Asian Paints, Berger, Others Rally As Oil Prices Slip On US-Iran Deal](https://www.ndtvprofit.com/markets/paint-stocks-in-green-asian-paints-berger-others-rally-as-oil-prices-slip-on-us-iran-deal-11637383#publisher=newsstand)
-The surge was led by Indigo Paint, with its shares rising 4.26% intraday to Rs 1,038 apiece.
+### [Sarvam AI Enters Unicorn Club With Sarvam AI Deal: A Look At Eight Eye-Popping Numbers](https://www.ndtvprofit.com/business/sarvam-ai-joins-unicorn-club-decoding-the-hcltech-deal-in-8-eye-popping-numbers-11640077#publisher=newsstand)
+Sarvam develops frontier AI models across language, speech, vision and documents.
+
+**Source:** NDTV Profit  **Date:** 2026-06-15
+
+### ['Iran Deal Text This Week': Vance Sure Of Toll-Free Hormuz; Ties Tehran's Funds To Nuke Pact](https://www.ndtvprofit.com/world/iran-deal-text-this-week-vance-sure-of-toll-free-hormuz-ties-tehrans-funds-to-nuke-pact-11639470#publisher=newsstand)
+File image of US Vice President JD Vance
 
 **Source:** NDTV Profit  **Date:** 2026-06-15
 
 ---
 
-## 💸 Corporate Actions (1)
+## 💸 Corporate Actions (2)
+
+### [Waaree Energies gets shareholders' nod to raise up to Rs 10,000 cr via QIP](https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-gets-shareholders-nod-to-raise-up-to-rs-10000-cr-via-qip/articleshow/131747779.cms)
+Waaree Energies shareholders have approved a significant capital raise. The company can now raise up to Rs 10,000 crore through a Qualified Institutions Placement. This move will bolster the company's financial standing. Additionally, Jignesh Devchandbhai Rathod has been appointed as Whole-Time Director and CEO. These approvals were confirmed through a remote e-voting process.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
 
 ### [RIL AGM 2026 this week: Date, time, where to watch live and what to expect](https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-this-week-date-time-where-to-watch-live-and-what-to-expect/articleshow/131739350.cms)
 Reliance Industries' 49th AGM on June 19 is expected to draw investor attention for updates on the much-awaited Jio IPO, Reliance Retail's expansion plans and progress in its new energy business. Markets will also closely watch Chairman Mukesh Ambani's commentary on growth strategy and future value creation.
@@ -188,56 +228,96 @@ Reliance Industries' 49th AGM on June 19 is expected to draw investor attention 
 
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (6)
+
+### [NSE Indices launch 11 new sectoral indices including Nifty Power and Nifty Hospitals](https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-launch-11-new-sectoral-indices-including-nifty-power-and-nifty-hospitals/articleshow/131746296.cms)
+NSE Indices has introduced 11 new sectoral benchmarks, taking its total sectoral index count to 34. The move aims to deepen sector-specific market coverage, support the growing passive investment ecosystem and provide fund managers with new benchmarks for ETFs, index funds and thematic products.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
 
 ### [Maruti Suzuki shares jump over 4%. How is the new E100 regulation triggering a surge?](https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-jump-over-4-how-is-the-new-e100-regulation-triggering-a-surge/articleshow/131737217.cms)
 Maruti Suzuki shares surged after the government approved legal recognition for 100% ethanol blend fuel (E100). This move, championed by Nitin Gadkari, aims to reduce India's import dependence and boost energy security. Maruti's recent launch of India's first flex-fuel passenger vehicle positions it as a direct beneficiary of this policy shift.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
+### [India steps up farmland checks near Tata's iPhone parts factory in Bengaluru over groundwater contamination fears](https://www.livemint.com/companies/news/india-steps-up-farmland-checks-near-tatas-iphone-parts-factory-in-bengaluru-over-groundwater-contamination-fears-11781541818802.html)
+Indian officials stepped up government checks on farmland surrounding Apple supplier Tata's iPhone parts factory near Bengaluru on Monday, after Reuters reported state authorities found discharge from the plant had contaminated groundwater.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [Damage control? Anthropic rushes to Washington amid White House ban on top AI models ahead billion-dollar IPO](https://www.livemint.com/companies/news/damage-control-anthropic-rushes-to-washington-amid-white-house-ban-on-top-ai-models-threatens-billion-dollar-ipo-11781518580276.html)
+Anthropic has reportedly &amp;nbsp;flown senior technical staff to Washington for face-to-face talks with White House officials after US export controls forced the AI company to take its most powerful Claude models offline worldwide.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
 ### [Alembic receives USFDA final approval for Tretinoin Cream USP, 0.05%](https://www.expresspharma.in/alembic-receives-usfda-final-approval-for-tretinoin-cream-usp-0-05/)
 ANDA approved for Tretinoin Cream USP, 0.05%, referencing Retin-A Cream, 0.05% The post Alembic receives USFDA final approval for Tretinoin Cream USP, 0.05% appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-15
 
-### [11,000mAh Battery Powerhouse Honor X80 Pro Max Is Launching On June 22](https://www.ndtvprofit.com/technology/11-000mah-battery-powerhouse-honor-x80-pro-max-is-launching-on-june-22-11638001#publisher=newsstand)
-Honor is preparing to launch the Honor X80 Pro Max in China soon.
-
-**Source:** NDTV Profit  **Date:** 2026-06-15
-
-### [Waaree Energies Shares Rise 1% After 800 MW Solar Module Order Win](https://www.ndtvprofit.com/markets/waaree-energies-shares-rise-1-after-800-mw-solar-module-order-win-11637950#publisher=newsstand)
-The latest order win comes as India's solar manufacturing sector continues to benefit from rising domestic demand and policy support aimed at boosting local renewable energy capacity.
+### [Tesla Misled European Regulators With Inaccurate 'Full Self-Driving' Safety Stats: Report](https://www.ndtvprofit.com/business/tesla-misled-european-regulators-with-inaccurate-full-self-driving-safety-stats-report-11639853#publisher=newsstand)
+Tesla's FSD approval drive in Europe faces scrutiny after researchers challenged safety claims presented to regulators and motorists.
 
 **Source:** NDTV Profit  **Date:** 2026-06-15
 
 ---
 
-## 📉 Analyst & Brokerage Calls (2)
+## 📉 Analyst & Brokerage Calls (6)
+
+### [Govt to sell up to 5% stake in insurer GIC via OFS](https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-up-to-5-stake-in-insurer-gic-via-ofs/articleshow/131749173.cms)
+The Indian government is set to divest up to a 5% stake in General Insurance Corporation. This offer for sale begins for non-retail investors on June 16 and for retail investors on June 17. The floor price is fixed at 352 Indian rupees per share. This move is part of a larger plan to meet public shareholding norms.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
 
 ### [Nifty Bank rallies 1,000 points; HDFC Bank, IndusInd, Yes Bank, and other stocks jump up to 3%. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-rallies-1000-points-hdfc-bank-indusind-yes-bank-and-other-stocks-jump-up-to-3-what-lies-ahead/articleshow/131735515.cms)
 Banking stocks rallied sharply on Monday, pushing the Nifty Bank index nearly 1,000 points higher as easing geopolitical tensions and falling oil prices boosted sentiment. Analysts expect lenders to lead the market rally, citing attractive valuations, RBI support measures, improving technical indicators and favourable risk-reward in major private banks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
-### [Stock Market News Today Live Updates: Nifty Tops 24,000, Sensex Holds 1,100-Points Rally; IndiGo, SpiceJet Surge Up To 7%](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-impact-peace-deal-fno-futures-11636718#publisher=newsstand)
-Nifty Realty rose 2.77%, leading sectoral gains, followed by Nifty Oil and Gas at 1.98% and Nifty Auto at 1.95%.
+### [Nvidia kicks off first corporate bond offering in 5 years, targets $20 billion raise](https://www.livemint.com/companies/news/nvidia-kicks-off-first-corporate-bond-offering-in-5-years-targets-20-billion-raise-11781538506737.html)
+Chipmaking giant Nvidia Corp. is looking to sell at least $20 billion of bonds on Monday, joining a wave of companies that are borrowing as they pay for investments in the artificial intelligence boom.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [SpaceX surged 19% on stock market debut, lifting Saudi billionaire Prince Alwaleed bin Talal's stake to nearly $7 bn](https://www.livemint.com/companies/people/spacex-ipo-prince-alwaleed-kingdom-holding-saudi-arabia-11781532291948.html)
+SpaceX's $75bn IPO has pushed Prince Alwaleed bin Talal's net worth to a decade-high $27bn, with Kingdom Holding shares climbing 5% at Sunday's open.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [Buy, Sell Or Hold: Reliance, Shriram Finance, Ashok Leyland, PNB Housing Finance And SJVN — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-reliance-shriram-finance-ashok-leyland-pnb-housing-finance-and-sjvn-ask-profit-11640408#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
+
+**Source:** NDTV Profit  **Date:** 2026-06-15
+
+### [OFS Alert: Centre To Sell Up To 5% Stake In General Insurance Corp; Floor Price Fixed](https://www.ndtvprofit.com/markets/ofs-alert-centre-to-sell-up-to-5-stake-in-general-insurance-corp-floor-price-fixed-11640306#publisher=newsstand)
+The Centre will offer 2% stake as base issue with an option to sell an additional 3%.
 
 **Source:** NDTV Profit  **Date:** 2026-06-15
 
 ---
 
-## 📰 Industry & Policy News (14)
+## 📰 Industry & Policy News (13)
 
-### [Apollo Hospitals Enterprise Share Price Live Updates: Announcement under Regulation 30 (LODR)-Scheme of Arrangement](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-15-jun-2026/liveblog/131731711.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-15-jun-2026/liveblog/131731711.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
-### [Sun Pharma Share Price Live Updates: Current Trading Status of Sun Pharma](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-15-jun-2026/liveblog/131731701.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-15-jun-2026/liveblog/131731701.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
 ### [BBC layoffs: Hundreds of news jobs to be cut as UK public broadcaster plans major downsizing](https://www.livemint.com/companies/news/bbc-layoffs-hundreds-of-news-jobs-to-be-cut-as-uk-public-broadcaster-plans-major-downsizing-11781512588456.html)
 The BBC is planning to cut hundreds of jobs in its core news division next week as part of a broader downsizing initiative, according to the Financial Times. This is expected to lead to a total of 2,000 job losses to save costs.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [Ahead of Market: 10 things that will decide stock market action on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131749233.cms)
+Indian equities rallied sharply as an interim US-Iran peace framework eased geopolitical concerns and pushed oil prices lower. Improved inflation and interest-rate expectations lifted sentiment, helping Sensex and Nifty gain nearly 1%, while broader markets, global equities and risk assets also advanced.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
+
+### [Vodafone Idea among 4 midcap stocks that hit 52-week highs &amp; rallied up to 16% in a month](https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-midcap-stocks-that-hit-52-week-highs-amp-rallied-up-to-16-in-a-month/slideshow/131745331.cms)
+Amid a strong market rally that lifted the Sensex by 736 points, four BSE MidCap stocks—Vodafone Idea, Bank of Maharashtra, Federal Bank and Nippon Life India AMC—scaled fresh 52-week highs. The milestone reflects strong investor confidence and sustained momentum in these counters.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-15
 
 ### [FIIs raise stakes in 9 stocks for 3 straight quarters; shares rally up to 115%, 3 turn multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-9-stocks-for-3-straight-quarters-shares-rally-up-to-115-3-turn-multibaggers/slideshow/131739876.cms)
 Of these, 20 have delivered over 25% returns in the past year. We highlight nine stocks that have gained 50%-115%, including three multibaggers that have more than doubled investors’ wealth.
@@ -259,35 +339,22 @@ SpaceX's massive IPO is making waves globally. However, Indian market experts be
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
-### [Rs 8L cr richer! Sensex zooms 1,100 pts, Nifty tops 24K. US-Iran truce among 5 drivers behind bull run](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-zooms-1100-pts-nifty-tops-24k-iran-us-peace-deal-among-5-drivers-behind-bull-run/articleshow/131732640.cms)
-Indian equities experienced a robust start to the week, with the Sensex and Nifty surging over 1.5% each. This rally was fueled by an Iran-US peace framework and declining oil prices, mirroring positive global market trends. The significant gains boosted the total market capitalization of BSE-listed companies by nearly Rs 8 lakh crore.
+### [Why did stock market rally today? Sensex jumps 736 points, Nifty closes above 23,850. 5 key factors behind bull run](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-zooms-1100-pts-nifty-tops-24k-iran-us-peace-deal-among-5-drivers-behind-bull-run/articleshow/131732640.cms)
+Indian equities surged nearly 1% as bulls charged through Dalal Street, driven by an Iran-US peace framework and sliding oil prices. The Sensex and Nifty saw significant gains, adding over Rs 8 lakh crore to market capitalization. Broader markets also rallied, with Nifty Realty leading sectoral gains.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
 ### [Vedanta Share Price Live Updates: Vedanta Iron and Steel shares surge 5%; other 3 stocks trade negative. Check share prices and expert views](https://economictimes.indiatimes.com/markets/stocks/live-blog/vedanta-demerger-live-updates-vedanta-group-vedanta-oil-gas-vedanta-power-vedanta-aluminium-metal-vedanta-iron-steel-stock-price-today-14th-june/liveblog/131732039.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-15
 
-### [TCS Share Price Live Updates: TCS shares show slight positive trend](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-15-jun-2026/liveblog/131731697.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-15
+### [IPO-bound InMobi bets on AI-powered ads](https://www.livemint.com/companies/inmobi-ai-advertising-products-agentic-ai-ipo-11781502468594.html)
+The adtech firm believes consumer discovery will increasingly happen through AI interfaces rather than traditional search and apps.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-15
 
 ### [Drools parent IB Group said to plan IPO, seeks pitches from merchant banks; stake-sale size, valuation to be decided](https://www.livemint.com/companies/drools-parent-ib-group-holds-talks-with-merchant-banks-for-ipo-11781502389691.html)
 IB Group, which reported a turnover of ₹16,000 crore in FY26, could become India's largest listed poultry company, as it prepares for growth in the competitive sector.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-15
-
-### [India's Restaurant Recovery: Macquarie Has Picked Winners, And Jubilant Isn't On The List](https://www.ndtvprofit.com/markets/kfc-mcdonalds-over-dominos-macquarie-picks-devyani-sapphire-but-cuts-jubilant-target-11637468#publisher=newsstand)
-Within the sector, Macquarie remains most constructive on franchise operators Devyani International, Sapphire Foods and Westlife Foodworld.
-
-**Source:** NDTV Profit  **Date:** 2026-06-15
-
-### [BBC Layoffs: UK Broadcaster To Cut Hundreds Of Jobs — What We Know So Far](https://www.ndtvprofit.com/world/bbc-layoffs-uk-broadcaster-to-cut-hundreds-of-jobs-what-we-know-so-far-11637740#publisher=newsstand)
-The disproportionate impact on the news division stems from the nature of its costs.
-
-**Source:** NDTV Profit  **Date:** 2026-06-15
-
-### [India Opens Equity Markets To Global Retail Investors, Ending NRI-Only Direct Access](https://www.ndtvprofit.com/markets/overseas-retail-investors-can-now-directly-buy-indian-stocks-after-ministry-of-finance-change-11637399#publisher=newsstand)
-The opening comes with continued safeguards on sensitive capital flows.
-
-**Source:** NDTV Profit  **Date:** 2026-06-15
 
 ---
