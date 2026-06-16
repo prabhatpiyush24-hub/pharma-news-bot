@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-06-16
 
-> 60 items · 2026-06-16 09:23 UTC
+> 61 items · 2026-06-16 16:48 UTC
 
-## 📊 BSE / NSE Filings (8)
+## 📊 BSE / NSE Filings (9)
+
+### [Sun Pharma: Information about transfer of equity shares and unclaimed dividends to the Investor Education and Protection Fund (IEPF) Account](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c262a137-c860-4d37-a926-018f40b54c04.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-06-16
 
 ### [Sanofi India: The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on June 15, 2026 for Smiti Holding and Trading ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e98c1e62-098d-4c82-9131-0559197aa409.pdf)
 Category: Insider Trading / SAST | Sub: Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011 | BSE Code: 500820
@@ -34,10 +39,10 @@ Category: Company Update | Sub: Clarification | BSE Code: 524208
 
 **Source:** BSE Filing  **Date:** 2026-06-16
 
-### [Sudarshan Pharma Industries Ltd: Sudarshan Pharma Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/06/2026 ,inter alia, to consider and approve proposal for raising ....](https://www.bseindia.com/corporates/ann.html?scrip=543828)
-BSE Code: 543828
+### [Gujarat Themis Biosyn Ltd: Gujarat Themis Biosyn Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 19/06/2026 ,inter alia, to consider and approve the proposal for raising ....](https://www.bseindia.com/corporates/ann.html?scrip=506879)
+BSE Code: 506879
 
-**Source:** BSE Filing  **Date:** 2026-06-15
+**Source:** BSE Filing  **Date:** 2026-06-16
 
 ### [IFCI shares rally 30% in 3 days, hit fresh record high amid buzz around NSE filing IPO papers by Thursday](https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-30-in-3-days-hit-fresh-record-high-amid-buzz-around-nse-filing-ipo-papers-by-thursday/articleshow/131761910.cms)
 Vedanta’s Rs 2 lakh crore demerger has sparked renewed interest in its aluminium and power businesses, prompting investors to reassess value creation opportunities. Market focus is shifting towards which segment offers stronger long-term growth, profitability, and sectoral tailwinds as the restructuring reshapes the company’s standalone business prospects and investor positioning.
@@ -46,7 +51,12 @@ Vedanta’s Rs 2 lakh crore demerger has sparked renewed interest in its alumini
 
 ---
 
-## 💰 Results & Financials (9)
+## 💰 Results & Financials (10)
+
+### [Amid tough times, Jaguar Land Rover pays record  ₹4,660-crore dividend to Tata Motors PV](https://www.livemint.com/companies/news/jaguar-land-rover-pays-record-4-660-crore-dividend-to-tata-motors-pv-evs-11781609335802.html)
+The ₹4,660-crore payout was funded by the British carmaker's strong FY25 earnings, helping cushion its Indian parent company even as production hits led to an operational loss in FY26.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-16
 
 ### [Nomura raises Adani Ports share price target by 12%. Here are 3 major reasons why](https://economictimes.indiatimes.com/markets/stocks/news/nomura-raises-adani-ports-share-price-target-by-12-here-are-3-major-reasons-why/articleshow/131764118.cms)
 Nomura has raised its target price on Adani Ports and Special Economic Zone to Rs 2,080 from Rs 1,850, while retaining its Buy rating. The revised target suggests a potential upside of about 15% from current levels. The brokerage also marginally increased its FY27 and FY28 EBITDA forecasts, driven by expectations of a more favorable revenue mix. However, it flagged slower cargo volume growth and escalating geopolitical tensions as key risks to the outlook.
@@ -58,10 +68,25 @@ Cyient’s Rs 720 crore share buyback enters the final stage, with June 16 as th
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
+### [AI app market shift? Anthropic's Claude earns $2.76 per user against ChatGPT's $1.74, finds report](https://www.livemint.com/companies/news/ai-app-market-shift-anthropics-claude-earns-2-76-per-user-against-chatgpts-1-74-find-report-11781608524405.html)
+Anthropic's Claude is outperforming ChatGPT on revenue per user and subscriber conversion even as OpenAI's app reaches 1 billion monthly active users.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-16
+
 ### [How quick commerce is helping consumer startups grow faster than ever](https://www.livemint.com/companies/venture-capital-online-brands-quick-commerce-startups-india-blinkit-zepto-swiggy-instamart-11781492042888.html)
 Rise of quick-commerce platforms such as Blinkit, Zepto and Swiggy Instamart, alongside creator-led marketing, and a more mature startup ecosystem have helped brands achieve the revenue milestones of ₹100 crore quickly.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-16
+
+### [Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms)
+Indian equities extended their recovery as easing US-Iran tensions and softer crude prices supported sentiment. Analysts highlighted Titagarh Rail, Rane Holdings, Bandhan Bank, CMPDI and Netweb Technologies, citing bullish chart patterns, improving momentum and strong technical indicators for near-term gains.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-16
+
+### [Automobiles, electrical machinery push sales of listed private manufacturing companies in Q4: RBI data](https://economictimes.indiatimes.com/markets/stocks/news/automobiles-electrical-machinery-push-sales-of-listed-private-manufacturing-companies-in-q4-rbi-data/articleshow/131773431.cms)
+Indian manufacturing companies saw sales jump 14.5 percent in early 2026. Automobiles, electrical machinery, and metals led this growth. Overall private firms also posted strong double-digit sales increases. This performance highlights a robust period for Indian industry. Input costs rose, but staff costs moderated for manufacturers. Services firms also experienced significant sales expansion.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-16
 
 ### [RIL shares jump 6% in 3 days, market cap soars by Rs 1 lakh cr ahead of AGM. Why Morgan Stanley still sees 38% upside](https://economictimes.indiatimes.com/markets/stocks/news/ril-shares-jump-6-in-3-days-market-cap-soars-by-rs-1-lakh-cr-ahead-of-agm-why-morgan-stanley-still-sees-38-upside/articleshow/131763844.cms)
 Reliance Industries has added over Rs 1 lakh crore in market value in just three trading sessions ahead of its closely watched AGM. Despite the recent rally, Morgan Stanley sees another 38% upside, betting on stronger O2C earnings, new energy monetisation, AI opportunities and attractive valuations.
@@ -73,29 +98,14 @@ Four Nifty500 stocks appeared on the White Marubozu bullish scanner on June 15, 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [Sarvam raises $234 million to further India's sovereign AI play](https://www.livemint.com/companies/start-ups/sarvam-funding-india-sovereign-ai-hcl-technologies-bessemer-venture-partners-khosla-ventures-peak-xv-partners-11781527932995.html)
-HCL Technologies led the round, committing $150 million for a 10.46% stake. Bessemer Venture Partners and existing investors Khosla Ventures and Peak XV Partners participated in the round.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-15
-
-### [Natural intelligence on the ropes: Why India’s middle managers are becoming obsolete](https://www.livemint.com/companies/ai-middle-management-layoffs-india-jobs-future-11781522868959.html)
-For decades, the corporate ladder had a clearly defined path: start low, reach middle management, and rise to the top. AI is taking out the middle rungs in that ladder, ending careers midstream. If you’re a manager or a junior, this is a must-read.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-15
-
-### [UltraTech Cement Q1 Results: Date, Dividend, Earnings Call Schedule And More](https://www.ndtvprofit.com/markets/ultratech-cement-q1-results-date-dividend-earnings-call-schedule-share-price-and-more-11642831#publisher=newsstand)
-UltraTech has fixed Monday, July 20 as the date to declare earnings for the April to June quarter.
+### [HCLTech Q1 Results: Date, Dividend, Share Price History, And More](https://www.ndtvprofit.com/markets/hcltech-q1-results-schedule-date-dividend-share-price-history-and-more-11645204#publisher=newsstand)
+This development comes after HCLTech's Rs 1,427 crore investment in AI startup Sarvam AI.
 
 **Source:** NDTV Profit  **Date:** 2026-06-16
 
-### [Novartis India launches Pluvicto for PSMA-positive metastatic prostate cancer](https://www.expresspharma.in/novartis-india-launches-pluvicto-for-psma-positive-metastatic-prostate-cancer/)
-Radioligand therapy approved for eligible patients with PSMA-positive prostate cancer in India The post Novartis India launches Pluvicto for PSMA-positive metastatic prostate cancer appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-06-15
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (14)
+## 🤝 Deals, M&A & Partnerships (10)
 
 ### [Vedanta to be removed from MSCI Global Standard Indexes from June 22](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-be-removed-from-msci-global-standard-indexes-from-june-22/articleshow/131764127.cms)
 Vedanta shares will be removed from MSCI Global Standard Indexes from June 22. This follows the company's mega demerger into five separate listed entities. The residual Vedanta now has a smaller market capitalization. The demerger was completed on Monday with four new businesses debuting on the stock market. This index rejig may cause some share price volatility.
@@ -106,11 +116,6 @@ Vedanta shares will be removed from MSCI Global Standard Indexes from June 22. T
 Vedanta's demerger has created distinct investment opportunities in Vedanta Aluminium Metal and Vedanta Power. Vedanta Aluminium, valued at Rs 2.06 lakh crore, stands out due to its scale, integrated operations, and strong demand drivers, making it the preferred choice for growth investors. Vedanta Power, valued at Rs 16,149 crore, offers a more stable, income-oriented proposition.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
-
-### [Arun Misra set for Vedanta Group CEO role as demerger takes shape](https://www.livemint.com/companies/news/arun-misra-set-to-become-vedanta-group-ceo-amid-demerger-restructuringplans-11781515048666.html)
-Hindustan Zinc chief's likely elevation comes as Vedanta lists four demerged entities and reshapes its leadership for the next phase of its restructuring.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-15
 
 ### [Hindalco, NALCO, Vedanta Aluminium shares crash up to 6% as aluminium prices drop on US-Iran peace deal](https://economictimes.indiatimes.com/markets/stocks/news/hindalco-nalco-vedanta-aluminium-shares-crash-up-to-6-as-aluminium-prices-drop-on-us-iran-peace-deal/articleshow/131763333.cms)
 Indian aluminium stocks saw a sharp decline today. This happened as aluminium prices crashed significantly. The drop followed news of an Iran-US peace deal framework. This deal improves prospects for deliveries from Gulf producers. The reopening of the Strait of Hormuz is expected to impact Indian producers further.
@@ -127,8 +132,8 @@ YES Bank shares gained after the lender announced a strategic partnership with N
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [Sensex rises over 250 points, Nifty above 23,900 as markets extend gains; HCL Tech among top gainers](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-250-points-nifty-above-23900-as-markets-extend-gains-hcl-tech-among-top-gainers/articleshow/131758642.cms)
-Indian stock markets surged for a third consecutive day, with Sensex and Nifty extending gains amid optimism around a potential Iran-US peace deal framework. While positive macro factors like falling crude oil prices and a stable rupee offer resilience, concerns remain regarding the monsoon's impact on inflation and FII flows.
+### [Sensex jumps above 540 points, Nifty closes near 24,000 as Dalal Street gains for 3rd day](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-250-points-nifty-above-23900-as-markets-extend-gains-hcl-tech-among-top-gainers/articleshow/131758642.cms)
+Indian stock markets closed higher on Tuesday. Sensex and Nifty saw a significant rally over three sessions. This surge was driven by optimism surrounding a potential Iran-US peace deal framework. Broader markets also experienced gains. Key sectors like Realty and IT performed well. Investors are now watching crude oil prices, FII flows, and inflation expectations for future market direction.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
@@ -142,34 +147,31 @@ HCL Tech share price gained 3% after i invested $150 million in Sarvam AI, India
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [Salesforce to acquire AI customer service platform Fin for $3.6 billion, days after fresh layoffs](https://www.livemint.com/companies/news/salesforce-to-acquire-ai-customer-service-platform-fin-for-3-6-billion-days-after-fresh-layoffs-11781535444579.html)
-Salesforce announces a $3.6 billion deal to buy AI agent firm Fin just days after cutting dozens of roles, as the software giant races to expand its autonomous AI capabilities for enterprise clients.
+### [GIC Re offer for sale subscribed 3.72 times on day 1; govt to offer additional 3% stake](https://www.livemint.com/companies/news/gic-re-offer-for-sale-subscribed-3-72-times-on-day-1-govt-to-offer-another-3-11781614436658.html)
+The expanded 5% divestment could raise up to ₹3,075 crore for the Centre as the bidding shifts to retail investors and employees on Wednesday.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-15
+**Source:** Mint - Pharma  **Date:** 2026-06-16
 
-### [Verlinvest deepens India push with larger cheques, new sector bets](https://www.livemint.com/companies/news/verlinvest-deepens-india-push-with-larger-cheques-new-sector-bets-11781502230821.html)
-The global PE firm is expanding deal sizes and building a full-stack consumer platform in India through growth and early-stage investing, while warning that weak exits and currency volatility could weigh on returns.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-15
-
-### [Adani Ports Deepens US Tech Partnership With Kaleris To Drive AI Transformation Across Global Terminals](https://www.ndtvprofit.com/business/adani-ports-deepens-us-tech-partnership-with-kaleris-to-drive-ai-transformation-across-global-terminals-11642997#publisher=newsstand)
-Adani Ports Deepens US Tech Partnership With Kaleris To Drive AI Transformation Across Global Terminals
-
-**Source:** NDTV Profit  **Date:** 2026-06-16
-
-### [Final US-Iran Talks On Peace Deal Likely From June 19, Says Araghchi; Warns Against Israeli Action In Lebanon](https://www.ndtvprofit.com/world/final-us-iran-talks-on-peace-deal-likely-from-june-19-says-araghchi-warns-against-israeli-action-in-lebanon-11642969#publisher=newsstand)
-Araghchi confirmed that Friday would also mark the official start of the Memorandum of Understanding.
-
-**Source:** NDTV Profit  **Date:** 2026-06-16
-
-### [Trump's US-Iran Deal Explained: Vance Launches Media Blitz, Democrats Seek Answers — Key Things To Know](https://www.ndtvprofit.com/world/trumps-us-iran-deal-explained-whats-in-mou-as-vance-launches-media-blitz-democrats-seek-answers-11642225#publisher=newsstand)
-Trump said the full text of the 14-point agreement would be released publicly "pretty soon".
+### [Yum! Brands To Sell Pizza Hut For $2.7 Billion; Stock Jumps Over 3%](https://www.ndtvprofit.com/business/yum-brands-to-sell-pizza-hut-for-2-7-billion-stock-jumps-in-pre-market-trade-11644365#publisher=newsstand)
+The company, which operates other famous fast food chains including KFC and Taco Bell had been exploring the sale over the past few months.
 
 **Source:** NDTV Profit  **Date:** 2026-06-16
 
 ---
 
-## 🏭 Operations & Approvals (7)
+## 💸 Corporate Actions (2)
+
+### [RIL AGM 2026: Date, Time &amp; 4 Big Things to Watch (Jio IPO, Retail, Energy)](https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-date-time-4-big-things-to-watch-jio-ipo-retail-energy/videoshow/131774257.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-06-16
+
+### [KIMS Launches QIP To Raise Funds; Floor Price Set At 5% Discount To CMP](https://www.ndtvprofit.com/markets/kims-launches-qip-to-raise-funds-floor-price-set-at-5-discount-to-cmp-11645460#publisher=newsstand)
+The hospital operator has also retained the flexibility to offer institutional investors a discount of up to 5% on the floor price.
+
+**Source:** NDTV Profit  **Date:** 2026-06-16
+
+---
+
+## 🏭 Operations & Approvals (9)
 
 ### [Biocon eyes crown of world’s top insulin supplier amid rush for GLP-1](https://www.livemint.com/companies/news/biocon-eyes-crown-of-world-s-largest-insulin-supplier-as-big-pharma-shifts-focus-to-glp1-11781595766183.html)
 Biocon, currently the third-largest insulin supplier by volume, has invested “big time” in ramping up production capacity, Chairperson Kiran Mazumdar-Shaw says.
@@ -181,6 +183,16 @@ Shares of newly demerged Vedanta entities saw a dip post-listing. Investors are 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
+### [Turtlemint bets on AI transformation as IPO values firm well below 2022 peak](https://www.livemint.com/companies/news/turtlemint-bets-on-ai-transformation-as-ipo-values-firm-well-below-2022-peak-11781613287991.html)
+Insuretech platform Turtlemint is launching its IPO at roughly $475 million, about half its 2022 funding valuation, to raise ₹883 crore in a market that has seen few tech listings in recent months.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-06-16
+
+### [Nutrition brand TruNativ raises $30 million funding led by OrbiMed, eyes global expansion](https://www.livemint.com/companies/start-ups/nutrition-brand-trunativ-raises-30-million-series-b-funding-led-by-orbimed-11781603857324.html)
+Protein as a category has been gaining momentum in India, with 2,672 nutrition-focused food startups currently operating in the country.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-16
+
 ### [Wisconsin beagle research facility that drew protests is closing as rescue group takes in dogs](https://www.livemint.com/companies/wisconsin-beagle-research-facility-that-drew-protests-is-closing-as-rescue-group-takes-in-dogs-11781555344559.html)
 Wisconsin beagle research facility that drew protests is closing as rescue group takes in dogs
 
@@ -191,24 +203,29 @@ Indian officials stepped up government checks on farmland surrounding Apple supp
 
 **Source:** Mint - Pharma  **Date:** 2026-06-15
 
-### [Damage control? Anthropic rushes to Washington amid White House ban on top AI models ahead billion-dollar IPO](https://www.livemint.com/companies/news/damage-control-anthropic-rushes-to-washington-amid-white-house-ban-on-top-ai-models-threatens-billion-dollar-ipo-11781518580276.html)
-Anthropic has reportedly &amp;nbsp;flown senior technical staff to Washington for face-to-face talks with White House officials after US export controls forced the AI company to take its most powerful Claude models offline worldwide.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-15
-
 ### [ILAMED expands international presence with centres in Kenya, Ethiopia and Thailand](https://www.expresspharma.in/ilamed-expands-international-presence-with-centres-in-kenya-ethiopia-and-thailand/)
 Institute to launch Cairo centre in September 2026 as part of its overseas expansion The post ILAMED expands international presence with centres in Kenya, Ethiopia and Thailand appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-16
 
-### [Redmi Turbo 5 Launched With 7,540mAh Battery, MediaTek Dimensity 8500 Ultra Chip —  Specs, Features, Price In India](https://www.ndtvprofit.com/technology/redmi-turbo-5-launched-with-7-540mah-battery-mediatek-dimensity-8500-ultra-chip-specs-features-price-in-india-11642636#publisher=newsstand)
-The Redmi Turbo 5 has launched in India. A look at its specs, features, and price.
+### [UPI Footprint Expands: Piyush Goyal Launches Payments Platform In France's Nice Massena](https://www.ndtvprofit.com/economy/upi-footprint-expands-piyush-goyal-launches-payments-platform-in-frances-nice-massena-11645030#publisher=newsstand)
+Piyush Goyal launched UPI at Nice Massena, France, as India expands its digital payments network across global markets.
+
+**Source:** NDTV Profit  **Date:** 2026-06-16
+
+### [Air India Launches 'Basic Fare' For Economy Class, Unbundles Complimentary Meals](https://www.ndtvprofit.com/business/air-india-launches-basic-fare-for-economy-class-unbundles-complimentary-meals-11645126#publisher=newsstand)
+Air India's new fare option provides a lower-cost travel alternative with fewer bundled services.
 
 **Source:** NDTV Profit  **Date:** 2026-06-16
 
 ---
 
 ## 📉 Analyst & Brokerage Calls (7)
+
+### [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131776215.cms)
+Indian equities extended gains for a third straight session, with Sensex and Nifty rising on optimism over the Iran-US peace framework and lower oil prices. Broad-based buying in IT, realty, FMCG and oil &amp; gas stocks supported the rally, while volatility eased sharply.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-16
 
 ### [12 stocks added by 15+ MF schemes in May; shares surge up to 60% in CY26](https://economictimes.indiatimes.com/markets/stocks/news/12-stocks-added-by-15-mf-schemes-in-may-shares-surge-up-to-60-in-cy26/slideshow/131765510.cms)
 Mutual funds boosted exposure to several outperforming stocks in May 2026, including BSE, Angel One, and Adani Energy. Many of these holdings have generated strong CY26 returns, reflecting sustained institutional confidence.
@@ -230,38 +247,40 @@ Foreign institutional investors have sold Indian stocks worth Rs 5.5 lakh crore.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [Nvidia kicks off first corporate bond offering in 5 years, targets $20 billion raise](https://www.livemint.com/companies/news/nvidia-kicks-off-first-corporate-bond-offering-in-5-years-targets-20-billion-raise-11781538506737.html)
-Chipmaking giant Nvidia Corp. is looking to sell at least $20 billion of bonds on Monday, joining a wave of companies that are borrowing as they pay for investments in the artificial intelligence boom.
+### [Swiggy cofounders pick up stake in India’s first space unicorn Skyroot](https://www.livemint.com/companies/news/swiggy-cofounders-india-space-unicorn-skyroot-stake-11781610834646.html)
+New Delhi: Three weeks after Hyderabad-based Skyroot Aerospace became India’s first space unicorn, the startup’s cap-table found two new stakeholders that, for the past 12 years, have been among the most familiar names of India’s startups ecosystem.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-15
+**Source:** Mint - Pharma  **Date:** 2026-06-16
 
-### [SpaceX surged 19% on stock market debut, lifting Saudi billionaire Prince Alwaleed bin Talal's stake to nearly $7 bn](https://www.livemint.com/companies/people/spacex-ipo-prince-alwaleed-kingdom-holding-saudi-arabia-11781532291948.html)
-SpaceX's $75bn IPO has pushed Prince Alwaleed bin Talal's net worth to a decade-high $27bn, with Kingdom Holding shares climbing 5% at Sunday's open.
+### [Yum Brands to sell struggling Pizza Hut restaurant chain for $2.7 billion](https://www.livemint.com/companies/news/yum-brands-to-sell-struggling-pizza-hut-restaurant-chain-for-2-7-billion-11781612631467.html)
+Yum Brands will sell Pizza Hut for $2.7 billion as heightened competition and cautious consumer spending is affecting the fast-food sector. Details here.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-15
-
-### [Dixon Tech Cut To Underperform By CLSA As Memory Prices Squeeze Smartphone Market](https://www.ndtvprofit.com/markets/dixon-tech-cut-to-underperform-by-clsa-as-memory-prices-squeeze-india-smartphone-market-11642751#publisher=newsstand)
-Brokerage sees 13% downside for Dixon Tech from current levels and warns organic volume growth likely to decline in FY27.
-
-**Source:** NDTV Profit  **Date:** 2026-06-16
+**Source:** Mint - Pharma  **Date:** 2026-06-16
 
 ---
 
-## 📰 Industry & Policy News (15)
+## 📰 Industry & Policy News (14)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Stock Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-16-jun-2026/liveblog/131757823.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-16-jun-2026/liveblog/131757823.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [Divis Labs Share Price Live Updates: Divis Labs Price Movement](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-16-jun-2026/liveblog/131757796.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-16
-
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Recent Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-livestock-price-today-live-updates-16-jun-2026/liveblog/131757640.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-16-jun-2026/liveblog/131757796.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
 ### [Studios in Microsoft’s Xbox Division Brace for Closures](https://www.livemint.com/companies/studios-in-microsoft-s-xbox-division-brace-for-closures-11781556083890.html)
 The studios, which include Compulsion Games and Double Fine, are in active negotiations with Xbox and may be given the chance to go independent.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-15
+
+### [Quote of the day by Bernard Baruch: "In the stock market, one quickly learns how important it is to act swiftly"](https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-bernard-baruch-in-the-stock-market-one-quickly-learns-how-important-it-is-to-act-swiftly/articleshow/131759298.cms)
+Bernard Baruch highlights the importance of swift decision-making in markets. The piece explains how preparation enables investors to act quickly without being reckless, especially during volatile periods. It emphasises balancing speed with discipline, noting that successful investing depends on readiness, conviction, and the ability to capitalise on time-sensitive opportunities.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-16
+
+### [Pidilite Industries among 4 commodities stocks that hit 52-week highs and rallied up to 65% in a month](https://economictimes.indiatimes.com/markets/stocks/news/pidilite-industries-among-4-commodities-stocks-that-hit-52-week-highs-and-rallied-up-to-65-in-a-month/slideshow/131771403.cms)
+Deccan Gold Mines, Sudeep Pharma, Neogen Chemicals and Pidilite Industries touched fresh 52-week highs as the Sensex climbed 544 points. The milestone highlights strong investor confidence, robust momentum and growing optimism around select commodity-linked stocks amid a broader market rally.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-16
 
 ### [$320 billion danger: Jefferies warns 70 large EM funds are underweight India](https://economictimes.indiatimes.com/markets/stocks/news/320-billion-danger-jefferies-warns-70-large-em-funds-are-underweight-india/articleshow/131759965.cms)
 Despite record FII outflows from Indian equities since September 2024, Jefferies said India remains a consensus underweight among emerging market investors. Its analysis of 70 EM funds managing $320 billion showed 61% remain underweight India. Concerns over rich valuations versus growth and uncertainty around the AI/DRAM cycle may delay foreign inflows, though interest is shifting to hard-asset themes.
@@ -278,41 +297,31 @@ The government is set to divest up to a 5% stake in General Insurance Corporatio
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Recent Stock Activity](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-16-jun-2026/liveblog/131757751.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-16-jun-2026/liveblog/131757751.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-16
 
-### [IPO-bound InMobi bets on AI-powered ads](https://www.livemint.com/companies/inmobi-ai-advertising-products-agentic-ai-ipo-11781502468594.html)
-The adtech firm believes consumer discovery will increasingly happen through AI interfaces rather than traditional search and apps.
+### [Premium push shields Gillette, Whisper makers as supply chain costs rise](https://www.livemint.com/companies/news/procter-gamble-hygiene-and-healthcare-supply-chain-premium-whisper-gillette-india-old-spice-vicks-oral-b-11781614702511.html)
+High-margin offerings like sleep gummies and electric razors are helping the consumer goods majors offset severe raw material inflation triggered by the US-Iran conflict, a top executive said.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-15
+**Source:** Mint - Pharma  **Date:** 2026-06-16
 
-### [Drools parent IB Group said to plan IPO, seeks pitches from merchant banks; stake-sale size, valuation to be decided](https://www.livemint.com/companies/drools-parent-ib-group-holds-talks-with-merchant-banks-for-ipo-11781502389691.html)
-IB Group, which reported a turnover of ₹16,000 crore in FY26, could become India's largest listed poultry company, as it prepares for growth in the competitive sector.
+### [SpaceX tops Amazon and Microsoft in market cap, becomes fourth-largest US company](https://www.livemint.com/companies/news/spacex-overtakes-amazon-in-market-cap-as-stock-rises-8-on-third-day-of-trading-11781617366130.html)
+SpaceX surpassed both Amazon and Microsoft in market cap on Tuesday, becoming the fourth-largest US company as shares surged 13% on its third day of public trading.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-15
+**Source:** Mint - Pharma  **Date:** 2026-06-16
 
-### [India’s NPPA Revises Ceiling Price of 3 Vaccines, Including BCG - NAVLIN DAILY](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSk9NTE1YZUl1LWhSbWYzblA0dW9ldDl1dXE1VUhBd19BTUNwQTVMc2ZNbWd4MkkzcTdKOXBHX1JQOXMwT1pDNWV2WHl5Zl9TSERYVGdlYmdOTU05SHJXVTNEb0pOVWtPREV3aklPVmJSZWFxUVZRUkkzc3QtTnhRTWdfSkh2aVZva2F2LVUxcmVaRFEwWEs2clNVaHNpN0VTVl9RM0JXYw?oc=5)
-India’s NPPA Revises Ceiling Price of 3 Vaccines, Including BCG &nbsp;&nbsp; NAVLIN DAILY
-
-**Source:** GNews - India Pharma Policy  **Date:** 2026-06-15
-
-### [Sun Pharmaceutical Industries Ltd Stock (INE044A01036): India pharma heavyweight in focus after rece - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkhieXd1SG5BMFJVWGVPMl9md1dJT0dPWldCeWduRHpUVWcxNWRRQmw0aXdqbFEtejI2a3MxR1lybzdNOWEyYlZhNVVWdXdrQm1WX2VPYTRhM3kwckpBWHZ2LUxaelBwalhjcEZnRFV6aFh2T2ZqTVgtbG85bHp6YmZQMWtVbjdfU2JCcWN1aVc3NjM0aVhiYllKY1FlY205T3NJNGhEYWZOMGlvS1p1N0pzODZNZVdPVjVQeUt2WHdaZw?oc=5)
-Sun Pharmaceutical Industries Ltd Stock (INE044A01036): India pharma heavyweight in focus after rece &nbsp;&nbsp; AD HOC NEWS
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-06-15
-
-### [US-Iran War News Live Updates: Nuclear, Sanctions Issues Set For Second Phase Of US-Iran Talks, Says Araghchi](https://www.ndtvprofit.com/world/us-iran-war-news-live-updates-trump-no-nuclear-weapons-tehran-peace-deal-in-switzerland-netanyahu-lebanon-israel-11641623#publisher=newsstand)
-Iran War Live Updates
+### [Football 'Capitalism': FIFA Faces Fan Outrage Over Commercials During Hydration Breaks](https://www.ndtvprofit.com/sports/football-fifa-world-cup-2026-football-capitalism-fifa-faces-fan-outrage-over-commercials-during-hydration-breaks-11645254#publisher=newsstand)
+One fanquestioned why FIFA didn't opt for a November-December schedule if heat and player safety were the main concerns.
 
 **Source:** NDTV Profit  **Date:** 2026-06-16
 
-### [SC Seeks Responses Of Centre, States On Plea For Use Of Aadhaar As Identity Proof Only](https://www.ndtvprofit.com/india/sc-seeks-responses-of-centre-states-on-plea-for-use-of-aadhaar-as-identity-proof-only-11642899#publisher=newsstand)
-The plea has sought directions to the Centre, states and the Election Commission to ensure that Aadhaar is used as a proof of identity and not as a proof of citizenship, domicile, address and date of birth.
+### [SpaceX Shares Spike 17% As Investors Cheer $60 Billion AI Bet, Post-IPO Momentum](https://www.ndtvprofit.com/markets/spacex-shares-spike-17-as-investors-cheer-60-billion-ai-bet-post-ipo-momentum-11645039#publisher=newsstand)
+The stock climbed as much as 16.95% to $225.13, adding to the post-IPO momentum following SpaceX's listing last week.
 
 **Source:** NDTV Profit  **Date:** 2026-06-16
 
-### [Bondada Engineering Shares Rise After Rs 1,300 Crore Plus NTPC Order Win](https://www.ndtvprofit.com/markets/bondada-engineering-shares-rise-after-rs-1-300-crore-plus-ntpc-order-win-11642866#publisher=newsstand)
-The order is valued at Rs. 1,338.03 crore and is to be executed within 18 months from the receipt of the notification of award.
+### [SpaceX Set To Overtake Microsoft, Amazon In Value As Stock Soars](https://www.ndtvprofit.com/markets/spacex-set-to-overtake-microsoft-amazon-in-value-as-stock-soars-11645259#publisher=newsstand)
+Shares rose as much as 17%, extending gains since SpaceX's record initial public offering.
 
 **Source:** NDTV Profit  **Date:** 2026-06-16
 
