@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-06-17
 
-> 62 items · 2026-06-17 09:00 UTC
+> 65 items · 2026-06-17 15:22 UTC
 
-## 📊 BSE / NSE Filings (7)
+## 📊 BSE / NSE Filings (9)
 
 ### [Sun Pharma: Information about transfer of equity shares and unclaimed dividends to the Investor Education and Protection Fund (IEPF) Account](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c262a137-c860-4d37-a926-018f40b54c04.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 524715
@@ -24,6 +24,16 @@ Category: Company Update | Sub: Change in Management | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-06-16
 
+### [Lupin: Lupin Launches Azilsartan Medoxomil Tablets in the United States.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2187b131-d47a-4269-94c4-14ef39989a2b.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-06-17
+
+### [Sanofi India: This is to inform you that the trading window for trading in the securities of the Company will be closed from Friday, 19th June 2026 until two trading days from the date of declaration ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/8177ccd7-5d4c-4512-ae58-5dfc2445957f.pdf)
+Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-06-17
+
 ### [Marksans Pharma: Please find attached clarification with respect to increase in volume](https://www.bseindia.com/xml-data/corpfiling/AttachLive/cf622ef5-cd90-4d0d-ad8c-3ecdf2f54bda.pdf)
 Category: Company Update | Sub: General | BSE Code: 524208
 
@@ -41,12 +51,12 @@ BSE Code: 506879
 
 ---
 
-## 💰 Results & Financials (17)
+## 💰 Results & Financials (16)
 
-### [Amid tough times, Jaguar Land Rover pays record  ₹4,660-crore dividend to Tata Motors PV](https://www.livemint.com/companies/news/jaguar-land-rover-pays-record-4-660-crore-dividend-to-tata-motors-pv-evs-11781609335802.html)
-The ₹4,660-crore payout was funded by the British carmaker's strong FY25 earnings, helping cushion its Indian parent company even as production hits led to an operational loss in FY26.
+### [Tata Motors PV shares plunge 10% after weaker than expected JLR FY27 guidance](https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-shares-plunge-10-after-weaker-than-expected-jlr-fy27-guidance/articleshow/131795427.cms)
+Tata Motors Passenger Vehicles shares dropped significantly. This followed Jaguar Land Rover's investor day where its financial outlook for fiscal year 2027 was revealed. Profitability guidance fell short of analyst expectations. JLR projects revenue growth and improved EBIT margins. North America remains a key focus for future growth. The company plans to invest in new segments and high-potential markets.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-16
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
 
 ### [Jefferies raises Polycab share price target after 30% rally in 2026. Here are 5 reasons why](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-polycab-share-price-target-after-30-rally-in-2026-here-are-5-reasons-why/articleshow/131792926.cms)
 Polycab India gained up to 4% after Jefferies raised its target price to Rs 10,920 and reiterated its Buy rating. The brokerage cited market share gains, data centre opportunities, a healthy order pipeline, diversified revenue streams and strong earnings growth expectations despite the stock’s sharp rally this year.
@@ -78,11 +88,6 @@ AISATS plans ₹600 crore FY27 capex and targets ₹3,000-3,500 crore revenue ov
 
 **Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [AI app market shift? Anthropic's Claude earns $2.76 per user against ChatGPT's $1.74, finds report](https://www.livemint.com/companies/news/ai-app-market-shift-anthropics-claude-earns-2-76-per-user-against-chatgpts-1-74-find-report-11781608524405.html)
-Anthropic's Claude is outperforming ChatGPT on revenue per user and subscriber conversion even as OpenAI's app reaches 1 billion monthly active users.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-16
-
 ### [Trackk launches equity investing, F&amp;O trading platform for young investors](https://economictimes.indiatimes.com/markets/stocks/news/trackk-launches-equity-investing-fo-trading-platform-for-young-investors/articleshow/131789736.cms)
 Investment platform Trackk has launched equity investing and Futures &amp; Options trading services, integrating stock discovery and personalized insights into a single platform. This move aims to simplify market participation for young Indians, enabling them to discover opportunities and execute trades seamlessly.
 
@@ -103,6 +108,11 @@ Nine NSE F&amp;O stocks witnessed a sharp rise in futures open interest on June 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
+### [Sensex rises 347 points, Nifty closes near 24,100 as oil prices drop below $80. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-250-points-nifty-above-24000-as-dalal-street-extends-gains-for-4th-session-what-lies-ahead/articleshow/131785681.cms)
+Indian stock markets extended gains for the fourth consecutive session, with Sensex and Nifty rising over 0.4% each. This surge was driven by a framework for an Iran-US deal and a significant drop in oil prices below $80 per barrel. Analysts anticipate continued market resilience, supported by tapering FII outflows and a strengthening rupee, despite concerns over monsoon deficits.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
+
 ### [GIC shares dip 4% as Rs 3,088 crore OFS opens for retail investors. Should you participate?](https://economictimes.indiatimes.com/markets/stocks/news/gic-shares-in-focus-as-rs-3088-crore-ofs-opens-for-retail-investors-should-you-participate/articleshow/131785566.cms)
 General Insurance Corporation of India shares saw a dip as the government initiated an Offer for Sale. Retail investors can now bid for a stake in the insurer. The offer has already attracted strong demand from institutional investors. Market analysts suggest caution for retail investors due to profitability concerns and industry headwinds.
 
@@ -118,22 +128,22 @@ India's IT giants have so far tackled the automation threat through three main s
 
 **Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [Coforge Can Reach $5 Billion Revenue by FY30 With Just One Acquisition, Says CEO Sudeep Singh](https://www.ndtvprofit.com/business/coforge-can-reach-5-billion-revenue-by-fy30-with-just-one-acquisition-says-ceo-sudeep-singh-11648352#publisher=newsstand)
-According to Singh, maintaining existing growth momentum and completing one acquisition worth roughly $500 million would be sufficient to achieve the FY30 target.
-
-**Source:** NDTV Profit  **Date:** 2026-06-17
-
-### [Paras Defence, MTAR Tech, HAL Shares Rally In Trade As India's Defence Production Touches All-Time High](https://www.ndtvprofit.com/markets/paras-defence-mtar-tech-hal-shares-rally-in-trade-as-indias-defence-production-touches-all-time-high-11648325#publisher=newsstand)
-Paras Defence emerged as the top gainer, surging 12.89%, followed by Astra Microwave Products, which advanced 7.72%, and MTAR Technologies, up 6.99%. Data Patterns gained 4.81%, while Bharat Dynamics rose 4.39%.
+### [Accenture Earnings Preview: Revenue To Top $18 Billion Amid AI Frenzy — Should You Buy?](https://www.ndtvprofit.com/markets/accenture-earnings-preview-revenue-to-top-18-billion-amid-ai-frenzy-should-you-buy-11649882#publisher=newsstand)
+On the profitability front, the operating income is expected to rise nearly 6% to $3.1 billion from $2.9 billion in the corresponding quarter of the last fiscal.
 
 **Source:** NDTV Profit  **Date:** 2026-06-17
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (9)
+## 🤝 Deals, M&A & Partnerships (10)
 
 ### [Zydus Lifesciences shares fall 2% as firm acquires US-based Assertio Holdings for $166 million](https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-shares-in-focus-as-firm-acquires-us-based-assertio-holdings-for-166-million/articleshow/131785376.cms)
 Zydus Lifesciences' shares dipped 2% after completing the $166.4 million acquisition of US-based Assertio Holdings Inc. The deal, finalized through a subsidiary, makes Assertio a wholly-owned entity, bolstering Zydus's specialty and oncology supportive-care therapies pipeline. This strategic move aims to enhance the company's innovative drug offerings.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
+
+### [HDFC MF, ADIA among buyers as Sepia Investments offloads Rs 749 crore in Corona Remedies via block deal](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-adia-among-buyers-as-sepia-investments-offloads-rs-749-crore-in-corona-remedies-via-block-deal/articleshow/131804121.cms)
+Sepia Investments and Anchor Partners sold shares worth about Rs 777 crore in Corona Remedies through block deals. HDFC Mutual Fund emerged as the largest buyer, while several institutional investors, including Aberdeen entities, ADIA, Invesco and WhiteOak, also accumulated stakes.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
@@ -152,28 +162,28 @@ Dixon Technologies shares surged rose sharply on Wednesday after reports suggest
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
-### [Sensex rises over 250 points, Nifty above 24,000 as Dalal Street extends gains for 4th session. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-250-points-nifty-above-24000-as-dalal-street-extends-gains-for-4th-session-what-lies-ahead/articleshow/131785681.cms)
-Indian stock markets are trading higher today. The Sensex and Nifty are extending their gains for the fourth consecutive session. This rally is fueled by a recent Iran-US deal framework and a significant drop in oil prices. Key companies like IndiGo and Mahindra &amp; Mahindra are leading the gains.
+### [Embassy REIT inks  ₹1,250 cr mega GCC lease deal with Target](https://www.livemint.com/companies/news/embassy-reit-gcc-lease-deal-us-retailer-target-bengaluru-real-estate-11781688129358.html)
+The deal is significant as it indicates a massive expansion by Target, which already occupies around 600,000 sq ft in Embassy Manyata in Bengaluru
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-17
+**Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [GIC Re offer for sale subscribed 3.72 times on day 1; govt to offer additional 3% stake](https://www.livemint.com/companies/news/gic-re-offer-for-sale-subscribed-3-72-times-on-day-1-govt-to-offer-another-3-11781614436658.html)
-The expanded 5% divestment could raise up to ₹3,075 crore for the Centre as the bidding shifts to retail investors and employees on Wednesday.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-16
-
-### [Dixon Tech Clarifies No Fresh Development In Proposed Vivo Partnership](https://www.ndtvprofit.com/business/dixon-tech-issues-statement-clarifies-no-fresh-development-in-proposed-vivo-partnership-11648445#publisher=newsstand)
-The company said it had signed a binding term sheet with Vivo India in December 2024 to form a joint venture focused on original equipment manufacturing (OEM) of electronic products, including smartphones.
+### [Peace Dividend: How Hezbollah Stands To Benefit From US-Iran Deal](https://www.ndtvprofit.com/world/peace-dividend-how-hezbollah-stands-to-benefit-11649937#publisher=newsstand)
+Sukaina al-Muhtadi, 22, searches for her belongings among the rubble of her destroyed house in Nabatieh town, southern Lebanon, on June 16.
 
 **Source:** NDTV Profit  **Date:** 2026-06-17
 
-### [Iranian Tankers Exit US Naval Blockade Zone Ahead Of Deal Signing On Friday](https://www.ndtvprofit.com/world/iranian-tankers-exit-us-naval-blockade-zone-ahead-of-deal-signing-on-friday-11648023#publisher=newsstand)
-The exit of vessels from the blockade zone suggests that easing of the naval cordon is already underway.
+### [Toy Story 5 Reviews: Pixar's Latest Adventure Earns Strong Praise From Critics](https://www.ndtvprofit.com/lifestyle/entertainment-cinema-hollywood-movie-toy-story-5-reviews-pixar-animated-film-earns-strong-praise-from-critics-11650030#publisher=newsstand)
+Ahead of the film's release in India, critics have largely praised Toy Story 5 for its emotional story, humour and stunning animation.
 
 **Source:** NDTV Profit  **Date:** 2026-06-17
 
-### [Decoded: What Iran Stands To Gain From Trump's Deal With Tehran To End War](https://www.ndtvprofit.com/world/decoded-what-iran-stands-to-gain-from-trumps-deal-with-tehran-to-end-war-11647748#publisher=newsstand)
-For Tehran's battered economy, the maritime provisions matter most.
+### [US-Iran War News Live Updates: Trump Says Iran Deal 'Might Be Signed'](https://www.ndtvprofit.com/world/us-iran-war-news-live-updates-trump-netanyahu-ceasefire-talks-with-tehran-araghchi-lebanon-attacks-strait-of-hormuz-gulf-news-11646870#publisher=newsstand)
+Iran War Live Updates
+
+**Source:** NDTV Profit  **Date:** 2026-06-17
+
+### ['We Did It': Modi, Starmer Hot Mic Moment Suggests India-UK Trade Row Breakthrough | Watch](https://www.ndtvprofit.com/economy/we-did-it-modi-starmer-hot-mic-moment-suggests-india-uk-trade-row-breakthrough-watch-11649908#publisher=newsstand)
+India had been saying it may reconsider some concessions under the free trade agreement with Britain.
 
 **Source:** NDTV Profit  **Date:** 2026-06-17
 
@@ -203,36 +213,46 @@ KIMS launched a ₹1,500 crore QIP on Tuesday, offering 19.86 million fresh shar
 
 ---
 
-## 🏭 Operations & Approvals (5)
+## 🏭 Operations & Approvals (6)
+
+### [Buying US stocks via Gift City to get easier as Zerodha, Groww, Angel One and Upstox get nod](https://economictimes.indiatimes.com/markets/stocks/news/buying-us-stocks-via-gift-city-to-get-easier-as-zerodha-groww-angel-one-and-upstox-get-nod/articleshow/131796743.cms)
+Buying US stocks could soon become easier for Indian retail investors after Zerodha, Groww, Angel One and Upstox secured regulatory approvals from GIFT City’s IFSCA. The licences will enable the brokerages to facilitate overseas investing, tapping into growing demand for global equities under the RBI’s Liberalised Remittance Scheme.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
 
 ### [Wipro shares in focus after unveiling Anthropic-powered AI hub in Bengaluru](https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-in-focus-after-unveiling-anthropic-powered-ai-hub-in-bengaluru/articleshow/131785289.cms)
 Wipro has launched an Applied AI Center of Excellence in Bengaluru focused on Anthropic’s Claude models to scale enterprise AI adoption. The initiative includes training 10,000 professionals, deploying specialised engineers, and integrating AI across client solutions and internal operations, reinforcing its strategy of becoming a consulting-led, AI-powered organisation.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
-### [Turtlemint bets on AI transformation as IPO values firm well below 2022 peak](https://www.livemint.com/companies/news/turtlemint-bets-on-ai-transformation-as-ipo-values-firm-well-below-2022-peak-11781613287991.html)
-Insuretech platform Turtlemint is launching its IPO at roughly $475 million, about half its 2022 funding valuation, to raise ₹883 crore in a market that has seen few tech listings in recent months.&amp;nbsp;
+### [Wipro launches Applied AI Center of Excellence for Claude models — Here's all you need to know](https://www.livemint.com/companies/news/wipro-launches-applied-ai-center-of-excellence-for-claude-models-heres-all-you-need-to-know-11781686478273.html)
+Wipro launches Applied AI Center of Excellence for Claude models, serving as an innovation hub within its AI-Native Business and Platforms Unit. It plans to enhance enterprise AI adoption and integrate it into core business workflows across industries.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-16
+**Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [Nutrition brand TruNativ raises $30 million funding led by OrbiMed, eyes global expansion](https://www.livemint.com/companies/start-ups/nutrition-brand-trunativ-raises-30-million-series-b-funding-led-by-orbimed-11781603857324.html)
-Protein as a category has been gaining momentum in India, with 2,672 nutrition-focused food startups currently operating in the country.
+### [CtrlS raises  ₹7,000 crore at $4.8 billion valuation to chase India’s AI data centre boom](https://www.livemint.com/companies/news/ctrls-raises-rs7000-crore-4-8-billion-valuation-ai-data-centre-expansion-11781687498706.html)
+CtrlS Datacenters is planning 4GW of data centre capacity by 2031, targeting up to 20% of India’s rapidly expanding AI-driven data centre market.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-16
+**Source:** Mint - Pharma  **Date:** 2026-06-17
 
 ### [Glenmark launches Methylene Blue Injection USP in US](https://www.expresspharma.in/glenmark-launches-methylene-blue-injection-usp-in-us/)
 Generic injectable approved as bioequivalent to ProvayBlue Injection 50 mg/10 mL
 
 **Source:** Express Pharma  **Date:** 2026-06-17
 
-### [HDFC Bank Lands Tightest-Ever Spread On Its Dollar Bond](https://www.ndtvprofit.com/markets/hdfc-bank-lands-tightest-ever-spread-on-its-dollar-bond-11648264#publisher=newsstand)
-The issuance comes after recent measures by India's central bank to attract foreign capital, including aconcessional swap facilityfor lenders and state-run firms. The facility helps banks to access lower-cost funding at a time when credit growth continues tooutpacedeposit mobilization.
+### [From fintech to aesthetic injectables: Lessons in navigating regulatory formalisation](https://www.expresspharma.in/from-fintech-to-aesthetic-injectables-lessons-in-navigating-regulatory-formalisation/)
+Rishi Agrawal, CEO, TeamLease RegTech cautions that the recent CDSCO clarification on injectable cosmetic products signals a broader shift toward accountability and risk-based regulation for the aesthetics industry.
 
-**Source:** NDTV Profit  **Date:** 2026-06-17
+**Source:** Express Pharma  **Date:** 2026-06-17
 
 ---
 
-## 📉 Analyst & Brokerage Calls (7)
+## 📉 Analyst & Brokerage Calls (6)
+
+### [NSE to file IPO by this week? IFCI shares rally 8% to record high; LIC, SBI, other stocks rise up to 2%](https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-coming-soon-ifci-shares-rally-8-to-fresh-record-high-amid-rising-buzz-around-nse-filing-drhp-this-week/articleshow/131795145.cms)
+IFCI shares surged to a fresh 52-week high amid expectations that NSE could file its IPO papers this week. Investors cheered IFCI's indirect exposure to the exchange through Stock Holding Corporation, while optimism around NSE's potential listing boosted sentiment.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
 
 ### [Volume Shocker: MFs add 1 crore+ shares of 6 stocks in May, stocks gain up to 25%](https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-add-1-crore-shares-of-6-stocks-in-may-stocks-gain-up-to-25/slideshow/131792559.cms)
 Among the 42 stocks, Yes Bank and Central Bank of India saw the largest mutual fund buying.
@@ -254,16 +274,6 @@ Six largecap stocks featured in the RSI Trending Up scan on June 16, indicating 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
-### [Swiggy cofounders pick up stake in India’s first space unicorn Skyroot](https://www.livemint.com/companies/news/swiggy-cofounders-india-space-unicorn-skyroot-stake-11781610834646.html)
-New Delhi: Three weeks after Hyderabad-based Skyroot Aerospace became India’s first space unicorn, the startup’s cap-table found two new stakeholders that, for the past 12 years, have been among the most familiar names of India’s startups ecosystem.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-16
-
-### [Yum Brands to sell struggling Pizza Hut restaurant chain for $2.7 billion](https://www.livemint.com/companies/news/yum-brands-to-sell-struggling-pizza-hut-restaurant-chain-for-2-7-billion-11781612631467.html)
-Yum Brands will sell Pizza Hut for $2.7 billion as heightened competition and cautious consumer spending is affecting the fast-food sector. Details here.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-16
-
 ### [Karnataka holds 64th Vision Group on Biotechnology meeting to review biotech ecosystem](https://www.expresspharma.in/karnataka-holds-64th-vision-group-on-biotechnology-meeting-to-review-biotech-ecosystem/)
 Meeting discusses biotechnology strategy, AI integration, biomanufacturing and financing ecosystem
 
@@ -271,15 +281,25 @@ Meeting discusses biotechnology strategy, AI integration, biomanufacturing and f
 
 ---
 
-## 📰 Industry & Policy News (13)
+## 📰 Industry & Policy News (14)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys faces a decline in market performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-17-jun-2026/liveblog/131784764.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-17-jun-2026/liveblog/131784764.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
-### [Divis Labs Share Price Live Updates: Divis Labs Stock Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-17-jun-2026/liveblog/131784692.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-17-jun-2026/liveblog/131784692.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Trading Price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-17-jun-2026/liveblog/131784686.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-17-jun-2026/liveblog/131784686.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
+
+### [BRND.ME converts into public company, eyes IPO in 12-18 months](https://economictimes.indiatimes.com/markets/stocks/news/brnd-me-converts-into-public-company-eyes-ipo-in-12-18-months/articleshow/131802085.cms)
+BRND.ME, formerly Mensa Brands, has converted into a public company after shifting its corporate base to India. The consumer brands platform is preparing for a potential IPO within 12-18 months, backed by stronger governance, profitability and a streamlined corporate structure.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-17
+
+### [Yes Bank among 6 stocks that hit 52-week highs &amp; rallied up to 15% in a month](https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/131800373.cms)
+Six BSE 200 stocks, including CG Power, Federal Bank, Yes Bank, Polycab India, Varun Beverages and Pidilite Industries, scaled fresh 52-week highs as the Sensex advanced 347 points.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
 ### [IDBI Bank share price rockets 19%. What’s triggering the massive surge?](https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-share-price-rockets-19-whats-triggering-the-massive-surge/articleshow/131792391.cms)
@@ -292,39 +312,36 @@ Prime Focus shares were locked in 5% upper circuit after Sebi closed its investi
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
 
-### [Tata Motors PV Share Price Live Updates: Tata Motors PV Shares Drop Significantly](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-17-jun-2026/liveblog/131784833.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-17-jun-2026/liveblog/131784719.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-17
-
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Trading Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-17-jun-2026/liveblog/131784719.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-17
-
-### [Law firms deepen GIFT City presence as IFSC enters next growth phase](https://www.livemint.com/companies/news/law-firms-deepen-gift-city-presence-as-ifsc-enters-next-growth-phase-11781514846405.html)
-The top law firms are expanding at GIFT City as the IFSC surpasses $100 billion in banking assets and sees fund commitments rise nearly 60-fold since 2020.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-06-17
 
 ### [Inflation, supply chain immediate concerns for Indian insurers, says Aon's Joe Peiser](https://www.livemint.com/companies/inflation-supply-chain-immediate-concerns-for-indian-insurers-says-aons-joe-peiser-11781608118667.html)
 Even as India remains significantly under-insured, recent government measures, such as allowing 100% foreign direct investment (FDI) into the sector, will help bring more insurers into the country, said Joe Peiser, global CEO of risk capital at Aon Insurance Brokers
 
 **Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [Premium push shields Gillette, Whisper makers as supply chain costs rise](https://www.livemint.com/companies/news/procter-gamble-hygiene-and-healthcare-supply-chain-premium-whisper-gillette-india-old-spice-vicks-oral-b-11781614702511.html)
-High-margin offerings like sleep gummies and electric razors are helping the consumer goods majors offset severe raw material inflation triggered by the US-Iran conflict, a top executive said.
+### [Law firms deepen GIFT City presence as IFSC enters next growth phase](https://www.livemint.com/companies/news/law-firms-deepen-gift-city-presence-as-ifsc-enters-next-growth-phase-11781514846405.html)
+The top law firms are expanding at GIFT City as the IFSC surpasses $100 billion in banking assets and sees fund commitments rise nearly 60-fold since 2020.&amp;nbsp;
 
-**Source:** Mint - Pharma  **Date:** 2026-06-16
+**Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [SpaceX tops Amazon and Microsoft in market cap, becomes fourth-largest US company](https://www.livemint.com/companies/news/spacex-overtakes-amazon-in-market-cap-as-stock-rises-8-on-third-day-of-trading-11781617366130.html)
-SpaceX surpassed both Amazon and Microsoft in market cap on Tuesday, becoming the fourth-largest US company as shares surged 13% on its third day of public trading.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-16
-
-### [Zero Silver, Minimum Gold: Why White Oak Capital Isn't Enthused About Shiny Metals](https://www.ndtvprofit.com/markets/why-white-oak-capital-isnt-enthused-about-silver-gold-investments-11648458#publisher=newsstand)
-White Oak Capital's Ramesh Mantri says in-house models recommend zero silver, lowest permissible gold allocation; equities rank ahead of all asset classes right now.
+### [RBI Compounds FEMA Violations In Apollo Hospitals Case After Rs 18.6-Crore Payment](https://www.ndtvprofit.com/business/rbi-compounds-fema-violations-in-apollo-hospitals-case-after-rs-18-6-crore-payment-11649637#publisher=newsstand)
+Apollo Hospitals pays Rs 17.77 crore, while five directors/officers pay Rs 18 lakh each after RBI compounds FEMA contraventions following ED's no-objection.
 
 **Source:** NDTV Profit  **Date:** 2026-06-17
 
-### [Stock Market News Today Live Updates: Nifty Sees Resistance At 24,100, Sensex Gains 300 Points; IDBI Bank, UCO Bank Surge Up To 19%](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-us-fed-rate-fno-futures-11646845#publisher=newsstand)
-Nifty IT was the top gainer, up 0.96%, followed by Media, India defence and Pharma. Nifty Metal and Realty declined the most, falling 0.82% and 0.81% respectively.
+### [SpaceX Shares Turn Negative, Erase Upto 6% Of Gains](https://www.ndtvprofit.com/world/spacex-shares-turn-negative-erase-upto-6-of-gains-11650139#publisher=newsstand)
+Shares of SpaceX started trading in the negative thirty minutes after US markets opened.
+
+**Source:** NDTV Profit  **Date:** 2026-06-17
+
+### [Manipal Hospitals IPO: Temasek-Backed Company Plans $1 Billion Issue In July](https://www.ndtvprofit.com/markets/manipal-hospitals-ipo-temasek-backed-company-plans-1-billion-issue-in-july-11650045#publisher=newsstand)
+Manipal Hospitals filed its draft prospectus with India's market regulator in March.
+
+**Source:** NDTV Profit  **Date:** 2026-06-17
+
+### [Newly Listed Vedanta Power Eyes Hydro, Battery Storage, Nuclear Energy For Future Growth](https://www.ndtvprofit.com/business/newly-listed-vedanta-power-eyes-hydro-battery-storage-nuclear-energy-for-future-growth-11649865#publisher=newsstand)
+Vedanta Power Ltd has listed its shares on the BSE and the National Stock Exchange (NSE).
 
 **Source:** NDTV Profit  **Date:** 2026-06-17
 
