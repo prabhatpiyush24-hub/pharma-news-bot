@@ -1,27 +1,37 @@
 # 🏥 India Pharma Investor Digest — 2026-06-18
 
-> 51 items · 2026-06-18 08:42 UTC
+> 66 items · 2026-06-18 15:21 UTC
 
-## 📊 BSE / NSE Filings (3)
+## 📊 BSE / NSE Filings (4)
 
-### [Lupin: Lupin Launches Azilsartan Medoxomil Tablets in the United States.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2187b131-d47a-4269-94c4-14ef39989a2b.pdf)
-Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
+### [Gland Pharma: Rossari Biotech Limited informed the Exchange that Record date for the purpose of Final Dividend is Friday, July 10, 2026 and Cut off date for E-voting is Monday, July 13, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/45f97355-ea79-4302-8888-7670c8fa84bf.pdf)
+Category: Corp. Action | Sub: Record Date | BSE Code: 543213
 
-**Source:** BSE Filing  **Date:** 2026-06-17
+**Source:** BSE Filing  **Date:** 2026-06-18
 
-### [Sanofi India: This is to inform you that the trading window for trading in the securities of the Company will be closed from Friday, 19th June 2026 until two trading days from the date of declaration ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/8177ccd7-5d4c-4512-ae58-5dfc2445957f.pdf)
-Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 500820
+### [Cipla: Newspaper advertisement titled ''Notice to shareholders for transfer of shares to the Investor Education and Protection Fund''](https://www.bseindia.com/xml-data/corpfiling/AttachLive/684b6035-e99a-4d9e-8c5d-871c976fb0bb.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
 
-**Source:** BSE Filing  **Date:** 2026-06-17
+**Source:** BSE Filing  **Date:** 2026-06-18
 
-### [Vivanza Biosciences Ltd: 1.The Board of Directors of the Company, at its meeting held today, has considered and approved the following transactions. The meeting of the Board of Directors of the Company commenced ....](https://www.bseindia.com/corporates/ann.html?scrip=530057)
-BSE Code: 530057
+### [Gland Pharma: The Annual General Meeting of the Company is scheduled to be held on Monday, July, 20, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/384b1529-8ff5-47f4-afdd-2a7a9129b14d.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 543213
+
+**Source:** BSE Filing  **Date:** 2026-06-18
+
+### [Sudarshan Pharma Industries Ltd: We would like to inform you that the Meeting of the Board of Directors of the COmpany scheduled today, Thursday, 18/June/2026 stands cancelled due to unavoidable reasons.](https://www.bseindia.com/corporates/ann.html?scrip=543828)
+BSE Code: 543828
 
 **Source:** BSE Filing  **Date:** 2026-06-18
 
 ---
 
-## 💰 Results & Financials (16)
+## 💰 Results & Financials (17)
+
+### [Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom](https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-rally-10-after-apple-ceo-tim-cook-says-price-hikes-unavoidable-amid-ai-boom/articleshow/131825252.cms)
+Redington shares surged over 10% after Apple CEO Tim Cook signalled potential price hikes due to rising memory and storage costs driven by AI demand. Investors bet on improved margins for Redington, a key Apple distributor, even as the company reported a year-on-year decline in quarterly profit despite strong revenue growth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
 
 ### [Nykaa shares jump 8% to fresh 52-week high after unveiling FY30 roadmap; targets up to 3x revenue growth](https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-jump-8-to-record-high-after-unveiling-fy30-roadmap-targets-up-to-3x-revenue-growth/articleshow/131822505.cms)
 Nykaa's parent company, FSN E-Commerce Ventures, saw its shares surge over 8% to a 52-week high after unveiling an ambitious FY30 vision. The company aims to achieve a $5 billion gross merchandise value, driven by disciplined execution and capital-efficient investments.
@@ -93,22 +103,27 @@ Milind Sathe analyses how public regulatory dashboards can support pharmaceutica
 
 **Source:** Express Pharma  **Date:** 2026-06-18
 
-### [AP EAMCET 2026 Result To Be OUT Soon: Check Direct Link And Steps To Download Rank Card](https://www.ndtvprofit.com/trending/ap-eamcet-2026-result-to-be-out-soon-check-direct-link-and-steps-to-download-rank-card-11652451#publisher=newsstand)
-No official announcement has been made regarding the new result date yet but the anticipation has built after BIEAP confirmed that AP Inter Supplementary Results 2026 will be out soon
+### [Accenture In Freefall: Stock's 12-Month Decline At 50% After Q3 Triggers Fresh Sell-Off](https://www.ndtvprofit.com/markets/accenture-in-freefall-stocks-12-month-decline-at-50-after-q3-triggers-fresh-sell-off-11655112#publisher=newsstand)
+Accenture narrowed its full-year revenue growth forecast to a range of 3% to 4% in local currency.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
-### [Nykaa Unveils Big FY30 Targets: $5 Billion GMV, 5x EBITDA Growth, Tier-3 Expansion](https://www.ndtvprofit.com/business/nykaas-fy30-roadmap-targets-5x-ebitda-growth-bets-on-fashion-and-offline-expansion-11652992#publisher=newsstand)
-At its investor day, Nykaa said it aims to become a $5 billion-plus gross merchandise value (GMV) platform by FY30, representing roughly 2.5-3 times its current scale.
+### [Accenture Shares Crack 14% As IT Major Trims Revenue Forecast; New Bookings Slip To $19.3 Billion](https://www.ndtvprofit.com/markets/accenture-q3fy26-earnings-full-year-revenue-forecast-trimmed-new-bookings-slip-to-19-3-billion-11654354#publisher=newsstand)
+Accenture generated free cash flow of $3.6 billion during the quarter and returned $2.2 billion to shareholders.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (9)
+## 🤝 Deals, M&A & Partnerships (13)
 
 ### [Vedanta Iron and Steel shares hit 5% upper circuit for fourth straight day, surge 20% since listing](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-shares-hit-5-upper-circuit-for-fourth-straight-day-surge-20-since-listing/articleshow/131820859.cms)
 Vedanta Iron &amp; Steel shares hit the 5% upper circuit for a fourth straight session, extending gains to over 20% since listing. The rally has been fuelled by strong investor interest, Premji Invest’s Rs 102-crore bulk deal, and optimism that Vedanta’s demerger could unlock value in the standalone business.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [Madhu Kela to become investor in Lloyds Engineering as part of SISCOL acquisition, to receive nearly 73 lakh shares](https://economictimes.indiatimes.com/markets/stocks/news/madhu-kela-to-become-investor-in-lloyds-engineering-as-part-of-siscol-acquisition-to-receive-nearly-73-lakh-shares/articleshow/131827306.cms)
+Lloyds Engineering will acquire an 88.12% stake in Steel Infra Solutions Company (SISCOL) for about Rs 1,073 crore through cash and share swaps. The deal expands its engineering, EPC and infrastructure capabilities, adding manufacturing capacity, design centres and a diversified project portfolio.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
@@ -132,6 +147,21 @@ Zee Entertainment Enterprises pulled off a surprise win by securing India's broa
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
+### [Emirates NBD sees India as key growth market after RBL deal closure](https://www.livemint.com/companies/news/emirates-nbd-rbl-bank-deal-banking-sector-india-dubai-financial-market-11781788156893.html)
+Shayne Nelson, Emirates NBD group chief executive said the investment in RBL Bank was a deepening of a long-term commitment to India
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [Trump confirms Apple-Intel partnership to make chips: Will it affect smartphone prices?](https://www.livemint.com/companies/news/trump-confirms-apple-intel-partnership-to-make-chips-will-it-impact-smartphone-prices-11781781064618.html)
+US President Donald Trump said on Thursday that Apple has agreed to work with Intel to design and manufacture its chips in the United States.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [L’Oréal acquires majority stake in Innovist as global giants double down on India](https://www.livemint.com/news/loral-acquires-majority-stake-in-innovist-as-global-giants-double-down-on-india-11781767616115.html)
+Under the agreement, Innovist’s founders Rohit Chawla, Sifat Khurana and Vimal Bhola will retain minority stakes and continue to run the business alongside L’Oréal India
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
 ### [A year in, Cyient CEO reshapes leadership to revive growth](https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html)
 CEO Sukamal Banerjee has brought in at least eight senior executives as the family-led IT firm seeks larger deals, better margins and a turnaround after falling behind peers Coforge and Persistent.
 
@@ -142,23 +172,36 @@ The International Spirits and Wines Association of India has welcomed the newly 
 
 **Source:** Mint - Pharma  **Date:** 2026-06-17
 
-### [Embassy REIT inks  ₹1,250 cr mega GCC lease deal with Target](https://www.livemint.com/companies/news/embassy-reit-gcc-lease-deal-us-retailer-target-bengaluru-real-estate-11781688129358.html)
-The deal is significant as it indicates a massive expansion by Target, which already occupies around 600,000 sq ft in Embassy Manyata in Bengaluru
+### [Apple Deal Effect: Intel Drives AI Chip Rally With 12% Gains; AMD, Micron Join Rally](https://www.ndtvprofit.com/markets/apple-deal-effect-intel-drives-ai-chip-rally-with-12-gains-amd-micron-join-rally-11655492#publisher=newsstand)
+The rally extended the company's remarkable turnaround, with the stock having surged fourfold since the US government announced a 10% stake in the company last August.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-17
+**Source:** NDTV Profit  **Date:** 2026-06-18
 
-### [DMart's Damani, An Infosys Founder, MIT — The Famous Names In NSE's IPO Shareholder List](https://www.ndtvprofit.com/markets/nse-ipo-drhp-reveals-big-names-like-damani-gopalakrishnan-dolly-khanna-and-more-11653137#publisher=newsstand)
-NSE counts a retail billionaire, an Infosys co-founder, and the founder of MCX among its shareholders. None of them are selling.
+### [Upto 90-95% Of Indian Professionals In UK To Benefit From Social Security Agreement Between India, UK](https://www.ndtvprofit.com/economy/upto-90-95-of-indian-professionals-in-uk-to-benefit-from-social-security-agreement-between-india-uk-11655250#publisher=newsstand)
+Professionals of Indian-origin contribute about $0.5 billion each year to the UK social security.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
 ---
 
-## 💸 Corporate Actions (3)
+## 💸 Corporate Actions (5)
 
 ### [Dividend alert! Last day to buy HDFC Bank, Tata Motors PV, 14 other stocks for dividends worth Rs 248](https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hdfc-bank-tata-motors-pv-14-other-stocks-for-dividends-worth-rs-248/articleshow/131815749.cms)
 Under SEBI's T+1 settlement cycle, investors must purchase a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action. Accordingly, today is the last opportunity for investors to buy the shares so that they are credited to their accounts by Friday, making them eligible for the dividends.
 
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [Sebi board to consider reintroducing open-market window for buybacks on Friday](https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-to-consider-reintroducing-open-market-window-for-buybacks-on-friday/articleshow/131830346.cms)
+This Friday, Sebi's board is gearing up for a pivotal meeting focused on several transformative proposals. Among these is the revival of open-market share buybacks, now with a quicker turnaround. Furthermore, the introduction of GARUDA—an innovative green-channel mechanism—looks to streamline the launch process for Alternative Investment Funds.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [Bajaj Auto sets June 24 as record date for Rs 5,632 crore share buyback. Here’s all you need to know](https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-sets-june-24-as-record-date-for-rs-5632-crore-share-buyback-heres-all-you-need-to-know/articleshow/131825425.cms)
+Bajaj Auto has set June 24 as the record date for its substantial Rs 5,633 crore share buyback. Shareholders will be eligible to tender shares at Rs 12,000 each. This price offers a significant premium over the stock's recent closing value. The buyback committee made this decision to determine shareholder entitlements.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [Bajaj Auto Share Price Live Updates: Notice Of Record Date For The Buyback Of Equity Shares Of The Company](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-today-live-18-jun-2026/liveblog/131815751.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
 ### [RIL manifesto: Mukesh Ambani asks top executives to make Reliance world's first AI-native large conglomerate](https://www.livemint.com/companies/news/ril-manifesto-mukesh-ambani-top-executives-reliance-ai-native-conglomerate-ril-agm-11781681979474.html)
@@ -166,33 +209,33 @@ With Reliance's AGM scheduled for Friday, Mukesh Ambani is focusing on AI incorp
 
 **Source:** Mint - Pharma  **Date:** 2026-06-18
 
-### [As NSE Heads To IPO, Here's How It Compares To BSE Across Key Metrics](https://www.ndtvprofit.com/markets/nse-ipo-drhp-shows-how-it-compares-to-bse-across-key-metrics-11653179#publisher=newsstand)
-In FY26, NSE recorded equity index options turnover of Rs 1.25 lakh crore, compared with Rs 48,221 billion on BSE. The exchange also reported single-stock futures turnover of Rs 3.2 lakh crore, while BSE's turnover in the segment stood at Rs 9 billion.
+---
+
+## 🏭 Operations & Approvals (4)
+
+### [Sebi proposes easing margin trading funding rules, tighter broker norms](https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-margin-trading-funding-rules-tighter-broker-norms/articleshow/131832861.cms)
+SEBI has proposed reforms to the Margin Trading Facility, including increasing broker net-worth requirements to Rs 5 crore, permitting LLPs to offer MTF, and expanding funding avenues. These changes aim to enhance operational efficiency and strengthen risk management for brokers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [Bata India names Sanjay Rao as MD &amp; CEO, shares surge over 16%](https://www.livemint.com/companies/news/bata-india-names-sanjay-rao-as-md-ceo-shares-surge-over-16-11781785411130.html)
+Rao succeeds Gunjan Shah, who will conclude his tenure upon completion of his five-year mandate leading the business, Bata India said
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [Akasa Air triples borrowing limit to  ₹3,950 crore, eyes government-backed credit scheme](https://www.livemint.com/companies/akasa-air-borrowing-limit-funding-growth-government-backed-credit-scheme-air-india-express-west-asia-war-11781760658713.html)
+The additional borrowing headroom of ₹2,750 crore will help meet working capital requirements as the airline accelerates expansion.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [GTA 6 Finally Gets Official Pre-Order Date, Reveals Cover Art And Platform Launch; Check Details](https://www.ndtvprofit.com/technology/gta-6-finally-gets-official-pre-order-date-reveals-official-cover-art-and-platform-launch-check-details-11655288#publisher=newsstand)
+GTA VI's official comic book panel style poster was revealed on the game's official website.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
 ---
 
-## 🏭 Operations & Approvals (3)
-
-### [Wipro launches Applied AI Center of Excellence for Claude models — Here's all you need to know](https://www.livemint.com/companies/news/wipro-launches-applied-ai-center-of-excellence-for-claude-models-heres-all-you-need-to-know-11781686478273.html)
-Wipro launches Applied AI Center of Excellence for Claude models, serving as an innovation hub within its AI-Native Business and Platforms Unit. It plans to enhance enterprise AI adoption and integrate it into core business workflows across industries.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-17
-
-### [CtrlS raises  ₹7,000 crore at $4.8 billion valuation to chase India’s AI data centre boom](https://www.livemint.com/companies/news/ctrls-raises-rs7000-crore-4-8-billion-valuation-ai-data-centre-expansion-11781687498706.html)
-CtrlS Datacenters is planning 4GW of data centre capacity by 2031, targeting up to 20% of India’s rapidly expanding AI-driven data centre market.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-17
-
-### [From fintech to aesthetic injectables: Lessons in navigating regulatory formalisation](https://www.expresspharma.in/from-fintech-to-aesthetic-injectables-lessons-in-navigating-regulatory-formalisation/)
-Rishi Agrawal, CEO, TeamLease RegTech cautions that the recent CDSCO clarification on injectable cosmetic products signals a broader shift toward accountability and risk-based regulation for the aesthetics industry.
-
-**Source:** Express Pharma  **Date:** 2026-06-17
-
----
-
-## 📉 Analyst & Brokerage Calls (9)
+## 📉 Analyst & Brokerage Calls (8)
 
 ### [Sun Pharmaceutical among 5 Nifty stocks showing bullish RSI upswing](https://economictimes.indiatimes.com/markets/stocks/news/sun-pharmaceutical-among-5-nifty-stocks-showing-bullish-rsi-upswing/slideshow/131816298.cms)
 Five Nifty50 stocks featured in the RSI Trending Up scan on June 17 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish technical setups.
@@ -229,49 +272,81 @@ If the grey market trend holds through listing, the stock could open with gains 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
-### [Sun Pharma Stock - analyst consensus and strategy snapshot - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVVGZTRHQWppY2UyNWh6Z1Zlc2lkR3VTX1JKUnZzSXJKUzhRZ1dycDJnTU41OU56bHlTa2dKbXJ2aXR6MERORXhka1hwand5X013SlZyMlZNWXdOSU01NEdJWWU1UEpVZ3E1ek9Rb3NXcDA1NnNUZGRCUkxxUVNtWG9KSndFSUxibnR1QUR0Z1JvZjhnWXAxUnRDSnB2cjNCT3loNEx4TXNRaS1Cd1c0MkIyV3pRUQ?oc=5)
-Sun Pharma Stock - analyst consensus and strategy snapshot &nbsp;&nbsp; AD HOC NEWS
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-06-17
-
-### [NSE IPO OFS: Who's Selling Shares And Who Isn't? DRHP Reveals Plans Of Its Biggest Shareholders](https://www.ndtvprofit.com/markets/nse-ipo-ofs-whos-selling-shares-and-who-isnt-drhp-reveals-plans-of-its-biggest-shareholders-lic-sbi-damani-11652971#publisher=newsstand)
-The proposed 14.89 crore-share NSE IPO is entirely an offer for sale, with several institutional investors planning to pare holdings while others stay invested.
+### [Neeraj Chopra Says World Championships Appearance With Back Injury Was 'Not A Good Decision'](https://www.ndtvprofit.com/sports/neeraj-chopra-says-world-championships-appearance-with-back-injury-was-not-a-good-decision-11655435#publisher=newsstand)
+It was in Doha that Neeraj Chopra, under the mentorship of javelin world record holder Jan Zelezny, breached the coveted 90m mark.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
 ---
 
-## 📰 Industry & Policy News (8)
+## 📰 Industry & Policy News (15)
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Trading Insights](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-18-jun-2026/liveblog/131815738.cms)
+### [RBI extends Keki Mistry's term as HDFC Bank interim chairman by 3 months](https://www.livemint.com/companies/news/hdfc-bank-keki-mistry-interim-chairman-atanu-chakraborty-rbi-11781785630432.html)
+Mistry's extension comes amid HDFC Bank’s board meeting on Thursday to review the findings of law firms appointed to examine concerns raised by former chairman Atanu Chakraborty in his resignation letter dated 17 March.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [Apollo Hospital Share Price Live Updates: Today's Trading Insights for Apollo Hospital](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-18-jun-2026/liveblog/131815738.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-18-jun-2026/liveblog/131815726.cms)
+### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Market Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-18-jun-2026/liveblog/131815726.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-18-jun-2026/liveblog/131815718.cms)
+### [Dr Reddys Share Price Live Updates: Dr. Reddys Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-18-jun-2026/liveblog/131815718.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
-### [Sensex trades flat, Nifty below 24,050 as markets snap gaining streak after Fed’s hawkish signal](https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-nifty-below-24100-as-markets-snap-gaining-streak-after-feds-hawkish-signal/articleshow/131816682.cms)
-Indian stock market is trading lower as Sensex and Nifty snap a four-session gaining streak after a hawkish US Federal Reserve tone raised rate hike expectations. IT stocks lead losses, while broader markets remain resilient. India VIX eases and market breadth stays positive despite weak benchmark performance.
+### [Bharat Forge, GE Vernova among 10 midcap stocks that hit 52-week highs &amp; rallied up to 20% in a month](https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-ge-vernova-among-10-midcap-stocks-that-hit-52-week-highs-amp-rallied-up-to-20-in-a-month/slideshow/131828391.cms)
+The Sensex rose 254 points to close at 77,409 on Thursday, lifting broader markets. Ten BSE 150 MidCap stocks touched fresh 52-week highs, signalling strong investor confidence. GE Vernova T&amp;D India led gains, while banking, infrastructure and industrial stocks also advanced.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
-### [Titan Company Share Price Live Updates: Titan Company shares decline slightly](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-updates-18-jun-2026/liveblog/131815699.cms)
+### [IFCI, HFCL among 14 stocks that rallied up to 50% in just one month - Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/ifci-hfcl-among-14-stocks-that-rallied-up-to-50-in-just-one-month-do-you-own-any/slideshow/131823972.cms)
+While benchmark indices moved steadily, broader market momentum surged, with many BSE 500 stocks delivering double-digit gains, several rallying 25–50% in a month, highlighting strong stock-specific performance beneath calm markets.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [Sensex rises 254 points, Nifty closes above 24,150; IndiGo, Trent among top gainers](https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-nifty-below-24100-as-markets-snap-gaining-streak-after-feds-hawkish-signal/articleshow/131816682.cms)
+Indian stock markets closed higher on Thursday, with Sensex and Nifty extending gains for a fifth consecutive session. Despite a hawkish US Federal Reserve, which signaled potential rate hikes due to inflation, domestic equities maintained a positive bias. Banking stocks led the gains, while IT stocks saw a decline.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-18
+
+### [IFC plans $371 million investment in data centre operator Sify Infinit Spaces](https://www.livemint.com/companies/news/ifc-plans-371-million-investment-in-data-center-operator-sify-infinit-spaces-11781785695839.html)
+Earlier this year, Sify Infinit Spaces, the data centre arm of Sify Technologies, received the regulator’s nod to raise about ₹3,700 crore through an initial public offering (IPO). However, the IPO has been delayed due to market volatility.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [Bata India shares surge 16% after Nike Retail executive is appointed CEO](https://www.livemint.com/companies/news/bata-india-shares-surge-16-after-nike-retail-executive-appointed-ceo-11781783818821.html)
+The company has been working on a turnaround plan including a pivot to woo Gen-Z shoppers.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [SBI board approves  ₹60,000 crore fundraising plan via bonds in FY27](https://www.livemint.com/companies/news/sbi-rs-60000-crore-bond-raising-plan-fy27-basel-iii-bonds-capital-growth-11781778566871.html)
+India's largest lender may tap domestic and overseas debt markets through Basel III-compliant, tier-I and tier-II bonds as it looks to fund growth and bolster capital.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
+
+### [Jeff Bezos rejects AI job loss fears, says technology will create a 'labor shortage' instead](https://www.livemint.com/companies/people/jeff-bezos-rejects-ai-job-loss-fears-says-technology-will-create-a-labor-shortage-instead-11781778683889.html)
+At a time when companies worldwide are trimming jobs and embracing AI, Amazon's Jeff Bezos has offered a different outlook. Speaking at a technology conference in Paris, the billionaire argued that AI will not make humans obsolete but instead create a labour shortage.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-18
 
 ### [We’re building for global markets, not just domestic scale](https://www.expresspharma.in/were-building-for-global-markets-not-just-domestic-scale/)
 As the next-generation leader of the company, Nupur Shah, CEO of Cyano Pharma is steering the 60-year-old pharmaceutical company through a period of transformation while preserving its legacy of trust and quality. In an exclusive interview with Swati Rana, she discusses Cyano Pharma's growth roadmap, international ambitions, AI adoption, industry-academia collaboration, and her vision for building globally competitive healthcare businesses from India.
 
 **Source:** Express Pharma  **Date:** 2026-06-18
 
-### [ICICI Prudential Life Insurance Shares Gain 3% As Promoter Seeks To Retain 21.9% Stake](https://www.ndtvprofit.com/markets/icici-prudential-life-insurance-share-price-gains-3-as-promoter-seeks-to-retain-21-9-stake-11653154#publisher=newsstand)
-ICICI Prudential Life Insurance Shares Gain 3% As Promoter Seeks To Retain 21.9% Stake
+### [Accenture Shares Slump 19% In Biggest One-Day Drop; Infosys, Wipro ADRs Slide Up To 8%](https://www.ndtvprofit.com/markets/accenture-shares-slump-19-in-biggest-one-day-drop-infosys-wipro-adrs-slide-up-to-8-11655307#publisher=newsstand)
+ADRs of Infosys fell more than 8% and Wipro declined over 4%.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
-### [LIC Surges 2.5% In A Falling Market Due To NSE IPO Connection — Details Inside](https://www.ndtvprofit.com/markets/nse-ipo-impact-lic-surges-2-in-a-falling-market-heres-why-11652993#publisher=newsstand)
-LIC's rally comes at a time when Nifty is trading 0.11% in the red, with major largecap peers also trading with cuts.
+### [HDFC Property Fund, HDFC Capital Advisors Pay Rs 26 Lakh To Settle SEBI Case Over Regulatory Violations](https://www.ndtvprofit.com/markets/hdfc-property-fund-hdfc-capital-advisors-pay-rs-26-lakh-to-settle-sebi-case-over-regulatory-violations-11655315#publisher=newsstand)
+SEBI settled proceedings against HDFC entities after a Rs 26 lakh payment over fund closure delays.
+
+**Source:** NDTV Profit  **Date:** 2026-06-18
+
+### [TrueAlt Bioenergy Gets Financial Assistance Worth Rs 150 Crore For Sustainable Aviation Fuel Project](https://www.ndtvprofit.com/business/truealt-bioenergy-gets-financial-assistance-worth-rs-150-crore-for-sustainable-aviation-fuel-project-11655111#publisher=newsstand)
+The financial assistance is set to incentivise close to 710% of the project's capital expenditure.
 
 **Source:** NDTV Profit  **Date:** 2026-06-18
 
