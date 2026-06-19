@@ -1,11 +1,16 @@
 # 🏥 India Pharma Investor Digest — 2026-06-19
 
-> 67 items · 2026-06-19 09:05 UTC
+> 71 items · 2026-06-19 15:11 UTC
 
-## 📊 BSE / NSE Filings (5)
+## 📊 BSE / NSE Filings (10)
 
 ### [Aurobindo Pharma: Intimation of receipt of necessary approvals from US Federal Trade Commission (FTC) for the acquisition of Lannett business.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/014fd9d3-a64f-49fc-be22-96b14c6c56a1.pdf)
 Category: Company Update | Sub: General | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-06-19
+
+### [Sanofi India: The Management representatives would be meeting the members of the Promoter(s) & Promoter(s) Group on Friday, 26th June 2026, 4 pm onwards in Mumbai to brief them on the financial performance ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f1616a21-2ed0-40ac-96eb-6ab104741c65.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-06-19
 
@@ -24,14 +29,34 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-06-18
 
+### [Biocon: The Trading Window for dealing in Securities of the Company will be closed from Wednesday, July 01, 2026 for the consideration and approval of the Unaudited Financial Results of the Company ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d417be83-8ada-40ac-8895-0da67b66ca14.pdf)
+Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-06-19
+
+### [Biocon: Intimation regarding the newspaper publication regarding Twenty-First Annual General Meeting of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/54d6196a-19da-4ec5-a056-c8449a257c51.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-06-19
+
+### [Gland Pharma: Newspaper publication of Notice of information regarding the 17th Annual General Meeting of the Company scheduled to be held on Monday, July 20, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb7ade7b-80d4-4082-a977-ddd6294b7c9b.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 543213
+
+**Source:** BSE Filing  **Date:** 2026-06-19
+
 ### [Gland Pharma: The Annual General Meeting of the Company is scheduled to be held on Monday, July, 20, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/384b1529-8ff5-47f4-afdd-2a7a9129b14d.pdf)
 Category: AGM/EGM | Sub: AGM | BSE Code: 543213
 
 **Source:** BSE Filing  **Date:** 2026-06-18
 
+### [Johnson Pharmacare Ltd: Submission of Audited Financial Results of Jhonson Pharmacare ltd for the quarter and year ended on March 31st March 2026](https://www.bseindia.com/corporates/ann.html?scrip=532154)
+BSE Code: 532154
+
+**Source:** BSE Filing  **Date:** 2026-06-19
+
 ---
 
-## 💰 Results & Financials (13)
+## 💰 Results & Financials (19)
 
 ### [Explained: Why Accenture's warning sparked a Rs 1.35 lakh crore meltdown for TCS, Infosys, other IT stocks](https://economictimes.indiatimes.com/markets/stocks/news/explained-why-accentures-warning-sparked-a-rs-1-35-lakh-crore-meltdown-for-tcs-infosys-other-it-stocks/articleshow/131847136.cms)
 Indian IT majors faced a brutal sell-off, losing Rs 1.35 lakh crore after Accenture's revenue guidance cut. Structural fears around AI replacing traditional services and geopolitical headwinds are deepening the sector's pain. Analysts anticipate further moderation and a shift towards M&amp;A and new client acquisition to counter slowing growth.
@@ -53,8 +78,8 @@ Infosys share price: Infosys shares plummeted 9% to a near 6-year low, losing ne
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Reliance Industries shares in focus ahead of 49th AGM. What are shareholders expecting from Mukesh Ambani?](https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-ahead-of-49th-agm-what-are-shareholders-expecting-from-mukesh-ambani/articleshow/131845679.cms)
-Reliance Industries shares are in focus ahead of the 49th AGM, with investors tracking possible updates on the Jio IPO, Reliance Retail listing timeline and AI investments. Sentiment remains cautious as the stock trades below recent highs, while Q4 results showed mixed earnings with profit decline and revenue growth.
+### [RIL AGM: Reliance Industries shares fall 2% amid Mukesh Ambani's big announcements at 49th AGM](https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-ahead-of-49th-agm-what-are-shareholders-expecting-from-mukesh-ambani/articleshow/131845679.cms)
+Reliance Industries shares dipped nearly 2% despite Chairman Mukesh Ambani announcing the approved Jio DRHP for a $4 billion IPO. The company also revealed significant AI investment plans and provided updates on its retail and O2C segments, while reporting a Q4 FY26 net profit decline.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
@@ -63,13 +88,18 @@ Indian IT stocks, including TCS and Infosys, tumbled up to 8% after Accenture lo
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom](https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-rally-10-after-apple-ceo-tim-cook-says-price-hikes-unavoidable-amid-ai-boom/articleshow/131825252.cms)
-Redington shares surged over 10% after Apple CEO Tim Cook signalled potential price hikes due to rising memory and storage costs driven by AI demand. Investors bet on improved margins for Redington, a key Apple distributor, even as the company reported a year-on-year decline in quarterly profit despite strong revenue growth.
+### [₹4 crore from selling 3D-printed fidget toys! A teacher quit her job to build a business with her dad - Here's her story](https://www.livemint.com/companies/people/4-crore-from-selling-3d-printed-fidget-toys-a-teacher-quit-her-job-to-build-a-business-with-her-dad-heres-her-story-11781876585965.html)
+Victoria Essie Studio, founded by Victoria Baumann and her father, has tapped into the fidget toy market, generating $428,000 in revenue in 2025. And these toys are not just for kids.
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
+**Source:** Mint - Pharma  **Date:** 2026-06-19
 
 ### [Max Healthcare among 3 largecap stocks flashing bullish signals, hinting at a possible uptrend](https://economictimes.indiatimes.com/markets/stocks/news/max-healthcare-among-3-largecap-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131845149.cms)
 Three largecap stocks appeared on the White Marubozu bullish scanner on June 18, signalling strong buying momentum across select counters. The candlestick pattern reflects sustained bullish sentiment throughout the session, with buyers maintaining control from open to close, indicating potential continuation of upward momentum in the near term.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
+
+### [RIL AGM: Jio listing soon, but anybody's guess on Reliance Retail IPO. Here's what Mukesh Ambani said](https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-jio-listing-soon-but-anybodys-guess-on-reliance-retail-ipo-heres-what-mukesh-ambani-said/articleshow/131857230.cms)
+Reliance Industries Chairman Mukesh Ambani steered clear of any timeline for the much-anticipated Reliance Retail IPO at the recent annual general meeting. Instead, he emphasized the retail giant's impressive scale, profitability, and ambitious growth plans. While investors hoped for listing updates, Ambani highlighted the business's strong operating performance and its expanding role in India's consumption landscape, leaving IPO expectations to linger.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
@@ -88,17 +118,42 @@ Reliance Industries Chairman Mukesh Ambani faces shareholder scrutiny at the AGM
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Turtlemint IPO Live Updates: Turtlemint Fintech Solutions IPO witness weak overall participation, retail category booked 18%. Check GMP and key dates](https://economictimes.indiatimes.com/markets/stocks/live-blog/turtlemint-ipo-share-price-live-updates-listing-date-expert-review-subscription-status-stock-market-news/liveblog/131845193.cms)
+### [Turtlemint IPO Live Updates: Turtlemint Fintech Solutions IPO witness weak overall participation, retail category booked 19%. Check GMP and key dates](https://economictimes.indiatimes.com/markets/stocks/live-blog/turtlemint-ipo-share-price-live-updates-listing-date-expert-review-subscription-status-stock-market-news/liveblog/131845193.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
+
+### [Nestle Sets Record Date For Final Dividend; To Declare Q1 Results On July 22: Check Details](https://www.ndtvprofit.com/markets/nestle-sets-record-date-for-final-dividend-to-declare-q1-results-on-july-22-check-details-11660608#publisher=newsstand)
+Nestle India Q1 results details
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
+
+### [Infosys Q1 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More](https://www.ndtvprofit.com/markets/infosys-q1-results-date-dividend-share-price-history-earnings-call-schedule-and-more-11638461#publisher=newsstand)
+Infosys Results Date, Time, And More.
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
+
+### [Axis Bank Q1 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More](https://www.ndtvprofit.com/markets/axis-bank-q1-results-date-dividend-share-price-history-earnings-call-schedule-and-more-11659192#publisher=newsstand)
+Axis Bank Q1 result details.
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
 
 ### [DIA Medical Writing & Scientific Communications Conference 2026 scheduled in Bengaluru](https://www.expresspharma.in/dia-medical-writing-scientific-communications-conference-2026-scheduled-in-bengaluru/)
 Two-day conference to focus on regulatory writing, AI governance, patient-centric communication, and evolving scientific communication practices
 
 **Source:** Express Pharma  **Date:** 2026-06-19
 
+### [Peddi Box Office Collection Day 16: Ram Charan's Film Remains Steady Amid New Releases, Earns This Amount](https://www.ndtvprofit.com/business/peddi-box-office-collection-day-16-ram-charans-film-remains-steady-amid-new-releases-earns-this-amount-11660707#publisher=newsstand)
+Peddi stars Ram Charan, Janhvi Kapoor, Divyendu Sharma, Jagapathi Babu and Shivarajkumar in key roles.
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
+
+### [Jio IPO To Doubling Consolidated Ebitda In Five Years — RIL AGM 2026 Key Highlights](https://www.ndtvprofit.com/business/jio-ipo-to-doubling-consolidated-ebitda-in-five-years-ril-agm-2026-key-highlights-11660557#publisher=newsstand)
+Reliance announced significant investments in artificial intelligence, saying AI will be integrated across its businesses to improve efficiency, customer experience and operations.
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (10)
+## 🤝 Deals, M&A & Partnerships (6)
 
 ### [Vedanta Aluminium, other demerged stocks surge up to 5%. Which has been the best performer since market debut?](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-other-demerged-stocks-surge-up-to-5-which-has-been-the-best-performed-since-market-debut/articleshow/131848713.cms)
 Vedanta’s newly listed demerged entities outperformed the broader market on Friday, with shares of Vedanta Aluminium Metal, Vedanta Iron and Steel, Vedanta Power and Vedanta Oil and Gas rising up to 5%. The rally comes days after their market debut following Vedanta’s mega demerger.
@@ -107,11 +162,6 @@ Vedanta’s newly listed demerged entities outperformed the broader market on Fr
 
 ### [Emirates NBD completes acquisition of RBL Bank](https://economictimes.indiatimes.com/markets/stocks/news/emirates-nbd-completes-acquisition-of-rbl-bank/articleshow/131844171.cms)
 The investment was completed through a preferential allotment of 929.1 million fully paid-up equity shares of RBL Bank at Rs 280 per share, aggregating to about Rs 26,016 crore. As a result of the allotment, RBL Bank's total share count has more than doubled -to 1.5485 billion from about 619.4 million.
-
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
-
-### [Madhu Kela to become investor in Lloyds Engineering as part of SISCOL acquisition, to receive nearly 73 lakh shares](https://economictimes.indiatimes.com/markets/stocks/news/madhu-kela-to-become-investor-in-lloyds-engineering-as-part-of-siscol-acquisition-to-receive-nearly-73-lakh-shares/articleshow/131827306.cms)
-Lloyds Engineering will acquire an 88.12% stake in Steel Infra Solutions Company (SISCOL) for about Rs 1,073 crore through cash and share swaps. The deal expands its engineering, EPC and infrastructure capabilities, adding manufacturing capacity, design centres and a diversified project portfolio.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
@@ -125,44 +175,29 @@ Indian markets showed strength on Thursday, with the Nifty gaining 82 points. In
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Market Trading Guide: Radico Khaitan among 2 stock recommendations for Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-radico-khaitan-among-2-stock-recommendations-for-friday/articleshow/131834744.cms)
-Domestic markets remained range-bound with a positive bias as optimism from the US-Iran peace deal faded amid hawkish Federal Reserve commentary. Rising energy-driven inflation concerns kept investors cautious. Analysts recommended VTL and Radico Khaitan, citing bullish breakouts, strong momentum and potential upside.
+### [Jio eyes $230 billion global opportunity with 5G, feature phone tech](https://www.livemint.com/companies/news/jio-platforms-eyes-230-billion-global-opportunity-with-5g-feature-phone-tech-ipo-11781877096715.html)
+Jio Platforms is eyeing a $230 billion global opportunity by exporting its 5G stack, fixed wireless access tech and feature phone OS to international telecom operators. The company plans entry via partnerships, licensing and managed services rather than direct operations.
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
+**Source:** Mint - Pharma  **Date:** 2026-06-19
 
-### [Emirates NBD sees India as key growth market after RBL deal closure](https://www.livemint.com/companies/news/emirates-nbd-rbl-bank-deal-banking-sector-india-dubai-financial-market-11781788156893.html)
-Shayne Nelson, Emirates NBD group chief executive said the investment in RBL Bank was a deepening of a long-term commitment to India
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [Trump confirms Apple-Intel partnership to make chips: Will it affect smartphone prices?](https://www.livemint.com/companies/news/trump-confirms-apple-intel-partnership-to-make-chips-will-it-impact-smartphone-prices-11781781064618.html)
-US President Donald Trump said on Thursday that Apple has agreed to work with Intel to design and manufacture its chips in the United States.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [L’Oréal acquires majority stake in Innovist as global giants double down on India](https://www.livemint.com/news/loral-acquires-majority-stake-in-innovist-as-global-giants-double-down-on-india-11781767616115.html)
-Under the agreement, Innovist’s founders Rohit Chawla, Sifat Khurana and Vimal Bhola will retain minority stakes and continue to run the business alongside L’Oréal India
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [Will US-Iran Deal Hold? Israel Launches Fresh Offensive On Lebanon, 16 Killed In Nabatieh](https://www.ndtvprofit.com/world/us-iran-peace-deal-to-derail-israel-launches-fresh-offensive-on-lebanon-16-killed-in-nabatieh-11658064#publisher=newsstand)
-A resident inspects a building damaged in Israeli strikes in the southern port city of Tyre, Lebanon, Thursday, June 18, 2026.
+### [RBI MPC Minutes: Advanced Economic To Pivot Towards Policy Tightening As Inflation Risks Soar](https://www.ndtvprofit.com/economy/rbi-mpc-minutes-advanced-economic-to-pivot-towards-policy-tightening-as-inflation-risks-soar-11660307#publisher=newsstand)
+RBI's Monetary Policy Committee unanimously decided to keep the policy repo rate unchanged at 5.25% earlier in June for the third time in a row.
 
 **Source:** NDTV Profit  **Date:** 2026-06-19
 
 ---
 
-## 💸 Corporate Actions (7)
+## 💸 Corporate Actions (6)
 
-### [Sebi board to consider reintroducing open-market window for buybacks on Friday](https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-to-consider-reintroducing-open-market-window-for-buybacks-on-friday/articleshow/131830346.cms)
-This Friday, Sebi's board is gearing up for a pivotal meeting focused on several transformative proposals. Among these is the revival of open-market share buybacks, now with a quicker turnaround. Furthermore, the introduction of GARUDA—an innovative green-channel mechanism—looks to streamline the launch process for Alternative Investment Funds.
+### [Sebi board meeting: Open market buyback is back and intraday borrowing for MFs; 5 key decisions investors should know](https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-open-market-buyback-is-back-and-intraday-borrowing-for-mfs-5-key-decisions-investors-should-know/articleshow/131859649.cms)
+Sebi approved a series of reforms to improve market efficiency and investor protection. Key changes include the return of exchange-based buybacks, intraday borrowing for mutual funds, faster AIF launches, easier municipal bond fundraising and simplified transmission of securities to legal heirs.
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Bajaj Auto sets June 24 as record date for Rs 5,632 crore share buyback. Here’s all you need to know](https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-sets-june-24-as-record-date-for-rs-5632-crore-share-buyback-heres-all-you-need-to-know/articleshow/131825425.cms)
-Bajaj Auto has set June 24 as the record date for its substantial Rs 5,633 crore share buyback. Shareholders will be eligible to tender shares at Rs 12,000 each. This price offers a significant premium over the stock's recent closing value. The buyback committee made this decision to determine shareholder entitlements.
+### [Sebi board approves reintroducing open-market window for share buybacks from August 1](https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-approves-reintroducing-open-market-window-for-buybacks/articleshow/131858365.cms)
+Securities and Exchange Board of India (SEBI) has given the green light to reintroduce open market buybacks for companies, effective August 1. This new route allows firms to repurchase shares directly from stock exchanges, a mechanism previously discontinued. The move aims to offer a more efficient and equitable way for companies to return capital to shareholders, complementing existing tender offer methods.
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
 
 ### [Will Jio IPO finally get a date today? What to expect from Mukesh Ambani at RIL AGM](https://economictimes.indiatimes.com/markets/stocks/news/will-jio-ipo-finally-get-a-date-today-what-to-expect-from-mukesh-ambani-at-ril-agm/articleshow/131845839.cms)
 Reliance Industries shareholders eagerly await Mukesh Ambani's address at the 49th AGM, seeking a definitive Jio IPO date as the company's stock faces pressure. Investors are also looking for updates on Reliance Retail's potential listing, AI investments, and green energy initiatives, with several key deadlines approaching.
@@ -184,19 +219,9 @@ The announcements made at Reliance’s annual general meetings have a significan
 
 **Source:** Mint - Pharma  **Date:** 2026-06-19
 
-### [HDFC Bank, Polycab India, Tata Communications, Sanofi Dividend Record Date: Last Day To Buy Shares To Qualify](https://www.ndtvprofit.com/markets/hdfc-bank-polycab-india-tata-communications-sanofi-torrent-power-dividend-record-date-last-day-to-buy-shares-to-qualify-11652226#publisher=newsstand)
-Dividend Record Date: Last Day To Buy Shares To Qualify
-
-**Source:** NDTV Profit  **Date:** 2026-06-19
-
 ---
 
-## 🏭 Operations & Approvals (7)
-
-### [Urban Harvest in talks to raise  ₹300 crore at  ₹1,500 crore valuation](https://www.livemint.com/companies/news/b2b-foodtech-startup-urban-harvest-in-advanced-talks-to-raise-300-crore-11781850174520.html)
-The B2B food-tech startup backed by Info Edge, Red Chillies and the Mankind Pharma family office plans warehouse expansion as it scales its restaurant-supplies business.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-19
+## 🏭 Operations & Approvals (3)
 
 ### [Multibagger Paras Defence shares rocket 28% in just 3 sessions. What’s behind the stellar rise?](https://economictimes.indiatimes.com/markets/stocks/news/multibagger-paras-defence-shares-rocket-28-in-just-3-sessions-whats-behind-the-stellar-rise/articleshow/131848599.cms)
 Paras Defence shares surged 28% in three sessions, extending a strong rally driven by optimism around India’s expanding defence manufacturing ecosystem. Rising domestic production, growing exports, institutional interest and expectations of sustained defence spending have strengthened sentiment around the sector and boosted investor confidence.
@@ -208,29 +233,14 @@ The Securities and Exchange Board of India (Sebi) has proposed significant chang
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Sebi proposes easing margin trading funding rules, tighter broker norms](https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-margin-trading-funding-rules-tighter-broker-norms/articleshow/131832861.cms)
-SEBI has proposed reforms to the Margin Trading Facility, including increasing broker net-worth requirements to Rs 5 crore, permitting LLPs to offer MTF, and expanding funding avenues. These changes aim to enhance operational efficiency and strengthen risk management for brokers.
-
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
-
 ### [Cordelia Cruises to launch  ₹585-crore IPO next week](https://www.livemint.com/companies/cordelia-cruises-to-launch-585-crore-ipo-next-week-ports-11781784352397.html)
 Cordelia Cruises, the first Indian cruise line to go public, plans to use up to ₹480 crore from the IPO proceeds towards deposits, advance lease rentals and monthly lease payments to Baycruise Shipping and Leasing, its step-down subsidiary.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-18
 
-### [Bata India names Sanjay Rao as MD &amp; CEO, shares surge over 16%](https://www.livemint.com/companies/news/bata-india-names-sanjay-rao-as-md-ceo-shares-surge-over-16-11781785411130.html)
-Rao succeeds Gunjan Shah, who will conclude his tenure upon completion of his five-year mandate leading the business, Bata India said
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [Rajesh Exports Rises 27% In Five Days After Hitting 52-Week Low](https://www.ndtvprofit.com/markets/rajesh-exports-rises-27-in-five-days-after-hitting-52-week-low-11658453#publisher=newsstand)
-The stock had come under sharp selling pressure after SEBI's June 3 order, falling to a 52-week low of Rs 77.05 last week after declining for seven consecutive sessions.
-
-**Source:** NDTV Profit  **Date:** 2026-06-19
-
 ---
 
-## 📉 Analyst & Brokerage Calls (7)
+## 📉 Analyst & Brokerage Calls (13)
 
 ### [Blue Sapphire promoter taps 360 ONE for private credit to buy out PE investors in AIMS](https://www.livemint.com/companies/news/aims-promoter-raises-rs-415-crore-private-credit-buyback-orbimed-bii-stake-11781761485572.html)
 360 ONE-backed funding of ₹415 crore helped Pandey family consolidate full ownership of Delhi-NCR hospital chain amid rising promoter-led buyouts in private credit market.
@@ -242,8 +252,8 @@ The Nifty IT index slumped over 6% to a three-year low after Accenture’s guida
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Why is market falling today? Sensex slumps 800 points, Nifty below 23,950. IT selloff among 5 key triggers](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-slumps-700-points-nifty-slips-below-24000-it-selloff-among-5-key-triggers/articleshow/131846268.cms)
-Indian stock markets experienced a sharp downturn on Friday. The Sensex and Nifty saw significant declines, ending a five-day rally. Heavy selling pressure in IT stocks and weak global sentiment impacted investor confidence. Major IT companies like Infosys and TCS were among the biggest losers. The broader market also faced selling pressure, indicating a cautious trading environment.
+### [Why did market fall today? Sensex slumps 600 points, Nifty closes below 24,050. IT selloff among 5 key triggers](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-slumps-700-points-nifty-slips-below-24000-it-selloff-among-5-key-triggers/articleshow/131846268.cms)
+Indian equities experienced a sharp decline on Friday, snapping a five-day winning streak as IT stocks faced heavy selling pressure. Weak global cues and the cancellation of US-Iran peace talks further dampened investor sentiment, leading to significant drops in the Sensex and Nifty.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
@@ -257,6 +267,9 @@ We have collated a list of recommendations from top brokerage firms from ETNow a
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
+### [Sensex | Nifty | Stock Market Highlights: Sensex snaps 5-day winning run, ends 600 pts lower, Nifty holds 24K; Jio Platforms files DRHP](https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tcs-infosys-share-price-19-june-2026/liveblog/131844651.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
+
 ### [Hot Stocks: 3 stocks that may give returns between 11-36%](https://economictimes.indiatimes.com/markets/stocks/news/hot-stocks-3-stocks-that-may-give-returns-between-11-36/articleshow/131844149.cms)
 Analysts are recommending several stocks with projected returns ranging from 11% to 36%. Key picks include United Spirits, Vedanta Aluminium Metal, and Reliance Industries, with analysts citing strong brand portfolios, favorable policy changes, market deficits, and promising new energy ventures as drivers for potential growth and shareholder returns.
 
@@ -267,17 +280,57 @@ Indian equities ended higher for a fifth straight session, recovering early loss
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-18
 
+### [Silicon Valley, sovereign funds and Ambani sit tight on their Jio stake in potential  ₹35,000 crore offer](https://www.livemint.com/companies/news/silicon-valley-sovereign-funds-and-ambani-sit-tight-on-their-jio-stake-in-potential-35-000-crore-ipo-offer-11781872330334.html)
+Jio Platforms has opted for a fully fresh issue, with existing shareholders including Meta, Google, sovereign wealth funds and private equity investors not selling stock in the proposed listing.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-19
+
+### [This 28-year-old quit law, cleared her student debt and built a  ₹38.5 crore business selling stickers](https://www.livemint.com/companies/people/this-28-year-old-quit-law-cleared-her-student-debt-and-built-a-38-5-crore-business-selling-stickers-11781877987424.html)
+What started as a side hustle selling hand-painted canvases on Etsy eventually helped a 28-year-old entrepreneur pay off more than $75,000 in student debt. Despite earning a law degree from Duke University, Elyse chose to pursue her art business full-time.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-19
+
+### [Jio flags risks to Arpu growth, says tariff hikes may face user resistance](https://www.livemint.com/companies/news/jio-flags-limits-to-tariff-led-growth-as-it-files-for-ipo-11781869066383.html)
+In its IPO filing, Jio Platforms sahigher tariffs could trigger customer churn, plan downgrades and competitive pressures even as it bets on 5G, AI and new connectivity technologies for growth.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-19
+
+### [FIIs Buy Highest Since Early Feb Even As IT Crash Hits D-Street; DIIs Switch To Sell Mode](https://www.ndtvprofit.com/markets/fiis-buy-highest-since-early-feb-even-as-it-crash-hits-d-street-diis-switch-to-sell-mode-11660767#publisher=newsstand)
+FPIs turn net buyers on Friday.
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
+
+### [Gold Down Nearly 25% From January Peak: Buy The Dips? What Analysts Say](https://www.ndtvprofit.com/markets/gold-down-nearly-25-from-january-peak-buy-the-dips-what-analysts-say-11660512#publisher=newsstand)
+Gold has tumbled nearly 25% from its January peak above $5,500/oz, while MCX August gold futures fell over 1% to around Rs 1,47,756 per 10 grams.
+
+**Source:** NDTV Profit  **Date:** 2026-06-19
+
 ---
 
-## 📰 Industry & Policy News (18)
-
-### [RBI extends Keki Mistry's term as HDFC Bank interim chairman by 3 months](https://www.livemint.com/companies/news/hdfc-bank-keki-mistry-interim-chairman-atanu-chakraborty-rbi-11781785630432.html)
-Mistry's extension comes amid HDFC Bank’s board meeting on Thursday to review the findings of law firms appointed to examine concerns raised by former chairman Atanu Chakraborty in his resignation letter dated 17 March.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
+## 📰 Industry & Policy News (14)
 
 ### [NSE IPO: BSE hosts double the listed companies but numbers tell a different story](https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-bse-hosts-double-the-listed-companies-but-numbers-tell-a-different-story/articleshow/131846291.cms)
 As NSE prepares for its massive IPO, its DRHP reveals it significantly outperforms BSE in key trading metrics despite having fewer listed companies. NSE dominates cash, futures, and options markets, while BSE is making strides in equity derivatives. NSE's financials also show a substantial lead over BSE.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
+
+### [Urban Harvest in talks to raise  ₹300 crore at  ₹1,500 crore valuation](https://www.livemint.com/companies/news/b2b-foodtech-startup-urban-harvest-in-advanced-talks-to-raise-300-crore-11781850174520.html)
+The round is expected to include existing investors such as Info Edge, the family office of Mankind Pharma, and angel investor Sandeep Kapadia, among others.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-19
+
+### [Bharat Forge among 6 stocks hitting 52-week highs; surge up to 25% in a month](https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-among-6-stocks-hitting-52-week-highs-surge-up-to-25-in-a-month/slideshow/131859579.cms)
+Despite a significant dip in the benchmark Sensex, six stocks within the BSE200 index achieved new 52-week highs on Friday, signaling robust investor confidence. These outperformers, including GE Vernova T&amp;D India, The Federal Bank, and Polycab India, have demonstrated impressive gains over the past month, suggesting strong upward momentum and potential for continued growth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
+
+### [Jio IPO: Bharti Airtel shares jump 2% as Mukesh Ambani says Jio to file DRHP today](https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bharti-airtel-shares-jump-2-as-mukesh-ambani-says-jio-to-file-drhp-today/articleshow/131855381.cms)
+Bharti Airtel shares rose over 2% after Mukesh Ambani announced Jio Platforms will file its DRHP with SEBI. The proposed IPO could become India’s largest. Jio’s strong subscriber base and valuation outlook highlight intensifying competition with Airtel in the telecom and broadband space.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-19
+
+### [15 largecap stocks still down 30–50% from their yearly highs. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/15-largecap-stocks-still-down-3050-from-their-yearly-highs-do-you-own-any/slideshow/131855348.cms)
+Several largecap stocks in India remain sharply below their 52-week highs amid ongoing market volatility. About 15 companies, including IT and financial names, have corrected 30–50%, reflecting broader market pressure. The list highlights significant drawdowns despite strong fundamentals, offering insight into current market positioning.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
@@ -286,76 +339,43 @@ HDFC Bank's interim chairman, Keki Mistry, has received a three-month extension 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex plunges over 650 points, Nifty below 24K; Jio board approves IPO, co releases DRHP](https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tcs-infosys-share-price-19-june-2026/liveblog/131844651.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-19
-
 ### [Horizon Reclaim shares list at 47% premium over IPO price on BSE SME platform](https://economictimes.indiatimes.com/markets/stocks/news/horizon-reclaim-shares-to-list-today-gmp-suggests-73-premium-over-issue-price/articleshow/131844610.cms)
 Horizon Reclaim (India) debuted on the BSE SME platform with a 46.6% premium, listing at Rs 151 against its IPO price of Rs 103. The Rs 54.27-crore IPO saw an overwhelming subscription of 304.11 times. The company, which manufactures reclaimed rubber, reported strong financial growth in FY26.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-19
 
-### [Bharat Forge, GE Vernova among 10 midcap stocks that hit 52-week highs &amp; rallied up to 20% in a month](https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-ge-vernova-among-10-midcap-stocks-that-hit-52-week-highs-amp-rallied-up-to-20-in-a-month/slideshow/131828391.cms)
-The Sensex rose 254 points to close at 77,409 on Thursday, lifting broader markets. Ten BSE 150 MidCap stocks touched fresh 52-week highs, signalling strong investor confidence. GE Vernova T&amp;D India led gains, while banking, infrastructure and industrial stocks also advanced.
+### [Akash Ambani and team prepare Jio for a historic market debut](https://www.livemint.com/companies/akash-ambani-and-team-prepare-reliance-jio-for-a-historic-market-debut-11781871138780.html)
+The Reliance Group company plans to raise funds through a primary issuance of 270 million equity shares, representing around 2.9% of its post-issue share capital, with proceeds earmarked largely for repayment or prepayment of outstanding borrowings worth ₹27,500 crore.
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
+**Source:** Mint - Pharma  **Date:** 2026-06-19
 
-### [SBI’s board clears record Rs 60,000 cr fundraise in FY27](https://economictimes.indiatimes.com/markets/stocks/news/state-bank-of-india-to-raise-rs-60000-crore-via-bonds-to-boost-support-growth/articleshow/131844037.cms)
-State Bank of India's central board has approved raising up to Rs 60,000 crore this fiscal through rupee and dollar bonds. This move aims to bolster the bank's capital position and support business growth. Funds will be raised via various debt instruments from Indian and overseas investors.
+### [Elon Musk’s SpaceX plans to tap debt markets to raise $20 billion after record IPO: Report](https://www.livemint.com/companies/news/elon-musk-s-spacex-plans-to-tap-debt-markets-to-raise-20-billion-after-record-ipo-11781870886834.html)
+SpaceX plans to raise $20bn through a bond sale to repay a bridge loan taken after merging its AI start-up xAI and X with the rocket company. Details here.
 
-**Source:** Economic Times - Markets  **Date:** 2026-06-18
+**Source:** Mint - Pharma  **Date:** 2026-06-19
+
+### [IPO-bound Jio Platforms weighs satellite network to rival Starlink](https://www.livemint.com/companies/news/jio-sovereign-satellite-constellation-full-5g-migration-2030-ai-infrastructure-11781864523924.html)
+The IPO-bound Jio Platforms is betting on satellite internet and artificial intelligence to drive its next phase of growth, even as Starlink preps for an India debut.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-19
 
 ### [HealthQuad looking at deeper opportunities in new age healthcare with its Fund III](https://www.livemint.com/companies/news/healthquad-announces-first-close-of-fund-iii-11781784097022.html)
 The early growth investor sees a wider and deeper opportunity across new age healthcare models, as demand and the pipeline of entrepreneurs building stronger, lasting businesses continues to grow
 
 **Source:** Mint - Pharma  **Date:** 2026-06-19
 
-### [IFC plans $371 million investment in data centre operator Sify Infinit Spaces](https://www.livemint.com/companies/news/ifc-plans-371-million-investment-in-data-center-operator-sify-infinit-spaces-11781785695839.html)
-Earlier this year, Sify Infinit Spaces, the data centre arm of Sify Technologies, received the regulator’s nod to raise about ₹3,700 crore through an initial public offering (IPO). However, the IPO has been delayed due to market volatility.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [Bata India shares surge 16% after Nike Retail executive is appointed CEO](https://www.livemint.com/companies/news/bata-india-shares-surge-16-after-nike-retail-executive-appointed-ceo-11781783818821.html)
-The company has been working on a turnaround plan including a pivot to woo Gen-Z shoppers.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [SBI board approves  ₹60,000 crore fundraising plan via bonds in FY27](https://www.livemint.com/companies/news/sbi-rs-60000-crore-bond-raising-plan-fy27-basel-iii-bonds-capital-growth-11781778566871.html)
-India's largest lender may tap domestic and overseas debt markets through Basel III-compliant, tier-I and tier-II bonds as it looks to fund growth and bolster capital.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [Jeff Bezos rejects AI job loss fears, says technology will create a 'labor shortage' instead](https://www.livemint.com/companies/people/jeff-bezos-rejects-ai-job-loss-fears-says-technology-will-create-a-labor-shortage-instead-11781778683889.html)
-At a time when companies worldwide are trimming jobs and embracing AI, Amazon's Jeff Bezos has offered a different outlook. Speaking at a technology conference in Paris, the billionaire argued that AI will not make humans obsolete but instead create a labour shortage.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-18
-
-### [Cocktail 2 Reviews: 'Fun, Breezy' Or 'Soulless Sequel'? Internet Divided](https://www.ndtvprofit.com/lifestyle/entertainment-cinema-bollywood-movie-cocktail-2-film-reviews-internet-divided-social-media-x-reactions-11658612#publisher=newsstand)
-Cocktail 2
+### [SEBI Chief Says NSE Settlement Approved Internally, Resolution Expected Soon](https://www.ndtvprofit.com/markets/sebi-chief-says-nse-settlement-approved-internally-resolution-expected-soon-11660359#publisher=newsstand)
+The latest development suggests that one of the key legacy issues that had delayed the exchange's public listing could soon be resolved.
 
 **Source:** NDTV Profit  **Date:** 2026-06-19
 
-### [IOC, BPCL, HPCL Shares Drop 3% After Doubts Over US-Iran Talks As Vance Postpones Switzerland Trip](https://www.ndtvprofit.com/markets/ioc-bpcl-hpcl-shares-drop-2-after-doubts-over-us-iran-talks-as-vance-postpones-switzerland-trip-11658524#publisher=newsstand)
-IOC, BPCL, HPCL shares opened lower and extended losses in afternoon trade.
+### [FIFA World Cup 2026: The Story Behind The Pink Boots Dominating The Pitch](https://www.ndtvprofit.com/sports/business-football-fifa-world-cup-2026-players-pink-boots-luxury-brands-sponsors-nike-adidas-puma-sportswear-footwear-11660172#publisher=newsstand)
+The similarity between boots from competing brands has surprised many observers.
 
 **Source:** NDTV Profit  **Date:** 2026-06-19
 
-### [Bangladesh vs Australia Live Streaming: How To Watch AUS Vs BAN 2nd T20I Live On TV And Online?](https://www.ndtvprofit.com/sports/bangladesh-vs-australia-live-streaming-how-to-watch-ban-vs-aus-2nd-t20i-live-on-tv-and-online-11657477#publisher=newsstand)
-Australia dominated the opening T20I with a polished display in all departments, led by a spin unit that kept Bangladesh under constant pressure. Adam Zampa and Joel Davies starred with three wickets apiece as the hosts were dismissed for just 131 in 19 overs.
-
-**Source:** NDTV Profit  **Date:** 2026-06-19
-
-### [HDFC Bank Shares Fall After RBI Extends Keki Mistry's Tenure As Interim Chairman](https://www.ndtvprofit.com/markets/hdfc-bank-shares-fall-after-rbi-extends-keki-mistrys-tenure-as-interim-chairman-11657612#publisher=newsstand)
-HDFC Bank Share Price Today
-
-**Source:** NDTV Profit  **Date:** 2026-06-19
-
-### [Turtlemint Fintech IPO Opens Today: Soft GMP Signals Cautious Listing Gains](https://www.ndtvprofit.com/markets/turtlemint-fintech-ipo-opens-today-soft-gmp-signals-cautious-listing-gains-11657731#publisher=newsstand)
-The company has fixed the price band at Rs 144 to Rs 152 per share.
-
-**Source:** NDTV Profit  **Date:** 2026-06-19
-
-### [Turtlemint Fintech Solution IPO Opens: Should You Subscribe? Read DRChoksey's Report](https://www.ndtvprofit.com/markets/turtlemint-fintech-solution-ipo-opens-should-you-subscribe-read-drchokseys-report-11657956#publisher=newsstand)
-The shares of Turtlemint are scheduled to list on the NSE and BSE on June 29.
+### [Jio Platforms DRHP: Mega IPO To Fund Rs 27,500 Crore Debt Repayment For RJIL](https://www.ndtvprofit.com/markets/jio-platforms-drhp-mega-ipo-to-fund-rs-27-500-crore-debt-repayment-for-rjil-11659670#publisher=newsstand)
+Jio flagged that it has incurred significant indebtedness which may hinder its ability to meet financial and other obligations, in turn adversely affecting the company's business.
 
 **Source:** NDTV Profit  **Date:** 2026-06-19
 
