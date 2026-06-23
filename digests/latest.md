@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-06-23
 
-> 55 items · 2026-06-23 07:45 UTC
+> 61 items · 2026-06-23 14:45 UTC
 
-## 📊 BSE / NSE Filings (11)
+## 📊 BSE / NSE Filings (14)
 
 ### [Dr. Reddy's Laboratories: Dr Reddys Laboratories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 22/07/2026 ,inter alia, to consider and approve the Un-audited Standalone ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a407c0ff-9d4a-4657-9530-f660ecb07178.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 500124
@@ -29,6 +29,11 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-06-22
 
+### [Biocon: Intimation regarding the newspaper publication regarding Twenty-First Annual General Meeting of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/8400917c-b04f-4800-ac22-a580981a91c7.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-06-23
+
 ### [Biocon: Please find enclosed herewith copy of the Business Responsibility & Sustainability Report for the FY 2025-26](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c6feed7b-bc79-4969-8611-1b0ad603f914.pdf)
 Category: Others | Sub: Business Responsibility and Sustainability Reporting (BRSR) | BSE Code: 532892
 
@@ -49,6 +54,11 @@ Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 52
 
 **Source:** BSE Filing  **Date:** 2026-06-22
 
+### [Ajanta Pharma: Intimation regarding appointment of Independent Directors.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/bad31029-82c9-4364-ba63-c7cd0cddf6de.pdf)
+Category: Company Update | Sub: Change in Directorate | BSE Code: 532955
+
+**Source:** BSE Filing  **Date:** 2026-06-23
+
 ### [Marksans Pharma: Intimation of Closure of Trading Window](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ac64449-1229-44ba-b829-a5c651410887.pdf)
 Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 524208
 
@@ -59,9 +69,14 @@ BSE Code: 531109
 
 **Source:** BSE Filing  **Date:** 2026-06-22
 
+### [Bacil Pharma Ltd: Bacil Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 26/06/2026 ,inter alia, to consider and approve As per Attachment](https://www.bseindia.com/corporates/ann.html?scrip=524516)
+BSE Code: 524516
+
+**Source:** BSE Filing  **Date:** 2026-06-23
+
 ---
 
-## 💰 Results & Financials (7)
+## 💰 Results & Financials (8)
 
 ### [Vedanta shares fall 6% after Rs 2,149 crore block deal; promoter Twin Star likely seller](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-fall-6-after-rs-2149-crore-block-deal-promoter-twin-star-likely-seller/articleshow/131924578.cms)
 Vedanta's stock experienced a significant dip, dropping up to 6% from its intraday peak of Rs 287. This decline followed media speculation that promoter entity Twin Star Holdings likely reduced its stake via a substantial block deal. Around 7.3 crore shares, valued at Rs 2,149 crore, were reportedly traded at Rs 292 each. Further details are anticipated.
@@ -83,6 +98,11 @@ International brokerage Citi initiated coverage on Meesho with a 'Buy' rating, s
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
+### [MF favourites: 12 smallcap stocks surge up to 240% in CY26; 3 turn multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/mf-favourites-12-smallcap-stocks-surge-up-to-240-in-cy26-3-turn-multibaggers/slideshow/131933994.cms)
+Twelve smallcap stocks have surged up to 240% in CY26 so far, with three turning multibaggers, driven by strong mutual fund participation. Data shows rising institutional interest across 202 stocks held by over 50 MF schemes, with MTAR Technologies, HFCL and Apar Industries among the top outperformers this year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-23
+
 ### [Jefferies picks 9 power stocks with upside potential of up to 31%. How many do you own?](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-picks-9-power-stocks-with-upside-potential-of-up-to-31-how-many-do-you-own/slideshow/131924423.cms)
 Jefferies identifies the power sector as a compelling investment theme, anticipating significant growth. The firm has issued Buy ratings on nine power stocks, projecting potential upsides ranging up to 31%. These recommendations are based on evolving market dynamics and strong demand-supply drivers. Investors are encouraged to explore these opportunities for potential gains.
 
@@ -93,14 +113,14 @@ While Kunal Shah will join Meta full-time, stepping away from CRED, Miten Sampat
 
 **Source:** Mint - Pharma  **Date:** 2026-06-22
 
-### [Dr Reddy's Labs Q1 Results: Date, Dividend, Share Price History, And More - NDTV Profit](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnhNeDFybmppMTg1V0NpYzcyTHdpcjlnZEpwZ2o0dEtSOTFXYjJaOHQwQ1libDhKWDBtOVdDRHducFM1OVBqeUd4RGVIR1ROYzhhRDRic3lFenUyY2o3QzVMNlNNc3pwN0FudFJYY3lqU283M3JCdjdXQnRBb2J4TmRNcXNLbDhsRjRzWWpfNGl0QWhlUjF3RUxUSElaTkZacXRadGUzRGhrWG1nT2xLWnVB0gG6AUFVX3lxTE1Pb2c1QTUzX0tjcHFiQ2tBOGtIMXhGZTNrMzlEWHdZbEJ2NlF1MV9ZYng1UmFHeDJ3LXVTbkU3dkRkY3VoVUp6MEhDV1RQM1JUVWZZUFhfLUstM2V3WW8wZ1BXcDM5blYtbF9HN0tCQjhlNlpEcjdsVm9XdU9udkVPRkR4ZUZNVHg0MTJkQ29Fd1M3YTJybGozbnNvMEViTGhDMkVNdjdyLTBiTHg4TjU1QjlzSG5LVUVzdw?oc=5)
-Dr Reddy's Labs Q1 Results: Date, Dividend, Share Price History, And More &nbsp;&nbsp; NDTV Profit
+### [Infosys Says AI Won't Replace It, But Admits Need For Fresh Learnings, New Mental Models](https://www.ndtvprofit.com/business/infosys-says-ai-wont-replace-it-but-admits-need-for-fresh-learnings-new-mental-models-11676554#publisher=newsstand)
+Infosys' senior executive official noted that the AI era requires fresh learning and new mental models.
 
-**Source:** GNews - Dr Reddys  **Date:** 2026-06-22
+**Source:** NDTV Profit  **Date:** 2026-06-23
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (5)
+## 🤝 Deals, M&A & Partnerships (7)
 
 ### [Should investors buy the dip in Vedanta shares after 9% slide? Analysts weigh in](https://economictimes.indiatimes.com/markets/stocks/news/should-investors-buy-the-dip-in-vedanta-shares-after-9-slide-analysts-weigh-in/articleshow/131928110.cms)
 Vedanta shares fell on Tuesday after promoter entity Twin Star Holdings reportedly sold around 7.3 crore shares (1.7% stake) worth ₹2,149 crore through a block deal. Analysts said the stock has turned technically weak after breaking below key support levels and its 100-day EMA, with bearish signals from RSI and MACD indicators.
@@ -112,24 +132,34 @@ Syrma SGS Technology's shares jumped nearly 5% after announcing a significant jo
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
+### [Meta pauses AI programme that tracked employee mouse clicks after internal data Leak](https://www.livemint.com/companies/news/meta-pauses-ai-programme-that-tracked-employee-mouse-clicks-after-internal-data-leak-11782209458043.html)
+Meta has suspended its Model Capability Initiative, an internal AI programme that tracked employee keystrokes and mouse movements, after sensitive staff data including private conversations and performance records was found accessible company-wide.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-23
+
+### [Bharti Airtel increases Airtel Africa holding to 79% in transaction worth  ₹28,000 crore](https://www.livemint.com/companies/news/bharti-airtel-increases-airtel-africa-holding-to-79-in-transaction-worth-rs-28-000-crore-11782209361533.html)
+Bharti Airtel increased its stake in Airtel Africa to 79% through a ₹28,200 crore share-swap agreement. Details here.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-23
+
 ### [Auto components maker Interface in talks to sell majority stake at $300 m valuation](https://www.livemint.com/companies/auto-components-maker-interface-auto-majority-stake-300-million-valuation-private-equity-strategic-investors-11782106677175.html)
 The deal could attract private equity and strategic investors as interest in profitable manufacturing grows amidst changing market demands.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-23
 
-### [Sun Pharma Buys Mumbai-Based Innovcare Lifesciences in Rs 271 Crore Deal - Medical Dialogues](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQk8wMzdUdTd1b0c4cENNbFJZNjFEWDVOb1RqTklvSy05RXB4ZWhLQnM0Yzg5NDRTQjU4bXYzUlBiOUZxODd5dUJ6M19ucGlzc2lPa3BESVh5UVpyZ0dvY3pHNlhjQVN2Z0VMYlZkSEU1d2xoTWtfQnpvZTltNmR2SDQxbFEyMkdwalFjZFRkbUo0b0txbXIxdFJ4Z2t1N2dHM0tzZUxfeF9SRzFjUlZxQk9rVTJCYjFpX0w4NWotalRRWmtiaGNz0gHMAUFVX3lxTE0yMTRnZWhLUDhrZ2lTZ1pLV3NaU204Z1VhMUZiNE9mRWI3UDJJZDVLTElQWUdMbGNDX3B2RFd0RDhJb2hUU3NGQjQyRHN3WHZEZ1FkRWYwSVQ3dngyeHlzMzAyRFdVWEFlNnhRc2VTN1dMN3pGM3VNMDBZejBpZmt0bXFKejZvb3E4Sk0xQkpFTEY0aDRyZFRzaDRONTQ3TGJxazZhdldrRm5aU05JbFlHWUl2UXJzdWxOdFBtRkw2WE5oTGRRd1ROS0NyOQ?oc=5)
-Sun Pharma Buys Mumbai-Based Innovcare Lifesciences in Rs 271 Crore Deal &nbsp;&nbsp; Medical Dialogues
+### [FCNR(B) FAQs: RBI Addresses Queries On Swap Facility, Permits Loans On Deposits](https://www.ndtvprofit.com/economy/fcnr-b-faqs-rbi-addresses-queries-on-swap-facility-permits-loans-on-deposits-11676489#publisher=newsstand)
+The RBI also clarified that under the special swap facility, it will bear the hedging cost only on the principal amount of eligible FCNR(B) deposits and not on the interest component.
 
-**Source:** GNews - India Pharma M&A  **Date:** 2026-06-22
+**Source:** NDTV Profit  **Date:** 2026-06-23
 
-### [DMart's Damani, An Infosys Founder, MIT — The Famous Names In NSE's IPO Shareholder List](https://www.ndtvprofit.com/markets/nse-ipo-drhp-reveals-big-names-like-damani-gopalakrishnan-dolly-khanna-and-more-11653137#publisher=newsstand)
-NSE counts a retail billionaire, an Infosys co-founder, and the founder of MCX among its shareholders. None of them are selling.
+### [Infosys Hirings: 20,000 Freshers Added In A Year Amid AI Bets](https://www.ndtvprofit.com/business/infosys-hirings-20-000-freshers-added-in-a-year-amid-ai-bets-11676269#publisher=newsstand)
+Infosys also secured 96 large deals during the year with a total contract value (TCV) of $14.9 billion, underscoring continued client demand for digital transformation and technology services.
 
 **Source:** NDTV Profit  **Date:** 2026-06-23
 
 ---
 
-## 💸 Corporate Actions (4)
+## 💸 Corporate Actions (2)
 
 ### [JSW Infra launches QIP with promoter stake sale to raise up to  ₹7,503 crore](https://www.livemint.com/companies/jsw-infra-promoter-offer-shares-worth-7-500-crore-to-institutional-investors-11782142189811.html)
 The share offering consists of a total of up to 263.25 million shares, including a fresh issue of 230 million shares under the QIP for a total of ₹6,555 crore and an offer for sale of up to 33.25 million shares worth ₹948 crore by the promoter Sajjan Jindal Family Trust.
@@ -141,32 +171,37 @@ Yash Highvoltage shares surged after ace investor Madhusudan Kela's firm bought 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
-### [SaffronStays pivots to luxury villas and religious tourism](https://www.livemint.com/companies/news/saffronstays-luxury-villas-religious-tourism-11782106706999.html)
-Religious tourism, one of the fastest-growing segments of India's travel industry, will be a key focus area for the company.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-22
-
-### [JSW Infra Shares Gain 4% After Rs 7,503-Crore Worth QIP Launch](https://www.ndtvprofit.com/markets/jsw-infra-shares-gain-4-percent-after-rs-7-503-crore-worth-qip-launch-11674248#publisher=newsstand)
-JSW Infrastructure share price advanced as much as 3.7% to Rs 318.4 apiece.
-
-**Source:** NDTV Profit  **Date:** 2026-06-23
-
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (6)
 
-### [HUL Shares May Rally 21%, Says Motilal Oswal on Strong Volume Growth Outlook — Check Target Price](https://www.ndtvprofit.com/markets/hul-shares-may-rally-21-percent-says-motilal-oswal-on-strong-volume-growth-outlook-check-target-price-11674475#publisher=newsstand)
-Motilal Oswal also highlighted that HUL remains focused on topline growth, backed by volume acceleration alongside new launches across categories and channels.
+### [Govt to sell up to 2% stake in IRFC via OFS; issue opens Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-up-to-2-stake-in-irfc-via-ofs-issue-opens-wednesday/articleshow/131941298.cms)
+The government will launch an OFS in IRFC on Wednesday, offering up to a 2% stake through a base issue and greenshoe option. The share sale is part of the Centre's disinvestment strategy and aims to improve public shareholding, liquidity and compliance with Sebi's minimum public shareholding norms.
 
-**Source:** NDTV Profit  **Date:** 2026-06-23
+**Source:** Economic Times - Markets  **Date:** 2026-06-23
 
-### [Gokaldas to Welspun Living: Motilal Oswal Initiates Coverage On 8 Textile Stocks, Sees Up to 39% Upside — Full List Inside](https://www.ndtvprofit.com/markets/gokaldas-to-welspun-living-motilal-oswal-initiates-coverage-on-eight-textile-stocks-sees-up-to-39-percent-pside-full-list-inside-11674314#publisher=newsstand)
-Motilal Oswal has initiated coverage on Gokaldas Exports, Indo Count with a Buy rating.
+### [From Rs 4,900 crore to Rs 41,300 crore: How Sanjeev Bikhchandani turned 135 startups into a 743% return machine](https://economictimes.indiatimes.com/markets/stocks/news/from-rs-4900-crore-to-rs-41300-crore-how-sanjeev-bikhchandani-turned-135-startups-into-a-743-return-machine/articleshow/131934497.cms)
+Sanjeev Bikhchandani's Info Edge has achieved remarkable capital compounding, deploying Rs 4,900 crore across 135 startups since 2007, now valued at Rs 41,300 crore. Early bets on companies like Zomato and Policybazaar have transformed India's digital landscape. Info Edge's strategic investments in AI and deeptech, even before the global surge, are yielding significant returns, positioning India as a hub for globally relevant tech companies.
 
-**Source:** NDTV Profit  **Date:** 2026-06-23
+**Source:** Economic Times - Markets  **Date:** 2026-06-23
 
-### [Kirloskar OIl Engines' Shares Extend Gains To Second Day — Here's What's Driving The Rally](https://www.ndtvprofit.com/markets/kirloskar-oil-engines-shares-extend-gains-to-second-day-heres-whats-driving-the-rally-11674403#publisher=newsstand)
-On June 19, Kirloskar Oil Engines in an exchange filing informed that it has received a "significant" order from HyperNext. The order comprises 192 MW capacity and includes 96 units of KOEL's 2500 kVA Optiprime Dual Core power systems.
+### [Turtlemint Fintech IPO Day 3: Fully subscribed 1.02x, GMP signals, brokerage views and key details](https://economictimes.indiatimes.com/markets/stocks/news/turtlemint-fintech-ipo-day-3-gmp-subscription-status-brokerage-views-and-key-details/articleshow/131924094.cms)
+Turtlemint Fintech's IPO saw strong demand, fully subscribing on its final day with institutional investors showing significant interest. Despite a modest grey market premium suggesting a subdued listing, the company aims to leverage its extensive PoSP network and digital platform for growth in India's underpenetrated insurance sector. Proceeds will fund technology upgrades and expansion.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-23
+
+### [Akasa shrugs off industry caution, looks to up capacity 30% in FY27](https://www.livemint.com/companies/news/akasa-passenger-capacity-aviation-growth-earnings-air-india-indigo-11782212158191.html)
+The airline said its losses in FY26 were lower than the previous year even with a 30% increase in capacity.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-23
+
+### [Parexel launches Biotech Incubator for early-stage therapeutics](https://www.expresspharma.in/parexel-launches-biotech-incubator-for-early-stage-therapeutics/)
+Initiative will provide clinical and regulatory support to early-stage therapeutics companies through a collaboration with Cape Fear BioCapital
+
+**Source:** Express Pharma  **Date:** 2026-06-23
+
+### [ED Conducts Searches At Rajesh Exports' Mumbai, Bengaluru Premises, Say Sources](https://www.ndtvprofit.com/business/ed-conducts-searches-at-rajesh-exports-mumbai-bengaluru-premises-say-sources-11675968#publisher=newsstand)
+The probes allege forex rule violations by the company, according to sources cited by NDTV Profit.
 
 **Source:** NDTV Profit  **Date:** 2026-06-23
 
@@ -174,8 +209,13 @@ On June 19, Kirloskar Oil Engines in an exchange filing informed that it has rec
 
 ## 📉 Analyst & Brokerage Calls (11)
 
-### [Turtlemint Fintech IPO Day 3: GMP, subscription status, brokerage views and key details](https://economictimes.indiatimes.com/markets/stocks/news/turtlemint-fintech-ipo-day-3-gmp-subscription-status-brokerage-views-and-key-details/articleshow/131924094.cms)
-Turtlemint Fintech Solutions IPO entered its final bidding day with muted grey market sentiment and a modest listing expectation. Subscription stood at 52% on Day 2, led by strong QIB demand. The Rs 883 crore issue includes fresh shares and OFS, while analysts remain divided on listing prospects and long-term outlook.
+### [Why is market falling today? Weak global cues among 5 key triggers behind Rs 6 lakh crore D-St rout](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tanks-550-pts-nifty-tests-23900-key-triggers-behind-nearly-rs-5-lakh-crore-selloff/articleshow/131929692.cms)
+Indian stock markets experienced a significant downturn on Tuesday, with the Sensex and Nifty shedding substantial investor wealth. This decline was fueled by a sharp sell-off in South Korea's Kospi index, renewed fears of US Federal Reserve rate hikes due to rising oil prices, and a resumption of selling pressure in IT stocks. The weakening Indian rupee also contributed to the negative sentiment, prompting profit-taking among investors.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-23
+
+### [Vedanta Power, Oil &amp; Gas, and Iron shares rally up to 5%; Aluminium sheds 3%. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-oil-gas-and-iron-shares-rally-up-to-5-aluminium-sheds-3-should-you-buy-sell-or-hold/articleshow/131927260.cms)
+Vedanta’s newly demerged entities extended their rally, with Oil &amp; Gas, Power and Iron &amp; Steel hitting upper circuits, while Aluminium slipped despite Citi’s bullish outlook. Brokerages remain constructive on select businesses, though views differ on valuations as investors assess growth, cyclicality and execution risks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
@@ -214,32 +254,34 @@ Five stocks in the Nifty50 pack featured in the RSI Trending Up scan on June 22 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
+### [Coming soon:  ₹2 lakh foldable smartphones from Samsung and Apple](https://www.livemint.com/companies/news/2-lakh-smartphones-samsung-apple-foldable-phones-memory-chip-prices-raw-material-costs-11782194035310.html)
+With high raw material costs and increased engineering expenses, analysts predict the upcoming foldable devices will set high price points, with potential implications for consumer affordability.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-23
+
 ### [India among EQT Asia's strongest exit markets, says co-head Hari Gopalakrishnan](https://www.livemint.com/companies/eqt-asia-hari-gopalakrishnan-on-india-growth-ai-and-private-equity-opportunities-11782184146432.html)
 Fresh off raising Asia-Pacific’s largest PE fund, EQT sees India as a key growth market, driven by underpenetrated buyouts, family-business transitions and long-term economic tailwinds.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-23
 
-### [Minority shareholders ask Supreme Court to revive Jindal Poly class action lawsuit](https://www.livemint.com/companies/news/minority-shareholders-ask-supreme-court-to-revive-jindal-poly-class-action-11782118047264.html)
-A group of 29 investors has sought the recall of the Supreme Court's arbitration order, arguing India’s first corporate class action suit was settled without hearing all shareholders represented in the case.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-22
-
-### [Amber Enterprises Shares: HDFC Securities Ups Target Price But Retains 'Reduce' — Here's Why](https://www.ndtvprofit.com/markets/amber-enterprises-shares-hdfc-securities-ups-target-price-but-retains-reduce-heres-why-11674192#publisher=newsstand)
-HDFC Securities has raised its target price on Amber Enterprises, while maintaining a Reduce' rating.
-
-**Source:** NDTV Profit  **Date:** 2026-06-23
-
 ---
 
-## 📰 Industry & Policy News (14)
+## 📰 Industry & Policy News (13)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Performance Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-23-jun-2026/liveblog/131923390.cms)
+### [Aditya Birla Capital raises  ₹4,000 crore from promoters, IFC via preferential share allotment](https://www.livemint.com/companies/aditya-birla-capital-raises-4-000-crore-from-promoters-ifc-via-preferential-share-allotment-11782219637113.html)
+Aditya Birla Capital raised ₹4,000 crore via a preferential share allotment to promoters Grasim Industries and Suryaja Investments, and to IFC.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-06-23
+
+### [GE Vernova among 9 midcap stocks hit 52-week highs, rally up to 25% in a month](https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-among-9-midcap-stocks-hit-52-week-highs-rally-up-to-25-in-a-month/slideshow/131939412.cms)
+Despite a sharp fall in the Sensex, nine BSE MidCap stocks including GE Vernova, Bharat Forge and Laurus Labs hit fresh 52-week highs, gaining up to 25% in a month on strong investor interest.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
-### [Cipla Share Price Live Updates: Cipla's Stock Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-23-jun-2026/liveblog/131923374.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-23-jun-2026/liveblog/131923390.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-23-jun-2026/liveblog/131923326.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-23-jun-2026/liveblog/131923374.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
 ### [Rs 1.5 lakh crore behind 2025! Can Jio, NSE and other mega IPOs put 2026 on course for another record year?](https://economictimes.indiatimes.com/markets/stocks/news/rs-1-5-lakh-crore-behind-2025-can-jio-nse-and-other-mega-ipos-put-2026-on-course-for-another-record-year/articleshow/131925206.cms)
@@ -252,18 +294,23 @@ South Korean stocks experienced a sharp decline of over 4% on Tuesday, with the 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-23
 
-### [Axis Bank hires McKinsey veteran as AI officer to drive enterprise-wide push](https://www.livemint.com/companies/news/axis-bank-hires-mckinsey-veteran-as-ai-officer-to-drive-enterprise-wide-push-11782124767059.html)
-Namrata Dubashi joins as AI chief to lead a 50-member team and integrate the technology across the bank’s operations.
+### [SpaceX lost nearly $1 tn since its peak, but Elon Musk retained his trillionaire status - A breakdown of his net worth](https://www.livemint.com/companies/people/spacex-lost-nearly-1-tn-since-its-peak-but-elon-musk-retained-his-trillionaire-status-a-breakdown-of-his-net-worth-11782218052895.html)
+The IPO pullback has hit retail investors hard. Concurrently, Elon Musk's net worth decreased too as SpaceX shares declined over 30% from their initial surge post-listing on June 12.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-22
+**Source:** Mint - Pharma  **Date:** 2026-06-23
 
-### [Sun Pharma included in 2026 S&P Dow Jones Best-in-Class World Index](https://www.expresspharma.in/sun-pharma-included-in-2026-sp-dow-jones-best-in-class-world-index/)
-Inclusion based on S&#038;P Global sustainability assessment covering global companies across markets
+### [Ranchi Student's CBSE Class 12 Score Jumps From 95.2% To Perfect 500/500 After Re-Evaluation](https://www.ndtvprofit.com/india/ranchi-student-s-cbse-class-12-score-jumps-from-95-2-to-perfect-500-500-after-re-evaluation-watch-11675648#publisher=newsstand)
+The accomplishment sparked varied responses on the social media, with numerous individuals showing sheer astonishment at how anyone could achieve perfect scores in a language course.
 
-**Source:** Express Pharma  **Date:** 2026-06-22
+**Source:** NDTV Profit  **Date:** 2026-06-23
 
-### [Piramal Pharma Share Price Spikes Over 10% — What Is Driving The Rally?](https://www.ndtvprofit.com/markets/piramal-pharma-shares-surge-over-10-percent-following-multiple-global-regulatory-approvals-11674176#publisher=newsstand)
-Piramal Pharma Shares Surge Over 10%
+### [FIFA World Cup: One Dead, Several Injured In Stampede During Live Screening In Jordan Capital](https://www.ndtvprofit.com/world/football-fifa-world-cup-2026-one-dead-several-injured-in-stampede-during-live-screening-in-jordan-capital-11676325#publisher=newsstand)
+The Jordan men's national football team.
+
+**Source:** NDTV Profit  **Date:** 2026-06-23
+
+### [China Axed 12,000 Degrees For AI. India Needs Its Own Degree Overhaul](https://www.ndtvprofit.com/economy/opinion-china-axed-12-000-degrees-for-ai-india-needs-its-own-degree-overhaul-11676528#publisher=newsstand)
+China is reshaping education for the AI era. Can India reform fast enough to keep pace?
 
 **Source:** NDTV Profit  **Date:** 2026-06-23
 
@@ -272,28 +319,13 @@ Jaipur-based Advit Jewels IPO will open today
 
 **Source:** NDTV Profit  **Date:** 2026-06-23
 
-### [Cordelia Cruises Operator Waterways Leisure Tourism IPO Day 1: Check Subscription Status, GMP, Key Details, And More](https://www.ndtvprofit.com/markets/cordelia-cruises-operator-waterways-leisure-tourism-ipo-day-1-check-subscription-status-gmp-key-details-and-more-11674374#publisher=newsstand)
-Cordelia Cruises Operator Waterways Leisure Tourism IPO Day 1
+### [IPO GMP Today: Turtlemint Fintech, Advit Jewels, Waterways Leisure Tourism Lead Grey Market Buzz; Check Latest Premiums](https://www.ndtvprofit.com/markets/ipo-gmp-today-turtlemint-fintech-advit-jewels-waterways-leisure-tourism-grey-market-premium-signals-strong-listing-gains-11674974#publisher=newsstand)
+Shares of Advit Jewels and Waterways Leisure Tourism will list on July 1.
 
 **Source:** NDTV Profit  **Date:** 2026-06-23
 
-### [Advit Jewels IPO Day 1: Check Subscription Status, GMP, Key Details, And More](https://www.ndtvprofit.com/markets/advit-jewels-ipo-day-1-check-subscription-status-gmp-key-details-and-more-11674446#publisher=newsstand)
-Advit Jewels IPO Day 1
-
-**Source:** NDTV Profit  **Date:** 2026-06-23
-
-### [Stock Market News Today Live Updates:Nifty Sees Support At 24,100, Bank Nifty At 57,800 Amid F&O Expiry; Kospi Trading Resumes After Circuit Breaker Lifts](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11673650#publisher=newsstand)
-Nifty IT and Nifty Metal fell 1.22% each, leading losses among sectoral indices. Nifty Pharma rose 0.90%, while Nifty Media gained 0.52% and Nifty India Defence advanced 0.33%.
-
-**Source:** NDTV Profit  **Date:** 2026-06-23
-
-### [Turtlemint Fintech Solutions IPO Day 3: Check GMP, Subscription Status, Key Details, And More](https://www.ndtvprofit.com/markets/turtlemint-fintech-solutions-ipo-day-3-check-gmp-subscription-status-key-details-and-more-11674287#publisher=newsstand)
-Turtlemint Fintech Solutions IPO Day 2
-
-**Source:** NDTV Profit  **Date:** 2026-06-23
-
-### [Turtlemint Fintech Solutions IPO Day 2: Check GMP, Subscription Status, Key Details, And More](https://www.ndtvprofit.com/markets/turtlemint-fintech-solutions-ipo-day-2-check-subscription-status-key-details-gmp-and-more-11669469#publisher=newsstand)
-Turtlemint Fintech Solutions IPO Day 2
+### [Canada's Fairfax Picks Up $1-Billion Indian Govt Bonds Amid Eye On IDBI Bank Stake: Report](https://www.ndtvprofit.com/business/canadas-fairfax-picks-up-1-billion-indian-govt-bonds-amid-eye-on-idbi-bank-stake-report-11676073#publisher=newsstand)
+India's recent move to exempt foreign investors in government bonds from capital gains tax reportedly helped make the investment attractive.
 
 **Source:** NDTV Profit  **Date:** 2026-06-23
 
