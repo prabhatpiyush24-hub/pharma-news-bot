@@ -1,13 +1,23 @@
 # 🏥 India Pharma Investor Digest — 2026-06-25
 
-> 57 items · 2026-06-25 07:42 UTC
+> 56 items · 2026-06-25 14:28 UTC
 
-## 📊 BSE / NSE Filings (13)
+## 📊 BSE / NSE Filings (17)
 
 ### [Cipla: Cipla Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/07/2026 ,inter alia, to consider and approve the unaudited standalone and consolidated ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a4c62f6f-a910-419b-982e-68eacc1fbc41.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-06-24
+
+### [Aurobindo Pharma: Intimation of completion of acquisition.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7919f377-13ae-40f9-beeb-2167ce71648f.pdf)
+Category: Company Update | Sub: Acquisition | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-06-25
+
+### [Natco Pharma: The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Saurabhkumar R Patel & Others](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9ba9101a-0cf1-4e1d-9398-2275ac104f8b.pdf)
+Category: Insider Trading / SAST | Sub: Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-06-25
 
 ### [Sanofi India: The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on June 24, 2026 for Sattvva Holding & Trading Pvt Ltd](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a4472561-3bba-47e5-9213-2a43ea962280.pdf)
 Category: Insider Trading / SAST | Sub: Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011 | BSE Code: 500820
@@ -16,6 +26,21 @@ Category: Insider Trading / SAST | Sub: Disclosures under Reg. 31(1) and 31(2) o
 
 ### [Glaxosmithkline Pharma: Max Financial Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/08/2026 ,inter alia, to consider and approve In terms of Regulation ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/69ba294f-7ee6-449d-9dca-a60b98e10355.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-06-25
+
+### [Cipla: Please find attached disclosure on ESG Rating.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/739ca52d-34f6-4838-94b7-bf31b944248b.pdf)
+Category: Company Update | Sub: General | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-06-25
+
+### [Aurobindo Pharma: Intimation of closure of Trading Window](https://www.bseindia.com/xml-data/corpfiling/AttachLive/fb73842f-e76f-4d2c-92ae-b1a37f8262f4.pdf)
+Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-06-25
+
+### [Natco Pharma: Intimation of Closure of Trading Window](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b2ac7eaa-762e-40d1-964e-27b2dd5022a7.pdf)
+Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 539798
 
 **Source:** BSE Filing  **Date:** 2026-06-25
 
@@ -59,24 +84,24 @@ Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 50
 
 **Source:** BSE Filing  **Date:** 2026-06-25
 
-### [Max Financial Services Ltd: Max Financial Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/08/2026 ,inter alia, to consider and approve In terms of Regulation ....](https://www.bseindia.com/corporates/ann.html?scrip=500271)
-BSE Code: 500271
+### [Ishan Dyes and Chemicals Ltd: We are submitting herewith revised Financial Results for the Quarter and Financial year ended 31st March, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=531109)
+BSE Code: 531109
 
 **Source:** BSE Filing  **Date:** 2026-06-25
 
-### [Asston Pharmaceuticals Ltd: Asston Pharmaceuticals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/07/2026 ,inter alia, to consider and approve proposal for raising ....](https://www.bseindia.com/corporates/ann.html?scrip=544445)
-BSE Code: 544445
-
-**Source:** BSE Filing  **Date:** 2026-06-24
-
 ---
 
-## 💰 Results & Financials (8)
+## 💰 Results & Financials (7)
 
 ### [Deeptech startups turn to early revenue to win investor confidence and market traction](https://www.livemint.com/companies/deeptech-startups-turn-to-early-revenue-to-win-investor-confidence-and-market-traction-11782197787844.html)
 Indian deeptech startups are increasingly generating revenue early through adjacent products, services rather than waiting years for their core technologies to mature. The strategy is helping founders attract investors, sustain R&amp;amp;D and build customer relationships
 
 **Source:** Mint - Pharma  **Date:** 2026-06-25
+
+### [Sebi seeks clarification from Jio Platforms on IPO filing](https://economictimes.indiatimes.com/markets/stocks/news/sebi-seeks-clarification-from-jio-platforms-on-ipo-filing/articleshow/131994890.cms)
+India's capital markets regulator Sebi has requested clarifications from Jio Platforms regarding its draft IPO papers. This move signals a crucial step towards what is anticipated to be the nation's largest public offering, aiming to raise approximately Rs 35,000 crore. The company plans to utilize these funds primarily for debt repayment and future expansion, marking a significant value-creation milestone for Reliance Industries.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
 
 ### [Broader market winners! How investors found 15 multibaggers in a muted Nifty year?](https://economictimes.indiatimes.com/markets/stocks/news/broader-market-winners-how-investors-found-15-multibaggers-in-a-muted-nifty-year/articleshow/131982052.cms)
 Despite a subdued Nifty, several Indian stocks have surged, becoming multibaggers for investors. This outperformance is attributed to resilient corporate earnings, particularly in small and mid-cap segments, and company-specific growth drivers. While near-term challenges like rising costs and potential earnings downgrades exist, the overall FY27 outlook remains manageable, with easing geopolitical tensions expected to aid recovery. Investors are advised to focus on fundamentals over momentum.
@@ -98,60 +123,55 @@ India's water sector is experiencing a surge, with stocks like Shakti Pumps and 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [SK Hynix surges 12% as US listing plan boosts valuation hopes](https://economictimes.indiatimes.com/markets/stocks/news/sk-hynix-surges-12-as-us-listing-plan-boosts-valuation-hopes/articleshow/131980529.cms)
-SK Hynix shares surged as much as 12% after the memory chipmaker unveiled plans for a $29 billion US listing, boosting hopes of higher valuations and greater foreign investor participation. The company plans to use the proceeds to expand capacity and acquire advanced chipmaking equipment. Rival Samsung also gained after Micron issued a strong sales forecast, lifting Korea’s Kospi index.
-
-**Source:** Economic Times - Markets  **Date:** 2026-06-25
-
 ### [CDSCO clarifies regulatory pathway for formulation intermediates](https://www.expresspharma.in/cdsco-clarifies-regulatory-pathway-for-formulation-intermediates/)
 According to the circular, formulation intermediates intended for use in modified-release dosage forms, including sustained release (SR), extended release (ER), prolonged release (PR), and delayed release (DR) formulations, will require prior approval from CDSCO under the NDCT Rules, 2019 The post CDSCO clarifies regulatory pathway for formulation intermediates appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-25
 
-### [BDR Pharma launches XATRONEM-AV for multidrug-resistant Gram-negative infections](https://www.expresspharma.in/bdr-pharma-launches-xatronem-av-for-multidrug-resistant-gram-negative-infections/)
-Aztreonam and Avibactam injection introduced for the treatment of serious bacterial infections in hospitalised patients The post BDR Pharma launches XATRONEM-AV for multidrug-resistant Gram-negative infections appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-06-24
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (3)
+## 🤝 Deals, M&A & Partnerships (2)
+
+### [HDFC Mutual Fund buys additional 10 lakh shares of Global Health for Rs 130 crore](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mutual-fund-buys-additional-10-lakh-shares-of-global-health-for-rs-130-crore/articleshow/131995572.cms)
+HDFC Mutual Fund has secured an additional 10 lakh shares of Global Health, which is known for operating Medanta hospitals, from co-founder Sunil Sachdeva for Rs 130 crore. This acquisition builds on a prior purchase made last month. The transaction accounts for a 0.37% stake in the company. In related news, Global Health has reported an impressive 39.7% increase in its fourth-quarter profit after tax, totaling Rs 141.7 crore.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
 
 ### [EXL to acquire AI data firm iMerit for $310 million](https://www.livemint.com/companies/exl-to-acquire-ai-data-firm-imerit-for-310-million-11782310374040.html)
 The acquisition comes as enterprises increasingly move AI projects from experimentation to large-scale deployment, driving demand for high-quality data, model training, and evaluation services
 
 **Source:** Mint - Pharma  **Date:** 2026-06-24
 
-### [Nila Spaces and IKEA partner for B2B push, eye growth in India’s emerging ready-to-live homes market](https://www.livemint.com/companies/news/nila-spaces-and-ikea-partner-for-b2b-push-eye-growth-in-india-s-emerging-ready-to-live-homes-market-11782303542037.html)
-IKEA collaborates with Nila Spaces to tap into India's burgeoning ready-to-move-in home market. The partnership aims to meet the demand for functional homes tailored to modern living needs, signifying a shift in real estate toward convenience and personalization for homebuyers.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-24
-
-### [Apexon signs strategic collaboration agreement with AWS for AI and cloud solutions in healthcare and life sciences](https://www.expresspharma.in/apexon-signs-strategic-collaboration-agreement-with-aws-for-ai-and-cloud-solutions-in-healthcare-and-life-sciences/)
-Collaboration to focus on agentic AI deployment, cloud modernisation and digital engineering for healthcare and life sciences organisations The post Apexon signs strategic collaboration agreement with AWS for AI and cloud solutions in healthcare and life sciences appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-06-24
-
 ---
 
-## 💸 Corporate Actions (2)
+## 💸 Corporate Actions (3)
 
 ### [Sterlite Technologies surges 5% on QIP launch, sets Rs 613.69 floor price](https://economictimes.indiatimes.com/markets/stocks/news/sterlite-technologies-surges-5-on-qip-launch-sets-rs-613-69-floor-price/articleshow/131982771.cms)
 Sterlite Technologies' stock climbed nearly 5% to Rs 613.35 as it officially launched its Qualified Institutions Placement (QIP) to bolster its capital. The company's board and shareholders approved the fundraising, with the Authorization and Allotment Committee setting a floor price of Rs 613.69 per share. This move, coupled with positive technical indicators, has boosted investor confidence, driving the stock's significant rally.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [Usha Martin Bags Bullish Initiation From PL Capital — Check Target Price](https://www.ndtvprofit.com/markets/usha-martin-bags-bullish-initiation-from-pl-capital-check-target-price-11684598#publisher=newsstand)
-The brokerage is bullish on Usha Matin, citing the company's strong positioning in high-performance wire ropes and specialty wire products, along with a strategic shift toward value-added segments and improving global market share.
+### [India's QIP Market Awakens In June: Six Fundraises Completed, Rs 1.7 Lakh Crore In Pipeline](https://www.ndtvprofit.com/markets/india-qualified-institutional-placement-qip-market-awakens-in-june-six-fundraises-completed-11686864#publisher=newsstand)
+The surge in board approvals also indicates that companies want fundraising flexibility if market conditions remain supportive.
+
+**Source:** NDTV Profit  **Date:** 2026-06-25
+
+### [GTA 6 Opens For Pre-Orders: Check India Prices, Bonus Features And Physical Launch Details](https://www.ndtvprofit.com/technology/gta-6-opens-for-pre-orders-check-india-prices-bonus-features-and-physical-launch-details-11686447#publisher=newsstand)
+Users pre-ordering the standard version will have access to the 'Vintage Vice City Pack'.
 
 **Source:** NDTV Profit  **Date:** 2026-06-25
 
 ---
 
-## 🏭 Operations & Approvals (7)
+## 🏭 Operations & Approvals (9)
 
 ### [Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms](https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-shares-rise-4-on-hopes-of-tata-sons-listing-after-rbis-new-norms/articleshow/131983070.cms)
 Tata Sons faces renewed scrutiny after RBI tightened rules for upper-layer NBFCs, reinforcing pressure for mandatory listings above Rs 1 lakh crore in assets. While the conglomerate exceeds the threshold, its de-registration request remains pending. The listing debate has also exposed divisions within Tata Trusts, with leadership opposing a listing while some trustees publicly support it, highlighting internal discord.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
+
+### [EY, KPMG, Deloitte among top 10 auditors by number of companies audited in FY26](https://economictimes.indiatimes.com/markets/stocks/news/ey-kpmg-deloitte-among-top-10-auditors-by-number-of-companies-audited-in-fy26/articleshow/131988224.cms)
+India’s audit market in FY26 remained dominated by large firms, with EY, KPMG and Deloitte leading by audit volume and market capitalisation exposure. Concentration persists, with limited firms handling multiple mandates, while auditor exits and tenure completions signal ongoing churn within the listed companies’ audit ecosystem.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
@@ -170,27 +190,47 @@ Peak XV-backed Toddle has launched a managed fundraising process as investors pi
 
 **Source:** Mint - Pharma  **Date:** 2026-06-25
 
-### [Amazon scales rapid delivery ‘Now’ to 300+ cities; launches ‘Sammaan’ program for delivery partner welfare](https://www.livemint.com/companies/news/amazon-scales-rapid-delivery-now-to-300-cities-launches-sammaan-program-for-delivery-partner-welfare-11782294699012.html)
-Things needed quickly, like groceries, shampoo, baby products, get picked and delivered just minutes after being ordered, Amazon CEO Andy Jassy said, adding that “customers are loving it...”&amp;nbsp;
+### [Long-term growth and credibility of India’s hair restoration industry will depend on strong regulatory oversight, standardised clinical practices, and greater transparency](https://www.expresspharma.in/long-term-growth-and-credibility-of-indias-hair-restoration-industry-will-depend-on-strong-regulatory-oversight-standardised-clinical-practices-and-greater-transparency/)
+India&#8217;s hair restoration industry has witnessed significant growth over the last decade. What are the key factors driving this expansion, and how do you see the market evolving over the [&#8230;] The post Long-term growth and credibility of India’s hair restoration industry will depend on strong regulatory oversight, standardised clinical practices, and greater transparency appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-06-24
+**Source:** Express Pharma  **Date:** 2026-06-25
 
-### [Gautam Adani Launches Vande Bharatam Initiative To Boost Entrepreneurial Talent, Says 'Any Indian Can Do It'](https://www.ndtvprofit.com/business/gautam-adani-launches-vande-bharatam-initiative-to-boost-entrepreneurial-talent-says-any-indian-can-do-it-11684755#publisher=newsstand)
-Gautam Adani, Chairman, Adani Group
+### [Lilly launches Tanstrive (Selpercatinib), a RET inhibitor to treat advanced cancers with RET gene alteration](https://www.expresspharma.in/lilly-launches-tanstrive-selpercatinib-a-ret-inhibitor-to-treat-advanced-cancers-with-ret-gene-alteration/)
+Available in India in 40 mg, 80 mg, 120 mg and 160 mg tablet strengths; administered orally twice daily The post Lilly launches Tanstrive (Selpercatinib), a RET inhibitor to treat advanced cancers with RET gene alteration appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-06-25
+
+### [Bajaj Auto To Strengthen Strategically Important 125CC Plus Domestic Motorcycle Portfolio](https://www.ndtvprofit.com/business/bajaj-auto-to-strengthen-strategically-important-125cc-plus-domestic-motorcycle-portfolio-11686944#publisher=newsstand)
+Bajaj Auto will also look to boost exports given the recovery across key international markets.
 
 **Source:** NDTV Profit  **Date:** 2026-06-25
 
-### [Rajesh Exports' Shares Hit 5% Lower Circuit As ED Flags FEMA Violations](https://www.ndtvprofit.com/markets/rajesh-exports-shares-hit-5-percent-lower-circuit-as-ed-flags-fema-violations-11684695#publisher=newsstand)
-A day after conducting searches at multiple company locations in Bengaluru and Mumbai, the agency said the absence of supporting records had hampered its ability to verify the authenticity of several cross-border transactions.
+### ['Only Exports Trash Talks': Iran's Ghalibaf Denies Claim Of Using Frozen Funds To Buy US Agri Items](https://www.ndtvprofit.com/world/only-exports-trash-talks-irans-ghalibaf-denies-claim-of-using-frozen-funds-to-buy-us-agri-items-11686592#publisher=newsstand)
+The Iranian official framed the US as an unreliable country to hold relations with.
 
 **Source:** NDTV Profit  **Date:** 2026-06-25
 
 ---
 
-## 📉 Analyst & Brokerage Calls (5)
+## 📉 Analyst & Brokerage Calls (7)
 
 ### [Vodafone Idea shares rally 80% in less than 3 months. Time to buy or avoid?](https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-rally-80-in-less-than-3-months-time-to-buy-or-avoid/articleshow/131982249.cms)
 Vodafone Idea shares have seen a dramatic surge, climbing nearly 80% in under three months. This rally, fueled by reduced dues and promoter support, has sparked investor interest. However, experts caution that while short-term gains are possible, underlying structural challenges persist, making it a trader's play rather than a long-term investment. Investors are advised to proceed with caution.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
+
+### [Sebi resolves over 5,500 investor complaints in May via SCORES platform](https://economictimes.indiatimes.com/markets/stocks/news/sebi-resolves-over-5500-investor-complaints-in-may-via-scores-platform/articleshow/131994254.cms)
+Sebi made significant progress in May by resolving over 5,500 investor complaints through its upgraded SCORES platform, significantly decreasing the backlog. The regulator faced nearly 5,000 new grievances, with entities responding in an impressive average of five days. With the introduction of SCORES 2.0, multiple review levels are now in place to ensure swift investor satisfaction and effective grievance handling.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
+
+### [Can Vedanta Aluminium, NALCO shares crash up to 40%? Why InCred sees major downside](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-hindalco-nalco-shares-to-crash-up-to-40-why-incred-is-screaming-sell-on-all-aluminium-stocks/articleshow/131988778.cms)
+InCred Equities has turned bearish on the aluminium sector, advising investors to exit aluminium stocks as it sees a potential 30–40% downside. The brokerage argues that the market is incorrectly valuing aluminium as a supply-constrained primary metal, overlooking its unique nature as a highly recyclable, above-ground resource.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
+
+### [Madhusudan Kela-backed fund buys stake in IPO-bound Steamhouse India for Rs 40 crore](https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-fund-buys-stake-in-ipo-bound-steamhouse-india-for-rs-40-crore/articleshow/131987298.cms)
+Ace investor Madhusudan Kela's funds, along with Niveshaay Sambhav Fund, have injected Rs 49.99 crore into Steamhouse India via a pre-IPO placement. This strategic investment positions these entities to hold nearly 3% of the company's pre-IPO equity. Steamhouse India, a Surat-based firm, operates a unique centralized steam supply model for industries and is preparing for its initial public offering.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
@@ -209,22 +249,26 @@ Seven largecap NSE stocks featured in the RSI Trending Up scan on June 24 after 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [PFC, REC Likely To Enter NBFC Upper Layer Under RBI Framework, PNB Housing May Exit: Brokerages](https://www.ndtvprofit.com/markets/the-nbfc-reshuffle-pfc-rec-likely-to-enter-upper-layer-under-rbis-rs-1-lakh-crore-rule-pnb-housing-may-exit-brokerages-11684529#publisher=newsstand)
-Morgan Stanley and Jefferies believe RBI norms will have a 'manageable impact' on NBFCs
-
-**Source:** NDTV Profit  **Date:** 2026-06-25
-
 ---
 
-## 📰 Industry & Policy News (19)
+## 📰 Industry & Policy News (11)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-25-jun-2026/liveblog/131980833.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-25-jun-2026/liveblog/131980833.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Stock Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-jun-2026/liveblog/131980641.cms)
+### [Oil slide powers India's stock benchmarks to longest weekly winning run 7 months](https://economictimes.indiatimes.com/markets/stocks/news/oil-slide-powers-indias-stock-benchmarks-to-longest-weekly-winning-run-7-months/articleshow/131993629.cms)
+Indian stock markets achieved their longest winning streak in seven months, with the Nifty 50 and BSE Sensex closing higher. Falling crude oil prices and measures to boost the rupee and attract foreign investment bolstered investor confidence. The Reserve Bank of India's stance against near-term rate hikes also supported sentiment, with the pharma and financial sectors showing notable gains.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [Divis Labs Share Price Live Updates: Divis Labs Market Performance Snapshot](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-25-jun-2026/liveblog/131980636.cms)
+### [Sensex closes 109 points higher, Nifty above 24,050; IndiGo, M&amp;M among top gainers](https://economictimes.indiatimes.com/markets/stocks/news/sensex-closes-109-points-higher-nifty-above-24050-indigo-mm-among-top-gainers/articleshow/131990478.cms)
+Indian stock markets closed with modest gains on Sensex monthly expiry day, as both indices erased significant intraday advances. Sensex added 109 points to 77,100.47, and Nifty 50 climbed 34 points to 24,056. Strong performances from IndiGo, M&amp;M, and Maruti Suzuki bolstered the gains, while Power Grid shares saw notable declines. The broader market, however, dipped into the red.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-25
+
+### [13 BSE 500 stocks surged up to 200% in just 3 months; 3 turned multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/13-bse-500-stocks-surged-up-to-200-in-just-3-months-3-turned-multibaggers/slideshow/131987850.cms)
+Despite volatile markets, several stocks delivered exceptional returns, with 13 companies gaining 70–200% in three months. HFCL led the rally, while broader market strength created significant wealth-creation opportunities for investors.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
 ### [Why is market rising today? Sensex soars 800 pts, Nifty above 24,250. 3 key factors powering D-St bulls](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-soars-800-points-nifty-above-24250-key-factors-powering-d-street-bulls/articleshow/131985817.cms)
@@ -252,52 +296,11 @@ Indian stock markets will remain closed on June 26 for Muharram, marking another
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [Nestle India Share Price Live Updates: Nestle India shares reflect positive momentum in the market](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-stock-price-today-live-25-jun-2026/liveblog/131980782.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-25-jun-2026/liveblog/131980765.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-25
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Trading Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-25-jun-2026/liveblog/131980765.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-25
-
-### [Maruti Suzuki Share Price Live Updates: Maruti Suzuki Shares Climb Over 5%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-25-jun-2026/liveblog/131980748.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-25
-
-### [Indigo Paints presses the accelerator, puts growth ahead of margins](https://www.livemint.com/companies/indigo-paints-turns-aggressive-to-gain-market-share-11782283612806.html)
-Indigo Paints will accept a 2-2.5 percentage point hit to gross margins as it ramps up spending on trade and influencer marketing to chase market share, joining Berger, JSW Dulux and Birla Opus in prioritizing growth.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-24
-
-### [Dr Reddy’s whitepaper outlines roadmap for strengthening India’s translational research ecosystem](https://www.expresspharma.in/dr-reddys-whitepaper-outlines-roadmap-for-strengthening-indias-translational-research-ecosystem/)
-Report identifies priorities to improve translational research through collaboration, funding, regulation and clinical data integration The post Dr Reddy’s whitepaper outlines roadmap for strengthening India’s translational research ecosystem appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-06-24
-
-### [Final Day! Advit Jewels IPO GMP Suggests Strong Listing Pop Of 44%; Issue Booked Over 100 Times](https://www.ndtvprofit.com/markets/final-day-advit-jewels-ipo-gmp-suggests-strong-listing-pop-issue-booked-over-44-times-11684268#publisher=newsstand)
-Advit Jewels IPO will conclude its subscription process today
-
-**Source:** NDTV Profit  **Date:** 2026-06-25
-
-### [Stock Market News Today Live Updates: Nifty Nears 24,300, Sensex Surges 800 Points As Brent Crude Falls](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-fno-expiry-futures-11683875#publisher=newsstand)
-Nifty Auto rose 1.63%, while Nifty Realty gained 0.98%, leading gains among sectoral indices, according to NSE data.
-
-**Source:** NDTV Profit  **Date:** 2026-06-25
-
-### [IPO GMP Today: CSM Technologies vs Advit Jewels vs Waterways Leisure — Which IPO Could Deliver the Highest Listing Gain?](https://www.ndtvprofit.com/markets/ipo-gmp-today-csm-technologies-vs-advit-jewels-vs-waterways-leisure-which-ipo-could-deliver-the-highest-listing-gain-11684573#publisher=newsstand)
-Two IPOs of Advit and Waterways Leisure conclude today
-
-**Source:** NDTV Profit  **Date:** 2026-06-25
-
-### [Nifty Rises Nearly 1%, Sensex Up 770 Points: Three Reasons Why Market Is Rising](https://www.ndtvprofit.com/markets/nifty-rises-nearly-1-sensex-up-770-points-three-reasons-why-market-is-rising-11684798#publisher=newsstand)
-The broader indices are trading positively, with Nifty Smallcap 250 flat, higher by just 0.02%, while the Midcap 150 rose 0.22%.
-
-**Source:** NDTV Profit  **Date:** 2026-06-25
-
-### [Why Elon Musk Is No Longer A Trillionaire, And What's His Current Net Worth Today](https://www.ndtvprofit.com/trending/why-elon-musk-is-no-longer-a-trillionaire-and-whats-his-current-net-worth-today-11684200#publisher=newsstand)
-Through this initial public offering (IPO), Musk emerged as the biggest winner as he owns 42% of the company.
-
-**Source:** NDTV Profit  **Date:** 2026-06-25
-
-### [Cordelia Cruises Operator Waterways Leisure Tourism IPO Last Day: Check Subscription Status, GMP, Key Details, And More](https://www.ndtvprofit.com/markets/cordelia-cruises-operator-waterways-leisure-tourism-ipo-day-3-check-subscription-status-gmp-key-details-and-more-11684612#publisher=newsstand)
-Cordelia Cruises Operator Waterways Leisure Tourism IPO Day 3
+### [Muharram 2026 Holiday: Will Banks Remain Closed For Three Consecutive Days?](https://www.ndtvprofit.com/india/muharram-2026-holiday-will-banks-remain-closed-for-three-consecutive-days-11686167#publisher=newsstand)
+Shia community members wave a flag during a procession marking the eighth day of Muharram in Srinagar on Wednesday.
 
 **Source:** NDTV Profit  **Date:** 2026-06-25
 
