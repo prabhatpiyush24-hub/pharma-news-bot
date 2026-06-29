@@ -1,18 +1,23 @@
 # 🏥 India Pharma Investor Digest — 2026-06-29
 
-> 51 items · 2026-06-29 08:56 UTC
+> 58 items · 2026-06-29 15:42 UTC
 
-## 📊 BSE / NSE Filings (5)
+## 📊 BSE / NSE Filings (7)
 
 ### [Ajanta Pharma: Outcome of Board Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/faaaf73f-a213-4fbe-97ea-966dbd764aa1.pdf)
 Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 532955
 
 **Source:** BSE Filing  **Date:** 2026-06-28
 
-### [REC Ltd: Outcome of Board Meeting](https://www.bseindia.com/corporates/ann.html?scrip=532955)
-BSE Code: 532955
+### [Biocon: The Company has rectified the typographical error in the Notice of the 21st Annual General Meeting.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9b53c762-9f03-49d5-90de-c1ca4be76be4.pdf)
+Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 532892
 
-**Source:** BSE Filing  **Date:** 2026-06-28
+**Source:** BSE Filing  **Date:** 2026-06-29
+
+### [Ajanta Pharma: Intimation regarding change in Senior Management.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5790d602-4ae1-4592-8ba0-dcecc86cc88d.pdf)
+Category: Company Update | Sub: Change in Management | BSE Code: 532955
+
+**Source:** BSE Filing  **Date:** 2026-06-29
 
 ### [Ajanta Pharma: Press Release dated June 28, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/00b88e94-c283-47d2-98dc-eec4e1e6eac6.pdf)
 Category: Company Update | Sub: General | BSE Code: 532955
@@ -29,9 +34,14 @@ BSE Code: 539524
 
 **Source:** BSE Filing  **Date:** 2026-06-29
 
+### [Samsrita Labs Ltd: Samsrita Labs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/07/2026 ,inter alia, to consider and approve 1. To consider and draft scheme ....](https://www.bseindia.com/corporates/ann.html?scrip=539267)
+BSE Code: 539267
+
+**Source:** BSE Filing  **Date:** 2026-06-29
+
 ---
 
-## 💰 Results & Financials (9)
+## 💰 Results & Financials (10)
 
 ### [Persistent Systems shares slide 10% after Nagarro deal; Elara retains 'Sell' on growth, margin worries](https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-7-after-1-14-billion-offer-to-buy-germanys-nagarro/articleshow/132062643.cms)
 Persistent Systems' shares dropped significantly following its announcement to acquire German digital engineering firm Nagarro for approximately EUR 1.27 billion. While this move aims to boost European presence and revenue, analysts express concerns about near-term growth and profitability impacts due to the premium acquisition price and Nagarro's weaker financial performance. The deal, financed by a bridge loan, is expected to reduce US market dependence and expand industry verticals.
@@ -43,15 +53,20 @@ Raymond Lifestyle has restructured new CEO Satyaki Ghosh's pay package as the co
 
 **Source:** Mint - Pharma  **Date:** 2026-06-29
 
+### [Bajaj Auto buyback opens July 1; shareholders can tender shares till July 7](https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-buyback-opens-july-1-shareholders-can-tender-shares-till-july-7/articleshow/132070315.cms)
+Bajaj Auto's Rs 5,633 crore share buyback will open for tender on July 1 and close on July 7. Eligible shareholders holding shares as of the June 24 record date can participate through the tender offer. The company said the buyback will not adversely impact its financial position.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
+
 ### [Rs 8,350 crore crash in Persistent shares explained: Why investors are worried about Nagarro deal](https://economictimes.indiatimes.com/markets/stocks/news/rs-8350-crore-crash-in-persistent-shares-explained-why-investors-are-worried-about-nagarro-deal/articleshow/132067201.cms)
 Persistent Systems' shares plunged nearly 11% following its announcement to acquire Germany-based Nagarro for €1.27 billion. While the deal aims to boost European presence and revenue, brokerages expressed caution over pricey valuations and execution risks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Persistent eyes $5 billion annual revenue by 2031 with mega Nagarro buyout](https://www.livemint.com/companies/persistent-eyes-5-billion-annual-revenue-by-2031-with-mega-nagarro-buyout-11782642521776.html)
-The proposed $1.3-billion deal would double the combined group's European business and add crucial SAP and OpenAI capabilities, propelling the company to become India’s seventh-largest IT exporter.
+### [Market Trading Guide: Finolex Cables among 2 stock recommendations for Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-2-stock-recommendations-for-tuesday/articleshow/132074015.cms)
+Domestic equities closed higher on positive Asian cues, falling crude oil prices and hopes of an India-US trade deal. Analysts recommend buying Finolex Cables and Zydus Wellness, citing bullish technical setups, strong moving-average support and breakout patterns with upside potential.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-28
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
 
 ### [2 years, zero returns: Is it time for Nifty investors to be fearful or greedy?](https://economictimes.indiatimes.com/markets/stocks/news/2-years-zero-returns-is-it-time-for-nifty-investors-to-be-fearful-or-greedy/articleshow/132062399.cms)
 Nifty investors face two years of flat returns, mirroring past periods that historically led to significant market recoveries. Data shows that after similar stagnation, one-year gains ranged from 5% to 50%. Valuations have become attractive, and earnings growth is projected to accelerate. Despite some concerns, the current market setup suggests a potential for strong returns as economic fundamentals improve.
@@ -63,24 +78,29 @@ Nifty investors face two years of flat returns, mirroring past periods that hist
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
+### [PayU swings to Ebitda profit in FY26 as payments, credit businesses rally](https://www.livemint.com/companies/company-results/payu-ebitda-profit-fy26-payments-credit-businesses-rally-higher-margin-products-prosus-11782728510773.html)
+Backed by higher-margin products and ecosystem lending, the Prosus-owned fintech firm swung to an $18-million full-year Ebitda profit while exiting lower-value UPI categories.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-29
+
 ### [Strides partners with Ascent Capital to unlock value in Pivot Path](https://www.expresspharma.in/strides-partners-with-ascent-capital-to-unlock-value-in-pivot-path/)
 Deal values Pivot Path at ~₹2.3 billion post-money; Strides to realise ~₹1 billion while retaining around 20 per cent stake. The post Strides partners with Ascent Capital to unlock value in Pivot Path appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-29
 
-### [Nagarro Shares Jump 92% In Xetra Pre-Market After Persistent's Takeover Bid; Deal Risks Remain In Focus](https://www.ndtvprofit.com/markets/nagarro-shares-jump-92-in-xetra-pre-market-after-persistents-takeover-offer-deal-risks-remain-in-focus-11701251#publisher=newsstand)
-According to NDTV Profit Research, one of the biggest concerns is Nagarro's slower growth profile. The company has delivered a three-year revenue CAGR of around 5%, compared with Persistent's 15-18% dollar revenue growth.
-
-**Source:** NDTV Profit  **Date:** 2026-06-29
-
-### [Valuation Comfort: JPMorgan's Mookim Favors India's Large-Cap For Steady Earnings Compounding](https://www.ndtvprofit.com/markets/valuation-comfort-jpmorgans-sanjay-mookim-favors-large-cap-indian-equities-for-steady-earnings-compounding-11701258#publisher=newsstand)
-Sanjay Mookim, Head of India Equity Research, JPMorgan
+### [Supergirl Weekend Box Office Collection: DC Film Finds Stable Footing In India, Check Earnings](https://www.ndtvprofit.com/business/entertainment-cinema-hollywood-movie-supergirl-weekend-box-office-collection-dc-film-finds-stable-footing-in-india-check-earnings-11702668#publisher=newsstand)
+Supergirl Weekend Box Office Collection
 
 **Source:** NDTV Profit  **Date:** 2026-06-29
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (9)
+
+### [Aastha Spintex IPO off to a steady start; issue subscribed 52% on Day 1. Check GMP &amp; key details](https://economictimes.indiatimes.com/markets/stocks/news/aastha-spintex-ipo-off-to-a-steady-start-issue-subscribed-52-on-day-1-check-gmp-key-details/articleshow/132068095.cms)
+Aastha Spintex IPO saw a steady start on Day 1, subscribed 52% by mid-session, with strong NII demand leading the response. The issue carries a 4% grey market premium, indicating modest listing gains. Proceeds will fund Falcon Yarns acquisition, working capital needs, and general corporate purposes.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
 
 ### [PFC-REC merger explained: Swap ratio, rationale, other key details as merger set to create Rs 11 lakh cr power financing giant](https://economictimes.indiatimes.com/markets/stocks/news/pfc-rec-merger-explained-swap-ratio-rationale-other-key-details-as-merger-set-to-create-rs-11-lakh-cr-power-financing-giant/articleshow/132065085.cms)
 The proposed merger of Power Finance Corporation and REC will create India's largest power sector financing institution with a combined loan book exceeding Rs 11 lakh crore. Here's a look at the approved share swap ratio, merger rationale, pending approvals, record date details, and what the restructuring means for shareholders.
@@ -94,6 +114,11 @@ Astral shares fell nearly 6% on Monday after the company’s board approved the 
 
 ### [PFC-REC merger approved! Here's what will happen to your existing shares after mega merger](https://economictimes.indiatimes.com/markets/stocks/news/pfc-rec-merger-approved-heres-what-will-happen-to-your-existing-shares-after-mega-merger/articleshow/132061857.cms)
 PFC and REC boards approved their merger scheme with a share-swap ratio of 88 PFC shares for every 100 REC shares. The merger aims to create India’s largest power financing institution. Analysts advise staggered investment, citing regulatory approvals, execution risks and valuation concerns despite long-term sector support.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
+
+### [BSE announces change in licensing requirements for market data products from Jan 2027](https://economictimes.indiatimes.com/markets/stocks/news/bse-announces-change-in-licensing-requirements-for-market-data-products-from-jan-2027/articleshow/132073033.cms)
+BSE Ltd has announced a significant transition in its management of international licensing for market data products, effective January 1, 2027. This move sees BSE taking charge from Deutsche Börse AG, which previously handled these operations since their 2013 agreement. Clients outside India, however, will experience no disruption in service, while Indian clients maintain their direct access unchanged.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
@@ -112,12 +137,27 @@ The MoU facilitates joint development efforts, allowing both firms to tailor the
 
 **Source:** Mint - Pharma  **Date:** 2026-06-29
 
+### [New Axis? How Israeli Defence Majors 'Supplied' Advanced Tech To Saudi Arabia, Qatar](https://www.ndtvprofit.com/business/new-axis-how-israeli-defence-majors-supplied-advanced-tech-to-saudi-arabia-qatar-11702680#publisher=newsstand)
+The report also cited details from the 2017 US-Qatar agreement for the purchase of F-15QA Ababil fighter jets.
+
+**Source:** NDTV Profit  **Date:** 2026-06-29
+
 ---
 
-## 💸 Corporate Actions (3)
+## 💸 Corporate Actions (5)
+
+### [HAL announces final dividend of Rs 10 for FY26. Check record date and other details](https://economictimes.indiatimes.com/markets/stocks/news/hal-announces-final-dividend-of-rs-10-for-fy26-check-record-date-and-other-details/articleshow/132068280.cms)
+HAL has declared a final dividend of Rs 10 per share (200%) for FY26, subject to shareholder approval at the upcoming AGM. The record date is set for August 14, 2026. The payout will be made within 30 days of approval, along with updates on recent financial performance.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
 
 ### [Dividend alert! Last day to buy Bajaj Finance, 2 other Bajaj Group stocks for dividends worth Rs 138](https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-bajaj-finance-2-other-bajaj-group-stocks-for-dividends-worth-rs-138/articleshow/132066570.cms)
 Investors have a final chance today to buy shares in Bajaj Finance, Bajaj Finserv, and Bajaj Holdings and Investment to be eligible for significant dividends. Bajaj Finance offers Rs 6 per share, Bajaj Finserv Rs 1.50, and Bajaj Holdings and Investment a substantial Rs 130 per share. This opportunity arises due to the T+1 settlement cycle, making today as the last day to secure these payouts.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
+
+### [The AI boom won't burst all at once. It will pop in 'rolling bubbles': Macquarie](https://economictimes.indiatimes.com/markets/stocks/news/the-ai-boom-wont-burst-all-at-once-it-will-pop-in-rolling-bubbles-macquarie/articleshow/132069940.cms)
+Macquarie expects the AI investment boom to unwind through a series of "rolling bubbles" rather than a single crash, as different segments of the AI ecosystem heat up and cool down over time. Global AI investment has surged to about $850 billion in 2026, far exceeding historical technology booms.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
@@ -133,12 +173,17 @@ Three stocks in the NSE mid-cap segment featured in the RSI Trending Up scan on 
 
 ---
 
-## 🏭 Operations & Approvals (10)
+## 🏭 Operations & Approvals (7)
 
 ### [Alembic Pharmaceuticals gets USFDA approval for Dapsone Gel, 5%](https://www.expresspharma.in/alembic-pharmaceuticals-gets-usfda-approval-for-dapsone-gel-5/)
 Dapsone Gel is indicated for the topical treatment of acne vulgaris The post Alembic Pharmaceuticals gets USFDA approval for Dapsone Gel, 5% appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-06-29
+
+### [Yes Bank to raise up to $1.7 billion via equity, debt issue](https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-to-raise-up-to-1-7-billion-via-equity-debt-issue/articleshow/132073288.cms)
+Yes Bank is poised to raise up to ₹160 billion through a strategic mix of equity and debt offerings. The board has approved an equity issuance of as much as ₹75 billion alongside a debt issuance reaching ₹85 billion. This approach is designed to strengthen the bank’s capital framework while minimizing dilution for current shareholders and adhering to regulatory standards.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
 
 ### [Anubhav Plast shares list flat at IPO price of Rs 80 on BSE SME platform](https://economictimes.indiatimes.com/markets/stocks/news/anubhav-plast-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/132061435.cms)
 Anubhav Plast shares debuted at their IPO price of Rs 80 on the BSE SME platform, mirroring grey market expectations. The company's Rs 80 crore IPO saw a 2.18 times subscription, with strong retail investor interest. Anubhav Plast manufactures ERW steel pipes and tubes, and swaged steel tubular poles, primarily for government projects. Proceeds will fund a new facility for crash barriers and solar panel structures.
@@ -150,16 +195,6 @@ A limited-purpose, non-statutory opinion issued by KPMG Switzerland for Global G
 
 **Source:** Mint - Pharma  **Date:** 2026-06-29
 
-### [Raymond’s aerospace vertical growth outpaces precision engineering business](https://www.livemint.com/companies/news/raymond-jkmgal-shifts-to-aerospace-assemblies-amid-india-manufacturing-boom-11782620557793.html)
-Driven by global supply-chain diversification, JK Maini Global Aerospace is clocking a 25% expansion rate and has locked in a ₹2,350-crore order pipeline over the next five years.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-28
-
-### [NoBroker enters home salon market, stays away from instant help for now](https://www.livemint.com/companies/start-ups/nobroker-home-salon-services-instant-help-urban-company-yesmadam-snabbit-pronto-11782622762429.html)
-NoBroker has launched Zivora in Bengaluru and plans to enter NCR, Pune, Hyderabad, Chennai, and Mumbai in the next two months.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-28
-
 ### [Dr Reddys stock gains over 4%; hits 52-week high on near 3X jump in volume - Business Standard](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmNaZm5md1VPQkRYRW5kM3VWT3B6N0RlaHlwVUFUWjl3emJrZHloMk1pTnhEa1dkemxmQW91S3hqSTVqWjZfSWJHYmY0cm5lSXpxdWpUM2VSdlZWaWw4Yl9YX0tvdFAwZFBXQm9SbGpfZzFveDk3eElWeHNULTBEVHFoVHU2LVJsN2YzSGQ0djJ3enVPb3g0ZjBMNXhNTE5YSWZZOHJFcVhTbjVydHVQVU9PUXNLT0xtMmowOERETkZ1OUg3RmNPSWRheUs1aUpiM3N4ZDRuOVhZeknSAdsBQVVfeXFMTkpjWmZuZndVT0JEWEVuZDN1Vk9wejdEZWh5cFVBVFo5d3pia2R5aDJNaU54RGtXZHpsZkFvdUt4akk1alo2X0liR2JmNHJuZUl6cXVqVDNlUnZWVmlsOGJfWF9Lb3RQMGRQV0JvUmxqX2cxb3g5N3hJVnhzVC0wRFRxaFR1Ni1SbDdmM0hkNHYyd3p1T294NGYwTDV4TUxOWElmWThyRXFYU241cnR1UFVPT1FzS09MbTJqMDhERE5GdTlIN0ZjT0lkYXlLNWlKYjNzeGQ0bjlYWXpJ?oc=5)
 Dr Reddys stock gains over 4%; hits 52-week high on near 3X jump in volume &nbsp;&nbsp; Business Standard
 
@@ -170,24 +205,14 @@ Torrent Power Buys Nabha Power, Adani Ports Upgraded; Pharma Faces USFDA Alerts 
 
 **Source:** GNews - India Pharma Export  **Date:** 2026-06-29
 
-### [Russia-Ukraine War: Putin Admits Fuel Shortages Amid Strikes; To Continue Discussions With US](https://www.ndtvprofit.com/world/russia-ukraine-war-putin-admits-fuel-shortages-amid-strikes-to-continue-discussions-with-us-11700326#publisher=newsstand)
-Putin said the priority now was to ramp up Russia's air defense capacity and secure fuel supplies.
-
-**Source:** NDTV Profit  **Date:** 2026-06-29
-
-### [Why India's Nuclear Green Hydrogen Breakthrough Could Be A Game Changer](https://www.ndtvprofit.com/india/why-indias-nuclear-green-hydrogen-breakthrough-could-be-a-game-changer-11700800#publisher=newsstand)
-The Department of Atomic Energy described the facility as a technology demonstrator.
-
-**Source:** NDTV Profit  **Date:** 2026-06-29
-
-### [Aarogya Setu 2.0 Launch Today: Health Minister Nadda To Unveil Revamped Digital App With More Features](https://www.ndtvprofit.com/trending/aarogya-setu-2-0-launch-today-health-minister-nadda-to-unveil-revamped-digital-app-with-more-features-11700747#publisher=newsstand)
-Nadda is expected to launch the app in addition to a series of other health initiatives at 2 p.m. on Monday in New Delhi.
+### [Indian Airlines Reverse Flight Cuts As West Asia Tensions Ease; Overseas Capacity Set To Rise](https://www.ndtvprofit.com/business/indian-airlines-reverse-flight-cuts-as-west-asia-tensions-ease-overseas-capacity-set-to-rise-11703219#publisher=newsstand)
+Indian airlines restore international flights as West Asia tensions ease.
 
 **Source:** NDTV Profit  **Date:** 2026-06-29
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (7)
 
 ### [FIIs double stakes in 14 stocks; rally up to 400% in a year, 5 turn multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/fiis-double-stakes-in-14-stocks-rally-up-to-400-in-a-year-5-turn-multibaggers/slideshow/132066296.cms)
 Foreign Institutional Investors doubled their stakes in 14 stocks within the BSE 1000 universe between March 2025 and March 2026, signalling accumulation. Around 51 stocks saw holdings more than double. Of these, 22 delivered over 25% returns. The highlighted 14 stocks gained 50–400%, with five turning into multibaggers over the year.
@@ -209,40 +234,49 @@ Analysts at Nomura and Jefferies, however, maintain 'Buy' ratings, with Nomura h
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Hyderabad, Mumbai Drive New Housing Supply But Sales Slip Across Metros Barring One](https://www.ndtvprofit.com/business/hyderabad-mumbai-drive-new-housing-supply-but-sales-slip-across-metros-barring-one-11701369#publisher=newsstand)
-Bengaluru is the only major market to hold demand; Pune sees steepest fall; NCR leads price growth at 13%.
+### [Market wrap: Sensex falls 372 points, Nifty closes below 23,950; Kotak Mahindra Bank drops 3%](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-50-points-nifty-above-24050-eternal-sun-pharma-techm-rise-1/articleshow/132062424.cms)
+Indian markets ended lower as Sensex and Nifty snapped a two-session winning streak, pressured by geopolitical tensions in the Middle East and broad-based selling. While pharma outperformed, auto stocks dragged. Analysts flagged near-term volatility but maintained a constructive outlook for Nifty above key support levels amid mixed global cues.
 
-**Source:** NDTV Profit  **Date:** 2026-06-29
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Amid Hormuz Tension, Iran And Oman Hold First Joint Committee Meeting](https://www.ndtvprofit.com/world/amid-hormuz-tension-iran-and-oman-hold-first-joint-committee-meeting-11701280#publisher=newsstand)
-The panel is tasked with examining the future administration of shipping through the Strait of Hormuz.
+### [ESDS eyes debut as India’s first listed data centre operator with  ₹720-crore IPO](https://www.livemint.com/companies/esds-software-solutions-ipo-india-first-listed-data-centre-company-11782720375196.html)
+The Nashik-based company is likely to have increased the size of its fresh issue to ₹720 crore from an initial target of ₹600 crore. The potential public listing of ESDS comes weeks after Sify Infinit Spaces decided to put its planned ₹3,700-crore data centre IPO on hold amid weak market conditions.
 
-**Source:** NDTV Profit  **Date:** 2026-06-29
+**Source:** Mint - Pharma  **Date:** 2026-06-29
 
-### [Major Security Scare Averted In Mumbai: How Police Foiled A Plot To 'Poison 15,000 People'](https://www.ndtvprofit.com/india/major-security-scare-averted-in-mumbai-how-police-foiled-a-plot-to-poison-15-000-people-11700962#publisher=newsstand)
-Premji, a resident of Pune, holds a BBA degree and used to work at his father's paint factory.
-
-**Source:** NDTV Profit  **Date:** 2026-06-29
-
-### [Niva Bupa, Star Health Get Buy Calls As Nomura Initiates On Four Insurers -- Check Target Prices](https://www.ndtvprofit.com/markets/niva-bupa-star-health-get-buy-calls-as-nomura-initiates-on-four-insurers-check-target-prices-11700967#publisher=newsstand)
-Nomura initiated coverage on India's non-life insurance sector with Buy ratings on Niva Bupa and Star Health, while assigning Neutral ratings to ICICI Lombard and PB Fintech amid regulatory uncertainty.
+### [India Lifts Petrol, Diesel Sale Curbs For Commercial Buyers From July 1](https://www.ndtvprofit.com/business/india-lifts-petrol-diesel-sale-curbs-for-commercial-buyers-from-july-1-11703398#publisher=newsstand)
+Under the restrictions, commercial users were not allowed to buy fuel from retail petrol pumps.
 
 **Source:** NDTV Profit  **Date:** 2026-06-29
 
 ---
 
-## 📰 Industry & Policy News (10)
+## 📰 Industry & Policy News (13)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Stock Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-29-jun-2026/liveblog/132061411.cms)
+### [Aurobindo Pharma among 9 mid-cap stocks to hit 52-week highs &amp; rally up to 20% in a month](https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-9-mid-cap-stocks-to-hit-52-week-highs-amp-rally-up-to-20-in-a-month/slideshow/132071494.cms)
+The Sensex fell 372 points on Monday, but nine BSE Midcap stocks touched fresh 52-week highs, signalling resilient investor confidence. Bank of Maharashtra, Thermax, Bharat Forge, Oracle Financial Services and Laurus Labs were among the key outperformers despite broader market weakness.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Market Position](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-29-jun-2026/liveblog/132061397.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-29-jun-2026/liveblog/132061411.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Divis Labs Share Price Live Updates: Divis Labs Trading Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-29-jun-2026/liveblog/132061364.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-29-jun-2026/liveblog/132061397.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Cipla Share Price Live Updates: Cipla's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-29-jun-2026/liveblog/132061353.cms)
+### [Comcast to split cable business from media through NBCUniversal, Sky spinoff](https://www.livemint.com/companies/news/comcast-to-split-cable-business-from-media-through-nbcuniversal-sky-spinoff-11782729670575.html)
+Comcast will split into two publicly traded entities, dividing its broadband operations from its media business. Details here.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-29
+
+### [Microsoft shares head for worst month since 2000 as AI concerns wipe out $570 billion](https://economictimes.indiatimes.com/markets/stocks/news/microsoft-shares-head-for-worst-month-since-2000-as-ai-concerns-wipe-out-570-billion/articleshow/132073656.cms)
+Microsoft shares are heading for their worst month since 2000, falling 17% in June as concerns over heavy AI spending and delayed returns erased $570 billion in value. Weak Azure growth and high capital expenditure outlook weighed on sentiment, though some investors see value at lower valuations.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-29
+
+### [Rail-focused logistics firm Pristine Logistics confidentially files IPO papers with Sebi](https://economictimes.indiatimes.com/markets/stocks/news/rail-focused-logistics-firm-pristine-logistics-confidentially-files-ipo-papers-with-sebi/articleshow/132071096.cms)
+Pristine Logistics and Infraprojects has confidentially filed its DRHP with Sebi for an IPO. The rail-focused multimodal logistics company is expanding terminals, warehousing and cargo operations while strengthening growth with a Rs 3,422 crore coal mining contract and broader infrastructure footprint.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
 ### [Zerodha now wants to enter investment banking space, seeks Sebi nod](https://economictimes.indiatimes.com/markets/stocks/news/zerodha-now-wants-to-enter-investment-banking-space-seeks-sebi-nod/articleshow/132066400.cms)
@@ -255,23 +289,28 @@ The NSE’s quarterly index rebalancing takes effect today, triggering significa
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-29
 
-### [Sensex falls 50 points, Nifty above 24,050; Eternal, Sun Pharma, TechM rise 1% - The Economic Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQanVqZ2ZxVHNNZThHRE0ycERpaEUwMkZmN25zT0pvZzJwbWhYcU1DZlJKZ1lYU01UeXk2SGlIYWxwY1h3MDh3Q2t1SGowNm1CUkdOQ09aMHVGT0tQME0wSl9fUno0NXVPX3FoNWN6Mmlsa3Y0d2VPbk5KU2dmZ3dFdXJpektCTmd3NFFqdGpLTEppWUJLc0xWT2tiUzUyVldvZDNjbkk1LUJoVGtaQVVPSGwwQ2F5eDBoSHBLODZKWVFZMzMwVklaSDJPelhSY0Zsa1lGR21rZzlfV0Z3MzU5MUlXWklXdjDSAewBQVVfeXFMTmtzb0hYd29DWHJDX0VTNzFzSmFCekVLbDZ1WHgxWHlJWFVJQ2R2TjdxMXptLXd3UVU0bkx3S3JXT1YzLTd0WmNLa21Cdm9yTFp3VXE1ejhsR3pWVTZfYlZFMVlkRndBdVk0YUVaRG1ZWFF2ZVFEYklMZ1VWdzVJMmZWa0U4ZE9Oc0RfQmllOWptSElOOF9YNzMzS2JPOFNOR2RWNk1IOVRZcHpub25lVW5BLWdFTTFVQUV6a3dtQU1uVGRWTmdJaEZXVHpwd0RFSXpBTWxzZmZRUVl1TUFxbTBROW5IN2FKNnlydjM?oc=5)
-Sensex falls 50 points, Nifty above 24,050; Eternal, Sun Pharma, TechM rise 1% &nbsp;&nbsp; The Economic Times
+### [AI isn't the biggest regulatory worry for Indian startups, data governance is: Survey](https://www.livemint.com/companies/news/ai-isnt-the-biggest-regulatory-worry-for-indian-startups-data-governance-is-survey-11782730264762.html)
+The study, based on a survey of 550 ecosystem participants, including 350 startups, 100 venture capital (VC) firms and 100 incubators, shows that 44% of respondents identified data governance and digital trust regulations as their primary regulatory concern.
 
-**Source:** GNews - Sun Pharma  **Date:** 2026-06-29
+**Source:** Mint - Pharma  **Date:** 2026-06-29
 
-### [Stock Market News Today Live Updates: Sensex Falls 350 Points, Nifty Slips Below 24,000 To Hit Day's Low; Auto, IT Top Drags](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-f-o-expiry-futures-11700310#publisher=newsstand)
-Stock Market News Today Live Updates: D-Street trades with a positive bias, with Nifty sustaining above 24,000.
+### [BAT layoffs: British American Tobacco to cut 5,500 jobs; outsource 3,500 in major global restructuring](https://www.livemint.com/companies/news/bat-layoffs-british-american-tobacco-to-cut-5-500-jobs-outsource-3-500-in-major-global-restructuring-11782729026186.html)
+BAT is laying off 5,500 employees and outsourcing 3,500 roles as part of a restructuring effort aimed at achieving significant cost savings by 2028, while transitioning towards smoke-free nicotine products in response to shifting market demands.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-29
+
+### [Curry Barker's Obsession Nears Rs 100-Crore Mark In India](https://www.ndtvprofit.com/business/entertainment-cinema-hollywood-movie-curry-barker-horror-film-obsession-nears-rs-100-crore-mark-in-india-box-office-collections-11703098#publisher=newsstand)
+Reacting to the film's extraordinary performance, director Curry Barker admitted he never expected such a response, especially from India.
 
 **Source:** NDTV Profit  **Date:** 2026-06-29
 
-### [Kotak Mahindra Bank Shares Fall 3% After CEO Ashok Vaswani's Exit Plan](https://www.ndtvprofit.com/markets/kotak-mahindra-bank-shares-3-percent-fall-after-ceo-ashok-vaswanis-exit-plan-11700556#publisher=newsstand)
-Kotak Mahindra Bank share price slipped as much as 2.79% to Rs 397.6 apiece.
+### [Yes Bank To Raise Up To Rs 16,000 Crore Via Debt, Equity](https://www.ndtvprofit.com/markets/yes-bank-to-raise-up-to-rs-15-000-crore-via-debt-equity-11703166#publisher=newsstand)
+Shares of Yes Bank fell around 10% on Tuesday to close at Rs 20.95 on the NSE.
 
 **Source:** NDTV Profit  **Date:** 2026-06-29
 
-### [Zerodha Files For SEBI Merchant Banking Licence, Eyes Investment Banking Entry](https://www.ndtvprofit.com/markets/zerodha-files-for-sebi-merchant-banking-licence-eyes-investment-banking-entry-11701004#publisher=newsstand)
-A Category 1 merchant banker licence will allow Zerodha to expand beyond broking into a wider suite of capital market services.
+### [Tech Mahindra To Deploy Perplexity AI Across Sales, Customer-Facing Teams](https://www.ndtvprofit.com/technology/tech-mahindra-to-deploy-perplexity-ai-across-sales-customer-facing-teams-11702919#publisher=newsstand)
+The integration of 'Perplexity Enterprise Pro' aims to equip senior sales leaders and customer partners with intelligent tools to research customer priorities efficiently.
 
 **Source:** NDTV Profit  **Date:** 2026-06-29
 
