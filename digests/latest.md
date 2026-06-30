@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-06-30
 
-> 54 items · 2026-06-30 07:53 UTC
+> 56 items · 2026-06-30 14:15 UTC
 
-## 📊 BSE / NSE Filings (7)
+## 📊 BSE / NSE Filings (10)
 
 ### [Aurobindo Pharma: Intimation of completion of acquisition of Lannet by Aurobindo Pharma USA Inc, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/246ff570-c1c2-400d-b7dd-407bba452288.pdf)
 Category: Company Update | Sub: Acquisition | BSE Code: 524804
@@ -13,6 +13,21 @@ Category: Company Update | Sub: Acquisition | BSE Code: 524804
 Category: Company Update | Sub: Acquisition | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-06-29
+
+### [Dr. Reddy's Laboratories: Please find enclosed Business Responsibility and Sustainability Report FY 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/51cc8d72-75b0-4fd3-bd25-25e02f6877d2.pdf)
+Category: Others | Sub: Business Responsibility and Sustainability Reporting (BRSR) | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-06-30
+
+### [Dr. Reddy's Laboratories: Please find enclosed Notice of the 42nd Annual General Meeting of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3a52590c-c633-4555-9b98-ddc4f482e9fc.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-06-30
+
+### [Dr. Reddy's Laboratories: Please find enclosed Integrated Annual Report FY 2025-26](https://www.bseindia.com/xml-data/corpfiling/AttachLive/09ad6af3-c9ed-4b75-a5d5-33565a3b6f77.pdf)
+Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-06-30
 
 ### [Divis Lab: Intimation of closure of Trading Window from July 01, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d98b98b7-0984-469b-8232-e8edce816829.pdf)
 Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 532488
@@ -34,22 +49,37 @@ Category: Company Update | Sub: Allotment of Equity Shares | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-06-29
 
-### [Samsrita Labs Ltd: Samsrita Labs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/07/2026 ,inter alia, to consider and approve 1. To consider and draft scheme ....](https://www.bseindia.com/corporates/ann.html?scrip=539267)
-BSE Code: 539267
+### [Nagarjuna Fertilizers and Chemicals Ltd: We wish to inform that the Board of Directors of the Company at their Meeting held today i.e., June 30, 2026, had, inter alia, approved the Audited Standalone and Consolidated Financial ....](https://www.bseindia.com/corporates/ann.html?scrip=539917)
+BSE Code: 539917
 
-**Source:** BSE Filing  **Date:** 2026-06-29
+**Source:** BSE Filing  **Date:** 2026-06-30
 
 ---
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (11)
 
-### [Mid caps expected to trump the large caps again, this time through acquisitions](https://www.livemint.com/companies/indian-it-services-acquisitions-coforge-persistent-systems-mphasis-hexaware-infosys-wipro-tcs-hcltech-tech-mahindra-11782745821453.html)
+### [IT mid-caps take the inorganic route to trump larger rivals in new biz](https://www.livemint.com/companies/indian-it-services-acquisitions-coforge-persistent-systems-mphasis-hexaware-infosys-wipro-tcs-hcltech-tech-mahindra-11782745821453.html)
 Indian mid-cap IT firms are using acquisitions to accelerate growth, positioning themselves to add more incremental revenue than larger peers this year as AI and weak demand reshape the industry.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-30
+
+### [Mint Explainer | Can Zerodha crack India’s investment banking business?](https://www.livemint.com/companies/news/zerodha-investment-banking-merchant-banking-broking-industry-india-11782816175320.html)
+A merchant banking licence would allow Zerodha to advise companies on fundraising, IPO and other capital market transactions, opening a new revenue stream beyond broking. Can it carve out a niche in a business dominated by established investment banks?
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
 
 ### [NHPC among 5 stocks flashing bullish signals, hinting at a possible uptrend](https://economictimes.indiatimes.com/markets/stocks/news/nhpc-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/132083321.cms)
 Five Nifty500 stocks, including Bank of Maharashtra, Chennai Petroleum, Carborundum Universal, Granules India, and NHPC, formed the bullish White Marubozu pattern on June 29, indicating strong buying momentum.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-30
+
+### [MSC-Adani deal: Vizhinjam port can generate Rs 1,410 crore EBITDA, says Axis Capital](https://economictimes.indiatimes.com/markets/stocks/news/vizhinjam-port-can-generate-rs-1410-crore-ebitda-for-adani-axis-capital/articleshow/132092198.cms)
+Axis Capital expects Vizhinjam port to become a major earnings driver for Adani Ports &amp; SEZ, estimating it could generate around Rs 1,410 crore in EBITDA after the Phase 2 expansion. The brokerage believes MSC's $1.4 billion investment strengthens volume visibility while reinforcing the port's long-term strategic and valuation potential.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-30
+
+### [Market wrap: Sensex falls 250 points, Nifty closes below 23,900 on monthly expiry day](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-falls-250-points-nifty-closes-below-23900-on-monthly-expiry-day/articleshow/132090449.cms)
+Indian equities ended lower for the second straight session as benchmarks slipped on expiry-day volatility, though broader markets advanced. IT stocks led declines amid rate worries, while auto and consumption names gained. Analysts expect sectoral rotation ahead of earnings, with banking, healthcare and power seen as resilient drivers of performance.
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
@@ -78,34 +108,14 @@ Indian stock markets rebounded on Tuesday, with both Sensex and Nifty climbing a
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [PayU swings to Ebitda profit in FY26 as payments, credit businesses rally](https://www.livemint.com/companies/company-results/payu-ebitda-profit-fy26-payments-credit-businesses-rally-higher-margin-products-prosus-11782728510773.html)
-Backed by higher-margin products and ecosystem lending, the Prosus-owned fintech firm swung to an $18-million full-year Ebitda profit while exiting lower-value UPI categories.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-29
-
 ### [Divi’s Laboratories to Close Trading Window Ahead of Q1 FY27 Results - TipRanks](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV1hOT2ctc2NkSDJfTWNlbC1vdmR5WjZpLVI0Z1k1eXYzOEZNUWJncHJRNEgtRFpVTDBUb1JxNk1FLUFpdVF6OGJ4Z1ZiY0NWNkxocmdGQW9GSjVUUHl0OFNJa0VOTUFCWkRmd0hSTTZ5N3BjM2hna0lpSGQ2UExZWGlCV3BJV1BvaTU5XzJMaWs3WmROa3hFYVQtaWdpOUdBWlBrSi01MGdXVnpSZVR0UVd3bndGSlZnWEtr?oc=5)
 Divi’s Laboratories to Close Trading Window Ahead of Q1 FY27 Results &nbsp;&nbsp; TipRanks
 
 **Source:** GNews - Divi's  **Date:** 2026-06-30
 
-### [Dixon Tech Shares Jump After Vivo JV Nears Final Approval](https://www.ndtvprofit.com/business/dixon-tech-shares-jump-after-vivo-jv-nears-final-approval-clearance-letter-expected-soon-11706128#publisher=newsstand)
-Speaking to NDTV Profit in May, Saurabh Gupta, Executive Director and Group CFO of Dixon Technologies, acknowledged that the approval process had taken longer than anticipated but said there were no structural hurdles delaying the transaction.
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
-### [Mumbai Local Train Murder: Govt To Enhance Patrolling, Expand CCTV Coverage](https://www.ndtvprofit.com/india/mumbai-local-train-murder-govt-to-enhance-patrolling-expand-cctv-coverage-11705542#publisher=newsstand)
-, Minister of State for Home Yogesh Kadam confirmed that the accused was traced and arrested within 15 hours.
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
-### ['One In Two White-Collar Jobs At Risk': Aswath Damodaran On The Dark Side Of AI Boom](https://www.ndtvprofit.com/economy/aswath-damodaran-exclusive-one-in-two-white-collar-jobs-at-risk-if-ai-bulls-are-right-11705839#publisher=newsstand)
-In an exclusive interview to NDTV Profit, NYU Stern's valuation guru says the market's most optimistic AI forecasts come with a brutal trade off for the wider economy, even as he charts a middle path between the bulls and the sceptics.
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (5)
 
 ### [PFC-REC merger: Which stock should you buy before the mega deal creates Rs 11 lakh cr power financing giant](https://economictimes.indiatimes.com/markets/stocks/news/pfc-rec-merger-which-stock-should-you-buy-before-the-mega-demerger-creates-rs-11-lakh-cr-power-financing-giant/articleshow/132084245.cms)
 Power Finance Corporation (PFC) and REC's boards have approved a merger, creating India's largest power financing institution with a Rs 11 lakh crore loan book. The combined entity is poised to capitalize on the ongoing power sector capital expenditure cycle, including renewable energy and transmission projects. Analysts suggest the merger offers strategic advantages and improved capital allocation, positioning the new giant for significant growth.
@@ -117,6 +127,11 @@ Vedanta Iron &amp; Steel shares jumped, extending an 11-day winning streak and t
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
+### [Aurobindo Pharma USA completes acquisition of Lannett following US FTC approval](https://www.expresspharma.in/aurobindo-pharma-usa-completes-acquisition-of-lannett-following-us-ftc-approval/)
+Lannett becomes wholly owned subsidiary of APUSA and will operate as Lannett Company LLC from June 29, 2026 The post Aurobindo Pharma USA completes acquisition of Lannett following US FTC approval appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-06-30
+
 ### [South Korea's KVIC courts Indian venture funds as allocation evolves to a more structured strategy](https://www.livemint.com/companies/news/south-korean-investors-kvic-india-venture-capital-startups-deeptech-semiconductors-ai-11782791573995.html)
 South Korean institutional investors and government funds like KVIC are scouting for partnerships with Indian VC firms, signaling a strategic shift toward funding India’s deeptech and advanced manufacturing sectors amid global supply chain diversification.
 
@@ -127,19 +142,9 @@ Adani Ports will sell 49% stake in its Vizhinjam port to Mediterranean Shipping 
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
 
-### [Nagarro deal jitters drag Persistent's shares to a two-year low](https://www.livemint.com/companies/news/persistent-systems-nagarro-acquisition-shares-hit-two-year-low-brokerages-flag-growth-risks-11782712516091.html)
-Analysts are concerned about Nagarro's muted growth outlook and intense competition in the enterprise resource planning space.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-29
-
-### ['Two Similar Companies At Heart': Persistent Systems CEO Explains Why Nagarro Is The Right Fit](https://www.ndtvprofit.com/business/two-similar-companies-at-heart-why-persistent-systems-says-nagarro-was-the-right-fit-11705895#publisher=newsstand)
-Rather than pursuing growth for growth's sake, Persistent says it was looking for a partner that could help it compete for larger global transformation deals while preserving its engineering-led DNA.
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
 ---
 
-## 💸 Corporate Actions (4)
+## 💸 Corporate Actions (6)
 
 ### [SIS announces share buyback worth up to Rs 120 cr](https://economictimes.indiatimes.com/markets/stocks/news/sis-announces-share-buyback-worth-up-to-rs-120-cr/articleshow/132085097.cms)
 SIS Limited, a prominent security and facility management firm, has announced its fifth share buyback program, aiming to repurchase shares worth up to Rs 120 crore. This move, priced at a 10% premium to its recent closing price, will bring the total capital returned to shareholders since 2017 to approximately Rs 720 crore.
@@ -156,14 +161,29 @@ Five stocks in the Nifty500 segment that gained over 4% featured in the RSI Tren
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [Axis Bank, ICICI Bank, SBI, Federal Bank Among Anand Rathi's Top BFSI Bets — Check List](https://www.ndtvprofit.com/markets/axis-bank-icici-bank-sbi-federal-bank-bank-of-baroda-indian-bank-j-k-bank-among-anand-rathis-top-bfsi-bets-check-list-11705936#publisher=newsstand)
-The PSBs continued to gain market share in retail segment outgrowing ICICI Bank, HDFC Bank and Axis Bank for the seventh consecutive quarter.
+### [HUL's management confident of overcoming short-term challenges despite external volatility](https://www.livemint.com/companies/news/hul-management-short-term-challenges-external-volatility-west-asia-war-climate-change-energy-markets-supply-chain-agm-11782822397327.html)
+Hindustan Unilever chairman Nitin Paranjape, addressing shareholders at the company's AGM, said global disruptions are the new normal.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-30
+
+### [Noel Tata steps down as Voltas chairman days after Trent exit](https://www.livemint.com/companies/people/noel-tata-steps-down-as-voltas-chairman-days-after-trent-exit-11782816317293.html)
+Addressing shareholders of the leading cooling products maker in its 72nd annual general meeting (AGM), Noel Tata, 69, said this would be his last AGM as Chairman of Voltas.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-30
+
+### [JSW Infra Launches Rs 7,503-Crore QIP, Fixes Floor Price; Sajjan Jindal Family To Pare Stake Via OFS](https://www.ndtvprofit.com/markets/jsw-infra-launches-qip-fixes-floor-price-at-rs-290-35-sajjan-jindal-family-to-pare-stake-via-ofs-11672046#publisher=newsstand)
+The company has not disclosed the final issue price for the QIP yet.
 
 **Source:** NDTV Profit  **Date:** 2026-06-30
 
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (8)
+
+### [European Securities authority approves recognition for India clearing corporation](https://economictimes.indiatimes.com/markets/stocks/news/european-securities-authority-approves-recognition-for-india-clearing-corporation/articleshow/132093727.cms)
+The European Securities and Markets Authority has granted essential recognition to India's Clearing Corporation, putting an end to a prolonged dispute. This groundbreaking approval allows the Clearing Corporation of India Ltd (CCIL) to operate under the Reserve Bank of India's regulations, an important advancement for European banks. By signing a memorandum of understanding, this resolution avoids possible capital adequacy complications for those financial institutions.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-30
 
 ### [HDFC Bank shares in focus as lender appoints ex-finance secretary Rajiv Kumar as part-time chairman](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-in-focus-as-lender-appoints-ex-finance-secretary-rajiv-kumar-as-part-time-chairman/articleshow/132082764.cms)
 HDFC Bank has appointed former IAS officer and ex-Chief Election Commissioner Rajiv Kumar as its Part-time Chairman, following Atanu Chakraborty's abrupt resignation over ethical concerns. Kumar, known for his role in cleaning up public sector bank balance sheets, will serve a three-year term subject to RBI approval. The bank also announced Puneet Sharma as its new CFO. This news comes as HDFC Bank shares have seen mixed performance recently.
@@ -175,14 +195,39 @@ Reliance quietly executed Project Jupiter to prepare Jio’s IPO while managing 
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
+### [Dalmia Bharat sees easing cost pressures, stays the course on expansion](https://www.livemint.com/companies/news/dalmia-bharat-cement-industry-india-cement-prices-west-asia-war-11782810272533.html)
+Dalmia Bharat says West Asia tensions are easing, but the impact of the war will continue to be felt through April-September before moderating
+
+**Source:** Mint - Pharma  **Date:** 2026-06-30
+
+### [Uber launches in-app ride video recording, ambulance feature in India; Nitin Gadkari lauds road safety push](https://www.livemint.com/companies/news/uber-launches-in-app-ride-video-recording-ambulance-feature-in-india-nitin-gadkari-lauds-road-safety-push-accidents-11782814940677.html)
+The new announcements were made during Uber Surakshit: Safety Never Stops , Uber India's flagship safety conference held at a Central Delhi hotel on Tuesday. Nitin Gadkari, Union Minister for Road Transport &amp;amp; Highways was the chief guest of the occasion.
+
+**Source:** Mint - Pharma  **Date:** 2026-06-30
+
 ### [Yes Bank plans to raise up to  ₹16,000 crore through equity, debt](https://www.livemint.com/companies/news/yes-bank-plans-to-raise-up-to-16-000-crore-through-equity-debt-11782742948422.html)
 The bank said these were enabling provisions and would be subject to shareholders’ approval and other regulatory and statutory approvals.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-29
 
+### [Nadda launches Drug Registry under ABDM to standardise medicine data](https://www.expresspharma.in/nadda-launches-drug-registry-under-abdm-to-standardise-medicine-data/)
+Platform developed with CDSCO and NRCeS includes over 123,000 branded drugs and supports integration with digital health systems The post Nadda launches Drug Registry under ABDM to standardise medicine data appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-06-30
+
+### [Rainfall Deficit At 39.8%: Sluggish Monsoon Makes June 5th Driest In India Since 1901](https://www.ndtvprofit.com/india/rainfall-deficit-at-39-8-sluggish-monsoon-makes-june-5th-driest-in-india-since-1901-11707712#publisher=newsstand)
+The deficit in monsoon has lead to the slowing down of the planting of summer crops.
+
+**Source:** NDTV Profit  **Date:** 2026-06-30
+
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (5)
+
+### [Water crisis ahead? PL Capital says water deficit creates Rs 20 lakh cr infra opportunity, picks 3 stocks](https://economictimes.indiatimes.com/markets/stocks/news/water-crisis-ahead-pl-capital-says-water-deficit-creates-rs-20-lakh-cr-infra-opportunity-picks-3-stocks/articleshow/132088642.cms)
+India's widening water deficit could create an infrastructure investment opportunity worth over Rs 20 lakh crore over the next decade, according to PL Capital. The brokerage expects sustained growth across water treatment, recycling and wastewater management, and has identified VA Tech Wabag, Enviro Infra Engineers and Denta Water as key beneficiaries.
+
+**Source:** Economic Times - Markets  **Date:** 2026-06-30
 
 ### [MFs kept buying these 11 stocks for 8 straight quarters; shares surge up to 250% in 2 years](https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-11-stocks-for-8-straight-quarters-shares-surge-up-to-250-in-2-years/slideshow/132086866.cms)
 Mutual funds increased holdings for eight consecutive quarters in 36 BSE 1000 companies, signalling sustained institutional conviction. While several stocks delivered strong returns and some more than doubled investor wealth, consistent institutional buying did not guarantee gains, with a few stocks posting sharp declines despite rising mutual fund ownership.
@@ -199,49 +244,33 @@ India's stock market faces a new challenge as a severe "Super El Niño" threaten
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [Adani Ports &amp; Special Economic Zone Share Price Live Updates: Intimation Of ESG Rating By CRISIL ESG Ratings &amp; Analytics Limited](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-30-jun-2026/liveblog/132082340.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-30
-
-### [Vedanta Oil is investing to double output. Can it reverse a decade of decline?](https://www.livemint.com/companies/vedanta-oil-gas-production-target-fy29-capex-700-million-aging-fields-11782755867884.html)
+### [Vedanta Oil &amp; Gas is investing to double output. Can it reverse a decade of decline?](https://www.livemint.com/companies/vedanta-oil-gas-production-target-fy29-capex-700-million-aging-fields-11782755867884.html)
 The company aims to produce more than 150,000 barrels of oil equivalent per day (boepd) by FY29, up from 87,000 barrels in FY26, according to an analyst who attended the demerged company's first investor meet last week.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
 
-### [ESDS eyes debut as India’s first listed data centre operator with  ₹720-crore IPO](https://www.livemint.com/companies/esds-software-solutions-ipo-india-first-listed-data-centre-company-11782720375196.html)
-The Nashik-based company is likely to have increased the size of its fresh issue to ₹720 crore from an initial target of ₹600 crore. The potential public listing of ESDS comes weeks after Sify Infinit Spaces decided to put its planned ₹3,700-crore data centre IPO on hold amid weak market conditions.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-29
-
-### [Govt Extends GST Tribunal Appeal Deadline To July 31 Amid Heavy Rush On The Portal](https://www.ndtvprofit.com/economy/govt-extends-gst-tribunal-appeal-deadline-to-july-31-amid-heavy-rush-on-the-portal-11706113#publisher=newsstand)
-The deadline has been extended by a month as recent representations from various stakeholders, highlighted technical difficulties due to rush to file appeals on the GSTAT portal.
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
-### [Persistent Systems May Rally 46%, Says Axis Securities Despite IT Stocks Under Pressure — Here's Why](https://www.ndtvprofit.com/markets/persistent-systems-shares-may-rally-46-percent-says-axis-securities-despite-it-stocks-under-pressure-heres-why-11706093#publisher=newsstand)
-Persistent Systems Ltd.'s shares are likely to be in focus after Axis Securities reiterated its Buy' rating on the stock, even as broader IT stocks remain under pressure.
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
 ---
 
-## 📰 Industry & Policy News (14)
+## 📰 Industry & Policy News (11)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Stock Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-30-jun-2026/liveblog/132082500.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-30-jun-2026/liveblog/132082500.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys reports a decrease in today's stock price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-30-jun-2026/liveblog/132082351.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-30-jun-2026/liveblog/132082351.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-30-jun-2026/liveblog/132082319.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-30-jun-2026/liveblog/132082319.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [Divis Labs Share Price Live Updates: Divis Labs Current Market Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-30-jun-2026/liveblog/132082286.cms)
+### [The $1 trillion AI 'arms race' is fueling a hidden supercycle and it's not just chips](https://economictimes.indiatimes.com/markets/stocks/news/the-1-trillion-ai-arms-race-is-fueling-a-hidden-supercycle-and-its-not-just-chips/articleshow/132092258.cms)
+DBS Bank says the global AI arms race is driving a multi-year capex supercycle extending beyond semiconductors into energy, networking, infrastructure and data centres. The bank expects AI spending, sovereign AI investments and rising power demand to create new investment opportunities while reshaping portfolio allocation amid geopolitical risks and persistent inflation.
+
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [Comcast to split cable business from media through NBCUniversal, Sky spinoff](https://www.livemint.com/companies/news/comcast-to-split-cable-business-from-media-through-nbcuniversal-sky-spinoff-11782729670575.html)
-Comcast will split into two publicly traded entities, dividing its broadband operations from its media business. Details here.
+### [GMR Airports among 7 stocks hit 52-week highs, rally up to 20% in a month](https://economictimes.indiatimes.com/markets/stocks/news/gmr-airports-among-7-stocks-hit-52-week-highs-rally-up-to-20-in-a-month/slideshow/132092149.cms)
+Seven BSE 200 stocks, led by GMR Airports and FSN E-Commerce Ventures, scaled fresh 52-week highs despite a weak broader market, gaining up to 20% over the past month.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-29
+**Source:** Economic Times - Markets  **Date:** 2026-06-30
 
 ### [Ola Electric, Ather Energy shares jump up to 11% as Delhi govt approves new EV policy. What to expect?](https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-ather-energy-shares-jump-up-to-11-as-delhi-govt-approves-new-ev-policy-what-to-expect/articleshow/132087260.cms)
 Shares of Ola Electric and Ather Energy surged up to 11% after the Delhi Cabinet approved the EV Policy 2.0 with a Rs 15,000 crore outlay. The policy offers incentives for electric two-wheelers, targets 95% EV registrations by 2027 and is expected to accelerate electric mobility adoption in the capital.
@@ -258,31 +287,18 @@ OYO parent Prism, formerly Oravel Stays, has filed an updated DRHP with SEBI for
 
 **Source:** Economic Times - Markets  **Date:** 2026-06-30
 
-### [JSW Steel Share Price Live Updates: JSW Steel  Stock Update: Slight Drop Observed](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-livestock-price-today-live-updates-30-jun-2026/liveblog/132082312.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-06-30
+### [Beyond the batch: How digital twins are rewriting the rules of medicine](https://www.expresspharma.in/beyond-the-batch-how-digital-twins-are-rewriting-the-rules-of-medicine/)
+Amit Malviya, VP – QA, Zest Pharma, highlights how digital twins, AI and real-time release testing are reshaping pharmaceutical manufacturing and quality management The post Beyond the batch: How digital twins are rewriting the rules of medicine appeared first on Express Pharma .
 
-### [AI isn't the biggest regulatory worry for Indian startups, data governance is: Survey](https://www.livemint.com/companies/news/ai-isnt-the-biggest-regulatory-worry-for-indian-startups-data-governance-is-survey-11782730264762.html)
-The study, based on a survey of 550 ecosystem participants, including 350 startups, 100 venture capital (VC) firms and 100 incubators, shows that 44% of respondents identified data governance and digital trust regulations as their primary regulatory concern.
+**Source:** Express Pharma  **Date:** 2026-06-30
 
-**Source:** Mint - Pharma  **Date:** 2026-06-29
-
-### [BAT layoffs: British American Tobacco to cut 5,500 jobs; outsource 3,500 in major global restructuring](https://www.livemint.com/companies/news/bat-layoffs-british-american-tobacco-to-cut-5-500-jobs-outsource-3-500-in-major-global-restructuring-11782729026186.html)
-BAT is laying off 5,500 employees and outsourcing 3,500 roles as part of a restructuring effort aimed at achieving significant cost savings by 2028, while transitioning towards smoke-free nicotine products in response to shifting market demands.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-29
-
-### [Tata Communication To Invest $152 Million In Subsea Cable Systems](https://www.ndtvprofit.com/business/tata-communication-to-invest-usd-152-million-in-subsea-cable-systems-11706072#publisher=newsstand)
-Tata Communications is enhancing its Tata Global Network (TGN)
+### [Mann Fleet Partners Files IPO Papers With SEBI](https://www.ndtvprofit.com/markets/mann-fleet-partners-files-ipo-papers-with-sebi-11707865#publisher=newsstand)
+The company plans to use the proceeds from the fresh issue for debt payment and general corporate purposes.
 
 **Source:** NDTV Profit  **Date:** 2026-06-30
 
-### [Ola Electric Shares Climb 11%, Ather Energy Gains 3% As Delhi Introduces New EV Policy](https://www.ndtvprofit.com/markets/ola-electric-ather-energy-stocks-surge-while-tata-motors-pv-fall-as-delhi-introduces-subsidies-11705658#publisher=newsstand)
-Electric Vehicles Stocks In Focus
-
-**Source:** NDTV Profit  **Date:** 2026-06-30
-
-### [Stock Market News Live Updates: Nifty Near 24,000 Again, Sensex Reverses Losses; IT Top Laggard, Maruti Suzuki Gains](https://www.ndtvprofit.com/markets/stock-market-news-live-updates-gift-nifty-at-24-000-record-dow-close-us-iran-talks-in-doha-set-the-tone-11705173#publisher=newsstand)
-Stock Market News Live: Track live Sensex, Nifty and GIFT Nifty updates today, plus all the top stocks and sectors moving D-Street through the session.
+### [July 2026 Hindu Festival Calendar: Complete List of Festivals, Ekadashi Dates & Vrat Observances](https://www.ndtvprofit.com/india/july-2026-hindu-festival-calendar-complete-list-of-festivals-ekadashi-dates-11702532#publisher=newsstand)
+July 2026 features grand Jagannath Rath Yatra in Puri to the celebrations of Guru Purnima
 
 **Source:** NDTV Profit  **Date:** 2026-06-30
 
