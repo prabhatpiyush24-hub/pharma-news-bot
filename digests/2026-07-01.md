@@ -1,13 +1,33 @@
 # 🏥 India Pharma Investor Digest — 2026-07-01
 
-> 65 items · 2026-07-01 08:08 UTC
+> 76 items · 2026-07-01 14:31 UTC
 
-## 📊 BSE / NSE Filings (13)
+## 📊 BSE / NSE Filings (18)
+
+### [Lupin: Updates on acquisition of minority shareholding in Multicare Pharmaceuticals Philippines, Inc. (''MPPI''), a subsidiary company and Buyback of shares by MPPI.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/aba85a2f-ad3b-4f33-bb37-1a7a1f10d74d.pdf)
+Category: Company Update | Sub: Acquisition | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-07-01
 
 ### [Aurobindo Pharma: Intimation of completion of acquisition of Lannet by Aurobindo Pharma USA Inc, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/246ff570-c1c2-400d-b7dd-407bba452288.pdf)
 Category: Company Update | Sub: Acquisition | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-06-30
+
+### [FDC Limited: Rashtriya Chemicals And Fertilizers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/07/2026 ,inter alia, to consider and approve Raising ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/353f20d8-2820-43b5-a7b4-53bc8c5d2c0c.pdf)
+Category: Board Meeting | Sub: Board Meeting | BSE Code: 524230
+
+**Source:** BSE Filing  **Date:** 2026-07-01
+
+### [Dipna Pharmachem Ltd: Outcome and Intimation for Rescheduling of Board Meeting to 2nd July, 2026](https://www.bseindia.com/corporates/ann.html?scrip=543594)
+BSE Code: 543594
+
+**Source:** BSE Filing  **Date:** 2026-07-01
+
+### [Dr. Reddy's Laboratories: Please find enclosed copy of Newspaper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9fe7e89-6cc7-4a66-9823-3e27e5b59d5b.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-07-01
 
 ### [Dr. Reddy's Laboratories: Please find enclosed letter to shareholder in relation to Integrated Annual Report of the Company for FY 2025-26](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b503bc93-b515-483e-a8f3-9ccdead34d98.pdf)
 Category: Company Update | Sub: General | BSE Code: 500124
@@ -29,6 +49,11 @@ Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-06-30
 
+### [Lupin: Lupin Announces EMA Approval for NaMuscla Expansion for Pediatric Indication with New Strengths.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/26a64743-3cc8-43fb-8220-96fa6afab44a.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-07-01
+
 ### [Lupin: Intimation regarding Grant of 65,251 Stock Options under Lupin Employees Stock Option Scheme 2025.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a24563de-834b-48e0-a4ad-10e378a9ca91.pdf)
 Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500257
 
@@ -38,6 +63,11 @@ Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500257
 Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 532488
 
 **Source:** BSE Filing  **Date:** 2026-06-30
+
+### [Alkem Laboratories: Newspaper Advertisement confirming the completion of dispatch of Postal Ballot Notice.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d896e93f-e670-43d2-bf88-8823b9945486.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-07-01
 
 ### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 12 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015 and the SEBI Master Circular, please find enclosed the Notice of ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f086362e-9208-48a2-9980-b65e8bbca488.pdf)
 Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500825
@@ -64,17 +94,17 @@ Category: Company Update | Sub: General | BSE Code: 500271
 
 **Source:** BSE Filing  **Date:** 2026-07-01
 
-### [Nagarjuna Fertilizers and Chemicals Ltd: We wish to inform that the Board of Directors of the Company at their Meeting held today i.e., June 30, 2026, had, inter alia, approved the Audited Standalone and Consolidated Financial ....](https://www.bseindia.com/corporates/ann.html?scrip=539917)
-BSE Code: 539917
-
-**Source:** BSE Filing  **Date:** 2026-06-30
-
 ---
 
-## 💰 Results & Financials (18)
+## 💰 Results & Financials (23)
 
 ### [Cupid shares gain 2% as firm raises FY27 guidance, expects Q1 revenue to top Rs 150 crore](https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-in-focus-as-firm-raises-fy27-guidance-expects-q1-revenue-to-top-rs-150-crore/articleshow/132105196.cms)
 Cupid shares gained 2% as the company anticipates a record Q1 FY27 revenue exceeding Rs 150 crore. Buoyed by strong market visibility, Cupid has boosted its FY27 revenue forecast to over Rs 660 crore. This optimistic outlook is fueled by diversified business, expanding global opportunities in healthcare, and growth in its condom and lubricant portfolios. The company is also making strides in its IVD business, signaling robust future potential.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
+
+### [Explained: Why Tata Elxsi shares crashed 7% after KPIT Tech’s Q1 revenue, profit guidance warning](https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tata-elxsi-shares-crashed-7-after-kpi-techs-q1-revenue-profit-guidance-warning/articleshow/132110103.cms)
+Tata Elxsi shares fell sharply on Wednesday after rival KPIT Technologies warned of weaker-than-expected Q1FY27 revenue and margins due to a sudden slowdown in orders from European automakers. The update raised concerns over demand across the automotive engineering and software services space, weighing on peer stocks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
@@ -118,10 +148,20 @@ KPIT Technologies shares plunged 17% after the company warned of a revenue drop 
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
-### [Mint Explainer | Can Zerodha crack India’s investment banking business?](https://www.livemint.com/companies/news/zerodha-investment-banking-merchant-banking-broking-industry-india-11782816175320.html)
-A merchant banking licence would allow Zerodha to advise companies on fundraising, IPO and other capital market transactions, opening a new revenue stream beyond broking. Can it carve out a niche in a business dominated by established investment banks?
+### [Pump-and-dump operation: Sebi bans 221 entities for up to 7 years; Hanif Shekh fined Rs 10 cr](https://economictimes.indiatimes.com/markets/stocks/news/pump-and-dump-operation-sebi-bans-221-entities-for-up-to-7-years-hanif-shekh-fined-rs-10-cr/articleshow/132115449.cms)
+Sebi has taken significant action against a large-scale pump-and-dump operation, imposing a barring on 221 parties, including the alleged ringleader Hanif Shekh, from participating in the securities market for up to seven years. An imposing fine of Rs 10 crore was also levied. Between 2017 and 2020, this illegal scheme manipulated five stocks, artificially inflating their prices and attracting unwitting investors, ultimately resulting in illicit gains of Rs 143.79 crore.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-30
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
+
+### [Nifty delivered positive returns for 18 of 25 years in July](https://economictimes.indiatimes.com/markets/stocks/news/nifty-delivered-positive-returns-for-18-of-25-years-in-july/articleshow/132112776.cms)
+After June gains, historical data suggests July could deliver another positive month for Nifty. The index has risen in 18 of the past 25 Julys, supported by monsoon optimism, earnings expectations, easing crude prices and improving foreign investment flows.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
+
+### [Nomura expects IT firms to see 'anaemic' growth in FY27. Here are latest target prices for Infosys, TCS, and others](https://economictimes.indiatimes.com/markets/stocks/news/nomura-expects-it-firms-to-see-anaemic-growth-in-fy27-here-are-latest-target-prices-for-infosys-tcs-and-others/articleshow/132110355.cms)
+Nomura expects subdued near-term growth for Indian IT companies as macro uncertainty and weak tech spending weigh on demand ahead of Q1 earnings. However, it sees long-term opportunities emerging from AI-driven changes, with IT firms potentially expanding their addressable market as enterprises increasingly rely on system integrators in hybrid human–digital workflows.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
 
 ### [Advit Jewels share price slides 5% after strong 37% market debut. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/advit-jewels-share-price-tanks-5-after-strong-37-market-debut-should-you-buy-sell-or-hold/articleshow/132107644.cms)
 Advit Jewels shares made a strong stock market debut, listing at a 37% premium to the IPO price before trimming gains. While analysts remain positive on the company's growth prospects and improving financials, they advise fresh investors to wait for more earnings visibility amid risks linked to commodity prices and business concentration.
@@ -153,6 +193,11 @@ Cruise travel is gaining popularity among younger and tier-II travelers in India
 
 **Source:** Mint - Pharma  **Date:** 2026-07-01
 
+### [What stays on the top of pharma shelf—ease of doing business or patient safety?](https://www.expresspharma.in/what-stays-on-the-top-of-pharma-shelf-ease-of-doing-business-or-patient-safety/)
+Three individuals allegedly bought expired medicines at scrap prices, relabelled them with professionally printed stickers, repackaged them, and pumped them back into the pharmaceutical supply chain. This incident is a [&#8230;] The post What stays on the top of pharma shelf—ease of doing business or patient safety? appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-07-01
+
 ### [Morepen dispatches its first batch under CDMO mandate](https://www.expresspharma.in/morepen-dispatches-its-first-batch-under-cdmo-mandate/)
 Morepen Laboratories issued an update on its recently announced Rs. 825 crore CDMO mandate. The first commercial dispatch, valued at approximately Rs. 50 crore, has already been completed by the [&#8230;] The post Morepen dispatches its first batch under CDMO mandate appeared first on Express Pharma .
 
@@ -163,19 +208,24 @@ Akums Drugs &#38; Pharmaceuticals, India’s leading contract development and ma
 
 **Source:** Express Pharma  **Date:** 2026-07-01
 
+### [Cipla Boards July 23 Meeting for Q1 Earnings as US Generic Sales Target $250M - sahi.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1lnSUtXSEFZRzJ4ck90YjVKVl9EMXRTTkJZUms4WktZZ3BJeDZTTElRaFpzRnhJbGhvVlRvdXZHQmlwTWNTeEpPdE45MDdGYXQtZnN6UlM5dkR5RFdSQ2RPWGlTWGZKa2E1S2JwdjVVTFo2UzFMS29iNU1xeG51TXgtSGNfR3dEZVAxUy1ad05GczRoWk1VYmtIbVZuV2ZZaWttVkZkUlBHcWhJenFOTlhsZzg3QQ?oc=5)
+Cipla Boards July 23 Meeting for Q1 Earnings as US Generic Sales Target $250M &nbsp;&nbsp; sahi.com
+
+**Source:** GNews - Cipla  **Date:** 2026-07-01
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
+## 🤝 Deals, M&A & Partnerships (10)
 
 ### [Kotak Bank to buy Deutsche Bank’s India retail business for  ₹282 crore](https://www.livemint.com/companies/kotak-mahindra-bank-deutsche-bank-india-retail-business-wealth-management-11782825149925.html)
 Kotak Bank's acquisition of Deutsche Bank’s retail banking will add about ₹29,000 crore in loans, ₹16,000 crore in deposits, and ₹10,500 crore in assets under management to the private lender’s balance sheet.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
 
-### [Paramount Skydance's $110 billion takeover of Warner Bros Discovery may face UK hurdle: Report](https://www.livemint.com/companies/news/paramount-skydances-warner-bros-discovery-takeover-may-face-uk-hurdle-report-11782828750543.html)
-UK Culture Secretary Lisa Nandy said the government is considering intervention because the merger could affect the provision of news and on-demand media services in Britain.
+### [Nithin Kamath reveals Zerodha's playbook: No ads, no sales targets, customer-first approach](https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-reveals-zerodhas-playbook-no-ads-no-sales-targets-customer-first-approach/articleshow/132116836.cms)
+Zerodha CEO Nithin Kamath said the brokerage's growth stems from prioritising customer interests over aggressive expansion. He highlighted transparency, word-of-mouth marketing, a bootstrapped model and product-focused innovation as the key drivers behind the company's long-term success.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-30
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
 
 ### [RITES shares rocket 16% on Rs 175 crore consultancy order from Ambedkar University](https://economictimes.indiatimes.com/markets/stocks/news/rites-shares-jump-9-on-rs-175-crore-consultancy-order-from-ambedkar-university/articleshow/132108095.cms)
 RITES shares surged 16% after securing a Rs 175 crore project management consultancy order from Babasaheb Bhimrao Ambedkar University for campus infrastructure development. The company also recently inked an MoU with CONCOR to collaborate on logistics infrastructure projects, leveraging RITES' expertise for planning, design, and execution. This follows a period of mixed stock performance, with recent gains after earlier declines.
@@ -192,10 +242,25 @@ Kotak has reclaimed the top position in India's equity capital markets league ta
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
+### [HSBC signs 1.2 million sq ft GCC deal with Prestige Group in Bengaluru](https://www.livemint.com/companies/news/hsbc-signs-1-2-million-sq-ft-gcc-deal-with-prestige-group-in-bengaluru-11782897349903.html)
+HSBC has signed an LOI with Prestige Group for a 1.2 million sq ft, 20-year campus lease in Bengaluru worth over ₹3,000 crore, consolidating its India GCC operations under one roof. The bank will occupy Prestige Lakeshore Drive, with move-in expected next year.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-01
+
+### [I Squared, TPG-CPPIB consortium nears bid for KKR-backed Re Sustainability](https://www.livemint.com/companies/re-sustainability-stake-sale-kkr-i-squared-tpg-cppib-11782886980134.html)
+I Squared Capital and a TPG-CPPIB consortium are preparing final bids for KKR-backed Re Sustainability in a deal valued at up to $1.4 billion, as rival private equity firms exit the race.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-01
+
 ### [Agnikul and Finland’s ICEYE team up to build and launch radar satellites from India](https://www.livemint.com/companies/news/agnikul-cosmos-iceye-space-startups-india-11782805545828.html)
 The partnership aims to cut reliance on foreign launch providers for strategic missions while positioning India as a regional manufacturing hub for ICEYE’s global constellation.
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
+
+### [Cadila Pharmaceuticals and Wellesta Holdings Singapore sign strategic JV to accelerate growth across South-East Asia](https://www.expresspharma.in/cadila-pharmaceuticals-and-wellesta-holdings-singapore-sign-strategic-jv-to-accelerate-growth-across-south-east-asia/)
+Cadila Pharmaceuticals, one of India’s leading integrated pharmaceutical companies, and Wellesta Holdings, Singapore, have signed a Memorandum of Understanding (MoU) to establish a strategic Joint Venture aimed at expanding access [&#8230;] The post Cadila Pharmaceuticals and Wellesta Holdings Singapore sign strategic JV to accelerate growth across South-East Asia appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-07-01
 
 ### [How Mergers and Acquisitions Spell Success for Pharma Companies - BioSpectrum India](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3MxdVRGSXRiQWJGRXV3MS1sOWUyRWlJV2Itc3JNN0xYSDZGRWQxTWVsWWNMSlIzZnZmM2ZQUF9EV1pDS0V4b0lyX001dVNnUENuQUdXVnpSRTQ1WklfanBmOHg2aTVpbUJncEpibVRsb1I3SjRDMDNuTWVmMUI3R2hwLUp4RzZZMjR4aTdfWHNWUlkyNlhHUEI2Q2R3VWpvTE03UXhHMU1mYlRna3RXME93NlpNdkk?oc=5)
 How Mergers and Acquisitions Spell Success for Pharma Companies &nbsp;&nbsp; BioSpectrum India
@@ -204,7 +269,7 @@ How Mergers and Acquisitions Spell Success for Pharma Companies &nbsp;&nbsp; Bio
 
 ---
 
-## 💸 Corporate Actions (4)
+## 💸 Corporate Actions (2)
 
 ### [Zee Entertainment shares jump 6% after Rs 418 crore FDI approval](https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-jump-6-after-rs-418-crore-fdi-approval/articleshow/132107012.cms)
 Zee Entertainment shares jumped after receiving government approval for a Rs 418 crore foreign investment from an Invesco-managed fund. This marks the fund's return to ZEEL's shareholder base after a previous exit. The investment comes as the company navigates challenges in its broadcasting business but sees improvements in its digital segment. FDI inflows into India's information and broadcasting sector also saw a significant rise.
@@ -216,24 +281,24 @@ Four stocks from the Nifty500 segment that gained over 4% featured in the RSI Tr
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
-### [HUL confident of overcoming short-term challenges despite external volatility](https://www.livemint.com/companies/news/hul-management-short-term-challenges-external-volatility-west-asia-war-climate-change-energy-markets-supply-chain-agm-11782822397327.html)
-Hindustan Unilever chairman Nitin Paranjape, addressing shareholders at the company's AGM, said global disruptions are the new normal.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-30
-
-### [Noel Tata steps down as Voltas chairman days after Trent exit](https://www.livemint.com/companies/people/noel-tata-steps-down-as-voltas-chairman-days-after-trent-exit-11782816317293.html)
-Addressing shareholders of the leading cooling products maker in its 72nd annual general meeting (AGM), Noel Tata, 69, said this would be his last AGM as Chairman of Voltas.
-
-**Source:** Mint - Pharma  **Date:** 2026-06-30
-
 ---
 
-## 🏭 Operations & Approvals (6)
+## 🏭 Operations & Approvals (8)
+
+### [BSE launches REITs and Commercial Real Estate Index for passive investment products](https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-reits-and-commercial-real-estate-index-for-passive-investment-products/articleshow/132113120.cms)
+BSE Index Services has launched the BSE REITs and Commercial Real Estate Index, India's first benchmark tracking listed REITs and companies with significant commercial real estate exposure. The index is designed to support passive investment products such as ETFs and index funds while offering diversified exposure to yield-generating real estate assets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
 
 ### [From niche to mainstream: How India's bond market reinvented itself over the last 10 years](https://economictimes.indiatimes.com/markets/stocks/news/from-niche-to-mainstream-how-indias-bond-market-reinvented-itself-over-the-last-10-years/articleshow/132106194.cms)
 India's bond market has transformed significantly over the last decade, moving from an opaque, institutional-focused space to a more transparent and accessible one. Regulatory reforms, technological advancements, and global index inclusion have fueled this growth, nearly tripling total issuances. Experts highlight reduced minimum investment thresholds and enhanced regulatory frameworks as key drivers, paving the way for substantial future expansion.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
+
+### [IndiGo launches ‘IndiGo Lite’ cabin baggage-only fare to offer cheaper tickets](https://www.livemint.com/companies/news/indigo-launches-indigo-lite-cabin-baggage-only-fare-to-offer-cheaper-tickets-11782893586182.html)
+The fare will be applicable for more domestic as well as international flights, and will be available for booking on the airline's app or website starting 1 July, and will be eligible for travel effective 15 July.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-01
 
 ### [CtrlS faces milestone test that could hand CPP a bigger stake](https://www.livemint.com/companies/ctrls-datacenters-cpp-investments-deal-amazon-hyderabad-mumbai-11782827875097.html)
 CPP Investments can raise its stake in CtrlS to 10.3% if the company misses key power and customer milestones at its Hyderabad and Mumbai data centres, highlighting execution risks in India's data centre expansion.
@@ -245,20 +310,20 @@ The Gopalpur project, with an annual capacity of 405,000 tonnes, will supply gre
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
 
-### [Dalmia Bharat sees easing cost pressures, stays the course on expansion](https://www.livemint.com/companies/news/dalmia-bharat-cement-industry-india-cement-prices-west-asia-war-11782810272533.html)
-Dalmia Bharat says West Asia tensions are easing, but the impact of the war will continue to be felt through April-September before moderating
+### [Mankind Pharma and Denovo Sciences join forces to drive AI-led innovation in drug discovery](https://www.expresspharma.in/mankind-pharma-and-denovo-sciences-join-forces-to-drive-ai-led-innovation-in-drug-discovery/)
+Mankind Pharma has announced a strategic collaboration with Denovo Sciences to launch an AI-led drug discovery programme, marking an important step in the company’s focus on innovation-driven and technology-enabled research [&#8230;] The post Mankind Pharma and Denovo Sciences join forces to drive AI-led innovation in drug discovery appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-06-30
+**Source:** Express Pharma  **Date:** 2026-07-01
 
-### [Uber launches in-app ride video recording, ambulance feature in India; Nitin Gadkari lauds road safety push](https://www.livemint.com/companies/news/uber-launches-in-app-ride-video-recording-ambulance-feature-in-india-nitin-gadkari-lauds-road-safety-push-accidents-11782814940677.html)
-The new announcements were made during Uber Surakshit: Safety Never Stops , Uber India's flagship safety conference held at a Central Delhi hotel on Tuesday. Nitin Gadkari, Union Minister for Road Transport &amp;amp; Highways was the chief guest of the occasion.
+### [Meta Shares Spike 8.5% On Plans To Sell Excess AI Computing Capacity Via Cloud Business](https://www.ndtvprofit.com/world/meta-shares-spike-8-5-on-plans-to-sell-excess-ai-computing-capacity-via-cloud-business-11713108#publisher=newsstand)
+Shares of Meta Inc. surged 8% higher in pre market trade.
 
-**Source:** Mint - Pharma  **Date:** 2026-06-30
+**Source:** NDTV Profit  **Date:** 2026-07-01
 
-### [Nadda launches Drug Registry under ABDM to standardise medicine data](https://www.expresspharma.in/nadda-launches-drug-registry-under-abdm-to-standardise-medicine-data/)
-Platform developed with CDSCO and NRCeS includes over 123,000 branded drugs and supports integration with digital health systems The post Nadda launches Drug Registry under ABDM to standardise medicine data appeared first on Express Pharma .
+### [TMC Transformers Files DRHP With SEBI For Rs 550 Crore IPO](https://www.ndtvprofit.com/markets/tmc-transformers-files-drhp-with-sebi-for-rs-550-crore-ipo-11713003#publisher=newsstand)
+IPO proceeds will fund a new EHV transformer plant in Gujarat and support working capital needs.
 
-**Source:** Express Pharma  **Date:** 2026-06-30
+**Source:** NDTV Profit  **Date:** 2026-07-01
 
 ---
 
@@ -274,32 +339,42 @@ India's top IT firms, including TCS and Infosys, have seen their market value pl
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
-### [RITES Shares In Focus As PL Capital Remains Bullish On Execution-Led Growth, Sustainable Margins — Check Target Price](https://www.ndtvprofit.com/markets/rites-11711101#publisher=newsstand)
-RITES shares in focus after PL Capital reiterated a Buy', citing strong execution-led growth visibility despite near-term margin normalisation.
+### [Crude Reversal: Russia Buys Indian Petrol To Plug Supply Gaps Triggered By Ukrainian Attacks](https://www.ndtvprofit.com/economy/crude-reversal-russia-buys-indian-petrol-to-plug-supply-gaps-triggered-by-ukrainian-attacks-11713057#publisher=newsstand)
+The imports come as Russia grapples with fuel shortages across its 11 time zones, leading to fuel rationing, long queues at filling stations and record-high domestic gasoline prices.
 
 **Source:** NDTV Profit  **Date:** 2026-07-01
 
-### ['Well-Placed To Benefit': MCX Rallies As Jefferies Sees 27% Upside On Growth Runway — Check Target Price](https://www.ndtvprofit.com/markets/mcx-shares-rally-as-jefferies-sees-27-upside-on-growth-runway-check-target-price-11710967#publisher=newsstand)
-MCX share price surged as much as 5.14% to Rs 2,982.6 apiece by 10:22 am.
+### [France To Hold Fresh Presidential Election On April 18, Runoff Set For May 2](https://www.ndtvprofit.com/world/politics-france-to-hold-fresh-presidential-election-on-april-18-runoff-set-for-may-2-11712075#publisher=newsstand)
+The upcoming election is also being closely watched across Europe amid growing debates over immigration, economic pressures, and the rise of populist movements.
 
 **Source:** NDTV Profit  **Date:** 2026-07-01
 
-### [China Manufacturing Caps Best Quarter Since 2020, Survey Shows](https://www.ndtvprofit.com/world/china-manufacturing-caps-best-quarter-since-2020-survey-shows-11710894#publisher=newsstand)
-The RatingDog China manufacturing purchasing managers index slipped last month to 51.7 from 51.8 in May.
+### [Buy The Dips? Gold Support Slips To Rs 1.37 Lakh After Worst Monthly Fall Since 2008](https://www.ndtvprofit.com/markets/buy-the-dips-gold-support-slips-to-rs-1-37-lakh-after-worst-monthly-fall-since-2008-11712940#publisher=newsstand)
+Spot gold extended losses for a third consecutive session, slipping below the $4,000-an-ounce mark to its lowest level since November.
 
 **Source:** NDTV Profit  **Date:** 2026-07-01
 
 ---
 
-## 📰 Industry & Policy News (12)
+## 📰 Industry & Policy News (10)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Daily Price Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-01-jul-2026/liveblog/132104581.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-01-jul-2026/liveblog/132104581.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Recent Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-01-jul-2026/liveblog/132104541.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-01-jul-2026/liveblog/132104541.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
-### [Why is market rising today? Sensex gains 600 points, Nifty above 24K. 3 key factors](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-gains-630-points-nifty-nears-24050-3-key-factors/articleshow/132105324.cms)
+### [Adani Ports SEZ among 5 stocks hit 52-week highs, rally up to 15% in a month](https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-sez-among-5-stocks-hit-52-week-highs-rally-up-to-15-in-a-month/slideshow/132114773.cms)
+Five BSE 100 stocks, led by Federal Bank and Adani group companies, scaled fresh 52-week highs amid Wednesday's broad-based market rally.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
+
+### [Multibaggers: 8 stocks rallied over 20% in each of the last three July-September quarters](https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-8-stocks-rallied-over-20-in-each-of-the-last-three-july-september-quarters/slideshow/132109805.cms)
+A study of seasonal market trends shows 15 stocks with market capitalisation above Rs 1,500 crore have delivered consistent July–September gains over the past three years. Most of these stocks have also posted strong one-year returns, with several turning multibaggers, suggesting momentum combined with seasonal strength may signal continued outperformance potential.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-01
+
+### [Why did market rise today? Sensex gains 444 points, Nifty closes above 24,000. 3 key factors](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-gains-630-points-nifty-nears-24050-3-key-factors/articleshow/132105324.cms)
 Indian stock markets surged on Wednesday, breaking a two-day losing spell. Positive global sentiment and other factors propelled investor confidence, with Sensex and Nifty 50 registering significant gains. The market capitalization saw a substantial increase, adding nearly Rs 2.5 lakh crore. While FMCG and Realty sectors led the charge, IT stocks experienced a downturn.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
@@ -314,9 +389,6 @@ Vedanta Iron and Steel shares have surged an impressive 89% since their June deb
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-01
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Market Update: Current Price and Returns](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-01-jul-2026/liveblog/132104495.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-01
-
 ### [75% Oyo parent IPO proceeds to pare debt](https://www.livemint.com/companies/75-oyo-parent-ipo-proceeds-to-pare-debt-hospitality-prism-oravel-ritesh-agarwal-11782826168713.html)
 No capital in the share sale is earmarked for funding capital expenditure at the company which is changing its brand name from Oyo to Prism.
 
@@ -327,24 +399,9 @@ The DRHP also shows large default loss guarantee payouts, signalling that the bu
 
 **Source:** Mint - Pharma  **Date:** 2026-06-30
 
-### [Beyond the batch: How digital twins are rewriting the rules of medicine](https://www.expresspharma.in/beyond-the-batch-how-digital-twins-are-rewriting-the-rules-of-medicine/)
-Amit Malviya, VP – QA, Zest Pharma, highlights how digital twins, AI and real-time release testing are reshaping pharmaceutical manufacturing and quality management The post Beyond the batch: How digital twins are rewriting the rules of medicine appeared first on Express Pharma .
+### [CuraTeQ Biologics Reports Positive Phase 3 Results for BP11 Biosimilar to Xolair® - Machine Maker](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDhyT09sZUh4U0RYVUFZLXZzT0RBNDhacks0N0dwcXJKSmtqZGdkdDh3Z2Q5NmRBMEVxemhKY1V2bGhTeUlIQkxIUzRqVl91N3AySTZDWDBOeC1oUmdpbndqbDB3a2lFTWRNNWF2c01PRDNBRlRaQ1N3Z0N3RW9mb0cwdGFLQzF0N2NYUHRTWnM4N2g4Zm84R2RHQnFHTVBnVlBPdjhoMG9zNGdTOHc?oc=5)
+CuraTeQ Biologics Reports Positive Phase 3 Results for BP11 Biosimilar to Xolair® &nbsp;&nbsp; Machine Maker
 
-**Source:** Express Pharma  **Date:** 2026-06-30
-
-### [Stock Market News Today Live Updates: Nifty Sees Resistance At 24,000, Sensex Up Over 400 Points; RITES, Reliance Power Surge Up To 17%](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-market-impact-q1-business-updates-june-auto-sal-11710254#publisher=newsstand)
-Nifty Media rose 1.41%, while Nifty Auto gained 0.99%, leading gains among sectoral indices, according to NSE data.
-
-**Source:** NDTV Profit  **Date:** 2026-07-01
-
-### [After Driest June In Years, IMD Says July Monsoon Outlook Remains Muted](https://www.ndtvprofit.com/india/july-rainfall-likely-below-normal-imd-says-after-weakest-june-since-2014-11710772#publisher=newsstand)
-The July outlook follows a poor June, when the country received just 99.5 mm of rainfall.
-
-**Source:** NDTV Profit  **Date:** 2026-07-01
-
-### [RITES Shares Jump 11% After Winning Rs 175 Crore Infrastructure Project](https://www.ndtvprofit.com/markets/rites-shares-jump-11-percent-after-winning-rs-175-crore-infrastructure-project-11710923#publisher=newsstand)
-The stock climbed to Rs 225.90, outperforming the benchmarks, even as the Nifty 50 traded modestly higher.
-
-**Source:** NDTV Profit  **Date:** 2026-07-01
+**Source:** GNews - Aurobindo  **Date:** 2026-07-01
 
 ---
