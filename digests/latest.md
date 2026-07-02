@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-07-02
 
-> 63 items · 2026-07-02 07:28 UTC
+> 63 items · 2026-07-02 13:55 UTC
 
-## 📊 BSE / NSE Filings (13)
+## 📊 BSE / NSE Filings (15)
 
 ### [Lupin: Updates on acquisition of minority shareholding in Multicare Pharmaceuticals Philippines, Inc. (''MPPI''), a subsidiary company and Buyback of shares by MPPI.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/aba85a2f-ad3b-4f33-bb37-1a7a1f10d74d.pdf)
 Category: Company Update | Sub: Acquisition | BSE Code: 500257
@@ -14,15 +14,20 @@ Category: Board Meeting | Sub: Board Meeting | BSE Code: 524230
 
 **Source:** BSE Filing  **Date:** 2026-07-01
 
-### [Dipna Pharmachem Ltd: Outcome and Intimation for Rescheduling of Board Meeting to 2nd July, 2026](https://www.bseindia.com/corporates/ann.html?scrip=543594)
-BSE Code: 543594
+### [Asston Pharmaceuticals Ltd: Outcome of the Board Meeting Scheduled to be held on 02nd July, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=544445)
+BSE Code: 544445
 
-**Source:** BSE Filing  **Date:** 2026-07-01
+**Source:** BSE Filing  **Date:** 2026-07-02
 
 ### [Dr. Reddy's Laboratories: Please find enclosed copy of Newspaper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9fe7e89-6cc7-4a66-9823-3e27e5b59d5b.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-07-01
+
+### [Cipla: Please find attached newspaper publication regarding opening of special window of lodgement of transfer and dematerialisation of physical shares.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/71ae3d04-b65c-4066-8337-546c12a0a461.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-07-02
 
 ### [Lupin: Lupin Receives EIR from U.S. FDA for its Somerset Facility with VAI Classification.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e1f52bf-372c-4dc8-86d3-92ab7d4f1818.pdf)
 Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
@@ -34,8 +39,18 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
 
 **Source:** BSE Filing  **Date:** 2026-07-01
 
+### [Aurobindo Pharma: Submission of certificate under regulation 74 (5) of SEBI (Depositories and Participants) Regulations, 2018 for the Quarter ended June 30, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1160205b-8f67-4009-af22-98594645a8c2.pdf)
+Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-07-02
+
 ### [Aurobindo Pharma: Intimation of completion of transfer of Company''s domestic branded generic pharmaceutical formulations products business to Auropharm Limited, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f068d1f5-768c-4d33-bf69-90ebd4175133.pdf)
 Category: Company Update | Sub: General | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-07-02
+
+### [IPCA Laboratories: Copy of Newspaper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5528c620-7d86-4b83-98e4-9f748b6a1f13.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 524494
 
 **Source:** BSE Filing  **Date:** 2026-07-02
 
@@ -64,14 +79,9 @@ Category: Company Update | Sub: General | BSE Code: 500271
 
 **Source:** BSE Filing  **Date:** 2026-07-01
 
-### [Mangalore Refinery and Petrochemicals Ltd: Mangalore Refinery And Petrochemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/07/2026 ,inter alia, to consider and approve Intimation ....](https://www.bseindia.com/corporates/ann.html?scrip=500109)
-BSE Code: 500109
-
-**Source:** BSE Filing  **Date:** 2026-07-02
-
 ---
 
-## 💰 Results & Financials (13)
+## 💰 Results & Financials (19)
 
 ### [FirstCry shares in focus ahead of Rs 300 crore Swara Baby stake sale via IPO](https://economictimes.indiatimes.com/markets/stocks/news/firstcry-shares-in-focus-ahead-of-rs-300-crore-swara-baby-stake-sale-via-ipo/articleshow/132128893.cms)
 Brainbees Solutions, the parent of FirstCry, will see its shares in focus after approving a Rs 300 crore offer for sale (OFS) in its subsidiary Swara Baby's upcoming IPO. Swara Baby, a contract manufacturer of hygiene products, plans to raise up to Rs 1,000 crore.This move comes as FirstCry's financial performance shows narrowed losses and revenue growth.
@@ -83,8 +93,18 @@ Bharti Airtel shares will be in focus after its NBFC arm, Airtel Money, commence
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
+### [Marico expects strong operating profit growth in Q1 as copra prices fall 45% from peak](https://www.livemint.com/companies/news/marico-operating-profit-copra-prices-q1-results-parachute-coconut-oil-saffola-oils-quarterly-update-11782992275454.html)
+The company expects consolidated revenue to grow in the early 20s, driven by robust broad-based performance across its core, digital and international businesses.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-02
+
 ### [Ola Electric shares in focus as Q1 registrations nearly double sequentially to 43,719 units](https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-in-focus-as-q1-registrations-nearly-double-sequentially-to-43719-units/articleshow/132128432.cms)
 Ola Electric Mobility registered 43,719 vehicles in Q1 FY27, nearly doubling from 22,252 in the previous quarter, driven by strong demand and operational improvements. The company also recorded 16,144 registrations in June, its best monthly performance in recent quarters.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-02
+
+### [HFCL shares slip nearly 7% this week after 212% rally. Is this multibagger a buy on dips?](https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-slip-nearly-7-this-week-after-212-rally-is-this-multibagger-a-buy-on-dips/articleshow/132134685.cms)
+HFCL shares have slipped after a stellar 212% rally this year, as investors booked profits despite improving fundamentals. Analysts remain constructive, citing strong technical support, a record order book, expanding defence and export businesses, and healthy earnings growth prospects, suggesting the long-term investment case remains intact.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
@@ -118,6 +138,11 @@ Indian stocks defy logic, with expensive companies consistently outperforming. T
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
+### [Sensex jumps 580 points, Nifty closes above 24,150 as IT stocks outperform; oil prices near $70/barrel](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-400-points-nifty-above-24100-as-oil-prices-fall-below-70-infosys-tcs-shares-jump-up-to-3/articleshow/132128415.cms)
+Indian equity benchmarks rallied over 0.7% as easing crude oil prices, lower market volatility, and gains in IT stocks lifted sentiment. Analysts expect the market to remain supported by global macro developments, the India–Japan Summit, US jobs data and the upcoming corporate earnings season.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-02
+
 ### [Wipro shares could crash 17% on Thursday if ADR is an indicator. What’s worrying investors?](https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-could-crash-17-on-thursday-if-adr-is-an-indicator-whats-worrying-investors/articleshow/132128043.cms)
 Wipro shares are poised for a significant drop following a steep decline in its ADRs, fueled by investor worries about future earnings and AI's impact on IT services. The company, already down substantially from its peak, faces headwinds from North American market slowdowns and the disruptive potential of generative AI. Accenture's tempered forecast and US monetary policy further dampen prospects for the sector.
 
@@ -128,21 +153,36 @@ On July 01, six Nifty500 stocks that gained over 5% appeared on the 'White Marub
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
-### [What stays on the top of pharma shelf—ease of doing business or patient safety?](https://www.expresspharma.in/what-stays-on-the-top-of-pharma-shelf-ease-of-doing-business-or-patient-safety/)
-Three individuals allegedly bought expired medicines at scrap prices, relabelled them with professionally printed stickers, repackaged them, and pumped them back into the pharmaceutical supply chain. This incident is a [&#8230;] The post What stays on the top of pharma shelf—ease of doing business or patient safety? appeared first on Express Pharma .
+### [Tata Steel pushes UK profitability target to FY29](https://www.livemint.com/companies/news/tata-steel-uk-profitability-target-delayed-eaf-port-talbot-fy29-11782988143358.html)
+Tata Steel chairman N. Chandrasekaran says the UK business is expected to become Ebitda- and PAT-positive by FY29.
 
-**Source:** Express Pharma  **Date:** 2026-07-01
+**Source:** Mint - Pharma  **Date:** 2026-07-02
 
-### [Cipla Boards July 23 Meeting for Q1 Earnings as US Generic Sales Target $250M - Sahi](https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1lnSUtXSEFZRzJ4ck90YjVKVl9EMXRTTkJZUms4WktZZ3BJeDZTTElRaFpzRnhJbGhvVlRvdXZHQmlwTWNTeEpPdE45MDdGYXQtZnN6UlM5dkR5RFdSQ2RPWGlTWGZKa2E1S2JwdjVVTFo2UzFMS29iNU1xeG51TXgtSGNfR3dEZVAxUy1ad05GczRoWk1VYmtIbVZuV2ZZaWttVkZkUlBHcWhJenFOTlhsZzg3QQ?oc=5)
-Cipla Boards July 23 Meeting for Q1 Earnings as US Generic Sales Target $250M &nbsp;&nbsp; Sahi
+### [From packaging to patient outcomes: Why India’s latest DPCO amendment signals a new direction for pharmaceutical care](https://www.expresspharma.in/from-packaging-to-patient-outcomes-why-indias-latest-dpco-amendment-signals-a-new-direction-for-pharmaceutical-care/)
+The pharmaceutical industry has traditionally regarded packaging as the final stage of manufacturing—a necessary component that protects the product, preserves its quality and facilitates distribution. However, healthcare systems worldwide are [&#8230;] The post From packaging to patient outcomes: Why India’s latest DPCO amendment signals a new direction for pharmaceutical care appeared first on Express Pharma .
 
-**Source:** GNews - Cipla  **Date:** 2026-07-01
+**Source:** Express Pharma  **Date:** 2026-07-02
+
+### [Cocktail 2 Box Office Collection Day 14: Shahid Film Eyes Weekend Boost Amid Low Occupancy, Check Earnings](https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-cocktail-2-box-office-collection-day-14-shahid-kapoor-film-eyes-weekend-boost-amid-low-occupancy-check-earnings-11717744#publisher=newsstand)
+The film stars Shahid Kapoor, Kriti Sanon and Rashmika Mandanna in lead roles.
+
+**Source:** NDTV Profit  **Date:** 2026-07-02
+
+### [Hindustan Zinc Q1 Business Update: Zinc Output Shines As Silver And Wind Power See Marginal Dips](https://www.ndtvprofit.com/business/hindustan-zinc-q1-business-update-zinc-output-shines-as-silver-and-wind-power-see-marginal-dips-11717855#publisher=newsstand)
+On a million-ounce basis, silver output stood at 4.8 million ounces, broadly flat from a year earlier.
+
+**Source:** NDTV Profit  **Date:** 2026-07-02
+
+### [UAE Expats Face Passport Delays As Contract Dispute Reaches Indian Supreme Court](https://www.ndtvprofit.com/india/uae-expats-face-passport-delays-as-contract-dispute-reaches-indian-supreme-court-11717567#publisher=newsstand)
+Passport, visa and attestation services are available on a limited walk-in basis in the UAE.
+
+**Source:** NDTV Profit  **Date:** 2026-07-02
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (5)
+## 🤝 Deals, M&A & Partnerships (4)
 
-### [113% returns in 13 days since listing! How Vedanta Iron and Steel shares made investors richer](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-shares-rocket-113-in-13-sessions-since-listing-market-value-more-than-doubles/articleshow/132129896.cms)
+### [113% returns in 13 days! How Vedanta Iron and Steel shares made investors richer since listing](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-shares-rocket-113-in-13-sessions-since-listing-market-value-more-than-doubles/articleshow/132129896.cms)
 Vedanta Iron and Steel shares have surged more than 100% in just 13 trading sessions since listing at Rs 20 on the NSE following Vedanta's mega demerger. The company, one of four new Vedanta entities to debut on June 15, has delivered stellar gains to investors after starting with a market capitalisation of Rs 7,821 crore.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
@@ -152,18 +192,13 @@ The regulator's approval anchors a massive overhaul of the multinational's domes
 
 **Source:** Mint - Pharma  **Date:** 2026-07-01
 
-### [HSBC signs 1.2 million sq ft GCC deal with Prestige Group in Bengaluru](https://www.livemint.com/companies/news/hsbc-signs-1-2-million-sq-ft-gcc-deal-with-prestige-group-in-bengaluru-11782897349903.html)
-HSBC has signed an LOI with Prestige Group for a 1.2 million sq ft, 20-year campus lease in Bengaluru worth over ₹3,000 crore, consolidating its India GCC operations under one roof. The bank will occupy Prestige Lakeshore Drive, with move-in expected next year.
+### [Bank of Baroda pays $600 million to settle NMC Health litigation](https://www.livemint.com/companies/news/bank-of-baroda-nmc-health-litigation-out-of-court-settlement-11782990798791.html)
+The settlement resolves all claims between the parties without any admission of liability or wrongdoing by the bank, according to the filing. Apart from the settlement amount, the terms of the agreement remain confidential.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-01
+**Source:** Mint - Pharma  **Date:** 2026-07-02
 
-### [Cadila Pharmaceuticals and Wellesta Holdings Singapore sign strategic JV to accelerate growth across South-East Asia](https://www.expresspharma.in/cadila-pharmaceuticals-and-wellesta-holdings-singapore-sign-strategic-jv-to-accelerate-growth-across-south-east-asia/)
-Cadila Pharmaceuticals, one of India’s leading integrated pharmaceutical companies, and Wellesta Holdings, Singapore, have signed a Memorandum of Understanding (MoU) to establish a strategic Joint Venture aimed at expanding access [&#8230;] The post Cadila Pharmaceuticals and Wellesta Holdings Singapore sign strategic JV to accelerate growth across South-East Asia appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-07-01
-
-### [Infosys On Course For Worst Fall In 33 Years: What The Stock's 2026 Decline Tells Us, And What To Watch](https://www.ndtvprofit.com/markets/infosys-below-rs-1000-in-2026-down-36-underperforming-nifty-it-and-in-its-second-year-of-decline-11716085#publisher=newsstand)
-Infosys has been building out its generative AI platform Topaz and has deepened partnerships with OpenAI, Microsoft, NVIDIA and Google Cloud.
+### [Lenskart Merges Two Subsidiaries, Inks JV With China's Mingfeng For India Manufacturing Push](https://www.ndtvprofit.com/business/lenskart-merges-two-subsidiaries-inks-jv-with-chinas-mingfeng-for-india-manufacturing-push-11717941#publisher=newsstand)
+The proposed joint venture will manufacture metal spectacle frames in India as part of a strategic partnership between the two companies.
 
 **Source:** NDTV Profit  **Date:** 2026-07-02
 
@@ -176,51 +211,63 @@ Investors have a final chance today to buy shares in 33 companies, including Mah
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
+### [Adani Enterprises launches QIP, sets floor price at Rs 3,034.68 per share](https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-launches-qip-sets-floor-price-at-rs-3034-68-per-share/articleshow/132140272.cms)
+Adani Enterprises launched its qualified institutional placement to raise funds from institutional investors, fixing a floor price of Rs 3,034.68 per share. The issue follows board and shareholder approvals, with pricing to be finalised in consultation with lead managers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-02
+
 ### [Rites among 5 stocks showing bullish RSI upswing](https://economictimes.indiatimes.com/markets/stocks/news/rites-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132127642.cms)
 Five stocks in the Nifty500 segment that gained over 5% featured in the RSI Trending Up scan on July 1 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish technical setups.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
-### [India Expansion, Cost Cuts, Green Steel And AI Push: Key Takeaways From Tata Steel's AGM](https://www.ndtvprofit.com/markets/india-expansion-cost-cuts-green-steel-and-ai-push-key-takeaways-from-tata-steels-agm-11716191#publisher=newsstand)
-Tata Steel's 119th AGM reaffirmed its India growth strategy, with plans to expand steelmaking capacity beyond 40 MTPA, target Rs 7,140 crore in FY27 cost savings and accelerate its transition to lower-carbon steelmaking in Europe.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
 ---
 
 ## 🏭 Operations & Approvals (5)
 
-### [Maruti Suzuki Share Price Live Updates: PM Modi, Japan PM Sanae Takaichi to jointly inaugurate Maruti Suzuki's 4th plant at Kharkhoda](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-02-jul-2026/liveblog/132127468.cms)
+### [Samsung, SK Hynix shares crash up to 14% as Kospi’s massive bloodbath enters day 2](https://economictimes.indiatimes.com/markets/stocks/news/samsung-sk-hynix-shares-crash-up-to-14-as-kospis-massive-bloodbath-enters-day-2/articleshow/132133905.cms)
+Samsung Electronics and SK Hynix shares plunged as much as 14% as South Korea’s Kospi extended its sharp selloff for a second day. The decline was triggered by renewed concerns over AI chip demand, excess capacity fears, and weak U.S. tech cues, raising questions over the sustainability of the rally.
+
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
+
+### [Adani takes on Birla, Vedanta with $11.5 billion aluminium bet](https://www.livemint.com/companies/news/adani-enterprises-aditya-birla-group-vedanta-group-aluminium-industry-india-11782979418211.html)
+The proposed 2 mtpa plant in Odisha would also help India reduce its reliance on imported aluminium, a light-weight metal that is increasingly used in electric vehicles
+
+**Source:** Mint - Pharma  **Date:** 2026-07-02
+
+### [Microsoft partners with Singapore's Lightstorm to build India-Southeast Asia undersea cable](https://www.livemint.com/companies/news/microsoft-partners-with-singapores-lightstorm-to-build-india-southeast-asia-undersea-cable-11782978232921.html)
+A consortium including Microsoft and Lightstorm plans to build the I-2SEA undersea cable connecting India, Malaysia, and Singapore, aimed at supporting AI and cloud infrastructure. The 3,600 km cable will be operational by late 2029, enhancing India's data capacity significantly.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-02
 
 ### [Regulatory cloud lifts, Vedanta readies Bokaro capacity doubling](https://www.livemint.com/companies/vedanta-iron-steel-vedanta-anil-agarwal-bokaro-steel-plant-steel-capacity-expansion-esl-steel-bokaro-11782919317947.html)
 The project was delayed by pending statutory approvals, including environmental clearances and consent-related approvals from regulators
 
 **Source:** Mint - Pharma  **Date:** 2026-07-02
 
-### [IndiGo launches ‘IndiGo Lite’ cabin baggage-only fare to offer cheaper tickets](https://www.livemint.com/companies/news/indigo-launches-indigo-lite-cabin-baggage-only-fare-to-offer-cheaper-tickets-11782893586182.html)
-The fare will be applicable for more domestic as well as international flights, and will be available for booking on the airline's app or website starting 1 July, and will be eligible for travel effective 15 July.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-01
-
-### [Mankind Pharma and Denovo Sciences join forces to drive AI-led innovation in drug discovery](https://www.expresspharma.in/mankind-pharma-and-denovo-sciences-join-forces-to-drive-ai-led-innovation-in-drug-discovery/)
-Mankind Pharma has announced a strategic collaboration with Denovo Sciences to launch an AI-led drug discovery programme, marking an important step in the company’s focus on innovation-driven and technology-enabled research [&#8230;] The post Mankind Pharma and Denovo Sciences join forces to drive AI-led innovation in drug discovery appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-07-01
-
-### [Anthropic Restores Claude Fable 5 Worldwide As US Lifts Export Controls](https://www.ndtvprofit.com/technology/anthropic-restores-claude-fable-5-worldwide-today-as-us-lifts-export-controls-11715701#publisher=newsstand)
-Anthropic added that it had also restored Mythos 5 access for a set of US organisations.
+### ['Mission Aagaman': India Set For First Private Orbital Rocket Launch With Vikram-1](https://www.ndtvprofit.com/science/mission-aagaman-india-set-for-first-private-orbital-rocket-launch-with-vikram-1-11717272#publisher=newsstand)
+Skyroot also acknowledged the support of the Indian Space Research Organisation (ISRO).
 
 **Source:** NDTV Profit  **Date:** 2026-07-02
 
 ---
 
-## 📉 Analyst & Brokerage Calls (11)
+## 📉 Analyst & Brokerage Calls (9)
 
 ### [Zee promoter family aims to raise stake, infuse  ₹3,143 crore via warrants](https://www.livemint.com/companies/news/goenkas-to-hike-stake-pump-3-143-crore-in-zee-entertainment-11782923656517.html)
 In a board meeting on Wednesday evening, the promoters have proposed to eventually hike Sunbright International’s shareholding in Zee Entertainment from the current 0.18% to a little over 20%, taking the Subhash Chandra-led Goenka family’s total stake in the company to just under 25%.
 
 **Source:** Mint - Pharma  **Date:** 2026-07-01
+
+### [Blinkit to remain undisputed market leader despite Amazon, Flipkart's QC entry, says Anand Rathi, sees 43% upside](https://economictimes.indiatimes.com/markets/stocks/news/blinkit-to-remain-undisputed-market-leader-despite-amazon-flipkarts-qc-entry-says-anand-rathi-sees-43-upside/articleshow/132134798.cms)
+Despite concerns over Amazon and Flipkart intensifying competition in India's quick commerce market, Anand Rathi believes Blinkit remains the clear market leader due to its scale, strong customer retention and limited reliance on heavy discounts. The brokerage has reiterated its 'Buy' rating on Eternal with a target price of Rs 400.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-02
+
+### [12 midcap stocks tanked up to 55% in just one year. Are you holding any?](https://economictimes.indiatimes.com/markets/stocks/news/12-midcap-stocks-tanked-up-to-55-in-just-one-year-are-you-holding-any/slideshow/132134129.cms)
+Several midcap stocks emerged as standout performers, rewarding investors with impressive returns.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-02
 
 ### [Paint stocks tumble up to 48% from their peaks. Is the worst over?](https://economictimes.indiatimes.com/markets/stocks/news/paint-stocks-tumble-up-to-48-from-their-peaks-is-the-worst-over/articleshow/132131320.cms)
 Paint stocks have declined sharply from their 52-week highs, correcting between 10% and 48%, as investors turn cautious due to rising competition and margin pressures. However, analysts still see value in the sector at current levels.
@@ -242,50 +289,37 @@ HDFC Bank shares have plunged 20% this year amid governance concerns, sparked by
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
-### [Sensex jumps over 500 points, Nifty tops 24,150 as oil slips below $70/bbl on US-Iran peace talks](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-400-points-nifty-above-24100-as-oil-prices-fall-below-70-infosys-tcs-shares-jump-up-to-3/articleshow/132128415.cms)
-Indian stock markets saw a second day of gains, with Sensex and Nifty inching up as oil prices plummeted to $70 a barrel amid US-Iran peace talks. Tech stocks like Infosys led the charge, while broader markets also traded higher. Analysts point to falling crude, strong auto sales, and tapering FII selling as positive near-term drivers, though monsoon progress remains a watch point.
-
-**Source:** Economic Times - Markets  **Date:** 2026-07-02
-
 ### [All eyes on OMCs' petrol, diesel prices as Nayara cuts fuel rates](https://www.livemint.com/companies/all-eyes-on-omc-petrol-diesel-prices-after-nayara-cuts-fuel-rates-atf-commercial-lpg-turn-cheaper-11782914659827.html)
 OMCs raised petrol and diesel prices for the first time on 15 May, after holding on during the first two months of the war. Over four separate days, petrol and diesel prices were cumulatively raised by around ₹7.5 per litre.
 
 **Source:** Mint - Pharma  **Date:** 2026-07-02
 
-### [I Squared Capital, TPG-CPPIB lead race to buy KKR-backed Re Sustainability](https://www.livemint.com/companies/re-sustainability-stake-sale-kkr-i-squared-tpg-cppib-11782886980134.html)
-I Squared Capital, and TPG and CPPIB have emerged as the final contenders to acquire a controlling stake in Re Sustainability, formerly known as Ramky Enviro Engineers.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-01
-
-### [June Auto Sales Beat Estimates; Maruti Suzuki, Bajaj Auto Among ICICI Securities' Top Picks — Check Target Price](https://www.ndtvprofit.com/markets/june-auto-sales-beat-estimates-maruti-suzuki-hyundai-motor-bajaj-auto-among-icici-securities-top-picks-check-target-price-11716235#publisher=newsstand)
-June-2026 wholesale volumes remained robust, and broadly ahead of ICICI Securities' estimate.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [Ather Energy Shares In Focus As HDFC Securities Raises Target Price — Buy, Sell or Hold?](https://www.ndtvprofit.com/markets/ather-energy-shares-in-focus-as-hdfc-securities-raises-target-price-buy-sell-or-hold-11716125#publisher=newsstand)
-HDFC Securities has maintained Buy rating on Aether Industries and has raised its target price.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [Lodha, Aditya Birla Real Estate Preferred Over DLF, Godrej Properties — Check Target Prices, Ratings by Motilal Oswal](https://www.ndtvprofit.com/markets/lodha-developers-aditya-birla-real-estate-preferred-over-dlf-godrej-properties-check-target-prices-ratings-by-motilal-oswal-11715872#publisher=newsstand)
-Most real estate players in the sector are now trading at a 10-35% discount to their respective NAVs
+### [Mumbai Rains Live Updates: IMD Alert Downgraded To Orange; High Tide Batters City Coast](https://www.ndtvprofit.com/india/mumbai-rains-live-updates-imd-issues-orange-alert-for-mumbai-thane-palghar-weh-traffic-waterlogging-potholesmumbai-latest-news-11715377#publisher=newsstand)
+Mumbai Rains
 
 **Source:** NDTV Profit  **Date:** 2026-07-02
 
 ---
 
-## 📰 Industry & Policy News (13)
+## 📰 Industry & Policy News (8)
 
-### [Divis Labs Share Price Live Updates: Divis Labs Shows Positive Momentum](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-updates-02-jul-2026/liveblog/132127433.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-updates-02-jul-2026/liveblog/132127433.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-livestock-price-today-live-updates-02-jul-2026/liveblog/132127420.cms)
+### [India's hidden semiconductor advantage: What's next in the chip journey?](https://economictimes.indiatimes.com/markets/stocks/news/indias-hidden-semiconductor-advantage-whats-next-in-the-chip-journey/articleshow/132134290.cms)
+As India accelerates its semiconductor ambitions with a proposed second-phase incentive programme, Equirus says the country is well positioned to evolve from a global chip design hub into a full-stack semiconductor ecosystem. However, it cautions that execution challenges remain and maintains a cautious stance on select semiconductor-related stocks.
+
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
 
 ### [10 smallcap stocks soar up to 212% this year, 3 turn multibaggers. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/10-smallcap-stocks-soar-up-to-212-this-year-3-turn-multibaggers-do-you-own-any/slideshow/132128568.cms)
 India's smallcap stocks have outperformed the Nifty 50 in 2026, with HFCL, Aditya Infotech and Acutaas Chemicals leading the top 10 performers, delivering exceptional year-to-date returns.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-02
+
+### [Palantir’s Alex Karp says AI industry has ‘gone completely wrong’ with tokens; slams OpenAI, Anthropic](https://www.livemint.com/companies/news/palantirs-alex-karp-says-ai-industry-has-gone-completely-wrong-with-tokens-slams-openai-anthropic-11782980541967.html)
+Alex Karp, CEO of Palantir, criticized AI firms for relying on costly token models. He emphasized the need for companies to focus on return-on-investment approaches and raised concerns about data ownership and the rapid advancement of Chinese AI capabilities.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-02
 
 ### [Bhavin Turakhia's next act: A $30 million AI-native workplace platform to challenge Microsoft, Google](https://www.livemint.com/companies/bhavin-turakhia-neo-ai-native-workplace-artificial-intelligence-enterprise-software-workplace-productivity-11782961115580.html)
 Bhavin Turakhia has invested $30 million of his own capital to build Neo, an AI-native workplace platform that lets humans and AI agents work together, challenging legacy productivity suites.
@@ -306,35 +340,5 @@ A potential Tata Sons listing now depends on the Reserve Bank of India's decisio
 Glenmark Specialty S.A, a wholly owned subsidiary of Glenmark Pharmaceuticals (Glenmark) announced the advancement of its multi-country Phase 3 clinical trial for Trastuzumab rezetecan (SHR-A1811), a HER2-targeted antibody drug conjugate [&#8230;] The post Glenmark advances multi-country phase 3 clinical trial of Trastuzumab rezetecan in PROC appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-07-02
-
-### [Claude Fable 5 AI Model Refuses To Explain Caterpillar Metamorphosis Into Butterfly; Here's Why?](https://www.ndtvprofit.com/trending/fable-5-ai-model-refuses-to-explain-caterpillar-metamorphosis-into-butterfly-heres-why-11715984#publisher=newsstand)
-Users slammed Anthropic for filtering responses on simple science questions.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [CSM Technologies Lists Flat On BSE, NSE](https://www.ndtvprofit.com/markets/csm-technologies-lists-flat-on-bse-nse-11715965#publisher=newsstand)
-CSM Technologies Lists Flat On BSE, NSE
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [Coca-Cola Said To Seek Bankers For $1 Billion India Bottler IPO](https://www.ndtvprofit.com/markets/hindustan-coca-cola-beverages-said-to-seek-bankers-for-1-billion-india-bottler-ipo-11716150#publisher=newsstand)
-The presentations are scheduled to take place in London next week, where Rothschild & Co., the company's adviser on the transaction, will meet prospective banks for the proposed listing of Hindustan Coca-Cola Beverages.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [Final Day Of Kratikal Tech IPO: GMP Soars As Issue Gets Subscribed Over 35 Times](https://www.ndtvprofit.com/markets/kratikal-tech-ipo-day-3-subscription-status-latest-gmp-and-more-11715941#publisher=newsstand)
-The shares of Kratikal Tech are scheduled to list on the BSE SME platform on July 7.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [Zee Entertainment Shares Slip 4% After Clarification On Rs 418 Crore FDI](https://www.ndtvprofit.com/markets/zee-entertainment-shares-slip-4-percent-after-clarification-on-rs-481-crore-fdi-11715932#publisher=newsstand)
-Zee Entertainment share price dropped as much as 4.42%.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
-
-### [Zensar Tech Share Price Rallies 9% In Early Trade As IT Stocks Rebound To Snap Four-Day Slump](https://www.ndtvprofit.com/markets/zensar-tech-share-price-rallies-9-in-early-trade-as-it-stocks-rebound-to-snap-four-day-losing-streak-11715968#publisher=newsstand)
-On Thursday, shares of Zensar Tech opened at Rs 429.45 against a previous close of Rs 426.05 and surged over 9% to hit an intraday high of Rs 468.50 apiece on the NSE.
-
-**Source:** NDTV Profit  **Date:** 2026-07-02
 
 ---
