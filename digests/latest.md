@@ -1,18 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-07-03
 
-> 56 items · 2026-07-03 06:59 UTC
+> 60 items · 2026-07-03 13:59 UTC
 
-## 📊 BSE / NSE Filings (8)
+## 📊 BSE / NSE Filings (9)
 
-### [Dipna Pharmachem Ltd: Outcome of Board Meeting held today i.e. 2nd July, 2026](https://www.bseindia.com/corporates/ann.html?scrip=543594)
-BSE Code: 543594
+### [Cipla: Please find enclosed transcript.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d20e7e83-d9f1-44bf-8561-a9b2d0f388bf.pdf)
+Category: Company Update | Sub: General | BSE Code: 500087
 
-**Source:** BSE Filing  **Date:** 2026-07-02
-
-### [Asston Pharmaceuticals Ltd: Outcome of the Board Meeting Scheduled to be held on 02nd July, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=544445)
-BSE Code: 544445
-
-**Source:** BSE Filing  **Date:** 2026-07-02
+**Source:** BSE Filing  **Date:** 2026-07-03
 
 ### [Cipla: Please find attached newspaper publication regarding opening of special window of lodgement of transfer and dematerialisation of physical shares.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/71ae3d04-b65c-4066-8337-546c12a0a461.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
@@ -39,14 +34,24 @@ Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 59
 
 **Source:** BSE Filing  **Date:** 2026-07-02
 
+### [Marksans Pharma: PFA Certificate under Reg. 74(5) of SEBI (DP) Regulations, 2018.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4f037a52-7d1e-46bf-8a44-dc6aee0a26b5.pdf)
+Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-07-03
+
 ### [Dipna Pharmachem Ltd: Submission of Financial Results](https://www.bseindia.com/corporates/ann.html?scrip=543594)
 BSE Code: 543594
 
 **Source:** BSE Filing  **Date:** 2026-07-02
 
+### [Bacil Pharma Ltd: Bacil Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 09/07/2026 ,inter alia, to consider and approve 1. The proposal for raising funds ....](https://www.bseindia.com/corporates/ann.html?scrip=524516)
+BSE Code: 524516
+
+**Source:** BSE Filing  **Date:** 2026-07-03
+
 ---
 
-## 💰 Results & Financials (20)
+## 💰 Results & Financials (21)
 
 ### [Avenue Supermarts shares tumble 5% after posting Q1 business update](https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-in-focus-after-q1-update-revenue-rises-15-1-to-rs-18343-crore/articleshow/132151675.cms)
 Avenue Supermarts, operator of DMart, saw its shares dip 5% despite reporting a 15.1% revenue increase to Rs 18,343.5 crore for the June quarter. The company added three stores, bringing its total to 503. A board meeting is scheduled to discuss raising funds via debt securities. Earlier, DMart reported a 19% net profit jump for FY26's March quarter, reaching Rs 656.6 crore.
@@ -63,20 +68,40 @@ HCL Tech shares surged following a significant $1.14 billion deal with a Europea
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
+### [India's Godrej Consumer expects volume-driven first-quarter revenue rise](https://economictimes.indiatimes.com/markets/stocks/news/indias-godrej-consumer-expects-volume-driven-first-quarter-revenue-rise/articleshow/132163199.cms)
+Godrej Consumer anticipates a robust first quarter, projecting high-teen consolidated revenue growth driven by solid underlying volume increases. The company implemented price adjustments to counter elevated input costs, with margins expected to improve progressively as commodity prices ease. Key international markets, including Indonesia and the GUAM region, demonstrated strong performance, contributing to the positive outlook and suggesting the company is on track to surpass its full-year targ
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
+
 ### [PC Jeweller shares rally 5% after Q1 update; firm eyes debt-free status this quarter](https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-in-focus-after-q1-update-firm-eyes-debt-free-status-this-quarter/articleshow/132152037.cms)
 PC Jeweller shares are likely to remain in focus after the company reported a 21% rise in Q1 FY27 revenue and said it expects to become debt-free this quarter. The jeweller reduced its bank debt by 24% during the quarter and by over 90% since September 2024. Strong Q4 earnings and plans to expand via franchise showrooms further boosted sentiment
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [HCLTech ends three-year mega-deal drought with $1.14 billion contract from European client](https://www.livemint.com/companies/hcltech-three-year-mega-deal-drought-1-14-billion-contract-european-client-europe-revenue-tcs-infosys-coforge-11783054387804.html)
+### [Bank of Baroda's  ₹5,700 crore NMC settlement to weigh on FY27 profitability](https://www.livemint.com/companies/news/bank-of-baroda-nmc-health-settlement-rs-5700-crore-profitability-hit-fy27-11783065578045.html)
+A one-time legal payout equivalent to nearly 28% of the lender's FY26 net profit is expected to dent earnings, though analysts say its capital position and long-term growth remain intact.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-03
+
+### [HCLTech said to have won $1.14 billion contract from Mercedes-Benz, ending three-year mega-deal drought](https://www.livemint.com/companies/hcltech-three-year-mega-deal-drought-1-14-billion-contract-european-client-europe-revenue-tcs-infosys-coforge-11783054387804.html)
 The deal assures HCLTech $228 million in annual revenue, translating to about 1.6% growth in FY27.
 
 **Source:** Mint - Pharma  **Date:** 2026-07-03
 
-### [Marico expects strong operating profit growth in Q1 as copra prices fall 45% from peak](https://www.livemint.com/companies/news/marico-operating-profit-copra-prices-q1-results-parachute-coconut-oil-saffola-oils-quarterly-update-11782992275454.html)
-The company expects consolidated revenue to grow in the early 20s, driven by robust broad-based performance across its core, digital and international businesses.
+### [Dabur India posts strong quarterly outlook as price hikes cushion inflation hit](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms)
+Dabur India anticipates a significant boost in its first-quarter profit, driven by strategic price hikes that effectively countered rising inflation and packaging costs. The company noted resilient consumer sentiment despite global challenges, with sequential improvements in business performance. Strong double-digit growth is projected across key international markets like Egypt and Turkey, alongside robust expansion in India's rural demand and emerging sales channels.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-02
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
+
+### [Vedanta Power Q1 update: Sales rise 38% on Meenakshi boost, Sakti shutdown weighs](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-q1-update-sales-rise-38-on-meenakshi-boost-sakti-shutdown-weighs/articleshow/132160077.cms)
+Vedanta Power reported a 38% year-on-year rise in Q1 power sales, driven by a sharp jump in Meenakshi Energy output. Sequential performance declined due to lower generation at some plants, while Sakti Thermal Plant remained shut after a boiler blast, impacting overall volumes during the quarter.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
+
+### [IDFC First Bank Q1 update: Loan book grows 21% YoY to Rs 3.05 lakh crore; shares rise 2%](https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-q1-update-loan-book-grows-21-yoy-to-rs-3-05-lakh-crore-shares-rise-2/articleshow/132158301.cms)
+IDFC First Bank reported strong provisional Q1 FY27 business growth, with loans and advances rising 20.6% year-on-year and deposits increasing 18%. CASA deposits and the CASA ratio also improved, reflecting healthy balance sheet expansion. The stock gained nearly 2% following the business update, while the bank maintained steady lending momentum.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
 
 ### [Hindustan Zinc shares jump 3%. Here are 3 reasons behind today's shine](https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-3-here-are-3-reasons-behind-todays-shine/articleshow/132153914.cms)
 Hindustan Zinc shares surged over 3% on Friday, adding approximately Rs 6,815 crore to its market value. This rally was fueled by a weaker US dollar, soaring silver prices, and a positive Q1 business update. The company reported its highest-ever first-quarter mined metal production, despite a slight dip in silver output. The stock's performance reflects a broader uptrend in metal stocks.
@@ -123,28 +148,13 @@ On July 2, four stocks in the Nifty200 appeared on the 'White Marubozu' bullish 
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Tata Steel pushes UK profitability target to FY29](https://www.livemint.com/companies/news/tata-steel-uk-profitability-target-delayed-eaf-port-talbot-fy29-11782988143358.html)
-Tata Steel chairman N. Chandrasekaran says the UK business is expected to become Ebitda- and PAT-positive by FY29.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-02
-
-### [From packaging to patient outcomes: Why India’s latest DPCO amendment signals a new direction for pharmaceutical care](https://www.expresspharma.in/from-packaging-to-patient-outcomes-why-indias-latest-dpco-amendment-signals-a-new-direction-for-pharmaceutical-care/)
-The pharmaceutical industry has traditionally regarded packaging as the final stage of manufacturing—a necessary component that protects the product, preserves its quality and facilitates distribution. However, healthcare systems worldwide are [&#8230;] The post From packaging to patient outcomes: Why India’s latest DPCO amendment signals a new direction for pharmaceutical care appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-07-02
-
-### [DMart Operator Avenue Supermarts Shares Sink 5% As Q1 Business Update Disappoints Brokerages](https://www.ndtvprofit.com/markets/avenue-supermarts-share-price-dmart-operators-shares-sink-5-as-q1-business-update-disappoints-brokerages-11721168#publisher=newsstand)
-Avenue Supermarts shares fell nearly 5% after its Q1 FY27 business update. Here's what led to the decline and the key factors investors are watching.
+### [Godrej Consumer Signals Margin Pressure In Q1 Despite Mid-Teen Revenue Growth](https://www.ndtvprofit.com/business/godrej-consumer-signals-margin-pressure-in-q1-despite-mid-teen-revenue-growth-11723096#publisher=newsstand)
+The FMCG major said it expects to deliver high-teens consolidated revenue growth in the June quarter, comfortably ahead of its full-year guidance of double-digit growth.
 
 **Source:** NDTV Profit  **Date:** 2026-07-03
 
-### [BAT BMS App Controversy: Why Is The Chinese App Making Headlines Over E-Rickshaw Control Concerns?](https://www.ndtvprofit.com/technology/bat-bms-app-controversy-why-is-the-chinese-app-making-headlines-over-e-rickshaw-control-concerns-11721000#publisher=newsstand)
-The app is meant to help owners of compatible battery management systems keep tabs on readings such as voltage, temperature and current.
-
-**Source:** NDTV Profit  **Date:** 2026-07-03
-
-### [Donald Trump Sparks Buzz With AI Video Prescribing 'Treatment' For Celebrity Critics With 'TDS'](https://www.ndtvprofit.com/trending/donald-trump-sparks-buzz-with-ai-video-prescribing-treatment-for-celebrity-critics-with-tds-11720603#publisher=newsstand)
-Celebrities are depicted as reformed patients, delivering fictional testimonials about their "recovery" from TDS.
+### [Dabur Q1 Business Update: Double-Digit Profit Growth Expected As Fundamentals Stay Strong](https://www.ndtvprofit.com/business/dabur-q1-business-update-double-digit-profit-growth-expected-as-fundamentals-stay-strong-11723088#publisher=newsstand)
+In beverages segment, Dabur reported a sequential recovery during the quarter.
 
 **Source:** NDTV Profit  **Date:** 2026-07-03
 
@@ -162,24 +172,29 @@ Pininfarina was meant to diversify Tech Mahindra into high-end engineering and d
 
 **Source:** Mint - Pharma  **Date:** 2026-07-03
 
-### [Bank of Baroda pays $600 million to settle NMC Health litigation](https://www.livemint.com/companies/news/bank-of-baroda-nmc-health-litigation-out-of-court-settlement-11782990798791.html)
-The settlement resolves all claims between the parties without any admission of liability or wrongdoing by the bank, according to the filing. Apart from the settlement amount, the terms of the agreement remain confidential.
+### [Sumitomo Chemical shares soar 11%, record biggest single-day surge in nearly 2 years. Here’s why](https://economictimes.indiatimes.com/markets/stocks/news/sumitomo-chemical-shares-soar-11-record-biggest-single-day-surge-in-nearly-2-years-heres-why/articleshow/132155722.cms)
+Sumitomo Chemical India shares surged around 11% as heavy volumes and a major development at its Japanese parent’s Korean subsidiary lifted sentiment. Dongwoo Fine-Chem’s joint venture with Samsung Electro-Mechanics for glass core substrates boosted optimism around next-generation semiconductor packaging demand. The stock hit a fresh high amid strong trading activity.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-02
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
 
 ### [Shantha Biologics, Novo Nordisk collaborate for cartridge fill-finish services in India](https://www.expresspharma.in/shantha-biologics-novo-nordisk-collaborate-for-cartridge-fill-finish-services-in-india/)
 No financial terms or further details of the agreement were disclosed. The post Shantha Biologics, Novo Nordisk collaborate for cartridge fill-finish services in India appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-07-03
 
-### [Alpha Box Office Collection Day 1: Alia Bhatt-Sharvari Starrer Opens On A Decent Note; Mints This Amount](https://www.ndtvprofit.com/lifestyle/alpha-box-office-collection-day-1-alia-bhatt-sharvari-starrer-opens-on-a-decent-note-mints-this-amount-11721099#publisher=newsstand)
-The spy thriller is screening across 1,354 tracked shows and has recorded an overall occupancy of 9%.
+### [Is HCLTech Mega Deal Signalling Worst Is Over For IT Stocks?](https://www.ndtvprofit.com/business/is-hcltech-mega-deal-signalling-worst-is-over-for-it-stocks-11723329#publisher=newsstand)
+Industry analysts expect AI consulting, cloud migration and enterprise AI implementation to remain among the fastest-growing areas within the global IT services market, providing opportunities for firms with deep digital capabilities.
 
 **Source:** NDTV Profit  **Date:** 2026-07-03
 
 ---
 
 ## 💸 Corporate Actions (3)
+
+### [Food inflation reshaped household consumption in FY26, says Nestle India CMD](https://www.livemint.com/companies/news/nestle-india-fy26-nestle-india-share-price-fmcg-india-rural-demand-11783068688228.html)
+Nestle India declared a special dividend of ₹2 per equity share with a face value of ₹1. Following the news, its shares rose over 1% on Friday
+
+**Source:** Mint - Pharma  **Date:** 2026-07-03
 
 ### [Vedanta Power, Iron &amp; Steel and Oil &amp; Gas shares crash up to 8%. What’s triggering the selloff?](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-iron-steel-and-oil-gas-shares-crash-up-to-8-whats-triggering-the-selloff/articleshow/132153005.cms)
 Vedanta shares saw profit-taking after a strong rally in newly demerged entities, with most segments falling up to 8% over 14 sessions. Vedanta Aluminium Metal outperformed and gained 2%, drawing bullish calls from brokers including Emkay and Citi, which see strong upside potential driven by global aluminium demand, cost efficiencies, and improving leverage, making it the preferred long-term pick.
@@ -191,40 +206,35 @@ Adani Enterprises successfully upsized its qualified institutional placement to 
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Adani Enterprises Upsizes QIP To Rs 15,000 Crore After Blockbuster Demand](https://www.ndtvprofit.com/markets/adani-enterprises-upsizes-qip-to-rs-15-000-crore-after-blockbuster-demand-11721200#publisher=newsstand)
-Institutional issue attracts bids worth 3.8 times the base offer within 48 hours of the roadshow.
-
-**Source:** NDTV Profit  **Date:** 2026-07-03
-
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (2)
+
+### [JSW Steel kicks off  ₹16,350 crore low-carbon steel project in Andhra Pradesh](https://www.livemint.com/companies/news/jsw-steel-rs16350-crore-rayalaseema-andhra-pradesh-low-carbon-steel-project-11783074293325.html)
+The electric arc furnace plant is part of the steelmaker's ₹16,350 crore investment to expand capacity and produce lower-carbon steel.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-03
 
 ### [Adani Enterprises launches $1.05 billion share sale, begins second phase of  ₹16,600 crore fundraising](https://www.livemint.com/companies/gautam-adani-enterprises-stock-share-sale-fundraising-qip-rights-issue-11783001732983.html)
 Gautam Adani-led Adani Enterprises &amp;nbsp;is returning to the equity market with a qualified institutional placement to raise at least ₹10,000 crore ($1.05 billion) from institutional investors, with an option to increase the issue size
 
 **Source:** Mint - Pharma  **Date:** 2026-07-02
 
-### [Adani takes on Birla, Vedanta with $11.5 billion aluminium bet](https://www.livemint.com/companies/news/adani-enterprises-aditya-birla-group-vedanta-group-aluminium-industry-india-11782979418211.html)
-The proposed 2 mtpa plant in Odisha would also help India reduce its reliance on imported aluminium, a light-weight metal that is increasingly used in electric vehicles
-
-**Source:** Mint - Pharma  **Date:** 2026-07-02
-
-### [Microsoft partners with Singapore's Lightstorm to build India-Southeast Asia undersea cable](https://www.livemint.com/companies/news/microsoft-partners-with-singapores-lightstorm-to-build-india-southeast-asia-undersea-cable-11782978232921.html)
-A consortium including Microsoft and Lightstorm plans to build the I-2SEA undersea cable connecting India, Malaysia, and Singapore, aimed at supporting AI and cloud infrastructure. The 3,600 km cable will be operational by late 2029, enhancing India's data capacity significantly.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-02
-
-### [Moto G77 Power Launch Date Confirmed In India: Expected Price, Features And Other Details](https://www.ndtvprofit.com/technology/moto-g77-power-launch-date-confirmed-in-india-check-features-expected-price-and-other-details-11721021#publisher=newsstand)
-The device will focus on strong battery life and camera capabilities.
-
-**Source:** NDTV Profit  **Date:** 2026-07-03
-
 ---
 
-## 📉 Analyst & Brokerage Calls (4)
+## 📉 Analyst & Brokerage Calls (6)
 
-### [2026 multibagger smallcap stock jumps another 10% after Rs 1,437-crore Vedanta Aluminium order](https://economictimes.indiatimes.com/markets/stocks/news/2026-multibagger-smallcap-stock-jumps-another-10-after-rs-1437-crore-vedanta-aluminium-order/articleshow/132153706.cms)
+### [Apollo Hospitals among 8 largecap stocks hit 52-week highs, rally up to 12% in a month](https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-among-8-largecap-stocks-hit-52-week-highs-rally-up-to-12-in-a-month/slideshow/132159860.cms)
+Indian markets remained firm with Sensex closing higher, supporting momentum in largecap stocks. Eight companies, including Apollo Hospitals and Bosch, hit 52-week highs amid sustained buying interest. Gains of up to 12% in a month highlight strong investor confidence and continued bullish sentiment in select sectors.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
+
+### [South Korean shares rebound 6% but face second weekly loss](https://economictimes.indiatimes.com/markets/stocks/news/south-korean-shares-rebound-6-but-face-second-weekly-loss/articleshow/132155144.cms)
+South Korean equities rebounded sharply on Friday, with the Kospi jumping nearly 6%, led by strong gains in heavyweight stocks like Samsung Electronics and SK Hynix. The recovery came after earlier losses driven by a global tech selloff and concerns that the AI-driven rally may be peaking.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
+
+### [2026 multibagger smallcap stock jumps another 10% after Rs 1,437 crore Vedanta Aluminium order](https://economictimes.indiatimes.com/markets/stocks/news/2026-multibagger-smallcap-stock-jumps-another-10-after-rs-1437-crore-vedanta-aluminium-order/articleshow/132153706.cms)
 Bluspring Enterprises shares hit a record high after its subsidiary secured a Rs 1,437 crore operations and maintenance contract from Vedanta Aluminium Metal. The order strengthens the company’s order book, while multiple recent contract wins and positive brokerage views on Vedanta Aluminium support investor sentiment.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
@@ -239,30 +249,41 @@ Five stocks in the Nifty500 pack that gained over 5% featured in the RSI Trendin
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [L&T Tech Sees Target Price Cut; HDFC Securities Remains Positive on AI-Led Growth — Buy, Sell or Hold?](https://www.ndtvprofit.com/markets/l-and-tech-sees-target-price-cut-hdfc-securities-remains-positive-on-ai-led-growth-buy-sell-or-hold-11721256#publisher=newsstand)
-At the current market price, L&T Tech trades at 22x FY27E EPS, reflecting a 20% discount to its 10-year average.
+### [ED Completes First-Ever Aircraft Auction; Sells Seized Hawker 800A Via MSTC](https://www.ndtvprofit.com/business/ed-completes-first-ever-aircraft-auction-sells-seized-hawker-800a-via-mstc-11722721#publisher=newsstand)
+The seizure was made in connection with an ongoing money laundering investigation.
 
 **Source:** NDTV Profit  **Date:** 2026-07-03
 
 ---
 
-## 📰 Industry & Policy News (12)
+## 📰 Industry & Policy News (14)
 
 ### [Smart investing: 11 stocks that retail investors bought for 3 quarters delivered up to 380% returns](https://economictimes.indiatimes.com/markets/stocks/news/smart-investing-11-stocks-that-retail-investors-bought-for-3-quarters-delivered-up-to-380-returns/articleshow/132152077.cms)
 Smart investing paid off for many retail investors who consistently increased their stake in 11 select stocks over three quarters. These companies, spanning diverse sectors like energy, engineering, and technology, delivered impressive returns, with some soaring over 380%. This trend highlights a strategic approach by individual investors, moving beyond mere momentum chasing to achieve significant gains in the Indian equity market.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys gains traction in today's trading session](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-03-jul-2026/liveblog/132151130.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-03-jul-2026/liveblog/132151130.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Divis Labs Share Price Live Updates: Divis Labs Sees Positive Stock Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-updates-03-jul-2026/liveblog/132151092.cms)
+### [Sebi changes rules on unpaid client securities to ease broker operations](https://economictimes.indiatimes.com/markets/stocks/news/sebi-changes-rules-on-unpaid-client-securities-to-ease-broker-operations/articleshow/132161829.cms)
+SEBI has revised rules for handling unpaid client securities, introducing auto-pledges in clients' demat accounts, stricter timelines, daily pledge reviews and investor safeguards. The changes aim to align with direct payouts, improve operational efficiency and strengthen investor protection across stock broking.
+
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Market Performance Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-03-jul-2026/liveblog/132151071.cms)
+### [Global Market Update: Europe's STOXX 600 hits record high, eyes best weekly gain since mid-May](https://economictimes.indiatimes.com/markets/stocks/news/global-market-update-europes-stoxx-600-hits-record-high-eyes-best-weekly-gain-since-mid-may/articleshow/132159499.cms)
+Europe's STOXX 600 hovered near record highs on Friday and headed for its best week since mid-May, supported by gains in defence and cyclical stocks. Investors shrugged off near-term US rate concerns as easing Middle East tensions broadened the rally beyond technology shares. Siemens led gains in Germany, while defence stocks benefited from expectations of higher military spending amid escalating geopolitical risks.
+
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Cipla Share Price Live Updates: Cipla's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-03-jul-2026/liveblog/132151068.cms)
+### [Pragyawan Technologies files DRHP with Sebi for Rs 400 crore IPO](https://economictimes.indiatimes.com/markets/stocks/news/pragyawan-technologies-files-drhp-with-sebi-for-rs-400-crore-ipo/articleshow/132157906.cms)
+Pragyawan Technologies has filed its DRHP with SEBI for an IPO comprising a Rs 400 crore fresh issue and an OFS of 15 million shares. The company will use fresh issue proceeds for working capital and general corporate purposes, strengthening its diversified technology and infrastructure business.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-03
+
+### [10 high-priced stocks rally up to 85% in CY26; here’s FII and MF exposure](https://economictimes.indiatimes.com/markets/stocks/news/10-high-priced-stocks-rally-up-to-85-in-cy26-heres-fii-and-mf-exposure/slideshow/132156716.cms)
+Despite a weak broader market, several premium BSE stocks priced above Rs 5,000 delivered strong CY26 gains, led by Hitachi Energy India, Apar Industries and Solar Industries India.
+
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
 ### [Muthoot Finance, Manappuram Finance, other stocks rise up to 5% as gold prices hit Rs 1.48 lakh/10 grams](https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-finance-other-stocks-rise-up-to-5-as-gold-prices-hit-rs-1-48-lakh/10-grams/articleshow/132153655.cms)
@@ -270,12 +291,9 @@ Gold prices surged past Rs 1.48 lakh per 10 grams on Friday, propelling shares o
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
-### [Sensex surges 650 points, Nifty above 24,350. 7 key factors behind today's D-Street rally](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-surges-600-points-nifty-above-24350-key-factors/articleshow/132152040.cms)
-Indian stock markets surged on Friday, with Sensex and Nifty climbing over 0.8% each. This rally was fueled by a calmer Middle East situation and reduced expectations of further US Federal Reserve rate hikes. IT stocks led the charge, while broader markets saw more modest gains. The overall market sentiment remained positive, indicating investor confidence.
+### [Sensex jumps 262 points, Nifty closes above 24,270. 7 key factors behind today's D-Street gains](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-surges-600-points-nifty-above-24350-key-factors/articleshow/132152040.cms)
+Indian stock markets surged on Friday, with Sensex and Nifty climbing over 0.3% each. This rally was fueled by easing Middle East tensions, reduced expectations of US Federal Reserve rate hikes, and a stronger rupee. IT stocks led the gains, while broader markets lagged. Positive global cues and tapering FII outflows also contributed to the optimistic sentiment.
 
-**Source:** Economic Times - Markets  **Date:** 2026-07-03
-
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-03-jul-2026/liveblog/132151086.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-03
 
 ### [Adani flagship seeks $1 billion via placement, terms show](https://www.livemint.com/companies/news/adani-flagship-seeks-1-billion-via-placement-terms-show-11783006683194.html)
@@ -288,14 +306,24 @@ The framework creates a new category of companies that would operate satellite c
 
 **Source:** Mint - Pharma  **Date:** 2026-07-02
 
-### [Palantir’s Alex Karp says AI industry has ‘gone completely wrong’ with tokens; slams OpenAI, Anthropic](https://www.livemint.com/companies/news/palantirs-alex-karp-says-ai-industry-has-gone-completely-wrong-with-tokens-slams-openai-anthropic-11782980541967.html)
-Alex Karp, CEO of Palantir, criticized AI firms for relying on costly token models. He emphasized the need for companies to focus on return-on-investment approaches and raised concerns about data ownership and the rapid advancement of Chinese AI capabilities.
+### [ABB’s Machine Automation division appoints Pratip Samanta  as RMD for Southern and Eastern Asia](https://www.expresspharma.in/abbs-machine-automation-division-appoints-pratip-samanta-as-rmd-for-southern-and-eastern-asia/)
+B&#38;R, ABB’s Machine Automation division, announced the appointment of Pratip Samanta as new Regional Managing Director (RMD) for Southern and Eastern Asia, effective July 1, 2026. Pratip Samanta succeeds Jhankar [&#8230;] The post ABB’s Machine Automation division appoints Pratip Samanta as RMD for Southern and Eastern Asia appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-07-02
+**Source:** Express Pharma  **Date:** 2026-07-03
 
-### [Knack Packaging IPO GMP Signals 16% Listing Gain As Subscription Enters Its Final Day](https://www.ndtvprofit.com/markets/knack-packaging-ipo-gmp-signals-16-listing-gain-as-subscription-enters-its-final-day-11720749#publisher=newsstand)
-The unlisted shares of Knack Packaging were trading at Rs 199, indicating a possible listing gain of over 16% when the stock debuts on the markets next week.
+### [Centre amends Drugs Rules, 1945 to ensure uniform regulation of advanced cell and gene therapies](https://www.expresspharma.in/centre-amends-drugs-rules-1945-to-ensure-uniform-regulation-of-advanced-cell-and-gene-therapies/)
+The Central Government has amended the Drugs Rules, 1945 to bring cell or stem cell-derived products, gene therapeutic products and xenografts under the ambit of the Centrally Licence Approving Authority [&#8230;] The post Centre amends Drugs Rules, 1945 to ensure uniform regulation of advanced cell and gene therapies appeared first on Express Pharma .
 
-**Source:** NDTV Profit  **Date:** 2026-07-03
+**Source:** Express Pharma  **Date:** 2026-07-03
+
+### [India Revises Drug Pricing Rules, Expands Regulatory Framework to Stem Cell & Gene Therapies - NAVLIN DAILY](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2JMc05BSU1sXzF1SWdCUTJ6NHdnUVNXNEtYaEZGeGhzVm9kVnUwWEZJcVFrVDNvd3I1SWswTmRLMnlzMWl0c0JEX1ZNNjBnTWxDYzZRS0tiT1lOdTQ4RmZFMlhLdXY0TXhQTlNtTlFWVjVMR2pyelVPdlhsZm9wNzlmTzFHMXlod2NsSUVReVNtdXBqaDdjVy1xRHZWeFVoUEJRRkpXZkJvZmZwcThIVGlPeUNVckpRcnU1dWxVRHNXdjEzNy02dnM4cw?oc=5)
+India Revises Drug Pricing Rules, Expands Regulatory Framework to Stem Cell & Gene Therapies &nbsp;&nbsp; NAVLIN DAILY
+
+**Source:** GNews - India Pharma Policy  **Date:** 2026-07-03
+
+### [India's New Drug Rules Explained: Medicine Pricing & Stem Cell Therapies - liveindia.tv](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUVNiT3BmZlY2MlRCVzlpQTd2S1g5WW92encteHc3d0RfNnMzLWlRQWdhRzdzMFRNeE1vb3lzc28xVFljUVQ2ZU9TUXNCZmNNeE9hNlJfSUJPT2VscUdIRUdaMUpYbXFUelN4OW13RGdqMkIzUmxzQkxwbDNWNXM2VV95bC1CZw?oc=5)
+India's New Drug Rules Explained: Medicine Pricing & Stem Cell Therapies &nbsp;&nbsp; liveindia.tv
+
+**Source:** GNews - India Pharma Policy  **Date:** 2026-07-03
 
 ---
