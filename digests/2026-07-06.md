@@ -1,11 +1,31 @@
 # 🏥 India Pharma Investor Digest — 2026-07-06
 
-> 50 items · 2026-07-06 08:17 UTC
+> 62 items · 2026-07-06 15:27 UTC
 
-## 📊 BSE / NSE Filings (5)
+## 📊 BSE / NSE Filings (8)
 
 ### [Sanofi India: Asian Paints Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/07/2026 ,inter alia, to consider and approve 1. audited standalone financial ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ad69c087-e213-4040-9a36-ddfd3078dca0.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-07-06
+
+### [Sun Pharma: Submission of Confirmation Certificate for the quarter ended 30 June 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7be07eac-1592-4d7f-8e03-237cf7af90ec.pdf)
+Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-07-06
+
+### [Sun Pharma: Notice of 34th Annual General Meeting along with the Annual Report for FY 2025-26](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2592af42-6613-45ea-90ac-460e10bf5a73.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-07-06
+
+### [Sun Pharma: Annual Report 2025-26 and the Notice of 34th Annual General Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c265c14-e455-4b69-9799-e8c6cc7c3847.pdf)
+Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-07-06
+
+### [Dr. Reddy's Laboratories: Certificate under Reg 74(5) of SEBI (Depositories and Participants), Regulations, 2018](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c38cd23-658d-49b8-8e18-3425ffbf014d.pdf)
+Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-07-06
 
@@ -14,18 +34,13 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
 
 **Source:** BSE Filing  **Date:** 2026-07-06
 
+### [Glaxosmithkline Pharma: Declaration of Postal Ballot Results with respect to the Postal Ballot Notice dated May 12, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/26db5f9e-5323-4c48-8878-747aa8e8e52f.pdf)
+Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-07-06
+
 ### [Glaxosmithkline Pharma: As per the disclosure attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/349d8bdb-a601-4715-a134-7c325dd8b85c.pdf)
 Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 500271
-
-**Source:** BSE Filing  **Date:** 2026-07-06
-
-### [Sandu Pharmaceuticals Ltd: Sandu Pharmaceuticals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 11/07/2026 ,inter alia, to consider and approve 1. To place on record ....](https://www.bseindia.com/corporates/ann.html?scrip=524703)
-BSE Code: 524703
-
-**Source:** BSE Filing  **Date:** 2026-07-06
-
-### [Asian Paints Ltd: Asian Paints Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/07/2026 ,inter alia, to consider and approve 1. audited standalone financial ....](https://www.bseindia.com/corporates/ann.html?scrip=500820)
-BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-07-06
 
@@ -35,6 +50,11 @@ BSE Code: 500820
 
 ### [Kotak Mahindra Bank shares fall over 3% after Q1 update; advances jump 15% to Rs 5.12 lakh crore](https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-after-q1-advances-jump-15-to-rs-5-12-lakh-crore-deposits-up-12/articleshow/132206667.cms)
 Kotak Mahindra Bank's shares dipped over 3% following its Q1 FY27 business update. While net advances saw a healthy 15% year-on-year jump to Rs 5.12 lakh crore, and total deposits grew nearly 12%, a sequential slowdown in deposit growth and a dip in current and savings account deposits may have concerned investors. The bank also recently announced the acquisition of Deutsche Bank's India retail and wealth management business.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
+### [Can Zerodha's 'nice place to work' culture become its real moat? Here's what Nithin Kamath says](https://economictimes.indiatimes.com/markets/stocks/news/can-zerodhas-nice-place-to-work-culture-become-its-real-moat-heres-what-nithin-kamath-says/articleshow/132216890.cms)
+Nithin Kamath said Zerodha’s culture stems from deliberate choices, including staying small, avoiding revenue targets and prioritising employee well-being over growth. He stressed patient hiring, learning from mistakes and resisting incentives that encourage excessive customer trading or employee burnout.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
@@ -68,11 +88,6 @@ Epigamia is expanding manufacturing capacity as its new CEO and COO settle in fo
 
 **Source:** Mint - Pharma  **Date:** 2026-07-06
 
-### [Nykaa expects Q1 revenue growth near 30% on fashion rebound](https://www.livemint.com/companies/news/nykaa-june-quarter-update-fashion-growth-beauty-industry-india-11783256747509.html)
-FSN E-Commerce Ventures expects GMV growth near 30-33%, led by a fashion surge aided by its Nike partnership.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-05
-
 ### [Vedanta Power shares fall 3% despite 38% jump in Q1 sales. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-shares-in-focus-after-q1-power-sales-jump-38-should-you-buy-sell-or-hold/articleshow/132206396.cms)
 Vedanta Power share price dipped 3% despite a significant 38% year-on-year surge in power sales for the June quarter, driven by Meenakshi Energy's expansion and Talwandi Sabo's consistent output. While Meenakshi Energy saw a 245% jump, Sakti Thermal Plant faced a shutdown due to a boiler blast. Brokerages remain divided on the company's valuation, with targets ranging from Rs 35 to Rs 60 per share.
 
@@ -80,6 +95,11 @@ Vedanta Power share price dipped 3% despite a significant 38% year-on-year surge
 
 ### [10 Nifty stocks Motilal Oswal recommends buying ahead of Q1 results. What can shareholders expect?](https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-stocks-motilal-oswal-recommends-buying-ahead-of-q1-results-what-can-shareholders-expect/articleshow/132211533.cms)
 As the Q1FY27 earnings season begins with TCS's results on Thursday, Motilal Oswal expects Nifty earnings to grow 10%, the fastest pace in four quarters. The brokerage has identified 10 stocks, including Bharti Airtel, SBI, ICICI Bank, M&amp;M and Titan, that it believes offer attractive upside ahead of the June quarter earnings, backed by strong fundamentals and growth prospects.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
+### [Why did market rise today? Sensex gains 520 points, Nifty closes above 24,400. 6 key factors](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-23450-6-key-factors-behind-dalal-streets-gains/articleshow/132211051.cms)
+Indian stock markets surged for a fourth straight day, driven by renewed monsoon hopes following heavy rainfall and a return of foreign institutional investors as net buyers. Key indices Sensex and Nifty saw significant gains, boosting market capitalization. Positive sentiment was further fueled by easing geopolitical tensions and falling oil prices, with heavyweight stocks leading the advance. Investors now await Q1 earnings reports for further market direction.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
@@ -128,89 +148,119 @@ On July 3, three stocks in the Nifty500 appeared on the 'White Marubozu' bullish
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
-### [TCS Dividend Watch: Can IT Giant Beat Street Estimates After Three Straight Q1 Misses?](https://www.ndtvprofit.com/markets/tcs-dividend-watch-can-it-giant-beat-street-estimates-after-three-straight-q1-misses-11732321#publisher=newsstand)
-TCS dividend: One number in TCS' earnings announcement could draw as much attention as its quarterly profit.
+### [LIC chief sees protection plans driving growth](https://www.livemint.com/companies/news/lic-protection-products-strategy-r-doraiswamy-annual-report-global-economy-gst-waiver-11783343245385.html)
+In the CEO message, R. Doraiswamy notes a shift towards term- and protection-oriented solutions and flags the pressure market volatility has placed on the insurer's participating funds.
 
-**Source:** NDTV Profit  **Date:** 2026-07-06
+**Source:** Mint - Pharma  **Date:** 2026-07-06
 
-### [TCS Q1 Preview: Wage Hikes Seen Weighing On Margin, Growth Stays Muted](https://www.ndtvprofit.com/markets/tcs-q1-preview-wage-hikes-seen-weighing-on-margin-growth-stays-muted-11732574#publisher=newsstand)
-TCS Q1 Preview: Street expects modest revenue growth in Q1 FY27, with commentary on BFSI demand, margins and the BSNL project in focus.
+### [Delhi High Court orders Chinese smartphone maker Transsion to furnish security in InterDigital patent case](https://www.livemint.com/companies/news/delhi-high-court-orders-chinese-smartphone-maker-transsion-to-furnish-security-in-interdigital-patent-case-11783331924293.html)
+Shenzhen opposed the request for a security deposit, arguing that InterDigital had failed to establish, even on a prima facie basis, the validity and essentiality of the patents in question
 
-**Source:** NDTV Profit  **Date:** 2026-07-06
+**Source:** Mint - Pharma  **Date:** 2026-07-06
 
-### [HDFC Bank Shares Up 3%, Axis Bank, ICICI Bank In Green As Q1 Updates Spark Buying In Private Lenders](https://www.ndtvprofit.com/markets/hdfc-bank-gains-3-percent-axis-bank-icici-bank-in-green-as-brokerages-cheer-q1-updates-bank-nifty-climbs-11732460#publisher=newsstand)
-Banking stocks gain today.
+### [India M&A Hits $27.9 Billion Q2 High Led by Sun Pharma Deal - Whalesbook](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOG9qZWRvMHJWS01PV3ZmQXpod3VEc0FtOTkyX05BVVBMUG5kOTg0MG1SclVXaGEzM0NwOXZralF4N3BBWmpnSWRCLV9ZWVMzZUphZ0lEb0R1NFFQVlA0UzlGWlBpRHRna3RaTktCREd2REJIRHZhaWFGakNNVXJGcmRXVkQ0RDlSclo0bjh0Q19MVjIxU0lOa3ZDNHhoNVBVc3VUc0RobHhjQU5YZWJwa1NmeGFXOEtWWW5LV081alZuVUJ3LTRaU1ZPXzNjQVJ6VktxcTNKY2JPeUwzbmc?oc=5)
+India M&amp;A Hits $27.9 Billion Q2 High Led by Sun Pharma Deal &nbsp;&nbsp; Whalesbook
 
-**Source:** NDTV Profit  **Date:** 2026-07-06
+**Source:** GNews - India Pharma M&A  **Date:** 2026-07-06
 
-### [Ambuja Cements, UltraTech Cement, Dalmia Bharat In Focus Ahead Of Q1 Results — Check Target Prices](https://www.ndtvprofit.com/markets/ambuja-cements-ultratech-cement-jk-cement-dalmia-bharat-stocks-in-focus-ahead-of-q1-results-preview-check-target-prices-11732241#publisher=newsstand)
-Current stock price corrections in large and mid-cap cement names offer an attractive medium-term entry.
+### [India Q2 2026 Deal Values Jump 127% to $36.3 Billion - Whalesbook](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFE1Rkh3bmREc0xjT29yRTlrTEpaVFFpLVhqNmlRdlNqZGVuTzlIenQ4eXRPdkR0eW53Tm9tRFVCMDJ4TEpJVTVUb2xwcUpOdC1UVWpUcVRQdUpNazR2VlZSUkxLTWZXbWR2T3RWUjIwZnpaU1J0RUZuc3d2RXhFNWRVa2QtZnNua0ZickNEeFoxaHl3N2dvOHVCUFFoZFFZQ1RzZmJDcThIYTY1clVaVkpkSEFVRVczN3JJN1J3UFBoR2dONUpsNnBqc0xPRXd0OUhMeGlhNV9Gdw?oc=5)
+India Q2 2026 Deal Values Jump 127% to $36.3 Billion &nbsp;&nbsp; Whalesbook
 
-**Source:** NDTV Profit  **Date:** 2026-07-06
-
-### [12 Bank Stocks, New Ratings And Top Picks — Key Takeaways From Systematix's Q1 Results Preview](https://www.ndtvprofit.com/markets/icici-bank-sbi-hdfc-bank-and-nine-more-stocks-in-focus-ahead-of-q1-results-check-ratings-targets-and-key-trends-11731984#publisher=newsstand)
-Banking system credit growth remained robust during the quarter, supported by broad-based momentum across the services, industry, and retail segments.
-
-**Source:** NDTV Profit  **Date:** 2026-07-06
+**Source:** GNews - India Pharma M&A  **Date:** 2026-07-06
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (3)
+## 🤝 Deals, M&A & Partnerships (6)
 
-### [ICICI Bank, Prudential sign undertaking to defuse conflict-of-interest concerns ahead of Bharti Life deal](https://www.livemint.com/companies/news/icici-bank-prudential-conflict-of-interest-bharti-life-deal-irdai-11783236967052.html)
-The undertaking, signed between the two promoters of ICICI Prudential Life on Saturday, seeks to address potential conflicts of interest arising from Prudential's proposed acquisition of Bharti Life.
+### [EasyJet shares rally 10% on potential $7.3 billion acquisition by Castlelake](https://economictimes.indiatimes.com/markets/stocks/news/easyjet-shares-rally-10-on-potential-7-3-billion-acquisition-by-castlelake/articleshow/132215061.cms)
+EasyJet shares jumped nearly 10% after the airline reached an agreement in principle with US investment firm Castlelake over a potential $7.3 billion acquisition. Castlelake's revised offer of £6.90 per share represents a nearly 24% premium to easyJet's previous closing price.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-05
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
 
 ### [Diamond Power Infrastructure shares jump 10% after Rs 435 crore order for Hyderabad data centre projects](https://economictimes.indiatimes.com/markets/stocks/news/diamond-power-infrastructure-shares-jump-10-after-rs-435-crore-order-for-hyderabad-data-centre-projects/articleshow/132207865.cms)
 Diamond Power Infrastructure's stock surged after securing a substantial Rs 435 crore order for power cables for Hyderabad's 310 MW data center projects. This significant deal, involving major players like L&amp;T, Sterling &amp; Wilson, and Blue Star, underscores the company's growing prominence in supplying critical infrastructure for India's booming data center segment. The order, one of the largest of its kind, highlights Diamond Power's manufacturing prowess and reliability.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
+### [Lockheed Martin snaps up Ultra Maritime in $3.45 billion naval defence push: All about the deal](https://www.livemint.com/companies/lockheed-martin-snaps-up-ultra-maritime-in-3-45-billion-naval-defence-push-all-about-the-deal-11783340963138.html)
+The deal comes at a time when defence companies are benefiting from a surge in military spending worldwide.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-06
+
 ### [Immuneel and Arogya Finance launch India’s first zero cost EMI program for Qartemi CAR-T Cell Therapy](https://www.expresspharma.in/immuneel-and-arogya-finance-launch-indias-first-zero-cost-emi-program-for-qartemi-car-t-cell-therapy/)
 Immuneel Therapeutics, India&#8217;s pioneering cell and gene therapy company, announced a strategic partnership with Arogya Finance to introduce India&#8217;s first Zero Cost EMI program of up to ₹25 lakhs for [&#8230;] The post Immuneel and Arogya Finance launch India&#8217;s first zero cost EMI program for Qartemi CAR-T Cell Therapy appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-07-06
 
+### [Broadcom Shares Spike 4% On Pact With Apple For Custom Asic Silicon Products](https://www.ndtvprofit.com/markets/broadcom-shares-spike-4-on-pact-with-apple-for-custom-asic-silicon-products-11734324#publisher=newsstand)
+Broadcom jumps 4% pre-market after extending Apple custom chip supply deal through decade
+
+**Source:** NDTV Profit  **Date:** 2026-07-06
+
+### ['Eye-To-Eye On Many Things': Netanyahu Opens Up On Trump Ties Post Iran Peace MoU](https://www.ndtvprofit.com/world/eye-to-eye-on-many-things-netanyahu-opens-up-on-trump-ties-post-iran-peace-mou-11734142#publisher=newsstand)
+"Deal or no deal, as long as I'm prime minister, Iran will not have a nuclear weapon," Netanyahu said.
+
+**Source:** NDTV Profit  **Date:** 2026-07-06
+
 ---
 
-## 💸 Corporate Actions (1)
+## 💸 Corporate Actions (2)
 
 ### [HCL Technologies among 5 stocks showing bullish RSI upswing](https://economictimes.indiatimes.com/markets/stocks/news/hcl-technologies-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132205979.cms)
 Five stocks from the Nifty500 segment that gained over 4% featured in the RSI Trending Up scan on July 3 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish technical setups.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
+### [Kotak Mahindra Bank Announces Record Date For Final Dividend — Check Details](https://www.ndtvprofit.com/markets/kotak-mahindra-bank-announces-record-date-for-final-dividend-check-details-11734090#publisher=newsstand)
+Kotak Mahindra Bank sets record date for dividend.
+
+**Source:** NDTV Profit  **Date:** 2026-07-06
+
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (6)
+
+### [IndusInd Bank among 6 stocks to hit 52-week highs &amp; rally up to 25% in a month](https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-among-6-stocks-to-hit-52-week-highs-amp-rally-up-to-25-in-a-month/slideshow/132215546.cms)
+Six BSE 100 stocks, including Cholamandalam Investment, IndusInd Bank and Lupin, touched fresh 52-week highs as the Sensex climbed 521 points. The milestone reflects strong buying interest, positive momentum and growing investor confidence amid the broader market rally.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
+### [Global Market: Citi joins London's bullion clearing network in major precious metals expansion](https://economictimes.indiatimes.com/markets/stocks/news/global-market-citi-joins-londons-bullion-clearing-network-in-major-precious-metals-expansion/articleshow/132214112.cms)
+Citi has joined London's over-the-counter gold market clearing network, becoming the fifth bank to do so. This significant move expands the bullion trade's settlement infrastructure, which handles approximately $160 billion in daily transactions. Citi's entry, the first in a decade, signals progress in making the market more accessible. The bank will now offer Loco London settlement for gold, silver, platinum, and palladium.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
+### [Raymond shares rise 4% after former BEL chief joins defence business](https://economictimes.indiatimes.com/markets/stocks/news/raymond-shares-rise-4-after-former-bel-chief-joins-defence-business/articleshow/132213306.cms)
+Raymond shares rose nearly 4% after the company appointed former Bharat Electronics Chairman and Managing Director Bhanu Prakash Srivastava as CEO of its defence business. The company expects his nearly four decades of experience in defence technologies and programme execution to strengthen its expansion into defence electronics, systems integration, aerospace and related engineering businesses.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
+### [Nomura names M&amp;M, Hyundai, Ather Energy as top picks after June auto sales; says EV penetration at inflection point](https://economictimes.indiatimes.com/markets/stocks/news/nomura-names-mm-hyundai-ather-energy-as-top-picks-after-june-auto-sales-says-ev-penetration-at-inflection-point/articleshow/132212635.cms)
+Nomura remains positive on India's automobile sector after strong June sales, saying electric vehicle adoption has reached an inflection point. The brokerage expects continued momentum driven by new launches and improving charging infrastructure, while naming Mahindra &amp; Mahindra, Hyundai Motor India, Ather Energy and Sona BLW among its top picks.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
 
 ### [Hitachi Energy, GE Vernova, Siemens rise up to 6% as Nomura calls recent correction an ‘overreaction’. 4 reasons why](https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-ge-vernova-siemens-rise-up-to-6-as-nomura-calls-recent-correction-an-overreaction-4-reasons-why/articleshow/132208843.cms)
 Indian electrical equipment stocks rebounded, gaining up to 6% after global brokerage Nomura labelled the recent sell-off an "overreaction." Nomura highlighted that Chinese firms, granted a two-year tender exemption, historically secured minimal market share. They also noted capacity constraints among these firms, suggesting the exemption is a temporary measure, not a policy shift, thus limiting significant impact on domestic players.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
-### [Suzuki Motor arm Next Bharat Ventures launches  ₹2,000 crore second impact fund to back rural entrepreneurs](https://www.livemint.com/companies/news/suzuki-motor-arm-next-bharat-ventures-venture-capital-india-startups-11783319829258.html)
-Next Bharat Venture’s second fund will focus on agriculture, financial inclusion, healthcare, and AI for social good among others.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-06
-
 ### [FOPE seeks CDSCO clarification on pharmacovigilance obligations under revised Schedule M](https://www.expresspharma.in/fope-seeks-cdsco-clarification-on-pharmacovigilance-obligations-under-revised-schedule-m/)
 The Federation of Pharma Entrepreneurs (FOPE) has sought clarifications from the Central Drugs Standard Control Organization (CDSCO) on the implementation of pharmacovigilance (PV) requirements under the revised Schedule M, citing [&#8230;] The post FOPE seeks CDSCO clarification on pharmacovigilance obligations under revised Schedule M appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-07-06
 
-### [ITR Filing AY 2026-27: Who Should File Tax Returns Even When Income Is Below Taxable Limit?](https://www.ndtvprofit.com/personal-finance/itr-filing-ay-2026-27-who-should-file-tax-returns-even-when-income-is-below-taxable-limit-11731989#publisher=newsstand)
-ITR filing is mandatory for individuals even if their income is below these limits
-
-**Source:** NDTV Profit  **Date:** 2026-07-06
-
 ---
 
-## 📉 Analyst & Brokerage Calls (3)
+## 📉 Analyst & Brokerage Calls (5)
 
-### [Sensex jumps over 600 points, Nifty above 24,450: Top 6 factors fueling today's Dalal Street rally](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-23450-6-key-factors-behind-dalal-streets-gains/articleshow/132211051.cms)
-Indian stock markets soared on Monday, with Sensex and Nifty extending their rally for a fourth straight session. Heavy rainfall bolstering monsoon hopes, coupled with Foreign Institutional Investors turning net buyers, significantly boosted investor sentiment. HDFC Bank led the gains, while broader markets also saw positive movement, adding substantial value to the overall market capitalization.
+### [Sebi aims to ease shorting by nearly doubling stocks eligible for borrowing: Report](https://economictimes.indiatimes.com/markets/stocks/news/sebi-aims-to-ease-shorting-by-nearly-doubling-stocks-eligible-for-borrowing-report/articleshow/132213829.cms)
+India's market regulator is set to nearly double the number of stocks available for short selling, aiming to invigorate the cash market and steer investors from riskier derivatives. Collateral requirements are also slated for reduction. These moves follow past tightening of rules and seek to include more liquid shares, with final details expected by year-end.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
+### [FIIs bet on midcaps: 10 stocks that surged up to 70% in just 3 months](https://economictimes.indiatimes.com/markets/stocks/news/fiis-bet-on-midcaps-10-stocks-that-surged-up-to-70-in-just-3-months/slideshow/132212218.cms)
+Several midcap stocks delivered strong gains after FIIs increased their holdings in the March 2026 quarter. Relaxo Footwears, BHEL, Motilal Oswal Financial Services and Bank of Maharashtra were among the top performers, reflecting sustained foreign investor interest despite broader market volatility.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
@@ -224,14 +274,16 @@ Foreign investors are holding their lowest stake in India's top 10 companies in 
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
+### [Good Politics, Good Economics: Cash Transfers Help Women Save More, Spend Better, Finds EAC-PM Study](https://www.ndtvprofit.com/economy/good-politics-good-economics-cash-transfers-help-women-save-more-spend-better-finds-eac-pm-study-11734215#publisher=newsstand)
+EAC-PM study says cash transfers helped women save more and spend on key household needs.
+
+**Source:** NDTV Profit  **Date:** 2026-07-06
+
 ---
 
-## 📰 Industry & Policy News (10)
+## 📰 Industry & Policy News (11)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys faces a downturn in market performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-06-jul-2026/liveblog/132205858.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-06
-
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Performance Snapshot](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-06-jul-2026/liveblog/132205828.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-06-jul-2026/liveblog/132205858.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
 ### [True North cashes out $2 billion for investors as PE firms step up exits](https://www.livemint.com/companies/news/true-north-private-equity-limited-partners-startup-investment-india-11783273204186.html)
@@ -239,38 +291,48 @@ This comes on the back of exits for True North from portfolio firms like FedFina
 
 **Source:** Mint - Pharma  **Date:** 2026-07-06
 
+### [Valuation Watch: 12 mid-cap stocks with sky-high PE ratios](https://economictimes.indiatimes.com/markets/stocks/news/valuation-watch-12-mid-cap-stocks-with-sky-high-pe-ratios/slideshow/132216884.cms)
+These 12 NSE mid-cap stocks are trading at TTM P/E ratios above 100x, making them among the market's most richly valued names.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-06
+
 ### [Shakti Pumps shares surge 8% on Rs 354 crore solar pump order from MSEDCL](https://economictimes.indiatimes.com/markets/stocks/news/shakti-pumps-shares-surge-8-on-rs-354-crore-solar-pump-order-from-msedcl/articleshow/132207342.cms)
 Shakti Pumps shares rose sharply on Monday trade after the company won a Rs 353.89 crore order from MSEDCL. The contract covers the supply, installation and commissioning of 15,000 off-grid solar photovoltaic water pumping systems under Maharashtra's Magel Tyala Saur Krushi Pump Yojana.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-06
 
-### [Govt extends deadline for WhatsApp's response over username issue to July 9: Report](https://www.livemint.com/companies/news/govt-extends-deadline-for-whatsapps-response-over-username-issue-to-july-9-11783254457364.html)
-The mater pertains to security concerns over Meta-owned platform's recently announced usernames feature that will allow users to communicate without sharing their phone numbers.
+### [NCR market will be as big or bigger than Mumbai for Oberoi Realty: Vikas Oberoi](https://www.livemint.com/companies/news/oberoi-realty-gurugram-three-sixty-north-11783329294883.html)
+The Mumbai-based luxury developer's maiden project in Gurugram drew a staggering ₹30,000 crore order book, setting the stage for it to challenge established regional players in the booming northern market.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-05
+**Source:** Mint - Pharma  **Date:** 2026-07-06
 
-### [Stock Market News Today LIVE Updates: Nifty Reclaims 24,450, Sensex Gains Over 600 Points;  IT Stocks Buck The Trend](https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-us-attack-impact-q1-results-updates-fno-futures-options-11731577#publisher=newsstand)
-Axis Bank rose 1.86%, while HDFC Bank gained 1.76% and AU Small Finance Bank advanced 1.24%, according to NSE data.
+### [Taking on HUL, P&amp;G and Marico: Why Honasa wants to be more than just Mamaearth](https://www.livemint.com/companies/news/taking-on-hul-p-g-and-marico-why-honasa-wants-to-be-more-than-just-mamaearth-11783337510182.html)
+A few years ago, Mamaearth rewrote the beauty playbook. Now, with shifting consumer tastes and intense competition, the brand’s parent, Honasa Consumer, is looking to reinvent itself with a broader portfolio. How that plays out will determine if it's a one-brand wonder or grows as something bigger.
 
-**Source:** NDTV Profit  **Date:** 2026-07-06
+**Source:** Mint - Pharma  **Date:** 2026-07-06
 
-### [Rain Advisory For Mumbai: Work From Home Recommended, Govt Offices To Observe Half-Day](https://www.ndtvprofit.com/india/mumbai-rains-sdma-issues-fresh-advisory-wfh-recommended-govt-offices-to-observe-half-day-11732224#publisher=newsstand)
-SDMA issues fresh advisory amidst relentless monsoon
+### [Who is Maya Tata? Noel Tata's daughter to drive Westside’s e-commerce push](https://www.livemint.com/companies/people/who-is-maya-tata-noel-tatas-daughter-ratan-tata-niece-to-drive-westside-s-e-commerce-push-11783327546875.html)
+Maya Tata has actively transitioned across different businesses within the Tata conglomerate. She began her career in finance at Tata Capital before moving to Tata Digital
 
-**Source:** NDTV Profit  **Date:** 2026-07-06
+**Source:** Mint - Pharma  **Date:** 2026-07-06
 
-### [Advent Hotels Shares Jump Over 15% After Rs 504 Crore Stake Sale To Prestige Estates](https://www.ndtvprofit.com/markets/advent-hotels-shares-jump-over-15-after-rs-504-crore-stake-sale-to-prestige-estates-11732064#publisher=newsstand)
-The hospitality company to retain a 50% stake in its subsidiary after the transaction, which will develop a commercial project in Mumbai.
-
-**Source:** NDTV Profit  **Date:** 2026-07-06
-
-### [Suzlon Share Price Falls 2% In Trade — Here's Why](https://www.ndtvprofit.com/markets/suzlon-share-price-falls-2-percent-in-trade-three-reasons-why-stock-is-falling-11732146#publisher=newsstand)
-Suzlon shares dropped in trade today.
+### [Microsoft Layoffs: 4,800 Jobs Slashed Across Sales And Xbox, Says Report](https://www.ndtvprofit.com/business/microsoft-layoffs-4-800-jobs-slashed-across-sales-and-xbox-says-report-11734515#publisher=newsstand)
+Half the layoffs are due to the tech giant's overhaul of their Xbox console gaming division, as per the report.
 
 **Source:** NDTV Profit  **Date:** 2026-07-06
 
-### [IC Electricals IPO GMP Surges 50%+; Latest Grey Market Premium Signals Strong Listing](https://www.ndtvprofit.com/markets/ic-electricals-ipo-gmp-surges-over-50-latest-grey-market-premium-subscription-status-key-dates-11731995#publisher=newsstand)
-The IC Electricals IPO is a book-building issue of Rs 47.91 crore.
+### [Engineer Quits High-Paying Corporate Job To Become Deep-Sea Diving Instructor; Story Sparks Online Debate](https://www.ndtvprofit.com/trending/engineer-quits-high-paying-corporate-job-to-become-deep-sea-diving-instructor-story-sparks-online-debate-11733088#publisher=newsstand)
+Maheshwer Peri shared the extraordinary career change about his son, Vinayak Peri.
+
+**Source:** NDTV Profit  **Date:** 2026-07-06
+
+### [WhatsApp Granted More Time To Submit Response For Contentious 'Username' Feature](https://www.ndtvprofit.com/technology/whatsapp-granted-more-time-to-submit-response-for-contentious-username-feature-11734391#publisher=newsstand)
+Users still require a phone number to use WhatsApp.
+
+**Source:** NDTV Profit  **Date:** 2026-07-06
+
+### [Rentomojo Gets SEBI Go-Ahead for IPO, Plans Rs 150 Crore Fresh Issue](https://www.ndtvprofit.com/markets/rentomojo-gets-sebi-go-ahead-for-ipo-plans-rs-150-crore-fresh-issue-11734379#publisher=newsstand)
+Rentomojo Ltd. had filed its draft red herring prospectus with market regulator SEBI on April 1.
 
 **Source:** NDTV Profit  **Date:** 2026-07-06
 
