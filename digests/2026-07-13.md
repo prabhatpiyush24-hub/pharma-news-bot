@@ -1,11 +1,26 @@
 # 🏥 India Pharma Investor Digest — 2026-07-13
 
-> 49 items · 2026-07-13 06:50 UTC
+> 71 items · 2026-07-13 14:31 UTC
 
-## 📊 BSE / NSE Filings (6)
+## 📊 BSE / NSE Filings (14)
 
 ### [Divis Lab: Notice regarding 36th Annual General Meeting, Record Date for dividend and other information](https://www.bseindia.com/xml-data/corpfiling/AttachLive/91b1643b-fd5d-429f-ab25-fd6fb78c2269.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 532488
+
+**Source:** BSE Filing  **Date:** 2026-07-13
+
+### [Vivo Bio Tech Ltd: Please find enclosed board meeting outcome](https://www.bseindia.com/corporates/ann.html?scrip=511509)
+BSE Code: 511509
+
+**Source:** BSE Filing  **Date:** 2026-07-13
+
+### [Dr. Reddy's Laboratories: Intimation of Earnings call](https://www.bseindia.com/xml-data/corpfiling/AttachLive/47763318-2b67-49dd-8df9-5eb6791abfc9.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-07-13
+
+### [Cipla: Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c37c0ac0-d2f0-4512-8b28-b0921336b81b.pdf)
+Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-07-13
 
@@ -13,6 +28,11 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 532488
 Category: Company Update | Sub: General | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-07-12
+
+### [Lupin: Notice of the Forty-Fourth Annual General Meeting of the Company and Integrated Report for FY 2025-26.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6abcf5be-cfc0-4f39-a131-68b89d09809e.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-07-13
 
 ### [IPCA Laboratories: The Company enclosed herewith certificate recived from RTA under reg 74 (5) D P Regulations for the quarter ended 30.06.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1db03e9e-2c97-482f-8f1d-174eb7dc6b88.pdf)
 Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 | BSE Code: 524494
@@ -23,6 +43,11 @@ Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regul
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500825
 
 **Source:** BSE Filing  **Date:** 2026-07-12
+
+### [Sanofi India: Please find enclosed the speech delivered by Mr. R Seshasayee, Chairman of the Company, at the 80th AGM of the Company held on Thursday, 9th July 2026 through video conference.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4f4ee2c0-5760-4b34-990c-a8930b760754.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-07-13
 
 ### [Sanofi India: This is to inform you that Crisil ESG Ratings & Analytics Limited, SEBI category -I ESG rating provider, has independently assigned an ESG rating to the Company.
 
@@ -36,12 +61,32 @@ Category: Company Update | Sub: Certificate under Reg. 74 (5) of SEBI (DP) Regul
 
 **Source:** BSE Filing  **Date:** 2026-07-13
 
+### [Vivo Bio Tech Ltd: Please find enclosed.](https://www.bseindia.com/corporates/ann.html?scrip=511509)
+BSE Code: 511509
+
+**Source:** BSE Filing  **Date:** 2026-07-13
+
+### [Khaitan Chemicals & Fertilizers Ltd: Financial results for the quarter ended 30.06.2026.](https://www.bseindia.com/corporates/ann.html?scrip=507794)
+BSE Code: 507794
+
+**Source:** BSE Filing  **Date:** 2026-07-13
+
+### [Rajshree Sugars & Chemicals Ltd: Rajshree Sugars & Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 20/07/2026 ,inter alia, to consider and approve the unaudited financial ....](https://www.bseindia.com/corporates/ann.html?scrip=500354)
+BSE Code: 500354
+
+**Source:** BSE Filing  **Date:** 2026-07-13
+
 ---
 
-## 💰 Results & Financials (17)
+## 💰 Results & Financials (30)
 
-### [TCS shares jump 3%, extend gains to day two after Q1 earnings. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms)
-TCS shares rose for a second straight session on Monday after the IT major reported a 5% YoY rise in Q1 FY27 net profit and announced an interim dividend of Rs 12 per share. Brokerages remain divided, with target prices implying both downside risk and upside potential of up to 45%.
+### [HCL Tech Q1 Results: Profit rises 20% YoY to Rs 4,624 crore; co declares Rs 12 dividend](https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-technologies-q1-results-profit-rises-20-yoy-to-rs-4624-crore-co-declares-rs-12-dividend/articleshow/132365162.cms)
+HCL Technologies Q1 results: IT services company HCL Tech reported a 20% year-on-year (YoY) growth in its consolidated net profit at Rs 4,624 crore in the first quarter of FY27. The same stood at Rs 3,843 crore in the last year quarter.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [ICICI Prudential AMC Q1 Results: Net profit rises 23% YoY to Rs 965 crore; revenue up 18%](https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms)
+ICICI Prudential AMC Q1 Results: Revenue from operations, meanwhile, increased 18% YoY to Rs 1,564 crore.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
@@ -60,23 +105,48 @@ DMart shares fell on Monday despite reporting a healthy June-quarter performance
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
+### [LTM shares jump 3% as Q1 results meet Street estimates. Here's what Nomura, Nuvama, and other brokerages say](https://economictimes.indiatimes.com/markets/stocks/news/ltm-shares-in-focus-as-q1-results-meet-street-estimates-heres-what-nomura-nuvama-and-other-brokerages-recommend/articleshow/132355953.cms)
+LTM reported a 17% year-on-year net profit increase for the April-June quarter. Revenue from operations also saw an 18% year-on-year rise during the same period. Brokerages offered mixed opinions on the IT major's stock performance and future outlook. The company cited hardware procurement issues for project delays, expecting improvement soon. LTM shares gained over 3% on Monday following these financial results.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
 ### [Cupid shares fall 2% after 131% rally in 3 months; Stock reclassified to BSE Group ‘A’](https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-fall-2-after-131-rally-in-3-months-stock-reclassified-to-bse-group-a/articleshow/132358280.cms)
 Cupid Limited shares experienced mild profit booking after a significant rally. The company's equity shares were reclassified to BSE Group 'A' recently. Cupid reported strong Q1 FY27 business momentum, exceeding expectations. Management has raised the FY27 revenue guidance by at least ten percent. Elevated valuations and technical indicators suggest investors will monitor future execution closely.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [LTM shares in focus as Q1 results meet Street estimates. Here's what Nomura, Nuvama and other brokerages recommend](https://economictimes.indiatimes.com/markets/stocks/news/ltm-shares-in-focus-as-q1-results-meet-street-estimates-heres-what-nomura-nuvama-and-other-brokerages-recommend/articleshow/132355953.cms)
-LTM shares will be in focus after the IT company reported largely in-line Q1FY27 earnings. While revenue growth remained muted, margins beat estimates and brokerages retained a broadly constructive stance. Nomura, Nuvama and Emkay reiterated positive ratings, while JM Financial maintained its 'Reduce' call. Analysts see improving deal execution supporting growth, though macro uncertainty and weak Europe demand remain key risks.
+### [TCS shares rally 6% after multi-million ABB AI deal, Q1 earnings. What’s next?](https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms)
+Tata Consultancy Services shares climbed significantly after announcing a major AI deal. This new multi-year agreement with ABB aims to transform global network operations. The company also reported better-than-expected first-quarter earnings for the financial year. TCS posted strong revenue growth and a substantial contract value for the period. These positive developments have boosted investor confidence in the IT major.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [TCS reshuffles top ranks, reorganizes business units amid growth push](https://www.livemint.com/companies/tcs-reshuffles-top-ranks-reorganizes-business-units-amid-growth-push-11783833390817.html)
-Tata Consultancy Services Ltd has initiated a major leadership overhaul, shifting around a dozen senior executives to enhance accountability and growth after its first revenue decline since FY26. The company's restructuring includes new business segments and aims to adapt to evolving market demands.
+### [BSNL unaudited operational revenue up by 10% to  ₹4,418 crore in Q1: Scindia](https://www.livemint.com/companies/company-results/bsnl-unaudited-operational-revenue-up-10-pc-rs-4418-crore-q1fy27-growth-consumers-telecom-minister-jyotiraditya-scindia-11783952357983.html)
+State-run telecom giant BSNL has provisionally posted around a 10% increase in revenue from operations in the first quarter of FY27, Union Telecom Minister Jyotiraditya Scindia said today.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-12
+**Source:** Mint - Pharma  **Date:** 2026-07-13
+
+### [Chipmaker TSMC sees 36% growth in sales, 68% surge in June revenues amid sustained global demand for AI hardware](https://www.livemint.com/companies/news/chipmaker-tsmc-sees-36-growth-in-sales-68-surge-in-june-revenues-amid-sustained-global-demand-for-ai-hardware-11783933977062.html)
+The Taiwan Semiconductor Manufacturing Company (TSMC) today reported 36% rise in quarterly sales and 68% in June revenues amid sustained global demand for artificial intelligence (AI) hardware.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-07-13
+
+### [TCS shares rally 8% in 2 days. Time to buy after sharp 32% crash in 2026? Here’s what technical charts indicate](https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rally-8-in-2-days-time-to-buy-after-sharp-32-crash-in-2026-heres-what-technical-charts-indicate/articleshow/132360768.cms)
+TCS shares have surged 8% over the past two sessions after the IT major reported strong Q1 earnings and announced a multi-million-dollar AI-led network transformation deal with ABB. While technical indicators point to improving momentum, analysts remain divided on whether the recent rally marks the beginning of a sustained trend reversal.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
 
 ### [Paytm among 5 F&amp;O stocks with a sharp rise in futures open interest](https://economictimes.indiatimes.com/markets/stocks/news/paytm-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132355940.cms)
 Five NSE F&amp;O stocks, including CDSL, Biocon and Paytm, witnessed over 6% growth in futures open interest on July 10, signalling fresh positioning and heightened trader participation.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [FIIs pour over $1 billion into Indian stocks, biggest weekly buying since June 2025](https://economictimes.indiatimes.com/markets/stocks/news/fiis-pour-over-1-billion-into-indian-stocks-biggest-weekly-buying-since-june-2025/articleshow/132359912.cms)
+Foreign investors bought over $1 billion worth of Indian equities last week, marking their biggest weekly purchase since June 2025. Goldman Sachs expects inflows to continue, supported by a stable rupee and improving earnings outlook. Global funds were net buyers of $1.3 billion through July 9, followed by another $272 million of provisional purchases on Friday.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [UBS initiates coverage on CarTrade Tech with Buy rating, sees 42% upside. 4 reasons why](https://economictimes.indiatimes.com/markets/stocks/news/ubs-initiates-coverage-on-cartrade-tech-with-buy-rating-sees-42-upside-4-reasons-why/articleshow/132359520.cms)
+UBS has initiated coverage on CarTrade Tech with a Buy rating and a target price of Rs 4,000, implying a 42% upside from current levels. The brokerage expects the company’s asset-light business model, margin expansion, OLX growth potential and strong digital marketplace network effects to drive earnings growth over the coming years.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
@@ -110,24 +180,64 @@ On July 10, five Nifty500 stocks that gained more than 5% appeared on the 'White
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
+### [HCLTech Declares Dividend Of Rs 12 Per Share As Q1 Profit Climbs; Check Record Date](https://www.ndtvprofit.com/markets/hcl-tech-declares-dividend-of-rs-x-per-share-amid-q1-results-check-record-date-11765122#publisher=newsstand)
+This is HCL Tech's second interim dividend for the financial year 2026-27.
+
+**Source:** NDTV Profit  **Date:** 2026-07-13
+
+### [Q1 Results Today Live Updates: HCLTech Profit Rises 3%; Announces Dividend](https://www.ndtvprofit.com/markets/q1-results-today-live-updates-hcltech-bajaj-consumer-care-icici-prudential-life-and-more-to-report-earnings-today-july-13-11763484#publisher=newsstand)
+Q1 Results Today Live: HCLTech will declare its June quarter earnings on July 13
+
+**Source:** NDTV Profit  **Date:** 2026-07-13
+
 ### [New research using targeted gene technology to stop psoriasis at the start](https://www.expresspharma.in/new-research-using-targeted-gene-technology-to-stop-psoriasis-at-the-start/)
 Professor Sulev Koks from the Personalised Medicine Centre has been awarded a National Psoriasis Foundation Translational Research Grant to progress development of a ‘gene patch’ for the debilitating condition. Psoriasis [&#8230;] The post New research using targeted gene technology to stop psoriasis at the start appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-07-13
 
-### [Q1 Results Today Live: HCLTech, Among A Dozen Companies To Declare June Quarter Results Today](https://www.ndtvprofit.com/markets/q1-results-today-live-updates-hcltech-bajaj-consumer-care-icici-prudential-life-and-more-to-report-earnings-today-july-13-11763484#publisher=newsstand)
-Q1 Results Today Live: HCLTech will declare its June quarter earnings on July 13
+### [HCLTech Q1 Results: Profit Rises 3% To Rs 4,624 Crore, Revenue Flat](https://www.ndtvprofit.com/markets/hcltech-q1-results-profit-rises-3-to-rs-4-624-crore-revenue-flat-11765367#publisher=newsstand)
+HCLTech's revenue from operations rose 1.8% in the quarter at Rs 34,579 crore.
 
 **Source:** NDTV Profit  **Date:** 2026-07-13
 
-### [L&T Finance Gets Rating Upgrade And Higher Target Price From ICICI Securities After Strong Q1 — Check Upside](https://www.ndtvprofit.com/markets/l-t-finance-sees-rating-and-target-price-upgrade-from-icici-securities-after-robust-q1-show-check-upside-11763538#publisher=newsstand)
-Given the better-than-anticipated performance in Q1, ICICI Securities have raised L&T Finance's EPS estimate by 2%/4% for FY27/28E, respectively.
+### [LTM Bets On AI: CEO Venu Lambu Expects Revenue Share To Jump From 12% To 50% In 5 Years](https://www.ndtvprofit.com/business/ltm-bets-on-ai-ceo-venu-lambu-expects-revenue-share-to-jump-from-12-percent-to-50-percent-in-five-years-11764870#publisher=newsstand)
+LTM's disclosure marks one of the first instances when an Indian IT company has quantified AI revenue as a portion of its overall sales.
+
+**Source:** NDTV Profit  **Date:** 2026-07-13
+
+### [Delhi HC Temporarily Restricts Supply Of Zydus Cancer Drug Ikra In AbbVie Patent Dispute](https://www.ndtvprofit.com/business/delhi-high-court-temporarily-restricts-supply-of-zydus-cancer-drug-ikra-in-abbvie-patent-dispute-11764992#publisher=newsstand)
+Delhi High Court temporarily halted supplies of Zydus Lifesciences' cancer drug Ikra.
+
+**Source:** NDTV Profit  **Date:** 2026-07-13
+
+### [Dr Reddy's Laboratories to announce Q1FY27 results on July 22 - scanx.trade](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnJYbjlWZmNhdDlnMlNuYVBmNTlTV0ZrSHBqU1RINFRpS043YkEtTXpLcDE5N0tzeWZvWDRrNlpzQUZQTERVX280YkdrbEJQQVR4bFhKUWtsZV9KWFNsWDN4UjUtQ1F0S3daeDNWbXZXSms1Y3UxUUI0cHNkQ0xvMVlFQXkybFZfSDE2a1Ftb2RFZ3hEbU1sb2Z1NE5VZFhSVDdFMWJ4MktyVUlleG0wMjY4WmtaT2NPbnc?oc=5)
+Dr Reddy's Laboratories to announce Q1FY27 results on July 22 &nbsp;&nbsp; scanx.trade
+
+**Source:** GNews - Dr Reddys  **Date:** 2026-07-13
+
+### [E20 Fuel Concerns: Mercedes Benz India Issues Advisory After YouTuber Sourav Joshi's Viral Claim](https://www.ndtvprofit.com/business/e20-fuel-concerns-mercedes-benz-india-issues-advisory-after-youtuber-sourav-joshis-viral-claim-11764385#publisher=newsstand)
+Mercedes-Benz India says E20 petrol should only be used in compatible vehicles.
+
+**Source:** NDTV Profit  **Date:** 2026-07-13
+
+### [A Ticking Clock: Indian Expats In UAE Share Anxiety Over Expiring Passports](https://www.ndtvprofit.com/world/a-ticking-clock-indian-expats-in-uae-share-anxiety-over-expiring-passports-11764758#publisher=newsstand)
+Several locals reportedly face trouble getting appointments for passport reissue.
+
+**Source:** NDTV Profit  **Date:** 2026-07-13
+
+### [ICICI Prudential AMC Q1 Results: Profit Jumps 26%; Total Income Exceeds Rs 1,700 Crore](https://www.ndtvprofit.com/markets/icici-prudential-amc-q1-results-profit-jumps-26-total-income-exceeds-rs-1-700-crore-11764986#publisher=newsstand)
+ICICI Prudential AMC posts 26% Q1 profit growth; total income tops Rs 1,700 crore.
 
 **Source:** NDTV Profit  **Date:** 2026-07-13
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (3)
+
+### [Mylan launches block deal to sell minority stake in Biocon for up to $363 million](https://www.livemint.com/companies/news/mylan-block-deal-biocon-share-price-11783950513360.html)
+The Viatris arm looks to offload 92 million equity shares, marking a financial exit following a series of biosimilar asset integrations.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-13
 
 ### [Exclusive | Motilal Oswal opens up on succession, 10X profit goal and his 39-year partnership with Raamdeo Agrawal](https://economictimes.indiatimes.com/markets/stocks/news/exclusive-motilal-oswal-opens-up-on-succession-10x-profit-goal-and-his-39-year-partnership-with-raamdeo-agrawal/articleshow/132356427.cms)
 Motilal Oswal Financial Services aims to grow profits tenfold over the next decade while preparing for a leadership transition. In an exclusive interview with ET Markets, billionaire co-founder Motilal Oswal said the group has inducted the next generation—Pratik Oswal and Vaibhav Agrawal—onto the board and is also empowering senior professionals.
@@ -139,19 +249,14 @@ Antony Waste shares dropped after a waste mound collapse killed nine workers. Th
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [Alpha Box Office Collection Day 10: Alia Bhatt's Film Stays Steady Despite Fewer Shows, Mints This Amount](https://www.ndtvprofit.com/lifestyle/alpha-box-office-collection-day-10-alia-bhatts-film-stays-steady-despite-fewer-shows-mints-this-amount-11763379#publisher=newsstand)
-Released on July 3, Alpha opened with Rs 9.25 crore, followed by Rs 11.50 crore on Day 2
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### [Fear Of Tukaram Mundhe? Hundreds Of Litres Of Milk Dumped After FDA Raid Rumour | Video](https://www.ndtvprofit.com/india/fear-of-tukaram-mundhe-hundreds-of-litres-of-milk-dumped-after-fda-raid-rumour-video-11763182#publisher=newsstand)
-A rumoured FDA inspection in Satara’s Maan taluka sparked panic among milk collectors, leading to hundreds of litres of milk being dumped on roads. The incident raised concerns over milk quality, adulteration and demands for an investigation.
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
 ---
 
-## 💸 Corporate Actions (1)
+## 💸 Corporate Actions (2)
+
+### [Goodluck India shares rally 7% on 2:1 bonus issue announcement. How will dividend payout be impacted?](https://economictimes.indiatimes.com/markets/stocks/news/goodluck-india-shares-rally-7-on-21-bonus-issue-announcement-how-will-dividend-payout-be-impacted/articleshow/132359616.cms)
+Goodluck India shares surged up to 7% after the company announced its maiden 2:1 bonus issue. Alongside the bonus announcement, the board adjusted the proposed FY26 final dividend from Rs 3 per share to Re 1 per share. The stock also hit a fresh 52-week high during Monday's trading session.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
 
 ### [Indian Bank among 5 stocks showing bullish RSI upswing](https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132355330.cms)
 Five stocks in the Nifty500 segment that gained over 6% featured in the RSI Trending Up scan on July 10 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish technical setups.
@@ -160,21 +265,61 @@ Five stocks in the Nifty500 segment that gained over 6% featured in the RSI Tren
 
 ---
 
-## 🏭 Operations & Approvals (2)
+## 🏭 Operations & Approvals (5)
 
-### [Volkswagen CEO says ‘smarter solutions’ possible beyond closing plants](https://www.livemint.com/companies/news/volkswagen-vw-ceo-oliver-blume-says-smarter-solutions-possible-beyond-closing-plants-save-money-shut-factories-cut-costs-11783855186872.html)
-Volkswagen CEO Oliver Blume feels there are “smarter solutions” to save money than shutting factories. In remarks that could help defuse tensions with the manufacturer’s powerful union, he hailed progress already made in cutting costs.&amp;nbsp;
+### [Swiggy shares slide over 2% after FSSAI issues 9 notices over consumer complaints](https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-slide-over-2-after-fssai-issues-9-notices-over-consumer-complaints/articleshow/132360998.cms)
+Swiggy shares fell over 2% on Monday, extending losses for a second session after the Food Safety and Standards Authority of India (FSSAI) issued nine notices to Swiggy Instamart over consumer complaints alleging food safety violations. The regulator has sought a detailed explanation, compliance report and documentary evidence, warning that failure to comply could invite legal action.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-12
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [Aeroflex Industries To Scale Up Skid Assembly Capacity To 15,000 Units By FY27, Says MD Asad Daud](https://www.ndtvprofit.com/business/aeroflex-industries-to-scale-up-skid-assembly-capacity-to-15-000-units-by-fy27-says-md-asad-daud-11763355#publisher=newsstand)
-Skid assemblies are used in data centres to remove heat from high-density servers.
+### [NSE launches Nifty500 Ahimsa Index to track companies aligned with nonviolence principles](https://economictimes.indiatimes.com/markets/stocks/news/nse-launches-nifty500-ahimsa-index-to-track-companies-aligned-with-nonviolence-principles/articleshow/132358974.cms)
+NSE Indices Limited has launched the Nifty500 Ahimsa Index for investors. This new thematic index tracks companies aligned with nonviolence principles. Companies are classified using the Ahimsagain Foundation's AIM framework. Only businesses in the Green category are eligible for inclusion. The index aims to provide ethical investment exposure across sectors.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [Ipca Laboratories Ltd spurts 2.44% - Business Standard](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHpTdXRBTzF6QjBRT0dJRTJjc2hfbGdFdFQ4QXRfNk1mdEstREE0d3FwVkVHNlc5YTJPYklScDhXMWhTa2ZSdVN2TlZlZHZrbUNWRGlEWVg5TTEwdFc3LWx1emkyZS12d3V5LWVQUEV1YkV2UEVPNzBSZ1dOTl9RYndVTHI5aHEyV0YtenFuUDZZR2lweElVNUR1dzdpRElLZ0VpcXZUMjlYaVd3czZ6OTlQdHRUZVFzbmlV0gG7AUFVX3lxTE1oelN1dEFPMXpCMFFPR0lFMmNzaF9sZ0V0VDhBdF82TWZ0Sy1EQTR3cXBWRUc2VzlhMk9iSVJwOFcxaFNrZlJ1U3ZOVmVkdmttQ1ZEaURZWDlNMTB0VzctbHV6aTJlLXZ3dXktZVBQRXViRXZQRU83MFJnV05OX1Fid1VMcjlocTJXRi16cW5QNllHaXB4SVU1RHV3N2lESUtnRWlxdlQyOVhpV3dzNno5OVB0dFRlUXNuaVU?oc=5)
+Ipca Laboratories Ltd spurts 2.44% &nbsp;&nbsp; Business Standard
+
+**Source:** GNews - IPCA Labs  **Date:** 2026-07-13
+
+### [Alpine Texworld IPO GMP: Here's What Grey Market Trends Signal Ahead Of July 14 Launch](https://www.ndtvprofit.com/markets/alpine-texworld-ipo-gmp-heres-what-grey-market-trends-signal-ahead-of-july-14-launch-11763066#publisher=newsstand)
+The issue will remain open for subscription from July 14 - 16.
 
 **Source:** NDTV Profit  **Date:** 2026-07-13
 
+### [Alembic Pharma Reports USFDA Warning Letter To Investigator With 0 Impact On Data Reliability - Sahi](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVdvSWNfNWRCeWNwNmwyZ3ZkV3VrN2hNdVBoWTkxQ2UyOXpDNGVHeEVxSXp5eXIwOVdWU0JNRHdkQW9EQ1BScU5Nc1hMV2p4M0tESS13QnB6SHhOeEMyWXRzMGg0YzdOeG1Dd25oOWIwYjZ1YkJ5OE5aUFNzdjE1Q2xsaHFEYUZrN0ZJLWI1TTAtX1NIYzJhMlZvNHVZYU4tci1XTXRHQ25DeE1uR1I1WFJYYmRxZzBHQ3JaSjNuX2loMnlKY2hkQnBVaFU?oc=5)
+Alembic Pharma Reports USFDA Warning Letter To Investigator With 0 Impact On Data Reliability &nbsp;&nbsp; Sahi
+
+**Source:** GNews - India Pharma Export  **Date:** 2026-07-13
+
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (10)
+
+### [Mylan to sell up to $363 million stake in India's Biocon, term sheet shows](https://economictimes.indiatimes.com/markets/stocks/news/mylan-to-sell-up-to-363-million-stake-in-indias-biocon-term-sheet-shows/articleshow/132368259.cms)
+Mylan ​Inc plans to ‌sell ⁠up ⁠to 92 ​million shares in ​Indian drugmaker ​Biocon ⁠Ltd, worth ‌up ​to ​34.81 ⁠billion Indian rupees ($363 ​million), according to ​a term ‌sheet seen ​by ​Reuters.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month](https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms)
+Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sustained buying interest and continued upward momentum in these counters.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [Market wrap: TCS, HCL Tech among top gainers and losers on Nifty and Sensex today](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-hcl-tech-among-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132366249.cms)
+Sensex and Nifty recovered sharply from nearly 1% intraday losses to close marginally higher, led by IT stocks. Analysts cited strong FII inflows and technical support at 24,000, while warning that rising crude oil prices remain the biggest market risk.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [Sensex rises 47 points, Nifty closes above 24,200 as market recovers all morning losses. What’s ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-47-points-nifty-closes-above-24200-as-market-recovers-all-morning-losses-whats-ahead/articleshow/132363441.cms)
+Indian benchmark indices erased steep intraday losses to end marginally higher on Monday, supported by a strong rally in IT stocks and continued foreign fund inflows despite escalating tensions between the US and Iran. Analysts said the market's near-term direction will hinge on crude oil prices, with Brent remaining below the key $90-a-barrel threshold.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
+
+### [FIIs cut stakes, but these 10 stocks rallied up to 220% in just over 3 months](https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-but-these-10-stocks-rallied-up-to-220-in-just-over-3-months/slideshow/132361433.cms)
+Despite FII stake reductions in the March quarter, several BSE 500 stocks rallied sharply, with top performers delivering returns of up to 220%, highlighting that foreign selling doesn't always dictate stock performance.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-13
 
 ### [Vedanta Iron, Vedanta Aluminium &amp; other group stocks jump up to 5%. Should you buy?](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-vedanta-aluminium-other-group-stocks-jump-up-to-5-should-you-buy/articleshow/132358506.cms)
 Vedanta Group stocks gained on Monday, recovering from a recent correction after their stock exchange debut. Vedanta Iron and Steel shares rose nearly 5%, while Vedanta Oil and Gas also saw an increase. Vedanta Power shares experienced a slight gain, and Vedanta Aluminium shares traded higher today. Brokerages have issued bullish calls for Vedanta Aluminium, expecting significant profit growth.
@@ -191,77 +336,46 @@ Indian stock indices Sensex and Nifty experienced significant declines on Monday
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [Zensar Technologies Shares Up 4%: Should Investors Buy, Sell Or Hold?](https://www.ndtvprofit.com/markets/zensar-technologies-shares-gain-4-analysts-see-resistance-at-rs-520-11763357#publisher=newsstand)
-The stock has been rallying over the past month and gained over 16% during the period when Nifty 500 gained 3%.
+### [SC upholds Centre's mining royalty formula, rejects Kirloskar's challenge](https://www.livemint.com/companies/news/supreme-court-mining-royalty-formula-india-kirloskar-ferrous-plea-11783924978001.html)
+The Supreme Court's ruling is expected to provide certainty to the mining sector by preserving the existing royalty framework, and also comes as a major relief to the Centre and mineral-rich states
 
-**Source:** NDTV Profit  **Date:** 2026-07-13
+**Source:** Mint - Pharma  **Date:** 2026-07-13
 
-### [Kalyan Jewellers Shares Up 40% In Five Sessions -- Check Key Reasons, Target Price](https://www.ndtvprofit.com/markets/kalyan-jewellers-extends-rally-on-5th-straight-day-stock-up-40-in-last-5-sessions-key-details-inside-11763332#publisher=newsstand)
-Kalyan Jewellers shares continued to trade higher on Monday, up 9% at Rs 518.50 per share in morning trade.
+### [Have India’s top hotel rates peaked? Operators say there’s still room, but not everyone agrees](https://www.livemint.com/companies/news/top-hotels-india-room-rates-scope-for-growth-luxury-otels-oberoi-hotels-the-leela-itc-hotels-11783912483318.html)
+Five-star and luxury hotels in India continue to find room for rate increases compared with global prices. While some believe city hotel rates may be nearing a ceiling, resort pricing holds more potential for upward movement.
 
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### ['1,080% Returns Since 2008': How 50:50 India-US Bet Emerged As The Real Alpha Generator](https://www.ndtvprofit.com/markets/1-080-returns-since-2008-how-50-50-india-us-bet-emerged-as-the-real-alpha-generator-11763402#publisher=newsstand)
-The US stock market, whether it outperforms or underperforms, maintains its dominance in the global equity space, say analysts.
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### [CarTrade Tech Gets Buy Call From UBS At Initiation With 42% Upside — Check Target Price](https://www.ndtvprofit.com/markets/cartrade-tech-gets-buy-call-from-ubs-at-initiation-with-42-upside-check-target-price-11763400#publisher=newsstand)
-CarTrade Tech has set a target price of Rs 4,000 on CarTrade Tech shares, marking an upside of 42.3%
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### [SRF, Deepak Nitrite Among Six Stocks In Focus As Systematix Re-Initiates Coverage — Check Target Prices](https://www.ndtvprofit.com/markets/aarti-industries-srf-deepak-nitrite-navin-fluorine-vinati-organics-atul-among-six-stocks-in-focus-as-systematix-re-initiates-coverage-check-target-pri-11763291#publisher=newsstand)
-Specialty companies with strong pass-through mechanisms or commodity tailwinds are likely to post standout margins, adds Systematix
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
+**Source:** Mint - Pharma  **Date:** 2026-07-13
 
 ---
 
-## 📰 Industry & Policy News (11)
+## 📰 Industry & Policy News (7)
 
-### [Divis Labs Share Price Live Updates: Divis Labs Market Performance Snapshot](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-13-jul-2026/liveblog/132354982.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-13-jul-2026/liveblog/132354982.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma Trading Below Key Support Level](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-13-jul-2026/liveblog/132354968.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-13-jul-2026/liveblog/132354968.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [Apollo Hospital Share Price Live Updates: Today's Price Movement for Apollo Hospital](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-13-jul-2026/liveblog/132354961.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-13-jul-2026/liveblog/132354961.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-13
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-13-jul-2026/liveblog/132354917.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-13
+### [Tata Capital enters gold loans with controlling stake in Kerala-based Yogakshemam Loans](https://www.livemint.com/companies/tata-capital-enters-gold-loan-business-with-yogloans-acquisition-yogakshemam-loans-11783919668032.html)
+Tata Group's financial services arm will acquire an 88.6% stake in Yogakshemam Loans, marking its entry into the secured gold loan business as it expands its retail lending franchise.
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-13-jul-2026/liveblog/132354938.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-13
+**Source:** Mint - Pharma  **Date:** 2026-07-13
 
-### [Pharma sector stocks today, July 13: Natco Pharma fall 1.47%, Ajanta Pharma jumps 1.37%, Biocon down 2.37% - Business Upturn](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHV0Z1JzTWUxSi1xSFhrRWVQckVPNVdkck5mNmlCOTM2SmFjUTBDZVV4YWVZckpMUG9TQlNHWXdlcTY4ZHNVV3V3NTVtZGFrRFRiakpYRXNUdnc2aUtId1J5OEVKTkFfbHJXRHVseUJsaFFDRDZ2VmpJOWhMbUZyVHFpVmZZdFU2X291UlZqTnNaNEZMTnhJSHduRW8wenBzQXJOZm5Xb0xidmgzX0tHb0ZJZnZFQVRUQTFxbnlOdUVIQzh6THlNZnRyOWY3a29HbFRQdkM0RGhobjczeUVQUFhPTFZqVm8?oc=5)
-Pharma sector stocks today, July 13: Natco Pharma fall 1.47%, Ajanta Pharma jumps 1.37%, Biocon down 2.37% &nbsp;&nbsp; Business Upturn
+### [[6-K] DR REDDYS LABORATORIES LTD Current Report (Foreign Issuer) | RDY SEC Filing - Form 6-K - Stock Titan](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFRuYzFQUEYyVWVMam52RzhxNi1WaERrYmVyZXVNT1FXOVJ2ckVzUzFRUE1FcEllb3pRc3A3Q2wwVW80S2RpUFR6Y0hlZnYwRENXZm5icnZyNm5haHJVb0VOa1U0WkRxcDRCTW9jZVBlTXFURGg0UGxXaFFyeHd5MXhLYm1JVE9mTFU4MU9MY2RkV2lMVWppT29pYTJ3QUxEZ3JNZkN0R1pMSlJKMkMzcW9SeVRDNFZ0Sk9RVl93?oc=5)
+[6-K] DR REDDYS LABORATORIES LTD Current Report (Foreign Issuer) | RDY SEC Filing - Form 6-K &nbsp;&nbsp; Stock Titan
 
-**Source:** GNews - India Pharma  **Date:** 2026-07-13
+**Source:** GNews - Dr Reddys  **Date:** 2026-07-13
 
-### [DMart Shares Get Cautious View From PL Capital — Check What's Limiting Upside](https://www.ndtvprofit.com/markets/dmart-11763571#publisher=newsstand)
-DMart numbers were largely in line with PL Capital's estimates, with sales/store and sales/ft declining by 3.7% and 3.0%, respectively.
+### [CE Info Systems Rallies 9% As TCS Results, AI Optimism, Upcoming IT Results Lifts The Sector](https://www.ndtvprofit.com/markets/ce-info-systems-rallies-9-as-tcs-results-ai-optimism-upcoming-it-results-lifts-the-sector-11764280#publisher=newsstand)
+The stock gained 99.65 points to close at Rs 1,183 apiece on the NSE, against its previous close at Rs 1,083.35 per share.
 
 **Source:** NDTV Profit  **Date:** 2026-07-13
 
-### [IOC, BPCL, HPCL Shares Drop As Crude Oil Price Climbs 4% To $79 Per Barrel On US-Iran Strikes](https://www.ndtvprofit.com/markets/ioc-bpcl-hpcl-shares-drop-as-crude-oil-price-climbs-4-to-79-per-barrel-on-us-iran-strikes-11763428#publisher=newsstand)
-Shares of IOCL, BPCL, and HPCL opened nearly 2% lower each and extended losses trade in red amid a broader bearish sentiment across the domestic frontline indices.
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### [Mangalore Refinery Shares Extend Rally, Gain 4% As Strategic Petroleum Reserve Plan Boosts Sentiment](https://www.ndtvprofit.com/markets/mangalore-refinery-shares-extend-rally-gain-nearly-4-as-strategic-petroleum-reserve-boosts-sentiment-11763264#publisher=newsstand)
-MRPL has gained over 11.8% in the past week
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### [Reliance Infrastructure Shares Hit Lower Circuit for Fifth Straight Session Amid Weekly Trading Curbs](https://www.ndtvprofit.com/markets/reliance-infrastructure-shares-hit-lower-circuit-for-fifth-straight-session-amid-weekly-trading-curbs-11763382#publisher=newsstand)
-Stock remains under insolvency-linked surveillance framework as company seeks review of trading restrictions.
-
-**Source:** NDTV Profit  **Date:** 2026-07-13
-
-### [Stock Market Crash: Nifty Slides Near 24,100, Sensex Drops 500 Points — Three Reasons Why Market Is Falling](https://www.ndtvprofit.com/markets/stock-market-crash-nifty-slides-near-24-100-sensex-drops-500-points-three-reasons-why-market-is-falling-11763298#publisher=newsstand)
-Stock Market Crash: NSE Nifty 50 fell as much as 0.9% to 24,000.20, while the BSE Sensex declined as much as 712 points, or 0.9%, to 76,857.
+### [Fluctuating Airfares: Supreme Court Asks Centre To Detail Existing Rules Within 14 Days](https://www.ndtvprofit.com/business/fluctuating-airfares-supreme-court-asks-centre-to-detail-existing-rules-within-14-days-11765016#publisher=newsstand)
+A plea has alleged that the absence of a dedicated regulator has enabled airlines to impose dynamic pricing.
 
 **Source:** NDTV Profit  **Date:** 2026-07-13
 
