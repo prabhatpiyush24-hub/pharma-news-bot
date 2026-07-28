@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-07-28
 
-> 76 items · 2026-07-28 06:23 UTC
+> 78 items · 2026-07-28 14:03 UTC
 
-## 📊 BSE / NSE Filings (16)
+## 📊 BSE / NSE Filings (18)
 
 ### [Aurobindo Pharma: Aurobindo Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/08/2026 ,inter alia, to consider and approve Intimation of Board Meeting ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ba8db116-abab-477c-8cab-b94e5ccfd80f.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 524804
@@ -14,8 +14,23 @@ Category: Board Meeting | Sub: Board Meeting | BSE Code: 524494
 
 **Source:** BSE Filing  **Date:** 2026-07-28
 
+### [Abbott India: Pursuant to Regulations 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we submit herewith the Unaudited Financial Results of the Company for ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0ead03d4-4842-46fc-a8cd-79d8f4672acf.pdf)
+Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 500680
+
+**Source:** BSE Filing  **Date:** 2026-07-28
+
 ### [Sanofi India: The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on July 27, 2026 for Geetanjali Trading and ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/388c960d-44be-4f0b-b75c-3c4a5c34536e.pdf)
 Category: Insider Trading / SAST | Sub: Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011 | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-07-28
+
+### [Orchid Pharma Ltd: Orchid Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 01/08/2026 ,inter alia, to consider and approve Prior intimation of Board Meeting ....](https://www.bseindia.com/corporates/ann.html?scrip=524372)
+BSE Code: 524372
+
+**Source:** BSE Filing  **Date:** 2026-07-28
+
+### [Sun Pharma: Newspaper advertisement about opening of Special Window, for transfer of physical shares](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a17c67ab-a19f-4bda-b95d-089cb1583cbc.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 524715
 
 **Source:** BSE Filing  **Date:** 2026-07-28
 
@@ -23,6 +38,11 @@ Category: Insider Trading / SAST | Sub: Disclosures under Reg. 31(1) and 31(2) o
 Category: Company Update | Sub: General | BSE Code: 524715
 
 **Source:** BSE Filing  **Date:** 2026-07-27
+
+### [Dr. Reddy's Laboratories: The Exchange has sought clarification from Dr Reddys Laboratories Ltd with reference to the media report appearing on https://www.business-standard.com dated July 28, 2026, (Link:https://www.business-standard.com/companies/news/dr-reddys-first-in-class-gonorrhoea-drug-gets-thailand-approval-after-us-nod-126072700632_1.html) ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/19bc7028-1d3d-4add-b00b-7a15a15fceb3.pdf)
+Category: Company Update | Sub: Clarification | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-07-28
 
 ### [Cipla: Please find enclosed disclosure](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0da045f0-bc0e-4de9-bc58-4bdc92260878.pdf)
 Category: Company Update | Sub: General | BSE Code: 500087
@@ -34,6 +54,11 @@ Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-07-27
 
+### [Abbott India: Pursuant to Regulation 30 of SEBI LODR Regulations, 2015, please find enclosed proceedings of the 75th Annual General Meeting of the Company held on July 28, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a1d0ee6-37a8-4b10-b684-21ad068f4fd1.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 500680
+
+**Source:** BSE Filing  **Date:** 2026-07-28
+
 ### [Abbott India: Intimation of Resignation of Mr. Amit Agarwal, Executive Director -Finance & Chief Financial Officer](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d7080eb7-5622-4ab9-a338-0d0fb4dea5c8.pdf)
 Category: Company Update | Sub: Change in Directorate | BSE Code: 500680
 
@@ -44,8 +69,8 @@ Category: Company Update | Sub: General | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-07-27
 
-### [Ipca Laboratories Ltd: Ipca Laboratories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/08/2026 ,inter alia, to consider and approve Standalone and Consolidated ....](https://www.bseindia.com/corporates/ann.html?scrip=524494)
-BSE Code: 524494
+### [Sequent Scientific: Environment Clerance](https://www.bseindia.com/xml-data/corpfiling/AttachLive/89231cc0-7ddc-44de-bfbd-077cfa3cae57.pdf)
+Category: Company Update | Sub: General | BSE Code: 590086
 
 **Source:** BSE Filing  **Date:** 2026-07-28
 
@@ -64,42 +89,57 @@ Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 500271
 
 **Source:** BSE Filing  **Date:** 2026-07-27
 
-### [Supreme Petrochem Ltd: Unaudited Standalone and Consolidated Financial Results of the Company for the quarter ended June 30, 2026 along with Limited Review Report thereto, as issued by Statutory Auditors of the ....](https://www.bseindia.com/corporates/ann.html?scrip=500405)
-BSE Code: 500405
-
-**Source:** BSE Filing  **Date:** 2026-07-27
-
-### [Unichem Laboratories Ltd: Unichem Laboratories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 11/08/2026 ,inter alia, to consider and approve The Unaudited Financial ....](https://www.bseindia.com/corporates/ann.html?scrip=506690)
-BSE Code: 506690
-
-**Source:** BSE Filing  **Date:** 2026-07-28
-
-### [Krebs Biochemicals & Industries Ltd-$: Krebs Biochemicals & Industries Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/08/2026 ,inter alia, to consider and approve Intimation ....](https://www.bseindia.com/corporates/ann.html?scrip=524518)
-BSE Code: 524518
-
-**Source:** BSE Filing  **Date:** 2026-07-28
-
-### [Aarti Pharmalabs Ltd: Aarti Pharmalabs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/08/2026 ,inter alia, to consider and approve the unaudited financial results ....](https://www.bseindia.com/corporates/ann.html?scrip=543748)
-BSE Code: 543748
+### [Trualt Bioenergy Ltd: Financial Results (Standalone and Consolidated) for the quarter Ended June 30, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=544545)
+BSE Code: 544545
 
 **Source:** BSE Filing  **Date:** 2026-07-28
 
 ---
 
-## 💰 Results & Financials (29)
+## 💰 Results & Financials (34)
+
+### [Varun Beverages shares fall 5% as Q2 margins shrink after Twizza acquisition in South Africa; net profit rises 15%](https://economictimes.indiatimes.com/markets/stocks/news/varun-beverages-shares-fall-5-as-q2-margins-shrink-after-twizza-acquisition-in-south-africa-net-profit-rises-15/articleshow/132678481.cms)
+Varun Beverages shares fell 5% after the Pepsi bottler reported a 76-basis-point contraction in Q2 CY2026 EBITDA margin to 27.7%, weighed down by the consolidation of South Africa's Twizza business. Despite the margin pressure, revenue from operations rose 20.4% year-on-year to Rs 8,451.23 crore, driven by strong volume growth across domestic and international markets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [HUL shares slide over 6% after weaker-than-expected Q1; PAT dips 3% to Rs 2,673 crore on one-time credit](https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-slide-5-after-weaker-than-expected-q1-pat-dips-3-to-rs-2673-crore-on-one-time-credit/articleshow/132676380.cms)
+Shares of Hindustan Unilever dipped more than six percent after first-quarter earnings reports revealed an unexpected dip in net profit by three percent due to earlier tax credits. Yet, revenue from operations climbed ten percent year-on-year, totaling seventeen thousand crore rupees. The company's Home Care and Beauty &amp; Wellbeing divisions showcased robust sales performance, prompting HUL to project an improved fiscal year twenty twenty-seven compared to twenty twenty-six.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
 
 ### [Happiest Minds Q1 Results: Profit rises 18% YoY to Rs 68 crore; revenue up 14%](https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q1-results-profit-rises-18-yoy-to-rs-68-crore-revenue-up-14/articleshow/132675417.cms)
 Happiest Minds Technologies announced an 18.3 percent net profit increase for the first quarter. Revenue from operations also saw a 14.3 percent rise during the same period. The company's AI-first strategy is reportedly gaining significant traction and momentum. A strong and expanding pipeline registered a twenty percent growth over the previous quarter. Happiest Minds currently employs 6,532 individuals across sixteen different countries.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [HUL Q1 results: net profit slides 2% on tax expenses, revenue up 10%](https://www.livemint.com/companies/company-results/hul-q1-results-hindustan-unilever-profit-11785213804286.html)
-Strong double-digit gains in the home care and beauty divisions helped sustain volume momentum despite persistent commodity cost pressures.
+### [Radico Khaitan Q1 Results: Profit jumps 76% to Rs 229 crore, revenue up at Rs 5,867 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/radico-khaitan-q1-results-profit-jumps-76-to-rs-229-crore-revenue-up-at-rs-5867-crore/articleshow/132685137.cms)
+Radico Khaitan recorded an impressive seventy-six percent uptick in net profit, reaching Rs 229.60 crore for the June quarter. The company's operational revenue rose by thirteen point two two percent, totaling Rs 5,867.69 crore. This quarter marks a record for the company's volume, top-line revenue, and profitability, significantly driven by a thirty-five point eight percent increase in Prestige and Above brand sales.
 
-**Source:** Mint - Pharma  **Date:** 2026-07-28
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [HUL shares slide 5% after weaker-than-expected Q1; PAT dips 3% to Rs 2,673 crore on one-time credit](https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-slide-5-after-weaker-than-expected-q1-pat-dips-3-to-rs-2673-crore-on-one-time-credit/articleshow/132676380.cms)
-Hindustan Unilever (HUL) reported a 3% year-on-year decline in June-quarter net profit, missing analyst estimates, as the absence of a one-off tax credit from the year-ago period weighed on earnings. Despite the profit decline, the FMCG major posted double-digit revenue growth, driven by broad-based volume and pricing gains, and maintained its margin outlook for FY27.
+### [L&amp;T Q1 Results: Net profit rises 14% YoY to Rs 4,123 crore, revenue up 7%](https://economictimes.indiatimes.com/markets/stocks/earnings/lt-q1-results-net-profit-rises-14-yoy-to-rs-4123-crore-revenue-up-7/articleshow/132684207.cms)
+L&amp;T Q1 Results: Larsen &amp; Toubro (L&amp;T) on Tuesday reported a consolidated net profit of Rs 4,123 crore for the April-June quarter of the ongoing financial year 2027, marking nearly 14% year-on-year (YoY) rise from the Rs 3,617 crore net profit reported in the same period last year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Tata Capital Q1 Results: Net profit jumps 56% YoY to Rs 1,547 crore, revenue up 15%](https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q1-results-net-profit-jumps-56-yoy-to-rs-1547-crore-revenue-up-15/articleshow/132682221.cms)
+Tata Capital announced a substantial net profit increase of over 56 percent. Revenue from operations also saw a healthy rise of more than 15 percent. Assets under management grew by 22 percent, reaching Rs 2.91 lakh crore. Net interest income and the net loan book experienced strong year-on-year growth. The company's net worth jumped approximately 42 percent during the quarter.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Suzlon Energy shares crash 10% to 3-month low after Q1 results. What’s spooking investors?](https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-crash-10-to-3-month-low-after-q1-results-whats-spooking-investors/articleshow/132681258.cms)
+Suzlon Energy shares fell nearly 10% following its Q1 FY27 earnings update, where net profit slipped 6% YoY to Rs 305 crore and EBITDA margins compressed to 15.6%. Despite a 22.5% growth in revenue and record deliveries, investor sentiment was impacted by margin pressure and global supply chain disruptions.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Ambuja Cement Q1 Results: Net profit drops 34% YoY to Rs 577 crore; revenue falls 7.5%](https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q1-results-net-profit-drops-34-yoy-at-rs-577-crore-revenue-falls-7-5/articleshow/132680124.cms)
+Ambuja Cement Q1 Results: Revenue from operations also declined 7.5% YoY to Rs 9,474 crore from Rs 10,244 crore in the year-ago quarter, the company said in a regulatory filing.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Suzlon Energy Q1 Results: Net profit falls 6% YoY to Rs 305 crore; stock sinks 7%](https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q1-results-net-profit-falls-6-yoy-to-rs-305-crore-but-revenue-rises-22/articleshow/132679287.cms)
+Suzlon Energy reported a consolidated net profit of Rs 305 crore for the first quarter of FY27. This figure represented a nearly six percent decline year-on-year from Rs 324 crore. However, the renewable energy company's revenue from operations rose twenty-two point five percent. Shares of the company fell more than four percent following the earnings announcement. The stock dropped nearly five percent to Rs 50.75 on the BSE.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
@@ -108,8 +148,8 @@ Godfrey Phillips reported a 44.3% year-on-year decline in June-quarter net profi
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [HUL Q1 Results: Revenue rises 10% YoY to Rs 17,149 crore, but profit falls 3% on one-off tax credit](https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q1-results-revenue-rises-10-yoy-to-rs-17149-crore-but-profit-falls-3-on-one-off-tax-credit/articleshow/132675385.cms)
-HUL Q1 Results: Hindustan Unilever (HUL) reported a 3% year-on-year decline in Q1FY27 net profit to Rs 2,673 crore, missing analysts' estimates, as the year-ago quarter included a one-off tax credit. Revenue, however, rose 10.2% to Rs 17,149 crore, driven by 10% underlying sales growth. HUL shares fell over 3% following the earnings announcement.
+### [HUL Q1 Results: Revenue rises 10% YoY to Rs 17,341 crore, but profit falls 3% on one-off tax credit](https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q1-results-revenue-rises-10-yoy-to-rs-17149-crore-but-profit-falls-3-on-one-off-tax-credit/articleshow/132675385.cms)
+HUL Q1 Results: Hindustan Unilever (HUL) reported a 3% year-on-year decline in Q1FY27 net profit to Rs 2,673 crore, missing analysts' estimates, as the year-ago quarter included a one-off tax credit. Revenue, however, rose 10.2% to Rs 17,341 crore, driven by 10% underlying sales growth. HUL shares fell over 3% following the earnings announcement.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
@@ -122,6 +162,16 @@ Coforge shares jumped after the IT services company posted a strong Q1 FY27 perf
 Coal India shares fell after the state-run miner reported a marginal 1% year-on-year rise in Q1 FY27 consolidated net profit to Rs 8,852 crore, while profit declined over 18% sequentially. Despite the muted earnings, Jefferies maintained a Buy rating with a target price of Rs 500, citing expected recovery in power demand, improving earnings growth, and attractive valuations.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Meesho shares can rally to Rs 240? Why Motilal Oswal initiated coverage on the platform stock](https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-can-rally-to-rs-240-why-motilal-oswal-initiated-coverage-on-the-platform-stock/articleshow/132682117.cms)
+Motilal Oswal has begun coverage on Meesho, awarding it a buy rating along with a target price indicating strong potential. The brokerage believes that free cash flow will start manifesting from FY27, highlighting Meesho's asset-light model as a crucial factor for growth. The company's recent Q1 performance showed reduced losses and increased marketplace revenue, emphasizing its sensitivity to NMV growth and margin improvements.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [HUL raises prices by 5%, signals further hikes as inflation persists](https://www.livemint.com/companies/company-results/hul-q1-results-hindustan-unilever-profit-11785213804286.html)
+Strongest revenue expansion in 13 quarters fails to protect the bottom line as the West Asia conflict and commodity spikes squeeze margins.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-28
 
 ### [The youngest company in Tata's consumer portfolio is its fastest-growing](https://www.livemint.com/companies/company-results/trent-revenue-growth-zudio-westside-noel-tata-fy26-tata-group-retail-11785163427842.html)
 While Titan remains the group's largest consumer business by revenue, Trent has overtaken Voltas and nearly caught up with Tata Consumer Products Ltd.
@@ -138,11 +188,6 @@ Tata Group's e-commerce arm posted higher FY26 revenue and narrower losses after
 
 **Source:** Mint - Pharma  **Date:** 2026-07-27
 
-### [HCLTech becomes first Indian IT services firm to form small-business unit](https://www.livemint.com/companies/news/hcltech-neo-ai-mid-market-it-services-11785131287633.html)
-The unit called Neo.AI will chase small and mid-sized firms with annual revenue of $1 billion-5 billion.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-27
-
 ### [Bharat Electronics shares fall over 3% after Q1 results. Here's what Nomura, Motilal Oswal and other brokerages say](https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-shares-fall-over-3-after-q1-results-heres-what-nomura-motilal-oswal-and-other-brokerages-say/articleshow/132674778.cms)
 Bharat Electronics (BEL) shares fell 3.5% after the defence PSU reported mixed Q1FY27 results, with profit rising 9% year-on-year but declining sharply on a sequential basis. Despite the earnings miss, brokerages remained constructive. Motilal Oswal, Elara Capital and Dolat Capital reiterated positive ratings, while Nomura maintained a Neutral stance, citing BEL's strong order pipeline and long-term growth prospects.
 
@@ -153,18 +198,33 @@ India's ultra-rich population is rapidly increasing, creating a significant advi
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [Varun Beverages Quarterly Results Today: Time, Interim Dividend, Earnings Call Schedule And Share Price](https://www.ndtvprofit.com/markets/varun-beverages-quarterly-results-today-time-interim-dividend-earnings-call-schedule-and-share-price-11826678#publisher=newsstand)
-Varun Beverages will announce Q2CY26 results today
+### [IPO pipeline robust with 245 DRHPs filed with Sebi, 175 receive observations: Equirus](https://economictimes.indiatimes.com/markets/stocks/news/ipo-pipeline-robust-with-245-drhps-filed-with-sebi-175-receive-observations-equirus/articleshow/132682968.cms)
+India's IPO pipeline remains robust with 245 companies filing draft papers with Sebi, including 175 already cleared for launch. Strong domestic liquidity, resilient investor participation and improving market sentiment are driving equity fundraising despite global uncertainties and foreign fund outflows.
 
-**Source:** NDTV Profit  **Date:** 2026-07-28
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [Coforge Shares Jump 9% On China Expansion Plans; Q1 Revenue Grows 24%, Company Declares Interim Dividend](https://www.ndtvprofit.com/markets/coforge-shares-jump-9-after-q1-revenue-grows-24-company-declares-interim-dividend-11830787#publisher=newsstand)
-IT services firm plans to set up a China entity to expand operations, while June-quarter revenue rose despite a one-time loss weighing on profit.
+### [Vedanta Aluminium shares in a sweet spot, says ICICI Securities; initiates coverage with Buy rating](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-shares-in-a-sweet-spot-says-icici-securities-initiates-coverage-with-buy-rating/articleshow/132682352.cms)
+ICICI Securities has initiated coverage on Vedanta Aluminium Metal (VAML) with a 'Buy' rating and a target price of Rs 520, implying over 19% upside. The brokerage expects strong earnings growth, driven by favourable aluminium prices, higher volumes, backward integration and lower costs. It also sees robust cash generation, debt reduction and long-term expansion supporting the company's outlook.
 
-**Source:** NDTV Profit  **Date:** 2026-07-28
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Vijay Kedia sells 4 lakh shares of this microcap facade maker in Q1, stock down 35% in 6 months. Do you own?](https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-sells-4-lakh-shares-of-this-microcap-facade-maker-in-q1-stock-down-35-in-6-months-do-you-own/articleshow/132680256.cms)
+Veteran investor Vijay Kedia reduced his stake in microcap firm Innovators Facade Systems during Q1 FY27, selling over 3.66 lakh shares. His holding fell from 10.66% to 8.71%, leaving him with 16.44 lakh shares at the end of June. The stock has declined more than 35% over the past six months.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [FIIs triple stake in Sterlite Tech after a stellar 400% surge this year. More legs to the rally?](https://economictimes.indiatimes.com/markets/stocks/news/fiis-triple-stake-in-sterlite-tech-after-a-stellar-400-surge-this-year-more-legs-to-the-rally/articleshow/132678108.cms)
+Sterlite Technologies has surged over 400% in 2026, while FIIs nearly tripled their stake to 19.7% as of July 2026. The stock gained investor attention after strong Q1 FY27 results, a record order book, AI data centre opportunities and a bullish outlook from brokerages.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
 
 ### [RR Kabel shares jump 10% as Q1 PAT surges 129% YoY, Ebitda doubles](https://economictimes.indiatimes.com/markets/stocks/news/rr-kabel-shares-jump-10-as-q1-pat-surges-129-yoy-ebitda-doubles/articleshow/132675913.cms)
 RR Kabel reported a strong June-quarter performance, with profit after tax surging 129% year-on-year and Ebitda nearly doubling, driven by robust growth in its Wires &amp; Cables business and improving profitability. The company also achieved operational breakeven in its FMEG segment, while management expressed confidence in sustaining growth through product expansion, distribution strengthening and execution excellence.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [Sensex falls 70 points, Nifty closes below 23,400 as HUL, BEL, other stocks react to Q1 earnings](https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-nifty-near-24000-ahead-of-us-fed-meet-infosys-it-pack-shines/articleshow/132674695.cms)
+Indian stock markets closed lower on Tuesday after erasing early gains. Sensex and Nifty experienced a slight decline, while broader markets showed mixed performance. IT stocks rallied significantly, driven by global sentiment shifts and attractive valuations. Analysts noted cautious investor sentiment ahead of central bank policy meetings. Improving monsoon conditions and Q1 FY27 earnings supported domestic growth outlook.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
@@ -173,98 +233,63 @@ On July 27, four stocks in the Nifty500 appeared on the White Marubozu bullish s
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [HUL Q1 Results: Net Profit Drops 3% To Rs 2,673 Crore, Revenue Down 10% YoY; Price Hike Drag Volumes](https://www.ndtvprofit.com/markets/hul-q1-results-net-profit-drops-3-to-rs-2-673-crore-revenue-down-10-yoy-price-hike-drag-volumes-11830940#publisher=newsstand)
-HUL Q1 Results: Net Profit Drops 3% To Rs 2,673 Crore, Revenue Down 10% YoY; Price Hike Drag Volumes
+### [Varun Beverages Q1 misses estimates, says Campa isn't hurting growth](https://www.livemint.com/companies/company-results/varun-beverages-q1-misses-estimates-says-campa-isnt-hurting-growth-11785238069615.html)
+The PepsiCo bottler missed June-quarter estimates as margins came under pressure but said its India business continues to grow above 20%, arguing Campa Cola's expansion is broadening the market rather than taking share from Varun.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-28
+
+### [Mr Krutik Prajapati, Manager (Techno Commercial), Vikram Thermo (India)](https://www.expresspharma.in/mr-krutik-prajapati-manager-techno-commercial-vikram-thermo-india-16-jul-2026-chd/)
+Chandigarh Pharma Summit 2026 &#124; 16th July 2026 The post Mr Krutik Prajapati, Manager (Techno Commercial), Vikram Thermo (India) appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-07-28
+
+### [L&T Q1 Results: Profit Rises 14%, Revenue Tops Rs 67,000 Crore But Margin Narrows](https://www.ndtvprofit.com/markets/l-t-q1-results-profit-rises-14-percent-revenue-tops-67-000-crore-but-margin-narrows-11833085#publisher=newsstand)
+L&T Q1 results.
 
 **Source:** NDTV Profit  **Date:** 2026-07-28
 
-### [Senores Pharma Q1 Results: Net profit jumps 56% YoY to Rs 31 crore, revenue up 36% - Business Upturn](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMHUtVFY2XzZ2ZEFGU1hwNkREbkgzazBNaHp1YmpPcG1Fa1RuakhZWXFTSWR1SzRnM3dkOGFfWkRxcmIwMURIeDRhdXhKcjVjRWttQzhNOG9Day1WNzNONFVzdHNOeE5VWmI1WW5Jci1UZklDMlhhY1FzTG1CQjhnRHFhTThHZHRzQ3otY2ZqR3lkeEdwa3UwTUk1QlZ6MFRBZjZUTk45NG9RMTRldE1xdnpFRUY0U2x3c084VWhZOXBSRldHOUpDZlEtcUJ1WTFvakh2M3hNTmstV2V4Vnc?oc=5)
-Senores Pharma Q1 Results: Net profit jumps 56% YoY to Rs 31 crore, revenue up 36% &nbsp;&nbsp; Business Upturn
-
-**Source:** GNews - Pharma Q Results  **Date:** 2026-07-27
-
-### [Suzlon Energy Q1 Results Today: Time, Dividend News, Earnings Call Schedule, Key Things To Watch, Share Price](https://www.ndtvprofit.com/markets/suzlon-energy-q1-results-today-time-dividend-news-earnings-call-schedule-key-things-to-watch-share-price-11827125#publisher=newsstand)
-Suzlon Energy will announce its Q1 FY27 results today
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [Hindustan Unilever Shares Drop Over 5% After Q1 Results](https://www.ndtvprofit.com/markets/hindustan-unilever-shares-drop-over-5-percent-after-q1-results-11830888#publisher=newsstand)
-Hindustan Unilever Reports Lower Than Expected Q1 Profit And Revenue
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [HUL Q1 Results Today: Time, Earnings Call Schedule. Key Things To Watch, Share Price And More](https://www.ndtvprofit.com/markets/hul-q1-results-date-time-dividend-news-earnings-call-schedule-and-more-11826800#publisher=newsstand)
-HUL will announce its Q1FY27 results on July 28
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [BEL, Canara Bank, Lodha Developers, NTPC Green, Go Digit & More: Check HDFC Securities' New Ratings, Target Prices, and Upside Potential](https://www.ndtvprofit.com/markets/q1-results-review-bel-eternal-lodha-developers-sbi-life-ntpc-green-au-sfb-go-digit-ujjivan-sfb-mahindra-lifspaces-v-mart-neogen-route-mobile-by-hdfc-s-11830864#publisher=newsstand)
-HDFC Securities has released its latest Q1 review, reiterating its positive stance on several stocks across sectors, including defence, real estate and more.
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [Tejas Networks Share Price Falls Nearly 4% On Q1 Net Loss Of Rs 202 Crore](https://www.ndtvprofit.com/markets/tejas-networks-share-price-falls-4-after-net-loss-of-rs-202-crore-in-q1-11830838#publisher=newsstand)
-Tejas Networks' shares have been under pressure for over a month now, declining over 20%.
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [R R Kabel Ltd Shares Rally near 8% As Q1 Profit Rises Over 128%](https://www.ndtvprofit.com/markets/r-r-kabel-ltd-shares-rally-near-8-as-q1-profit-rises-over-128-11830749#publisher=newsstand)
-R R Kabel shares jump on margin expansion and record quarterly earnings
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [Q1 Results Live Updates: HUL Misses Estimates; L&T, Varun Beverages, Suzlon Energy Earnings In Focus](https://www.ndtvprofit.com/markets/q1-results-live-updates-hul-l-t-varun-beverages-suzlon-energy-among-firms-to-announce-earnings-today-on-july-28-11830876#publisher=newsstand)
+### [Q1 Results Live Updates: L&T Profit Rises 14%; Suzlon Energy Revenue Up 22%](https://www.ndtvprofit.com/markets/q1-results-live-updates-hul-l-t-varun-beverages-suzlon-energy-among-firms-to-announce-earnings-today-on-july-28-11830876#publisher=newsstand)
 Track Q1 FY27 earnings live as HUL, L&amp;T, Varun Beverages, Suzlon Energy and 70+ firms announce June quarter results, guidance and key updates.
 
 **Source:** NDTV Profit  **Date:** 2026-07-28
 
-### [Stock Market News Today Live Updates: Nifty, Sensex Subdued; HUL Falls After Q1Volume Declines, Profit Misses Estimates](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-impact-fno-expiry-tcs-q1-results-11830382#publisher=newsstand)
-Nifty IT led sectoral gains, rising 2.46%. Nifty FMCG and Nifty Realty advanced 0.55% and 0.53%, respectively. The Nifty India Defence index fell 1.3%, while Nifty Energy declined 0.92%. Nifty PSU Bank dropped 0.44%.
+### [DCM Shriram Q1 Results: Profit Rockets 6X As Revenue Rises; Margin Little Changed](https://www.ndtvprofit.com/markets/dcm-shriram-q1-results-profit-rockets-5x-as-revenue-rises-margin-little-changed-11832910#publisher=newsstand)
+DCM Shriram Q1 results.
 
 **Source:** NDTV Profit  **Date:** 2026-07-28
 
-### [L&T Q1 Results Today: Time, Earnings Call Schedule, What To Watch Out For, Share Price Performance](https://www.ndtvprofit.com/markets/l-t-q1fy27-date-trading-window-earnings-call-and-other-details-11826684#publisher=newsstand)
-Q1 FY27 earnings conference call is scheduled to be held on July 28.
+### [Equitas Small Finance Bank Q1 Results: Lender Swings To Profit As NII Jumps 31%, Provisions Decline](https://www.ndtvprofit.com/markets/equitas-small-finance-bank-q1-results-lender-swings-to-profit-as-nii-jumps-31-provisions-decline-11832349#publisher=newsstand)
+Net interest income rose 30.9% year-on-year to Rs 1,029 crore from Rs 786 crore a year earlier
 
 **Source:** NDTV Profit  **Date:** 2026-07-28
 
-### [Tata Power Shares Decline After Q1 Margin Contracts](https://www.ndtvprofit.com/markets/tata-power-shares-decline-after-q1-profit-rises-11-11830641#publisher=newsstand)
-Tata Power Company Ltd. Share Price Today
+### [Hidden Stress Of Healthcare: When Patients Get Caught Between Hospitals, Insurers](https://www.ndtvprofit.com/personal-finance/opinion-insurance-hidden-stress-of-healthcare-when-patients-get-caught-between-hospitals-insurers-11831866#publisher=newsstand)
+The best healthcare experience is one where patients can focus entirely on treatment and recovery, without being burdened by administrative complexities.
 
 **Source:** NDTV Profit  **Date:** 2026-07-28
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (5)
+## 🤝 Deals, M&A & Partnerships (3)
 
-### [Sensex trades flat, Nifty near 24,000 ahead of US Fed meet; IT pack shines](https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-nifty-near-24000-ahead-of-us-fed-meet-infosys-it-pack-shines/articleshow/132674695.cms)
-Benchmark indices Sensex and Nifty traded largely flat on Tuesday. IT stocks advanced, led by Infosys, while broader markets showed mixed performance. Investors weighed global tech sell-offs against falling oil prices and potential US-Iran deal progress. Attention now turns to the U.S. Federal Reserve meeting which begins later today. Foreign institutional investors sold equities while domestic investors bought shares.
+### [Adani Energy’s Rs 3,500 crore QIP oversubscribed 3.1 times as FIIs, MFs and  Azim Premji firm make bids](https://economictimes.indiatimes.com/markets/stocks/news/adani-energys-rs-3500-crore-qip-oversubscribed-3-1-times-as-fiis-mfs-and-azim-premji-firm-make-bids/articleshow/132679389.cms)
+Adani Energy Solutions' Rs 3,500 crore QIP was oversubscribed 3.1 times, attracting bids worth over Rs 10,800 crore from domestic mutual funds, insurers, foreign investors and Premji Invest. The issue was priced at Rs 1,615 per share, a discount to the SEBI floor price. The proceeds will fund capital expenditure, debt repayment, acquisitions and general corporate purposes.
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [Biodeal Pharmaceuticals concludes successful Piramal Alternatives partnership](https://www.expresspharma.in/biodeal-pharmaceuticals-concludes-successful-piramal-alternatives-partnership/)
-Piramal Alternatives announced the successful conclusion of the investment made by its fund, Piramal Structured Credit Opportunities Fund, in Biodeal Pharmaceuticals, achieving an internal rate of return (IRR) of over [&#8230;] The post Biodeal Pharmaceuticals concludes successful Piramal Alternatives partnership appeared first on Express Pharma .
+### [SK Finance's early backers eye partial stake sale to Kenro Capital in $50-60 million deal](https://www.livemint.com/companies/news/sk-finance-kenro-capital-tpg-capital-11785209314387.html)
+Private equity firms TPG and Norwest are exploring partial liquidity after the Jaipur-based lender put its ₹2,200 crore public issue on hold.
 
-**Source:** Express Pharma  **Date:** 2026-07-27
+**Source:** Mint - Pharma  **Date:** 2026-07-28
 
-### [Analytical Ultracentrifugation (AUC) for Characterization of Lipid Nanoparticles (LNPs): A Comprehensive Review](https://www.expresspharma.in/analytical-ultracentrifugation-auc-for-characterization-of-lipid-nanoparticles-lnps-a-comprehensive-review/)
-&#160; The Application Note highlight the versatility and utility of AUC for the characterization of LNP formulations. AUC can precisely determine the size distribution of LNP formulations in agreement with [&#8230;] The post Analytical Ultracentrifugation (AUC) for Characterization of Lipid Nanoparticles (LNPs): A Comprehensive Review appeared first on Express Pharma .
+### [Shadowfax sees ownership reshuffle as Flipkart cuts stake, ICICI Prudential MF buys more](https://www.livemint.com/companies/shadowfax-sees-ownership-reshuffle-as-flipkart-cuts-stake-icici-prudential-mf-buys-more-11785221842267.html)
+Flipkart sold over 3.37 crore Shadowfax shares through an open market deal, cutting its stake to 1.52%. ICICI Prudential Mutual Fund, meanwhile, raised its holding in the logistics company to 8.56%, stock exchange filings showed.
 
-**Source:** Express Pharma  **Date:** 2026-07-27
-
-### [Immuneel Therapeutics and THSTI announce strategic partnership to  advance CAR-T cell therapy and Lentiviral Vector manufacturing](https://www.expresspharma.in/immuneel-therapeutics-and-thsti-announce-strategic-partnership-to-advance-car-t-cell-therapy-and-lentiviral-vector-manufacturing/)
-Immuneel Therapeutics Private Limited and the BRIC Translational Health Science and Technology Institute (THSTI) have officially entered into a Memorandum of Understanding (MoU), to establish a collaboration to qualify, establish, [&#8230;] The post Immuneel Therapeutics and THSTI announce strategic partnership to advance CAR-T cell therapy and Lentiviral Vector manufacturing appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-07-27
-
-### [Trump Rejects Netanyahu's Objections To Turkey F-35 Deal: 'Nobody Tells Me What To Sell'](https://www.ndtvprofit.com/world/trump-rejects-netanyahu-s-objections-to-turkey-f-35-deal-nobody-tells-me-what-to-sell-11830734#publisher=newsstand)
-Trump defended the NATO ally in blunt terms just a day before he is set to meet Netanyahu.
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
+**Source:** Mint - Pharma  **Date:** 2026-07-28
 
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (2)
 
 ### [Bank of Baroda 1TB data breach linked to compromised employee email](https://www.livemint.com/companies/bank-of-baroda-1tb-data-breach-linked-to-compromised-employee-email-customer-data-leaked-11785160860055.html)
 Branch audit reports, loan appraisal files, vigilance records and customer account-opening forms are among the documents circulating online. The bank said its core banking systems were not accessed and has launched a forensic investigation.
@@ -276,14 +301,22 @@ Nvidia, SpaceX and Microsoft launch an AI safety alliance for open models after 
 
 **Source:** Mint - Pharma  **Date:** 2026-07-27
 
-### [Galderma introduces Sculptra, first proven regenerative biostimulator in India](https://www.expresspharma.in/galderma-introduces-sculptra-first-proven-regenerative-biostimulator-in-india/)
-Galderma, the pure-play dermatology category leader, has announced the launch of Sculptra in India, introducing the first proven regenerative biostimulator. Backed by more than 25 years of clinical evidence globally, [&#8230;] The post Galderma introduces Sculptra, first proven regenerative biostimulator in India appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-07-27
-
 ---
 
-## 📉 Analyst & Brokerage Calls (9)
+## 📉 Analyst & Brokerage Calls (7)
+
+### [Market wrap: TCS, Eternal, HUL, BEL among top gainers and losers on Nifty and Sensex on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-eternal-hul-bel-among-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/132684231.cms)
+Indian equity benchmarks ended marginally lower after surrendering early gains as IT stocks outperformed but weakness in FMCG, power and defence weighed on sentiment. Analysts expect Nifty to remain range-bound, with 24,050 as key resistance and 23,800 as crucial support.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [MFs kept buying these 13 smallcap stocks for 4 straight quarters; shares surged up to 111%](https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-13-smallcap-stocks-for-4-straight-quarters-shares-surged-up-to-111/slideshow/132681828.cms)
+Mutual funds steadily increased stakes in several smallcap stocks over four quarters, with many rewarding investors through strong one-year gains, including 13 stocks delivering returns between 50% and 111%.
+
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
+
+### [SanDisk Selloff Explained: Why investors are moving away from the memory chip giant](https://economictimes.indiatimes.com/markets/stocks/news/sandisk-selloff-explained-why-investors-are-moving-away-from-the-memory-chip-giant/slideshow/132679183.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-07-28
 
 ### [TCS, Infosys, Coforge, other IT stocks rally up to 10% after Nvidia-led chip rout. Is AI trade ending?](https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-coforge-other-it-stocks-rally-up-to-10-after-nvidia-led-chip-rout-is-ai-trade-ending/articleshow/132675510.cms)
 Indian IT stocks rallied on Tuesday, with TCS, Infosys, HCL Tech, Wipro, Coforge and Tech Mahindra gaining despite a global sell-off in AI-linked stocks. Investors tracked the sharp decline in Nvidia, Micron, SanDisk, SK Hynix and Samsung shares for clues on AI sector sentiment.
@@ -300,50 +333,16 @@ Four Nifty 500 stocks, including KFin Technologies and Container Corporation of 
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [CarTrade Tech among 5 stocks closed above VWAP, signalling bullish shift](https://economictimes.indiatimes.com/markets/stocks/news/cartrade-tech-among-5-stocks-closed-above-vwap-signalling-bullish-shift/slideshow/132673993.cms)
-On July 27, five stocks in the Nifty500 pack rallied over 2% above their Volume Weighted Average Price (VWAP), according to StockEdge's technical scan data. A move above the VWAP is considered a bullish technical signal, indicating buying interest and positive market sentiment that could support further upside momentum.
-
-**Source:** Economic Times - Markets  **Date:** 2026-07-28
-
 ### [Bankrupt Aquatic Parks Selling Dolphins Amid Fight With Ex-CEO](https://www.livemint.com/companies/bankrupt-aquatic-parks-selling-dolphins-amid-fight-with-exceo-11785182564510.html)
 US advisers liquidating the Mexican aquatic-theme parks operator The Dolphin Company asked a judge in Delaware for permission to sell some parks, alongside the animals in them, despite an ongoing fight over whether the company’s former chief executive officer was wrongly removed.
 
 **Source:** Mint - Pharma  **Date:** 2026-07-27
 
-### [Lodha Developers plans to raise  ₹9,000 cr by selling Palava land to hyperscalers](https://www.livemint.com/companies/lodha-developers-data-centre-land-sales-palava-hyperscalers-rental-income-growth-11785145340032.html)
-Lodha Developers is eyeing ₹2,000-3,000 crore worth of annual land sales to hyperscalers.
-
-**Source:** Mint - Pharma  **Date:** 2026-07-27
-
-### [Vedanta Aluminium In A 'Sweet Spot', Says ICICI Securities As It Initiates Coverage — Check Target Price, Upside](https://www.ndtvprofit.com/markets/vedanta-aluminium-in-a-sweet-spot-says-icici-securities-as-it-initiates-coverage-check-target-price-upside-11830972#publisher=newsstand)
-ICICI Securities has initiated coverage on Vedanta Aluminiumwith a 'Buy' rating.
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [Polycab, RR Kabel Or KEI? CLSA Says India's Cables Sector Is 'Wired For Growth' — Check Top Picks](https://www.ndtvprofit.com/markets/clsa-starts-coverage-on-polycab-rr-kabel-kei-bets-on-indias-cables-and-wires-boom-11830894#publisher=newsstand)
-CLSA initiated 'Outperform' ratings on Polycab India and RR Kabel, while assigning a 'Hold' rating to KEI Industries, saying the industry's long-term fundamentals remain compelling but valuations differ across companies.
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
-### [Foreign Stake In Top Indian Companies Falls To 16-Year Low; Mutual Funds, Retail Investors Buy More](https://www.ndtvprofit.com/markets/domestic-new-record-foreign-holdings-slide-to-16-year-low-q1-adani-ports-wipro-zee-bharti-airtel-yes-bank-11830482#publisher=newsstand)
-FPI ownership in India's top 75 companies fell to a 16-year low in the June quarter, while domestic investors and mutual funds increased their holdings, Morgan Stanley said.
-
-**Source:** NDTV Profit  **Date:** 2026-07-28
-
 ---
 
 ## 📰 Industry & Policy News (14)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-28-jul-2026/liveblog/132674004.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-28
-
-### [Divis Labs Share Price Live Updates: Divis Labs Sets New Benchmark in Stock Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-28-jul-2026/liveblog/132673880.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-28
-
-### [Cipla Share Price Live Updates: Cipla's 3-Month Performance Review](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-28-jul-2026/liveblog/132673877.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-28
-
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Price Decline Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-28-jul-2026/liveblog/132673772.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-28-jul-2026/liveblog/132674004.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
 ### [ET Alpha Wealth Summit 2.0: Where will the next wave of wealth creation come from?](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-where-will-the-next-wave-of-wealth-creation-come-from/articleshow/132676505.cms)
@@ -351,11 +350,20 @@ The next phase of wealth creation will be shaped by sharper capital allocation, 
 
 **Source:** Economic Times - Markets  **Date:** 2026-07-28
 
-### [Infosys Share Price Live Updates: Sensex trades flat, Nifty near 24,000 ahead of US Fed meet; IT pack shines](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-28-jul-2026/liveblog/132673920.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-28
+### [Rapido takes Ownly food delivery into its main app in Bengaluru](https://www.livemint.com/companies/news/rapido-takes-ownly-food-delivery-into-its-main-app-in-bengaluru-11785231972874.html)
+Rapido has integrated its zero-commission food delivery service, Ownly, into its main app in Bengaluru, allowing users to access food ordering alongside transport options. The company promotes Ownly with a 50% discount on the first order to attract users.
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Trading Insights](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-28-jul-2026/liveblog/132673854.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-07-28
+**Source:** Mint - Pharma  **Date:** 2026-07-28
+
+### [Inflexor Ventures raises  ₹400 crore in first close of  ₹1,250 crore Fund III](https://www.livemint.com/companies/start-ups/inflexor-ventures-fund-iii-first-close-deep-tech-startups-11785226142951.html)
+The fund has begun deploying capital into a set of high-conviction opportunities and expects to announce its first investments in the coming weeks.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-28
+
+### [Samsung considers Galaxy AI subscription amid rising chip and AI costs](https://www.livemint.com/companies/news/samsung-galaxy-ai-subscription-memory-chip-costs-smartphone-ai-pricing-11785213758323.html)
+The smartphone maker is exploring a paid tier for heavy AI users as cloud computing expenses and soaring memory chip prices raise the cost of delivering AI features.
+
+**Source:** Mint - Pharma  **Date:** 2026-07-28
 
 ### [Cult.Fit IPO: can India's gym leader flex its way to sustained profits?](https://www.livemint.com/companies/cultfit-cult-fit-ipo-mukesh-bansal-fitness-industry-gyms-franchise-model-asset-light-gym-memberships-11785206048932.html)
 Cult.Fit has built India's largest organized fitness chain. But as it heads for an IPO, expanding beyond the metros, retaining members and sustaining profitable growth remain key challenges.
@@ -372,24 +380,34 @@ Tata Sons's four new businesses - Air India, Tata Digital, Tata Electronics, and
 
 **Source:** Mint - Pharma  **Date:** 2026-07-27
 
-### [CXMT shares soar 500% in blockbuster stock market debut: What to know about Changxin Technology Group](https://www.livemint.com/companies/news/cmxt-changxin-technology-group-chinese-chip-maker-stock-price-jumps-500-pc-most-valuable-company-status-about-ai-benefit-11785143821729.html)
-Changxin Technology or CXMT is the top manufacturer of DRAM chips in China. Here's all you need to know about the company as it saw stock price jump nearly 500% amid surging demand due to AI.
+### [Mr Abhinav Vikash, Head Engineering, Sun Pharmaceutical Industries](https://www.expresspharma.in/mr-abhinav-vikash-head-engineering-sun-pharmaceutical-industries-16-jul-2026-chd/)
+Chandigarh Pharma Summit 2026 &#124; 16th July 2026 The post Mr Abhinav Vikash, Head Engineering, Sun Pharmaceutical Industries appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-07-27
+**Source:** Express Pharma  **Date:** 2026-07-28
 
-### [Quadria Capital expects Fund III cash returns to reach 1.5x by early 2027](https://www.livemint.com/companies/news/quadria-capital-fund-iii-dpi-healthcare-exits-11785122830331.html)
-Two public listings are set to anchor the healthcare investor's payout push, leveraging strong domestic market liquidity, co-founder and managing partner Amit Varma told Mint.
+### [Panel Discussion: From generic success to innovation leadership What’s next for Indian Pharma](https://www.expresspharma.in/panel-discussion-from-generic-success-to-innovation-leadership-whats-next-for-indian-pharma-16-jul-2026-chd/)
+Chandigarh Pharma Summit 2026 &#124; 16th July 2026 The post Panel Discussion: From generic success to innovation leadership What&#8217;s next for Indian Pharma appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-07-27
+**Source:** Express Pharma  **Date:** 2026-07-28
 
-### [Thai FDA approves NUZOLVENCE just six months after US authorisation](https://www.expresspharma.in/thai-fda-approves-nuzolvence-just-six-months-after-us-authorisation/)
-The GARDP Foundation (known as GARDP) and Dr Reddy&#8217;s Laboratories announced that the Thai Food and Drug Administration (FDA) has approved NUZOLVENCE (zoliflodacin), a first-in-class oral antibiotic for the treatment [&#8230;] The post Thai FDA approves NUZOLVENCE just six months after US authorisation appeared first on Express Pharma .
+### [Panel Discussion: Geopolitics, trade and trust The forces reshaping India Pharma Inc](https://www.expresspharma.in/panel-discussion-geopolitics-trade-and-trust-the-forces-reshaping-india-pharma-inc-16-jul-2026-chd/)
+Chandigarh Pharma Summit 2026 &#124; 16th July 2026 The post Panel Discussion: Geopolitics, trade and trust The forces reshaping India Pharma Inc appeared first on Express Pharma .
 
-**Source:** Express Pharma  **Date:** 2026-07-27
+**Source:** Express Pharma  **Date:** 2026-07-28
 
-### [Divis Laboratories Shares Rise 2% After FY26 Profit Jump - Whalesbook](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY01fV1gwMU5heU1nMjE4M0FZcEtXR0l6M3ZRQXNJU2k4bDVQeU1tR3ZmTjhITGc5a1RFUkl2TS03TXJSRjl4REl6a25iNTlfVVpsVjZHSUlYZWtBM0FqU01BcnBJLTZBenFHWHdYVXhibFd0bEFzX1FleEk1X1djdUdEUk1HTXIwckFSeUYwVDJwanFTWTZQcmxTaTcyUk5Cb2JHWE5fdnFKbE9LZ2pTQV8xOVhUWUswQXo5MW5oWWhNV3g5QXR1U3dQZW1vLVVFM2RTNkMtS1kxeXhEQ2c?oc=5)
-Divis Laboratories Shares Rise 2% After FY26 Profit Jump &nbsp;&nbsp; Whalesbook
+### [Mumbai's Cricket Club Of India Canteen Loses Food License Over Cockroaches, Fungus In Kitchen](https://www.ndtvprofit.com/business/mumbais-cricket-club-of-india-canteen-loses-food-license-over-cockroaches-fungus-in-kitchen-11832752#publisher=newsstand)
+The action was taken following an inspection conducted on July 27 as part of a special food safety drive.
 
-**Source:** GNews - Divi's  **Date:** 2026-07-27
+**Source:** NDTV Profit  **Date:** 2026-07-28
+
+### [Mumbai Food Crackdown: Licenses Of RK, Aparna Juhu Gymkhana, Three Others Suspended](https://www.ndtvprofit.com/india/mumbai-food-crackdown-licenses-of-rk-aparna-juhu-gymkhana-three-others-suspended-11832953#publisher=newsstand)
+Prominent names such as Willingdon Catholic Gymkhana saw their food operator licence suspended.
+
+**Source:** NDTV Profit  **Date:** 2026-07-28
+
+### [WI Vs Pak: Justin Greaves Makes Test History, Becomes First Bowler To Deliver Five Consecutive Wicket-Maidens](https://www.ndtvprofit.com/sports/west-indies-vs-pakistan-justin-greaves-makes-test-history-becomes-first-bowler-to-deliver-five-consecutive-wicket-maidens-11832712#publisher=newsstand)
+Justin Greaves finished with figures of 5/27 in 11 overs with six maidens.
+
+**Source:** NDTV Profit  **Date:** 2026-07-28
 
 ---
