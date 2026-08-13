@@ -1,16 +1,31 @@
 # 🏥 India Pharma Investor Digest — 2026-08-13
 
-> 64 items · 2026-08-13 05:37 UTC
+> 81 items · 2026-08-13 13:06 UTC
 
-## 📊 BSE / NSE Filings (7)
+## 📊 BSE / NSE Filings (16)
 
-### [Amagi Media Labs Ltd: Outcome of Board Meeting for the quarter ended June 30, 2026, held on August 13, 2026](https://www.bseindia.com/corporates/ann.html?scrip=544679)
-BSE Code: 544679
+### [Aurobindo Pharma: Intimation of incorporation of a new wholly owned subsidiary.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f7051f52-4659-4c92-ba16-874aa01e8196.pdf)
+Category: Company Update | Sub: Acquisition | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-08-13
 
-### [Amagi Media Labs Ltd: Outcome of the Board Meeting for the quarter ended June 30, 2026, held on August 13, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=544679)
-BSE Code: 544679
+### [Wockhardt: Outcome of Board Meeting held on 13th August, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/589ded7b-4fa7-48a8-9c2c-cda1e6c901ac.pdf)
+Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 524752
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [FDC Limited: Board Outcome attached herewith](https://www.bseindia.com/xml-data/corpfiling/AttachLive/71d59d66-1a49-43cb-a2b2-5161d23e4b68.pdf)
+Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 524230
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [Glaxosmithkline Pharma: Approval of unaudited standalone and consolidated financial results of the Company for the quarter ended June 30, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/948ac5a0-0a8a-4bbb-b418-cdc0b8209c98.pdf)
+Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [Dr. Reddy's Laboratories: Change in Senior Management Personnel](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e72e7c29-c350-479a-b5ca-0925d70fcaa6.pdf)
+Category: Company Update | Sub: Change in Management | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-08-13
 
@@ -19,10 +34,20 @@ Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 500257
 
 **Source:** BSE Filing  **Date:** 2026-08-12
 
-### [Biocon: We wish to inform the Exchanges regarding allotment of 1,76,529 Equity Shares at its Meeting held on August 12, 2026 pursuant to various ESOP Schemes.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a16a90a3-1a25-4303-93d3-65dde3cecd69.pdf)
-Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 532892
+### [Aurobindo Pharma: Submission of transcript of the earning call on the unaudited financial results for the quarter ended June 30, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/be7ccf73-d1ce-4899-8ded-42578efb6079.pdf)
+Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 524804
 
-**Source:** BSE Filing  **Date:** 2026-08-12
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [IPCA Laboratories: Proceedings of AGM](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3805b8f0-55c7-4838-bb76-df43467cf909.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 524494
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [IPCA Laboratories: Standalone and Consolidated Unaudited Financial Results for Q1FY27](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b71f2c2a-a2eb-4eae-93d8-6e7fe37e73e0.pdf)
+Category: Result | Sub: Financial Results | BSE Code: 524494
+
+**Source:** BSE Filing  **Date:** 2026-08-13
 
 ### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 15 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, please find enclosed the Transcript of Investors/Analysts Conference ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f67cf12c-867f-48d7-8703-7ab136406d7f.pdf)
 Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 500825
@@ -34,19 +59,54 @@ Category: Company Update | Sub: Trading Plan under SEBI (PIT) Regulations, 2015 
 
 **Source:** BSE Filing  **Date:** 2026-08-12
 
-### [Vista Pharmaceuticals Ltd: Vista Pharmaceuticals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/08/2026 ,inter alia, to consider and approve 1. Unaudited financial ....](https://www.bseindia.com/corporates/ann.html?scrip=524711)
-BSE Code: 524711
+### [Wockhardt: Appointment of Mr. Bhupendralal Waghray as an Additional Director (Independent Category) of the company for a period of Five (5) years w.e.f. 13.08.2026 subject to approval of shareholders.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d9b31d9f-762b-4927-abc2-3da87c08bfea.pdf)
+Category: Company Update | Sub: Change in Directorate | BSE Code: 524752
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [Wockhardt: Unaudited Financial Results (Standalone and Consolidated) for the quarter ended 30.06.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6a85cc3a-b4ef-4dc0-946a-11431e53d942.pdf)
+Category: Result | Sub: Financial Results | BSE Code: 524752
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [FDC Limited: Intimation with regardto Fund raising attached herewith](https://www.bseindia.com/xml-data/corpfiling/AttachLive/de1cc802-20ce-4d19-accb-a3c270c1c46c.pdf)
+Category: Company Update | Sub: Raising of Funds | BSE Code: 524230
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [FDC Limited: Results atatched herewith](https://www.bseindia.com/xml-data/corpfiling/AttachLive/32216e38-dcf3-4861-967f-e96f61ebd3e4.pdf)
+Category: Result | Sub: Financial Results | BSE Code: 524230
+
+**Source:** BSE Filing  **Date:** 2026-08-13
+
+### [Sequent Scientific: Environment Clearance](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e8cb7df-0039-4f6f-8535-a23fef5ed61c.pdf)
+Category: Company Update | Sub: General | BSE Code: 590086
 
 **Source:** BSE Filing  **Date:** 2026-08-13
 
 ---
 
-## 💰 Results & Financials (28)
+## 💰 Results & Financials (38)
 
 ### [Apollo Hospitals beats estimates for Q1FY27, net profit up 34%](https://www.livemint.com/companies/apollo-hospitals-beats-estimates-for-q1fy27-net-profit-up-34-11786547873029.html)
 Apollo Hospitals' Q1FY27 net profit rose 34% to ₹581 crore, beating street estimates, as high-complexity specialty volumes and pharmacy growth lifted revenue 21% to ₹7,043 crore.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-08-12
+
+### [Tata Motors PV Q1 Results: Net profit plunges 80% YoY to Rs 775 crore, revenue rises 9%](https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-q1-results-net-profit-plunges-80-yoy-to-rs-775-crore-revenue-rises-9/articleshow/133208589.cms)
+Tata Motors PV Q1 Results: Tata Motors Passenger Vehicles on Thursday reported a consolidated net profit of Rs 775 crore for the April-June quarter of FY27, marking more than 80% year-on-year decline from the Rs 3,924 crore in the same period last year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Solar Industries shares jump 8% to fresh lifetime high after Q1 net profit soars 93% YoY to Rs 653 crore](https://economictimes.indiatimes.com/markets/stocks/news/solar-industries-shares-jump-8-to-fresh-lifetime-high-after-q1-net-profit-soars-93-yoy-to-rs-653-crore/articleshow/133207168.cms)
+Solar Industries shares surged over 8% after the company reported a 93% YoY rise in Q1 FY27 net profit to Rs 652.55 crore and 70% revenue growth. Strong defence, domestic and international explosives businesses, a Rs 21,350 crore order book and Rs 14,000 crore FY27 revenue guidance boosted investor confidence in growth prospects.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Black Box Q1 net profit up 18% to Rs 56 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/black-box-q1-net-profit-up-18-to-rs-56-crore/articleshow/133206234.cms)
+Black Box has announced a remarkable eighteen percent rise in profits for the June quarter, attributed to a solid order book and growth in its Brazilian sector. Revenue from operations surged to Rs 8,986 crore, a significant eighty-three percent increase, achieving a record quarterly revenue of Rs 1,719 crore. Plans are underway for Black Box to recruit three thousand new professionals predominantly in the US by the year 2030.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
 
 ### [Tata Motors shares jump 6% after strong Q1; Nomura upgrades stock, CLSA retains Outperform rating](https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-shares-jump-6-after-strong-q1-nomura-upgrades-stock-clsa-retains-outperform-rating/articleshow/133197624.cms)
 Tata Motors shares jumped after Q1 FY27 net profit surged 83% YoY to Rs 2,560 crore, aided by mark-to-market gains on Tata Capital investments. Revenue rose 19% YoY to Rs 20,667 crore.
@@ -58,13 +118,68 @@ In the first quarter of FY27, Hindustan Aeronautics showcased a robust 15% rise 
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
 
+### [LG Electronics India Q1 Results: PAT rises marginally YoY to Rs 653 crore; revenue up 15%](https://economictimes.indiatimes.com/markets/stocks/earnings/lg-electronics-india-q1-results-pat-rises-marginally-to-rs-653-crore-revenue-up-15/articleshow/133212601.cms)
+LG Electronics India Q1 Results: Household appliances maker LG Electronics India reported a 1.4% year-on-year rise in profit after tax (PAT) at Rs 653 crore for the first quarter of FY27 (Q1FY27), compared with Rs 513 crore reported in the same quarter of the previous fiscal year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Honasa Consumer Q1 Results: Mamaearth parent posts record profit of Rs 90 crore; revenue up 27% YoY](https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q1-results-mamaearth-parent-posts-record-profit-of-rs-90-crore-revenue-up-27-yoy/articleshow/133210743.cms)
+Honasa Consumer, the parent of Mamaearth, reported a record Rs 90 crore consolidated PAT in Q1FY27, up 116.5% YoY. Revenue rose 27% to Rs 756 crore, while EBITDA surged 141% to Rs 110 crore. Strong growth across focus categories, brands and offline channels supported the company’s performance.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [IndiQube Spaces Q1 revenue jumps 37% to record Rs 428 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-spaces-q1-revenue-jumps-37-to-record-rs-428-crore/articleshow/133205891.cms)
+IndiQube Spaces reported record Q1FY27 revenue of ₹428 crore, up 37% year-on-year. EBITDA rose 34%, while PAT surged 91% to ₹35 crore. Area under management and seat capacity expanded, alongside stronger occupancy and rapidly growing value-added services.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Q1 earnings show resilience as demand, cost headwinds prove less severe than expected: ICRA](https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-as-demand-cost-headwinds-prove-less-severe-than-expected-icra/articleshow/133204304.cms)
+ICRA said India Inc’s Q1 FY27 earnings began on a stronger-than-expected note, with revenue growth accelerating to 22%. Despite margin pressure from higher commodity costs and weakness in oil refining and IT services, consumption-led sectors remained resilient. Healthy corporate balance sheets, rising capex and improving credit metrics offer support.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Munjal Auto Industries shares soar 15%, hit 52-week high after Q1 results. What moved the stock?](https://economictimes.indiatimes.com/markets/stocks/news/munjal-auto-industries-shares-soar-15-hit-52-week-high-after-q1-results-what-moved-the-stock/articleshow/133204093.cms)
+Munjal Auto Industries reported a strong Q1 FY27 performance, with consolidated revenue rising sharply and the company turning profitable from a year-ago loss. Both its auto components and composite products segments recorded healthy growth, while a mark-to-market gain on mutual fund investments also supported other income.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [KRN Heat Exchanger shares hit 5% upper circuit as Q1 net profit more than doubles](https://economictimes.indiatimes.com/markets/stocks/news/krn-heat-exchanger-shares-hit-5-upper-circuit-as-q1-net-profit-more-than-doubles/articleshow/133203568.cms)
+Shares of KRN Heat Exchanger and Refrigeration hit a upper circuit on Thursday, following a strong Q1 FY27 earnings performance. The rally was driven by robust demand across both domestic and international markets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
 ### [Lenskart Solutions shares jump 7% after Q1 results; Jefferies, Goldman Sachs, 3 others raise target price](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-shares-jump-7-after-q1-results-jefferies-goldman-sachs-3-others-raise-target-price/articleshow/133197400.cms)
-Lenskart shares rose after Q1 FY27 profit surged 182% YoY to Rs 228 crore, while revenue grew 34% and EBITDA jumped 61%. Margins also improved sharply, with product margin crossing 70%. Jefferies, Morgan Stanley and Goldman Sachs remain positive, citing strong growth, margin expansion and premiumisation, with target prices implying up to 22% upside.
+Lenskart Share Price: Lenskart shares rose after Q1 FY27 profit surged 182% YoY to Rs 228 crore, while revenue grew 34% and EBITDA jumped 61%. Margins also improved sharply, with product margin crossing 70%. Jefferies, Morgan Stanley and Goldman Sachs remain positive, citing strong growth, margin expansion and premiumisation, with target prices implying up to 22% upside.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
 
 ### [Chandra’s Rs 25 lakh crore Tata legacy: Revenue up 71%, PAT 3.6x and a 19x multibagger](https://economictimes.indiatimes.com/markets/stocks/news/chandras-rs-25-lakh-crore-tata-legacy-revenue-up-71-pat-3-6x-and-a-19x-multibagger/articleshow/133196628.cms)
 N Chandrasekaran has significantly boosted Tata's legacy, achieving a remarkable increase in market capitalization totaling Rs 25 lakh crore. Under his leadership, the group's aggregate revenue soared by seventy-one percent, and profit after tax showed impressive growth. Titan and Trent stood out as key wealth creators, while various Tata firms also enjoyed substantial market gains. However, with a leadership transition on the horizon, the group must navigate ongoing business challenges.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Sebi mulls Rs 5 cr securities asset route for accredited investor status for individuals](https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-rs-5-cr-securities-asset-route-for-accredited-investor-status-for-individuals/articleshow/133210632.cms)
+Sebi has proposed an initiative to include securities-market assets as a criterion for accredited investor status. Individuals holding five crore rupees in these assets will be eligible, thereby expanding the investor base for alternative investment funds. The regulator anticipates that approximately 3.7 lakh individuals will meet the revised standards, with investment managers playing a key role in confirming accredited status during the onboarding process.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Earnings growth to play larger role in determining portfolio returns than valuation re-rating: Nilesh Shah](https://economictimes.indiatimes.com/markets/stocks/news/earnings-growth-to-play-larger-role-in-determining-portfolio-returns-than-valuation-re-rating-nilesh-shah/articleshow/133211910.cms)
+Earnings growth is likely to play a larger role in determining portfolio returns than valuation re-rating in the near term, as valuations of Indian equities remain neither cheap nor expensive, according to Nilesh Shah, Managing Director, Kotak Mahindra Asset Management Company.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Shriram Properties Q1 profit down 46% to Rs 11 cr](https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-properties-q1-profit-down-46-to-rs-11-cr/articleshow/133205651.cms)
+Shriram Properties faced a significant profit decrease of forty-six percent in the June quarter, largely affected by rising operational expenses and taxes. Nevertheless, the company recorded a slight increase in total income to Rs 271.04 crore and experienced a ten percent rise in sales bookings to Rs 484 crore. Their project pipeline remains strong, extending through various cities in India.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [UBS upgrades MCX to Buy with Rs 3,800 target price: Can it boost the stock?](https://economictimes.indiatimes.com/markets/stocks/news/ubs-upgrades-mcx-rating-to-buy-with-rs-3800-target-price-can-it-boost-the-stock/articleshow/133203886.cms)
+UBS upgraded MCX to Buy from Neutral and raised its target price to Rs 3,800, citing attractive valuations, resilient trading volumes and positive regulatory developments. The brokerage also raised its FY27-FY29 EPS estimates by 4%-9%, while expecting strong commodity volatility and operating leverage to support earnings growth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Paytm management gets Sebi show cause notice over timing of 2023 loan disclosure announcement](https://economictimes.indiatimes.com/markets/stocks/news/paytm-management-gets-sebi-show-cause-notice-over-timing-of-2023-loan-disclosure-announcement/articleshow/133200481.cms)
+Paytm management has received a Sebi show-cause notice over the timing and classification of information disclosed in a December 2023 corporate announcement. The company said its key managerial personnel are evaluating the notice and will respond within 14 days. The development comes after Paytm reported strong Q1 FY27 earnings and Bernstein raised its target.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
 
@@ -103,33 +218,43 @@ Despite taking a blended 4-4.5% price hike in the June quarter, the company's op
 
 **Source:** Mint - Pharma  **Date:** 2026-08-12
 
-### [LG Electronics India Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price](https://www.ndtvprofit.com/markets/lg-electronics-india-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11900502#publisher=newsstand)
-LG Electronics India Q1 Results 2026: Check the results date, time, earnings call, key metrics, dividend update and factors to watch.
+### [IPCA Labs Q1FY27 consolidated net profit rises 72% to ₹4,019 crore - scanx.trade](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZUxDcDJBTkJ6dDBVMTJYMzllRzJfTEI0ZzRYZFkwMEVmOEpQekx2M29JOXN1Y0pBMW4wQ09FRkFsaExOblZfQlBPck9EM3ZTc1lLUm1LeXlsU1B5TWFkcG5iZzgtbzk3eFhlTlpOWmNEM3hRNVdQQnNpODF2ZkV1cmdEblVGN0JMdDJVSUJBVjRUajktc1Uwc1B1dnBzSUx2ZTg5X05KODVWR1ltYTRlaw?oc=5)
+IPCA Labs Q1FY27 consolidated net profit rises 72% to ₹4,019 crore &nbsp;&nbsp; scanx.trade
+
+**Source:** GNews - IPCA Labs  **Date:** 2026-08-13
+
+### [Ipca Labs shares rise up to 8% after Q1 results — Net profit rises 72.5%, EBITDA up 60.8% - CNBC TV18](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzZTeWV1WGlxNVIzYzdoYjZzWmpzMEFLbGE0VGhzSTNlU0RIRTFFTGNvaTVyb0ZIejhwNlhnNTUwRTMzWnpsdklQNnF0UDJtTVkxUWR4TUswZ244cHdramdOVS0tR1NSWVJWM2MzU3pQcXJVWFpXUGt0ZWItVjFwNEVyRWMweGFNTXVpNld0RXFFR1pGWGY4ZUpfM2lqUVVCbl85Y09hckJpUFZsaEJkMTFsTXTSAbQBQVVfeXFMTUM2U3lldVhpcTVSM2M3aGI2c1pqczBBS2xhNFRoc0kzZVNESEUxRUxjb2k1cm9GSHo4cDZYZzU1MEUzM1p6bHZJUDZxdFAybU1ZMVFkeE1LMGduOHB3a2pnTlUtLUdTUllSVjNjM1N6UHFyVVhaV1BrdGViLVYxcDRFckVjMHhhTU11aTZXdEVxRUdaRlhmOGVKXzNpalFVQm5fOWNPYXJCaVBWbGhCZDExbE10?oc=5)
+Ipca Labs shares rise up to 8% after Q1 results — Net profit rises 72.5%, EBITDA up 60.8% &nbsp;&nbsp; CNBC TV18
+
+**Source:** GNews - IPCA Labs  **Date:** 2026-08-13
+
+### [Ipca Laboratories: Q1 FY27 Net Profit Surges 42% to ₹373.29 Cr - InvestyWise](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEh5Z0VaRnhsMG5EVkVwNXFldWFBWkRzRDZieTB2Rk9lLXJQTDViNGlDSE93clNDVkRVSkg2THlXcUxiczRHaHRtSzMxbUVnWjBQcnN5RUpJc1M3ejg1bDM2VG9VdDBCWDh0MnRYcWVoZHZmOEw3MmEwWkxtVnh1d1luOFhTR0xQbnc?oc=5)
+Ipca Laboratories: Q1 FY27 Net Profit Surges 42% to ₹373.29 Cr &nbsp;&nbsp; InvestyWise
+
+**Source:** GNews - IPCA Labs  **Date:** 2026-08-13
+
+### [Ipca Laboratories Q1 FY27 Results: Net Profit Jumps 72.5% to ₹402 Crore, EBITDA Surges 61% as Margin Expands to 24% - Business Upturn](https://news.google.com/rss/articles/CBMiigJBVV95cUxNMUFEeVVRVVNCUjd1a0o4WnZIQUR0NXQ2eEY0UXRlN1ZDU1FUSkd3UTI5NHNtdmtGbXUwXzg1MUNiVUcxRzRtSEtxcnhXNDdCbFRvZFlCdHRQa0ZJMEcxeWlGODZJMWE4eWhVdG5wSkxscHFTSHlFQVBoMktldmxOZ3lZRTZDb0hhT3VlUmNEUTVJVWt2d2lsZXd6ekdHNVpNMmJXWllkQkVFeU9zUVozU3EybGI5OEVBbGIxWHFocXB4WDBHQ1l6dUhKcGczVGZnZTB1QktLTTNWVjFpZWtLRy1OS1J1V2p4am1CWXJXV0ZENUx1QVpkMFlNeG5NSmFXd0pnWi03ZXdpUQ?oc=5)
+Ipca Laboratories Q1 FY27 Results: Net Profit Jumps 72.5% to ₹402 Crore, EBITDA Surges 61% as Margin Expands to 24% &nbsp;&nbsp; Business Upturn
+
+**Source:** GNews - IPCA Labs  **Date:** 2026-08-13
+
+### [Tata Motors PV Q1 Results: Profit Slumps 80% Even As Revenue Rises To Nearly Rs 96,000 Crore](https://www.ndtvprofit.com/markets/tata-motors-pv-q1-results-profit-slumps-80-even-as-revenue-rises-to-nearly-rs-96-000-crore-11904809#publisher=newsstand)
+Tata Motors' Q1FY27 revenue was up 9.3% to Rs 95,799 crore.
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
-### [India’s pharma exports rise 6.8% to $8.1 billion in Q1 FY27](https://www.expresspharma.in/indias-pharma-exports-rise-6-8-to-8-1-billion-in-q1-fy27/)
-Pharmexcil data shows growth across formulations, bulk drugs, vaccines and surgical products, with the US remaining the largest export destination The post India’s pharma exports rise 6.8% to $8.1 billion in Q1 FY27 appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-08-12
-
-### [Birla Opus Strengthens Footing In Paints Sector: Can It Affect Asian Paints? Brokerages Weigh In](https://www.ndtvprofit.com/markets/birla-opus-strengthens-footing-in-paints-sector-can-it-affect-asian-paints-macquarie-morgan-stanley-weigh-in-11902907#publisher=newsstand)
-Birla Opus Q1 revenue grew 64% YoY to Rs 1,661 crore.
+### [Honasa Consumer Q1 Results: Mamaearth Parent Posts Over 2x Jump In Profit; Margin Expands Sharply](https://www.ndtvprofit.com/markets/honasa-consumer-q1-results-mamaearth-parent-posts-over-2x-jump-in-profit-margin-expands-sharply-11904694#publisher=newsstand)
+Honasa Consumer's revenue rose 27% to Rs 756 crore for the quarter ended on June 30 from Rs 595 crore in the quarter previous year.
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
-### [Q1 Results Live: Tata Motors PV, LG Electronics India, Max Healthcare, Jubilant FoodWorks, IGL, Honasa Consumer Earnings In Focus](https://www.ndtvprofit.com/markets/q1-results-live-updates-tata-motors-pv-lg-electronics-india-max-healthcare-jubilant-foodworks-igl-among-500-companies-to-announce-earnings-today-11903153#publisher=newsstand)
-Q1 results today LIVE.
+### [Solar Industries Q1 Results: Profit Jumps 93%, Margin Expands; Shares Hit Record High](https://www.ndtvprofit.com/markets/solar-industries-q1-results-profit-jumps-93-margin-expands-11904483#publisher=newsstand)
+Solar Industries' revenue saw a 70.3% increase to Rs 3,668 crore.
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
-### [Brokerages Divided Over Apollo Hospitals Q1 Earnings; Citi, MS Impressed, Macquarie Sees Downside—Here's Why](https://www.ndtvprofit.com/markets/brokerages-divided-over-apollo-hospitals-q1-earnings-citi-morgan-stanley-impressed-macquarie-sees-downside-heres-why-11902991#publisher=newsstand)
-Apollo Hospitals Enterprise Q1 Result Review: Morgan Stanley maintains its 'overweight' rating with target price of Rs 9,397
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [Q1 Results: Tata Motors PV, Solar Industries, LG Electronics, Max Healthcare, General Insurance, Page Industries, others to declare earnings on August 13 - Dailyhunt](https://news.google.com/rss/articles/CBMiywJBVV95cUxOY3JFNXlzcWRYV0FsR2NpOHNfUTNhWmZLazFBc3JhOHNpcGRubUR0aGgzTWJjcnlRYmVwRVlLT3RCR2dsbFZjZVNKaFAxZzNTQWNxOWVfbHhraVhLNlcwakNjaWl2NGo1dUpXX1NJNnBzVVFWWFE1N0x1NHpsYnMtaXNWQjJocFFsamVHUllZYUE2SjduS1ZUdFNZSTVkYlNKQWFSRU1ZV01lekctV2d5TzVYdFUtcUxybk11YUtNdkRfa0ZxQlEyTVRnWWpHMjBoLUJyME5EWEU3aHJjYlFvdnBFUTN0cWREYW9jLVpoak5pVUFOdW5HZFk1WEdaTV9YZndabUtQdm01Nkp3TzNTQmh1S2F2cGJRWUp1QWs4NjBIMDY1YnU0YTZFZmd2NEF5ZEV4bHFqTnhidU1mQ1BxTVhIbnpYcWx4NkpJ?oc=5)
-Q1 Results: Tata Motors PV, Solar Industries, LG Electronics, Max Healthcare, General Insurance, Page Industries, others to declare earnings on August 13 &nbsp;&nbsp; Dailyhunt
+### [Kirloskar Electric Q1 results: Company slips into Rs 5.99 crore loss as revenue falls 21.5% YoY - Business Upturn](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR3pHeU1JNXFLaUhEM29pLWNWMXAySktVSVIxa3Q3WmtON19hUXNueFlpLVIwZExmWTUyM2VDMllxLWYzaUVza2RwcUVrWFl5RjJiTkJLLVpOWWxBR0RkbG51VjFHSDdOSG54cE0zRno2T1NXMU13NFBTN3hTYlpURGNKMUM4Slh6N1Y0R0ZrTHFsTGdzbHdISktDVVJLT2lldmg2UGF1TS1LZEVBb2I1SlZMZUhTY3hadEo4Y1EyakV1VXB3dU90ZmZsRFNFckZkbTVSenptRmxFMi1PNWpCcVh6QWg0SFJMdjVfcEg2VGxRQQ?oc=5)
+Kirloskar Electric Q1 results: Company slips into Rs 5.99 crore loss as revenue falls 21.5% YoY &nbsp;&nbsp; Business Upturn
 
 **Source:** GNews - IPCA Labs  **Date:** 2026-08-13
 
@@ -138,38 +263,8 @@ Top Q1 results today, August 13: Tata Motors PV, Jubilant FoodWorks, IGL, Godrej
 
 **Source:** GNews - IPCA Labs  **Date:** 2026-08-13
 
-### [Grasim Q1 Beats Estimates As Birla Opus Losses Narrow; Motilal Oswal Stays Bullish — Check Target Price](https://www.ndtvprofit.com/markets/grasim-q1-beats-estimates-as-birla-opus-losses-narrow-motilal-oswal-stays-bullish-check-target-price-11903190#publisher=newsstand)
-Grasim's Q1 FY27 operating performance was above Motilal Oswal's estimates, driven by lower-than-estimated losses in paint business as it benefitted from lower-cost inventory and lower ad expenses
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [IRCTC Stock Falls 2% After Mixed Q1 Results And Market Pressure](https://www.ndtvprofit.com/markets/irctc-stock-falls-2-percent-after-mixed-q1-results-and-market-pressure-11903181#publisher=newsstand)
-Picture used for representational purpose only.
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [RVNL Stock Falls Marginally Despite 18% Profit Growth](https://www.ndtvprofit.com/markets/rvnl-stock-falls-marginally-despite-18-profit-growth-11903096#publisher=newsstand)
-RNVL stocks slip despite Q1 profit surge
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [Grasim Industries Shares Fall Nearly 3% Even After Q1 Profit Swings to Rs 247 Crore](https://www.ndtvprofit.com/markets/grasim-industries-shares-fall-nearly-3-even-after-q1-profit-swings-to-rs-247-crore-11903030#publisher=newsstand)
-Grasim stocks slip despite Q1 profit surge
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [Lenskart Shares Surge 7% After Q1 Profit Nearly Triples](https://www.ndtvprofit.com/markets/lenskart-shares-rise-after-270-percent-rise-in-net-profit-with-strong-revenue-growth-in-q1fy27-11903073#publisher=newsstand)
-Following the strong Q1 FY27 financial results, Lenskart shares rose up to 7 percent, trading at Rs 609.65 after opening 3.16 percent higher.
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [Tata Motors Share Price Climbs Over 6% On Strong Q1 Results, Nomura Upgrade](https://www.ndtvprofit.com/markets/q1-impact-tata-motors-share-price-climbs-over-6-percent-on-strong-earnings-nomura-upgrade-11903093#publisher=newsstand)
-Traders react positively to TMCV earnings.
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
-### [Astral Q1 Review: Profit Surges 52%; IDBI Capital Maintains 'Buy' — Check Target Price](https://www.ndtvprofit.com/markets/astral-q1-review-profit-surges-52-percent-idbi-capital-maintains-buy-check-target-price-11903083#publisher=newsstand)
-Astral's Q1 result was in-line with the brokerage's estimate on net salesfront, while margins disappointed.
+### [Q1 Results Live: Tata Motors PV Proift Tumbles 80%, Honasa Consumer Bottomline Doubles](https://www.ndtvprofit.com/markets/q1-results-live-updates-tata-motors-pv-lg-electronics-india-max-healthcare-jubilant-foodworks-igl-among-500-companies-to-announce-earnings-today-11903153#publisher=newsstand)
+Q1 results today LIVE.
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
@@ -185,7 +280,7 @@ Stocks to Watch: Solar Industries, LG, Tata Motors PV and 7 Other Stocks Announc
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (5)
+## 🤝 Deals, M&A & Partnerships (4)
 
 ### [Aditya Birla Group’s Pilani Investment to sell UltraTech stake worth  ₹1,909 crore](https://www.livemint.com/companies/news/aditya-birla-group-s-pilani-investment-to-sell-ultratech-stake-worth-1-909-crore-11786541315770.html)
 The block deal comes as investors step up secondary-market exits, while UltraTech enters FY27 with strong demand and double-digit volume growth.
@@ -197,20 +292,15 @@ Jio Financial Services shares: Bank of America agreed to acquire up to 49.9% in 
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
 
+### [Infra.Market eyes backdoor market entry via Shalimar Paints share swap deal](https://www.livemint.com/companies/news/inframarket-eyes-backdoor-market-entry-via-shalimar-paints-share-swap-deal-11786614791135.html)
+The proposed deal could give Hella Infra shareholders more than 77% of Shalimar Paints, while offering an alternative to the building materials platform’s planned ₹5,000 crore IPO
+
+**Source:** Mint - Pharma  **Date:** 2026-08-13
+
 ### [Chandra's tenure a tale of two halves for the Tata Group](https://www.livemint.com/companies/news/chandrasekharan-tenure-resignation-tata-group-11786540259805.html)
 Chandrasekaran’s tenure delivered a strong first term, but a tougher second term saw listed-company growth slow and losses at new businesses mount.
 
 **Source:** Mint - Pharma  **Date:** 2026-08-12
-
-### [N Chandrasekaran resigns as Tata Sons chairman: What triggered his exit, how much he earned — all you need to know](https://www.livemint.com/companies/news/n-chandrasekaran-resigns-as-tata-sons-chairman-what-triggered-his-exit-how-much-he-earned-all-you-need-to-know-11786520736347.html)
-N Chandrasekaran has decided not to seek another term as Tata Sons chairman after his proposed five-year extension failed to receive unanimous board support. He will remain in the post until February 2027.
-
-**Source:** Mint - Pharma  **Date:** 2026-08-12
-
-### [Jio Financial Services Share Rises 3% After BofA Pumps In Rs 18,268 Crore For 49.9% Stake](https://www.ndtvprofit.com/markets/jio-financial-services-share-rises-3-percent-after-bofa-pumps-in-rs-18-268-crore-for-49-9-percent-stake-11903055#publisher=newsstand)
-BofA and Jio Fin Deal
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
 
 ---
 
@@ -223,28 +313,43 @@ As investors navigate Dalal Street, there’s a growing sentiment that large-cap
 
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (2)
+
+### [Jubilant FoodWorks profit rises as Domino's sales growth picks up](https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-foodworks-profit-rises-as-dominos-sales-growth-picks-up/articleshow/133206787.cms)
+Jubilant FoodWorks posted a higher first-quarter profit on Thursday. This increase was aided by steady growth at Domino's India. The company also saw continued store expansion during the period. Profit rose about six percent year-on-year for the quarter. This marks a significant financial performance for the business.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
 
 ### [Mirae Asset launches second early-growth fund; marks first close at  ₹1,125 crore](https://www.livemint.com/companies/mirae-asset-venture-investments-india-mavi-india-mirae-asset-venture-capital-startups-early-stage-startups-11786587685090.html)
 Mirae Asset Venture Investments India is raising ₹1,800 crore for its second fund, targeting Series B-D companies and betting on technology, AI, advanced manufacturing and deeptech.
 
 **Source:** Mint - Pharma  **Date:** 2026-08-13
 
-### [Yulu raises funds $93 million round of equity and debt for expansion, new business](https://www.livemint.com/companies/yulu-funding-2026-electric-vehicle-startup-11786503231654.html)
-Venture capital and private equity firms have become increasingly bullish on India's energy transition market, ranging from electric vehicles to energy storage solutions.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-08-12
-
-### [Water Level In Mumbai Lakes Cross 90% Again After Heavy Rain; IMD Forecasts More Showers This Week](https://www.ndtvprofit.com/india/mumbai-s-water-supplying-lakes-cross-90-mark-again-after-heavy-rain-imd-forecasts-more-showers-this-week-11903012#publisher=newsstand)
-Mumbai's seven key lakes cross 90% capacity
-
-**Source:** NDTV Profit  **Date:** 2026-08-13
-
 ---
 
-## 📉 Analyst & Brokerage Calls (7)
+## 📉 Analyst & Brokerage Calls (10)
 
-### [IPO GMP Today Live Updates: Dhoot Transmission, Milky Mist, Shiprocket &amp; Behari Lal IPOs in focus; Check GMP, Subscription, Analyst Views. Should You Subscribe?](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-shiprocket-milky-mist-dairy-food-behari-lal-ipo-gmp-price-band-nse-bse-listing-date/liveblog/133197088.cms)
+### [Thyrocare shares crack 8% as promoter Docon Technologies sells 10% stake](https://economictimes.indiatimes.com/markets/stocks/news/thyrocare-shares-crack-8-as-promoter-docon-technologies-sells-10-stake/articleshow/133204744.cms)
+Thyrocare Technologies shares fell after promoter Docon Technologies sold around 1.58 crore shares, cutting its stake from 60.92% to 51.02%. Docon remains the diagnostics company’s promoter and holding company.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Who is Noel Tata and why is Tata Trusts Chairman’s role in focus after N Chandrasekaran's exit?](https://www.livemint.com/companies/people/who-is-noel-tata-and-why-is-tata-trusts-chairman-s-role-in-focus-after-n-chandrasekarans-exit-11786599167826.html)
+Noel Tata succeeded his half-brother Ratan Tata as the chairman of the Tata Trusts, which holds a 66% stake in Tata Sons, the parent company of the Tata Group. In the February 2026 board meeting, Noel Tata opposed the move to extend Chandrasekaran's tenure as Tata Sons chairman.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-13
+
+### [Which Tata stocks look attractive now? Jefferies picks 4; flags TCS and 2 others](https://economictimes.indiatimes.com/markets/stocks/news/which-tata-stocks-look-attractive-now-jefferies-picks-4-and-flags-tcs-and-2-others/articleshow/133199628.cms)
+Jefferies believes Tata group stocks should remain driven by business fundamentals despite N Chandrasekaran’s planned exit as Tata Sons chairman in February 2027. The brokerage’s top picks are Tata Consumer Products, Tata Steel, Indian Hotels and Voltas.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [CAS chaos continues: Sensex rises 114 points, but Nifty closes below 24,400. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-150-points-nifty-below-24350-even-as-oil-prices-slightly-ease-what-lies-ahead/articleshow/133197185.cms)
+Indian benchmark indices ended mixed on expiry day, with the Sensex gaining 114 points while the Nifty slipped over 40 points. Broader markets advanced, while metal stocks declined and FMCG and realty gained. Analysts said softer inflation supported sentiment, but elevated crude prices and geopolitical risks remained key market overhangs.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [IPO GMP Today Live Updates: Dhoot Transmission, Milky Mist, Shiprocket &amp; Behari Lal in Focus; Check GMP, Subscription &amp; Analyst Views](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-shiprocket-milky-mist-dairy-food-behari-lal-ipo-gmp-price-band-nse-bse-listing-date/liveblog/133197088.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
 
 ### [Nalco among 5 stocks flashing bullish signals, hinting at a possible uptrend](https://economictimes.indiatimes.com/markets/stocks/news/nalco-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133196791.cms)
@@ -267,70 +372,62 @@ Tata Trusts owns about 66% of Tata Sons, the holding company that oversees more 
 
 **Source:** Mint - Pharma  **Date:** 2026-08-12
 
-### [Leading Tata Sons has been a great honour, N Chandrasekaran says as he steps down as Chairman - read full statement](https://www.livemint.com/companies/people/leading-tata-sons-has-been-a-great-honour-n-chandrasekaran-says-as-he-steps-down-as-chairman-ahead-of-agm-11786515419651.html)
-After a decade as Chairman of Tata Sons, Natarajan Chandrasekaran resigns six months early, citing the need for clear leadership amid ongoing challenges. He expressed gratitude to stakeholders and urged the Board to finalize succession plans to ensure a smooth transition beyond his tenure.
+### [Shiprocket IPO GMP Holds Steady As Issue Subscription Nears 3x On Day 2](https://www.ndtvprofit.com/markets/shiprocket-ipo-gmp-what-grey-market-premium-signals-on-day-2-of-subscription-11901093#publisher=newsstand)
+Shiprocket IPO GMP today: Check the latest grey market premium, Day 2 subscription status, price band, allotment date and listing schedule.
 
-**Source:** Mint - Pharma  **Date:** 2026-08-12
-
-### [N Chandrasekaran: The Tata Sons chairman at the centre of latest leadership shake-up](https://www.livemint.com/companies/news/n-chandrasekaran-the-tata-sons-chairman-at-the-centre-of-the-latest-leadership-shakeup-11786513403065.html)
-N Chandrasekaran resigned as chairman of Tata Sons today, saying he will complete his current term without seeking reappointment. His departure is linked to shareholder tensions. Read more about his professional and educational journey here.
-
-**Source:** Mint - Pharma  **Date:** 2026-08-12
+**Source:** NDTV Profit  **Date:** 2026-08-13
 
 ---
 
-## 📰 Industry & Policy News (13)
+## 📰 Industry & Policy News (10)
 
-### [Zee Entertainment seeks Sebi relief to unlock  ₹1,200 crore mutual fund investments](https://www.livemint.com/companies/news/zee-entertainment-seeks-sebi-relief-to-unlock-1-200-crore-mutual-fund-investments-11786532595193.html)
-Zee’s counsel said the funds are needed for day-to-day operations, while Sebi defended the market-access ban over alleged promoter-linked violations
-
-**Source:** Mint - Pharma  **Date:** 2026-08-12
-
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Current Price Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-13-aug-2026/liveblog/133196589.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-13
-
-### [Sun Pharma Share Price Live Updates: Sun Pharma Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-13-aug-2026/liveblog/133196580.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-13
-
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Market Position](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-13-aug-2026/liveblog/133196552.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-13
-
-### [Cipla Share Price Live Updates: Cipla Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-13-aug-2026/liveblog/133196313.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-13
-
-### [Divis Labs Share Price Live Updates: Divis Labs' six-month beta reflects stability](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-updates-13-aug-2026/liveblog/133196221.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-13
-
-### [Sensex falls over 200 points, Nifty below 24,350 as expiry volatility looms. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-150-points-nifty-below-24350-even-as-oil-prices-slightly-ease-what-lies-ahead/articleshow/133197185.cms)
-Indian equities extended losses on Thursday, with Sensex falling over 150 points and Nifty declining over 95 points amid expiry-day volatility. Bajaj Finance and IndiGo led gains, while M&amp;M and Kotak Mahindra Bank slipped. Broader markets remained mixed, with auto and financial stocks gaining, while IT, metal, pharma and FMCG indices declined.
+### [Lenskart Solutions among 7 stocks hitting 52-week highs; surge up to 20% in a month](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-among-7-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133210592.cms)
+Seven BSE 200 stocks hit fresh 52-week highs as the Sensex gained 113 points. Paytm led with a 19% monthly rise, followed by Bosch, Lenskart Solutions, Aurobindo Pharma, Pidilite, Solar Industries India and Zydus Lifesciences.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-13-aug-2026/liveblog/133196106.cms)
+### [8 midcap stocks surged up to 125% in a year; 4 became multibaggers. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-surged-up-to-125-in-a-year-4-became-multibaggers-do-you-own-any/slideshow/133203456.cms)
+While the Nifty 50 stayed nearly flat, midcaps delivered strong gains, with 14 stocks rising 50% or more and several doubling investor wealth over the past year.
+
 **Source:** Economic Times - Markets  **Date:** 2026-08-13
+
+### [Gaja Capital heads to IPO amid rising investor demand for transparency](https://www.livemint.com/companies/news/gaja-capital-heads-to-ipo-amid-rising-investor-demand-for-transparency-11786610496305.html)
+The alternative asset manager’s stock-market debut comes as limited partners demand greater transparency on governance, succession and decision-making.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-13
+
+### [Lightspeed-backed Centricity raises  ₹280 crore led by SMBC Asia Rising Fund](https://www.livemint.com/companies/news/centricity-raises-rs-280-crore-series-a-smbc-wealth-management-11786596239685.html)
+The three-year-old wealthtech platform, which manages over ₹15,000 crore in AUM, plans to use the capital to scale its B2B2C distribution platform and expand its global NRI wealth business.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-13
+
+### [Consumer startups make a dash for funding as investor interest grows](https://www.livemint.com/companies/start-ups/the-souled-store-haus-kinder-nat-habit-fundraising-consumer-startups-11786589183607.html)
+M&amp;amp;As, IPO exits boost investor interest in consumer startups.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-13
 
 ### [World Spinach Capital Misses Debt Payments Due to Severe Flood](https://www.livemint.com/companies/world-spinach-capital-misses-debt-payments-due-to-severe-flood-11786560101436.html)
 Crystal City, a small Texas town known as the spinach capital of the world, has missed debt service payments due at the start of August after severe flooding added to ongoing financial strains.
 
 **Source:** Mint - Pharma  **Date:** 2026-08-12
 
-### [Inside Shilpa Medicare’s growth strategy: Quality, digital and global ambitions](https://www.expresspharma.in/inside-shilpa-medicares-growth-strategy-quality-digital-and-global-ambitions/)
-Dr Vellaian Karuppiah, COO-Management, Shilpa Medicare shares his vision for building a future-ready organisation powered by quality, digital transformation, and operational excellence. In this conversation, he discusses leadership, biosimilars, global markets, and what it takes to earn lasting regulatory trust, in an exclusive interaction with Lakshmipriya Nair The post Inside Shilpa Medicare&#8217;s growth strategy: Quality, digital and global ambitions appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-08-12
-
-### [Multibagger Stock In Focus: HFCL Share Price Jumps 4% To Hit 52-Week High; Extends Rally To Fifth Session](https://www.ndtvprofit.com/markets/multibagger-stock-in-focus-hfcl-share-price-jumps-4-to-hit-52-week-high-extends-rally-to-fifth-session-11903140#publisher=newsstand)
-HFCL share price has rallied more than 13% in five sessions.
+### [Shiprocket vs Milky Mist vs Behari Lal Engineering IPO GMP — Which IPO Offers Better Listing Gains?](https://www.ndtvprofit.com/markets/shiprocket-vs-milky-mist-vs-behari-lal-engineering-ipo-gmp-which-ipo-offers-better-listing-gains-11899889#publisher=newsstand)
+all three IPOs will close for subscription this week
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
-### [Stock Market Live Updates: Sensex Down 170 Points, Nifty50 Near 24,350; TMCV, Ashok Leyland Rally 4% Each](https://www.ndtvprofit.com/markets/stock-market-live-updates-august-13-gift-nifty-sensex-today-nifty-kospi-nikkei-brent-crude-us-iran-war-msci-rejig-q1-results-tmpv-11902704#publisher=newsstand)
-Stock Market Live Blog, August 13, 2026
+### [Behari Lal Engineering IPO GMP Signals Over 27% Listing Gain; Issue Subscribed Over 7x On Day 2](https://www.ndtvprofit.com/markets/behari-lal-engineering-ipo-gmp-what-grey-market-premium-signals-on-day-2-of-subscription-11901116#publisher=newsstand)
+Behari Lal Engineering's Rs 301.62 crore IPO was fully subscribed on Day 1, with a grey market premium indicating a potential 26% listing gain.
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
-### [RIL Share Price Tumbles 2% As MSCI Rejig Triggers $523 Million Outflow](https://www.ndtvprofit.com/markets/ril-share-price-tumbles-2-percent-as-msci-rejig-triggers-523-million-dollar-outflow-11903118#publisher=newsstand)
-RIL Shares Fall
+### [AI For Lifesaving SOS: Google's Pixel Watch 5 Senses Severe Oxygen Drop, Automatically Calls For Help](https://www.ndtvprofit.com/technology/ai-for-lifesaving-sos-google-s-pixel-watch-5-senses-severe-oxygen-drop-and-automatically-calls-for-help-11904545#publisher=newsstand)
+The feature uses Google's Health foundational models to identify subtle changes.
+
+**Source:** NDTV Profit  **Date:** 2026-08-13
+
+### [Milky Mist IPO GMP Rises On Final Day; Issue Subscribed Over 55 Times](https://www.ndtvprofit.com/markets/milky-mist-ipo-gmp-what-grey-market-premium-signals-on-final-subscription-day-11900381#publisher=newsstand)
+Milky Mist IPO Day 3 subscription will close soon with investors tracking its latest grey market premium and subscription figures, offering early cues on demand and potential listing gains.
 
 **Source:** NDTV Profit  **Date:** 2026-08-13
 
