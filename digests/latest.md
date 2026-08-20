@@ -1,18 +1,33 @@
 # 🏥 India Pharma Investor Digest — 2026-08-20
 
-> 65 items · 2026-08-20 04:33 UTC
+> 67 items · 2026-08-20 12:42 UTC
 
-## 📊 BSE / NSE Filings (8)
+## 📊 BSE / NSE Filings (12)
 
 ### [Natco Pharma: Un-Audited Limited Reviewed Financial Results for Quarter Ended on June 30, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c3a0023f-b6d6-46b6-87ce-776355c684d0.pdf)
 Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 539798
 
 **Source:** BSE Filing  **Date:** 2026-08-19
 
+### [Sanofi India: The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Geetanjali Trading & Investments Pvt Ltd](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f10fb40c-a10b-4674-bd44-f7d01d02effb.pdf)
+Category: Insider Trading / SAST | Sub: Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-08-20
+
+### [Dr. Reddy's Laboratories: Copies of newspaper publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/481bdb44-8d93-49fd-8a53-47ae0f9914f0.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-08-20
+
 ### [Cipla: Cipla has informed the exchange about receipt of order from Hon''ble NCLT, Mumbai Bench](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c4c43a47-775c-4577-8c3a-c6610426e58d.pdf)
 Category: Company Update | Sub: Scheme of Arrangement | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-08-19
+
+### [Lupin: VISUfarma B.V., the Netherlands, a wholly owned subsidiary of the Company, has entered into an Exclusive License Agreement with Visus Therapeutics, Inc. U.S.A.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ee68d019-5ec3-4912-84f6-403f48f5a56f.pdf)
+Category: Company Update | Sub: General | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-08-20
 
 ### [Natco Pharma: Change in Registered Office of the Company within the same City and within the same State.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f771a3bd-d973-4c2b-8cca-26ae9430d088.pdf)
 Category: Company Update | Sub: Change in Registered Office Address | BSE Code: 539798
@@ -24,6 +39,21 @@ Category: Result | Sub: Financial Results | BSE Code: 539798
 
 **Source:** BSE Filing  **Date:** 2026-08-19
 
+### [Marksans Pharma: Newspaper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/12be5a4e-6e32-49ae-8318-9870255a1f35.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-08-20
+
+### [Glaxosmithkline Pharma: As per the disclosure attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b22ea022-82e0-4e0d-84df-70a885ce4a59.pdf)
+Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-08-20
+
+### [Glaxosmithkline Pharma: Scrutinizer Report and Voting Results of the 38th Annual General Meeting of the Company held on August 19, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f414baac-e739-4f61-888b-773fd37d5c37.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-08-20
+
 ### [Glaxosmithkline Pharma: Summary of the proceedings of the Thirty-eighth Annual General Meeting of the Company held on August 19, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ace8dec4-4d16-4a69-976f-1b29ea2ed77c.pdf)
 Category: AGM/EGM | Sub: AGM | BSE Code: 500271
 
@@ -31,16 +61,6 @@ Category: AGM/EGM | Sub: AGM | BSE Code: 500271
 
 ### [Umiya Tubes Ltd: Un-audited Limited Reviewed Financial Results for the Quarter ended on June 30, 2026](https://www.bseindia.com/corporates/ann.html?scrip=539798)
 BSE Code: 539798
-
-**Source:** BSE Filing  **Date:** 2026-08-19
-
-### [Umiya Tubes Ltd: Un-Audited Limited Reviewed Financial Results for Quarter Ended on June 30, 2026](https://www.bseindia.com/corporates/ann.html?scrip=539798)
-BSE Code: 539798
-
-**Source:** BSE Filing  **Date:** 2026-08-19
-
-### [Prism Medico and Pharmacy Ltd: Prism Medico And Pharmacy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/08/2026 ,inter alia, to consider and approve ? To consider and ....](https://www.bseindia.com/corporates/ann.html?scrip=512217)
-BSE Code: 512217
 
 **Source:** BSE Filing  **Date:** 2026-08-19
 
@@ -53,25 +73,45 @@ Estée Lauder Cos. posted quarterly results that beat estimates and ended a run 
 
 **Source:** Mint - Pharma  **Date:** 2026-08-19
 
-### [Rs 3 crore to Rs 4,925 crore: Sebi order gives details on Dhenu Buildcon market cap surge](https://economictimes.indiatimes.com/markets/stocks/news/rs-3-crore-to-rs-4925-crore-sebi-order-gives-details-on-dhenu-buildcon-market-cap-surge/articleshow/133350443.cms)
-Sebi’s interim order alleges Dhenu Buildcon routed Rs 1,000 crore through connected entities as loans, later converting Rs 840 crore into equity. Despite negligible revenue, its market cap surged to Rs 4,925 crore. The regulator ordered restrictions while investigations continue.
+### [Coforge shares jump 3% after IT major launches private equity unit](https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-jump-3-after-it-major-launches-private-equity-unit/articleshow/133367354.cms)
+Coforge shares climbed on Thursdat after the IT services company launched a dedicated Private Equity business unit to help funds drive operational transformation and value creation across portfolio companies. The new vertical will leverage Coforge’s acquisition integration expertise and AI capabilities to support portfolio optimisation, EBITDA growth and technology-led transformation.
 
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [Indigo Paints targets 25% annual growth as it puts market share ahead of margins](https://www.livemint.com/companies/news/indigo-paints-targets-25-percent-annual-growth-as-it-puts-market-share-ahead-of-margins-11787104071103.html)
-Indigo Paints is targeting more than 25% annual revenue growth if the paints industry grows at 13-14%, as it steps up marketing and expands into new categories.
+### [Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade](https://economictimes.indiatimes.com/markets/stocks/news/power-finance-corporation-and-rec-shares-fall-up-to-3-after-morgan-stanley-downgrade/articleshow/133367186.cms)
+PFC and REC shares fell on Thursday after Morgan Stanley downgraded both stocks to Equal-Weight and cut their target prices. The brokerage flagged slower loan growth and lowered earnings estimates for FY28 and FY29. The downgrade comes ahead of the proposed PFC-REC merger, with both stocks already under pressure.
 
-**Source:** Mint - Pharma  **Date:** 2026-08-19
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [India may see family wealth worth $1.5 trillion change hands in 10 years](https://economictimes.indiatimes.com/markets/stocks/news/india-may-see-family-wealth-worth-1-5-trillion-change-hands-in-10-years/articleshow/133361254.cms)
-India anticipates a significant intergenerational wealth transfer exceeding one trillion dollars. Family wealth is becoming more institutionalized with formal governance structures. This trend will expand the alternatives market significantly in the coming decade. India's billionaire and ultra-high-net-worth individual numbers are projected to increase. Exits and liquidity events are driving demand for wealth management services.
+### [Can Turtlemint Fintech shares rally to Rs 190? Why Jefferies initiated coverage on the stock](https://economictimes.indiatimes.com/markets/stocks/news/can-turtlemint-fintech-shares-rally-to-rs-190-why-jefferies-initiated-coverage-on-the-stock/articleshow/133365683.cms)
+Jefferies has initiated coverage on Turtlemint Fintech Solutions with a Buy rating and a target price of Rs 190, implying 37% upside. The brokerage expects revenue to grow at a 38% CAGR over three years, driven by higher premiums and take-rates.
 
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Milky Mist Dairy Food shares slip 4% after sharp post-listing rally](https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-slip-4-after-sharp-post-listing-rally/articleshow/133365199.cms)
+Milky Mist Dairy Food shares came under profit-booking pressure after gaining 42% over two sessions following their market debut. Despite strong revenue growth, improving profitability and a leadership position in value-added dairy, analysts cautioned against chasing the stock after its sharp post-listing rally and premium valuation.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
 
 ### [India Inc’s June quarter earnings beat masks a widening divide](https://www.livemint.com/companies/india-inc-s-june-quarter-earnings-beat-masks-a-widening-divide-11787131767257.html)
 Corporate India's June-quarter earnings surged on a low base, strong volume and credit growth, and a global commodity upcycle. But smaller companies lagged as weak pricing power and margin pressure weighed on profits.
 
 **Source:** Mint - Pharma  **Date:** 2026-08-20
+
+### [Jefferies favours two-wheeler stocks over four-wheeler stocks as earnings gap widens](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-favours-two-wheeler-stocks-over-four-wheeler-stocks-as-earnings-gap-widens/articleshow/133375203.cms)
+Jefferies prefers two-wheeler stocks over passenger vehicle makers, citing stronger volume growth, resilient margins and improving earnings. TVS Motor Company and Eicher Motors remain its top picks, while Tata Motors Passenger Vehicles and Hyundai Motor India carry Underperform ratings amid rising competition, higher discounts and a weaker earnings outlook.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Zaggle Prepaid shares jump 3% , extend 3-day rally to 16%. What's driving the rally?](https://economictimes.indiatimes.com/markets/stocks/news/zaggle-prepaid-shares-jump-3-today-extend-3-day-rally-to-16-whats-driving-the-rally/articleshow/133369048.cms)
+Zaggle Prepaid Ocean Services shares rose on Thursday, extending their three-day rally to 16% after Vijay Kedia-backed Kedia Securities acquired 20 lakh shares worth nearly Rs 33 crore. The stock’s sharp rebound comes days after it plunged 20% following a weak Q1FY27 earnings report.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Why Jefferies sees limited upside in Bajaj Housing Finance despite its fast-growing loan book](https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-sees-limited-upside-in-bajaj-housing-finance-despite-its-fast-growing-loan-book/articleshow/133364160.cms)
+Jefferies initiated coverage on Bajaj Housing Finance with a Hold rating and Rs 92 target, citing limited upside from premium valuations despite strong growth prospects. It expects AUM to grow at a 23% CAGR and earnings per share at 20% through FY29, while return on assets stays near 2% and return on equity improves to 13.6%.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
 
 ### [Blue Star among 4 F&amp;O stocks with a sharp rise in futures open interest](https://economictimes.indiatimes.com/markets/stocks/news/blue-star-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/133363453.cms)
 As of August 19, four NSE F&amp;O stocks recorded futures open interest growth above 11%, signaling increased market participation through fresh positions or expanded existing futures contracts.
@@ -88,32 +128,17 @@ The Nifty index has struggled to break its previous day's high for an astonishin
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [D-Street poised for a positive start as GIFT Nifty trades firmly higher](https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133353748.cms)
-Nifty declined for a seventh session, influenced by elevated crude oil prices. Analysts anticipate continued pressure due to global weakness and geopolitical tensions. The India VIX, a fear gauge, saw a slight decrease to 11.32 levels. Foreign and domestic institutional investors showed net buying activity on Wednesday. The Indian rupee weakened against the dollar but saw central bank intervention.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [Nifty price-to-book ratio hits 6-year low, but market may not be cheap](https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms)
-The Nifty's price-to-book ratio has slid below three for the first time in six years, showcasing the banking sector's struggles alongside rising book values. With banks and financial services playing a crucial role in the Nifty's composition, the recent consolidation of financials has notably influenced valuation metrics. It is now essential for investors to prioritize earnings growth and future profitability projections.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [RBI MPC puts Q3 rate hike in play if inflation risks show up big](https://economictimes.indiatimes.com/markets/stocks/news/mpc-flags-possibility-of-policy-tightening/articleshow/133361277.cms)
-Indian monetary policy makers may tighten rates in the third quarter if inflation risks materialize. Higher food and fuel prices could lead to broad-based inflation, prompting action. Inflation is projected to peak at 5.9% in Q3 2026-27, signaling potential policy shifts. The central bank remains watchful of global economic turbulence and its domestic impact. Monetary response is warranted if inflation expectations become de-anchored or persistent.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
-
-### [Q1 Earnings: ICICI Bank, Eternal, Titan Included In Morgan Stanley's Eight Bottom-Up Picks — Check Full List, Target Prices](https://www.ndtvprofit.com/markets/q1-picks-icici-bank-eternal-titan-adani-ports-grasim-hyundai-bajaj-auto-dabur-wipro-check-full-list-target-prices-11933772#publisher=newsstand)
-Morgan Stanley names eight top stock picks after Q1 earnings, including Adani Ports, Titan and ICICI Bank. Here are its overweight and underweight calls.
-
-**Source:** NDTV Profit  **Date:** 2026-08-20
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (3)
+## 🤝 Deals, M&A & Partnerships (5)
 
-### [Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India](https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms)
-Indian equity markets extended their losing streak to a seventh consecutive session, with the Nifty50 closing lower at 24,078.30. Key corporate developments are expected to influence Thursday's trade, including Hyundai Motor India's planned price increase, Aditya Infotech's fundraising approval, and BSE's agreement with MSCI for index futures and options. Other companies like HEG, Ceigall India, and HDFC Life Insurance also saw significant announcements.
+### [Shiprocket shares jump 6% as Goldman Sachs acquires Rs 53 crore stake. Time to buy or book profits?](https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-jump-6-as-goldman-sachs-acquires-rs-53-crore-stake-time-to-buy-or-book-profits/articleshow/133364509.cms)
+Shiprocket shares rose sharply on Thursday, extending gains after a blockbuster market debut. The rally came amid strong institutional interest, with Goldman Sachs buying shares worth Rs 52.7 crore in a bulk deal. Analysts remain positive but advise existing investors to consider partial profit-booking and fresh buyers to await dips.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Sugar stocks Bajaj Hindusthan Sugar, Balrampur Chini, others rally up to 8% even as govt tightens stock limits](https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-bajaj-hindusthan-sugar-balrampur-chini-others-rally-up-to-8-after-govt-tightens-stock-limits/articleshow/133365775.cms)
+Sugar stocks rallied up to 8% after the government tightened inventory limits for dealers amid record-high sugar prices. Bajaj Hindusthan Sugar led gains, while Balrampur Chini and other stocks also advanced. Concerns over domestic and Brazilian supply, rising festive-season demand and a possible cut in import duties have further supported prices.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
@@ -122,8 +147,13 @@ Marvell shares surged 12% after Google secured the right to buy up to $12.2 bill
 
 **Source:** Mint - Pharma  **Date:** 2026-08-19
 
-### [KFin Tech Share Price Rises Over 1% On Likely Block Deal For Rs 1,400 Crore](https://www.ndtvprofit.com/markets/kfin-tech-share-price-rises-on-likely-block-deal-for-for-rs-1-400-crore-11933848#publisher=newsstand)
-The transaction, executed through its affiliate General Atlantic Singapore Fund Pte, comes as the firm looks to monetize its investment in the company.
+### [Mankind Pharma inks agreement for two insulin analogues in India](https://www.expresspharma.in/mankind-pharma-inks-agreement-for-two-insulin-analogues-in-india/)
+Partnership with Chongqing Chenan Biopharmaceutical covers Insulin Degludec and Insulin Degludec + Aspart Combination The post Mankind Pharma inks agreement for two insulin analogues in India appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-08-20
+
+### [India-Pakistan Fighting For Same Textile Market — And Trade Deals Are Changing It | The Reason Why](https://www.ndtvprofit.com/economy/opinion-india-pakistan-fighting-for-same-textile-market-and-trade-deals-are-changing-it-the-reason-why-11935685#publisher=newsstand)
+Most textile products were not part of GSP in the US.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
@@ -131,13 +161,13 @@ The transaction, executed through its affiliate General Atlantic Singapore Fund 
 
 ## 💸 Corporate Actions (5)
 
-### [Bonus issue alert! Last day to buy Goodluck India shares for 2:1 bonus reward. How will dividend payout be impacted?](https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goodluck-india-shares-for-21-bonus-reward-how-will-dividend-payout-be-impacted/articleshow/133361960.cms)
-Goodluck India in July announced its maiden bonus issue in the ratio of 2:1. Under the proposal, eligible shareholders will receive two bonus equity shares of face value Rs 2 each for every one equity share held as of the record date, which will be announced separately.
+### [Muthoot Finance, Manappuram, other gold financier stocks jump up to 4% as gold prices rise above Rs 1.58 lakh/10 grams](https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-other-gold-financier-stocks-jump-up-to-4-as-gold-prices-rise-above-rs-1-58-lakh/10-grams/articleshow/133364875.cms)
+Shares of gold loan companies Muthoot Finance, Manappuram Finance and IIFL Finance rose as much as 4% as gold prices surged following the US Treasury’s decision to increase longer-dated bond buybacks. Rising gold prices can boost the value of collateral pledged against gold loans.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [Dividend alert! Last day to buy LIC Housing Fin, Hitachi Energy and 36 other stocks for dividend payouts. How many do you own?](https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-lic-housing-finance-hitachi-energy-among-38-stocks-for-dividends-how-many-do-you-own/articleshow/133361942.cms)
-Under Sebi's T+1 settlement cycle, investors need to purchase a company’s shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action. Accordingly, today is the last opportunity for investors to buy the shares so that they are credited to their accounts by the record date (August 21), making them eligible for the dividend.
+### [Titagarh Rail Systems shares gain 3% after Indian Railways' approval for traction motor supply](https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-systems-shares-gain-3-after-indian-railways-approval-for-traction-motor-supply/articleshow/133367736.cms)
+Titagarh Rail Systems shares rose after Indian Railways approved the company as a vendor for supplying three-phase asynchronous traction motors for locomotives. The approval allows Titagarh to supply up to 1,200 traction motors annually, boosting its prospects in the railway equipment segment.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
@@ -151,86 +181,126 @@ Navi Finserv plans to explore segments such as merchant financing and loans agai
 
 **Source:** Mint - Pharma  **Date:** 2026-08-19
 
-### [Gold Holds Near $4,500 As US Treasury Buyback Sends Yields Lower](https://www.ndtvprofit.com/markets/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower-11933764#publisher=newsstand)
-Bullion was trading in a narrow range around $4,500 an ounce, after surging more than 4% the day before.
+### [Gold ETFs Glitter On Strong Global Cues: Which Are The Five Best Funds Based On Six-Month Returns?](https://www.ndtvprofit.com/personal-finance/gold-etfs-glitter-on-strong-global-cues-which-are-the-five-best-funds-based-on-six-month-returns-11935459#publisher=newsstand)
+The latest surge in Gold ETFs come as gold trades near $4500 after US government bond yields dropped as the Treasury announced buyback plan.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
 ---
 
-## 🏭 Operations & Approvals (2)
+## 🏭 Operations & Approvals (8)
 
-### [BSE looks to launch MSCI-linked futures and options in India](https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms)
-BSE has partnered with MSCI to explore futures and options contracts linked to MSCI indexes in India, subject to regulatory approvals. The move could broaden BSE’s derivatives offerings, strengthen index-based investing and provide investors additional tools to hedge India exposure.
+### [Glenmark receives USFDA approval for Fluticasone Propionate Nasal Spray](https://www.expresspharma.in/glenmark-receives-usfda-approval-for-fluticasone-propionate-nasal-spray/)
+Fluticasone Propionate Nasal Spray USP is bioequivalent and therapeutically equivalent to Flonase Nasal Spray The post Glenmark receives USFDA approval for Fluticasone Propionate Nasal Spray appeared first on Express Pharma .
 
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
+**Source:** Express Pharma  **Date:** 2026-08-20
 
-### [Anthropic may expand credit line beyond $10 billion as it gears up for IPO](https://www.livemint.com/companies/news/anthropic-may-expand-credit-line-beyond-10-billion-as-it-gears-up-for-ipo-11787135173217.html)
-Anthropic PBC is planning to boost its revolving credit facility above $10 billion ahead of its IPO, drawing interest from banks. This follows discussions on $15 billion debt financing for a Texas data center project backed by Google, as the AI race intensifies.
+### [Strides Pharma Science shares jump 9% after USFDA EIR for Bengaluru facility](https://economictimes.indiatimes.com/markets/stocks/news/strides-pharma-science-shares-jump-9-after-usfda-eir-for-bengaluru-facility/articleshow/133365447.cms)
+Strides Pharma Science shares rise sharply on Thursday after the USFDA issued an Establishment Inspection Report (EIR) for its Bengaluru facility, concluding a recent cGMP inspection. The inspection ended with five observations, which the company addressed through corrective actions. The regulatory closure offers relief after the stock’s recent weakness.
 
-**Source:** Mint - Pharma  **Date:** 2026-08-19
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [NSE said to plan allowing trading in its shares on its own platform](https://economictimes.indiatimes.com/markets/stocks/news/nse-said-to-plan-allowing-trading-in-its-shares-on-its-own-platform/articleshow/133369289.cms)
+NSE may allow its shares to trade on its own platform after listing on rival BSE, potentially boosting liquidity and paving the way for inclusion in Nifty indexes. The proposal was discussed with global investors during IPO roadshows. However, current rules don’t permit exchange self-listing, meaning NSE would need Sebi approval. The IPO is targeted for September.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Jefferies raises Emmvee Photovoltaic Power target price to Rs 440: Can the stock rally further?](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-emmvee-photovoltaic-power-target-price-to-rs-440-can-the-stock-rally-further/articleshow/133366624.cms)
+Jefferies has raised its target price for Emmvee Photovoltaic Power to Rs 440 from Rs 400, while retaining its Buy rating, implying around 31% upside. The brokerage is bullish on the company’s strong solar PV value-chain presence, healthy order book and expansion plans
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Ola launches ‘introductory offer’ for home inverter Shakti Gen2 — Check discounted pricing here](https://www.livemint.com/companies/ola-launches-introductory-offer-for-home-inverter-shakti-gen2-check-discounted-pricing-here-11787215268507.html)
+Ola Electric has launched a special offer for the Shakti Gen2 home inverter. The device, available in 3 kW and 6 kW variants, will be offered at discounted price for early buyers.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-20
+
+### [D2C’s easy growth is raising the bar for startup funding](https://www.livemint.com/companies/d2c-startups-funding-investors-india-11787022324121.html)
+This shift, increasingly visible from the seed stage through later stages, is partly driven by the ease of launching a brand and scaling its reach across multiple channels, including quick commerce.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-20
+
+### [Strides Pharma receives USFDA EIR for Bengaluru facility](https://www.expresspharma.in/strides-pharma-receives-usfda-eir-for-bengaluru-facility/)
+USFDA classifies inspection outcome as Voluntary Action Indicated following May 2026 cGMP inspection The post Strides Pharma receives USFDA EIR for Bengaluru facility appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-08-20
+
+### [Invesco Mutual Fund launches India Pharma and Healthcare Fund](https://www.expresspharma.in/invesco-mutual-fund-launches-india-pharma-and-healthcare-fund/)
+The open-ended equity scheme will invest across pharma, healthcare and allied sectors The post Invesco Mutual Fund launches India Pharma and Healthcare Fund appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-08-20
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (7)
 
-### [Market wrap:  HCL Tech, Sun Pharma, Power Grid, Bajaj Finance top gainers and losers on Nifty and Sensex on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hcl-tech-sun-pharma-power-grid-bajaj-finance-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133347947.cms)
-Indian equities extended losses for a seventh session, with Nifty falling 0.32% and Sensex 0.42% ahead of US FOMC minutes. IT stocks gained, but broader markets weakened. Analysts flagged 24,000 as crucial Nifty support amid persistent sell-on-rallies sentiment.
+### [Market wrap:  Eternal Kotak Bank, HCL Tech, InterGlobe top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-kotak-bank-hcl-tech-interglobe-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/133375367.cms)
+Indian equities snapped a seven-session losing streak as Nifty gained 0.64% and Sensex surged 628 points, aided by relief in global bond yields. Market breadth turned positive, while analysts identified 24,100-24,000 as crucial support and 24,300 as immediate resistance.
 
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [MCX shares jump 4% as gold, silver futures rise. What lies ahead after a 900% rally in 3 years?](https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-as-gold-silver-futures-rise-what-lies-ahead-after-a-900-rally-in-3-years/articleshow/133370940.cms)
+MCX shares jumped over 4% as gold, silver and copper futures rose following a US Treasury liquidity support announcement. The stock has delivered stellar returns of around 900% in three years. UBS upgraded MCX to ‘Buy’ and raised its target to Rs 3,800, while HDFC Securities retained its ‘Buy’ rating, citing regulatory easing and strong growth potential
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%](https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms)
+IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid a weaker rupee, with Indian IT stocks continuing to outperform global tech peers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
 
 ### [SKF India among 5 stocks flashing bullish signals, indicating possible uptrend](https://economictimes.indiatimes.com/markets/stocks/news/skf-india-among-5-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/133363289.cms)
 Five stocks with market caps above Rs 10,000 crore gained over 4% and triggered StockEdge’s White Marubozu bullish scanner, signaling strong buying pressure and potential upward momentum.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [No takers: Public sector banks put ₹39,000 cr of bad loans up for sale again](https://economictimes.indiatimes.com/markets/stocks/news/no-takers-public-sector-banks-put-39000-cr-of-bad-loans-up-for-sale-again/articleshow/133361262.cms)
-Public sector banks offered many bad loans previously for sale. Nearly eighty percent of these loans were repeat sale attempts. Indian Overseas Bank and Indian Bank led these repeated offerings. Private sector banks showed a sharp contrast with few repeat sales. This highlights challenges in selling large legacy corporate accounts.
+### [Taxing the tokens? Raghuram Rajan flags AI job loss risks, moots strategy to level field for human workers](https://www.livemint.com/companies/people/taxing-the-tokens-raghuram-rajan-flags-ai-job-loss-risks-moots-strategy-to-level-field-for-human-workers-11787219644767.html)
+According to Raghuram Rajan, the biggest obstacle to wider adoption at present is not AI's capabilities but the difficulty of integrating them into existing workflows. He says the outlook for workers is not entirely bleak.&amp;nbsp;
 
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
+**Source:** Mint - Pharma  **Date:** 2026-08-20
 
-### [Ahead of Market: 10 things that will decide stock market action on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133352726.cms)
-Indian equities extended losses for a seventh session as rising oil prices and US-Iran tensions heightened risk aversion. Nifty fell to 24,078, while Sensex declined 326 points. Analysts flagged 24,000-24,050 as crucial support, with weak breadth favouring bears.
+### [Alibaba’s profit dives 75% after amping up AI spending, shares fell 3%](https://www.livemint.com/companies/people/alibabas-profit-dives-75-after-amping-up-ai-spending-11787227169161.html)
+Alibaba Group Holding Ltd.’s profit plunged more than 75% after China’s e-commerce leader ratcheted up AI spending while grappling with a broad Chinese consumption slowdown.
 
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
+**Source:** Mint - Pharma  **Date:** 2026-08-20
 
-### [Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares](https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms)
-Shiprocket debuted on the NSE at ₹131, a 35% premium, closing at ₹143.10. Goldman Sachs India EQ Portfolio acquired 40.24 lakh shares post-listing. Analysts advise investors to book partial profits while holding remaining shares for long-term growth.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
-
-### [Masayoshi Son bets $12 bn on Intel, puts 67% of SoftBank's US portfolio in one stock—where else is his firm investing?](https://www.livemint.com/companies/news/masayoshi-son-bets-12-bn-on-intel-puts-67-of-softbanks-us-portfolio-in-one-stock-where-else-is-his-firm-investing-11787119052971.html)
-SoftBank's Intel holdings make up nearly 67% of its US equity portfolio, valued at over $12 billion. Here's the list of stocks where the firm has invested.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-08-19
-
-### [Aditya Infotech Rated 'Buy' As Motilal Oswal Initiates Coverage — Check Target Price](https://www.ndtvprofit.com/markets/cp-plus-brand-operator-aditya-infotech-rated-buy-as-motilal-oswal-initiates-coverage-check-target-price-11933851#publisher=newsstand)
-Aditya Infotech is well-positioned to benefit from a demand surge in the video surveillance market, says Motilal Oswal.
-
-**Source:** NDTV Profit  **Date:** 2026-08-20
-
-### [Jefferies Initiates Bajaj Housing Finance With 'Hold', Sees Premium Valuations Capping Upside](https://www.ndtvprofit.com/markets/jefferies-initiates-bajaj-housing-finance-with-hold-sees-premium-valuations-capping-upside-11933795#publisher=newsstand)
-Jefferies on Bajaj Housing Finance.
+### [No TCS, Infosys Or Wipro: Citi Has Zero Buy Calls Across 11 IT stocks — Here's Why](https://www.ndtvprofit.com/markets/no-tcs-infosys-or-wipro-citi-has-zero-buy-calls-across-11-it-stocks-heres-why-11935494#publisher=newsstand)
+While IT stocks have rebounded from their lows, Goyal sees the move as largely a relief rally driven by low valuations, rather than a fundamental turnaround.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
 ---
 
-## 📰 Industry & Policy News (27)
+## 📰 Industry & Policy News (18)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddy's Surges Past 20-Day SMA](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-20-aug-2026/liveblog/133362644.cms)
+### [Divis Labs Share Price Live Updates: Divis Labs closes at Rs 8579.0, marking a gain](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-20-aug-2026/liveblog/133362916.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Recent Price Trends](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-20-aug-2026/liveblog/133362174.cms)
+### [Cipla Share Price Live Updates: Cipla's Recent Market Activity](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-20-aug-2026/liveblog/133362655.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [Credent Connect shares to debut today; GMP signals 49% premium ahead of listing](https://economictimes.indiatimes.com/markets/stocks/news/credent-connect-shares-to-debut-today-gmp-signals-49-premium-ahead-of-listing/articleshow/133363905.cms)
-Credent Connect N Care shares are set to list on the NSE SME platform with a 49% GMP, pointing to a potentially strong debut after the IPO was subscribed 153.13 times overall.
+### [BSE shares fall over 3% from day’s high after report says NSE weighs trading shares on own platform](https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-fall-over-3-from-days-high-after-report-says-nse-weighs-trading-shares-on-own-platform/articleshow/133373365.cms)
+BSE shares fell over 3% from the day’s high after a report said NSE may seek permission to trade its shares on its own platform following its proposed IPO listing on BSE. The move could boost liquidity for NSE shares, while potentially shifting trading volumes and affecting BSE’s market position.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
-### [Why is market rising today? Sensex rallies 500 points, Nifty tops 24,200. 5 key factors behind market rebound](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-rallies-500-points-nifty-tops-24200-5-key-factors-behind-market-rebound/articleshow/133363496.cms)
-On Thursday, Indian stock markets made a robust comeback, ending a series of losses. The Sensex and Nifty indices surged due to a positive mood among investors, influenced by declining US bond yields and notable short-covering activities. The broader markets also reflected this upswing, with midcap and smallcap stocks gaining ground. Notably, giants like Infosys and TCS emerged as key contributors to this rally.
+### [14 smallcap stocks zoom up to 217% in last 6 months, 6 turn multibaggers. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/14-smallcap-stocks-zoom-up-to-217-in-last-6-months-6-turn-multibaggers-do-you-own-any/slideshow/133370910.cms)
+Nearly 70 smallcap stocks gained more than 25% during this period, with the top 14 performers delivering returns ranging from 60% to a staggering 217%.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Explained: How a JP Morgan unit and a Mumbai-based stock broking firm allegedly manipulated Sensex during CAS](https://economictimes.indiatimes.com/markets/stocks/news/explained-how-a-jp-morgan-unit-and-a-mumbai-based-stock-broking-firm-allegedly-manipulated-sensex-during-cas/articleshow/133367955.cms)
+The regulator flagged three sharp Sensex spikes, including a 362-point jump in two seconds and a 405-point surge in 28 seconds, as the index’s CAS closing price moved to around 78,080 from a 3:15 pm reference of 77,829.60.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Credent Connect shares make strong market debut, list at 90% premium over IPO price on NSE SME platform](https://economictimes.indiatimes.com/markets/stocks/news/credent-connect-shares-to-debut-today-gmp-signals-49-premium-ahead-of-listing/articleshow/133363905.cms)
+Credent Connect N Care shares made a blockbuster debut on the NSE SME platform, listing at a 90% premium over the IPO price. The Rs 93.90-crore issue was subscribed 153.13 times, with strong demand across investor categories. The company plans to use IPO proceeds for working capital, capex, debt repayment and subsidiary funding.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-20
+
+### [Why did market rise today? Sensex rallies 628 points, Nifty closes above 23,230. 5 key factors behind market rebound](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-rallies-500-points-nifty-tops-24200-5-key-factors-behind-market-rebound/articleshow/133363496.cms)
+Indian equities snapped a seven-session losing streak on Thursday, with the Sensex and Nifty closing sharply higher. Falling US bond yields, short-covering and improved sentiment supported the rebound, while broader markets also gained. Realty stocks led sectoral advances, whereas PSU banks lagged amid marginal weakness in select heavyweight stocks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
 
@@ -238,42 +308,6 @@ On Thursday, Indian stock markets made a robust comeback, ending a series of los
 India's market regulator is poised to introduce substantial rule amendments aimed at boosting foreign investments. The planned reforms intend to lower collateral demands and stimulate interest in longer-term derivatives. With foreign investment in Indian stocks hitting a seventeen-year low, the Securities and Exchange Board of India will engage with industry players prior to rolling out these transformative measures, ultimately hoping to enhance India's position in global stock market rankings.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [M&amp;M Share Price Live Updates: Choice Equity Broking Issues New Recommendation for M&amp;M](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-20-aug-2026/liveblog/133362156.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex rallies over 550 pts, Nifty above 24,200; Infosys, Bajaj Finance rise 2% each](https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hyundai-motors-bse-share-price-20-august-2026/liveblog/133361962.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [Shiprocket soars 48% on debut, erases valuation cut](https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-soars-48-on-debut-erases-valuation-cut/articleshow/133361438.cms)
-Shiprocket shares debuted on Wednesday at a notable premium compared to their IPO price. The e-commerce logistics firm experienced a robust closing surge on the Bombay Stock Exchange. This impressive market entry effectively reversed a previous decline in valuation prior to its public listing. Early backer Bertelsmann benefited greatly, witnessing a remarkable increase in their stake. Investors enthusiastically oversubscribed the company's initial public offering.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [Sebi bars two entities for 'manipulating' CAS](https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-two-entities-for-manipulating-cas-in-financial-market-oversight/articleshow/133361415.cms)
-Sebi barred Copthall Mauritius Investment and Mansi Share and Stock Broking from securities market access. The regulator alleged manipulation of the Sensex during the new closing auction session. Sharp and unusual movements were detected in the index on August 13 expiry day. These actions aimed to benefit from outstanding Sensex options positions, Sebi stated. The entities allegedly generated wrongful gains totaling over Rs 3.6 crore.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [Sebi plans comprehensive review of rules governing SME IPOs](https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-ipo-rules-to-ease-market-access-for-smes/articleshow/133361290.cms)
-Sebi plans a comprehensive review of IPO rules for small and medium companies. Market making and underwriting systems are identified as areas needing attention. A working group has submitted its report on the SME platform to the regulator. Sebi will soon release a consultation paper regarding the SME platform. The regulator also aims to support global fund management activities from India.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-20
-
-### [RDIF AIF selection expected to be completed in two weeks](https://economictimes.indiatimes.com/markets/stocks/news/rdif-aif-selection-expected-to-be-completed-in-two-weeks/articleshow/133361283.cms)
-The government is in the final stages of choosing alternative investment firms for the research fund, with the decision expected to wrap up in the coming fortnight. Meanwhile, funds are actively being allocated to other selected firms for investment purposes. Robust safeguards are implemented to ensure protection for both public and private capital, reinforcing transparency and accountability in the fund's management.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
-
-### [Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities](https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms)
-Sebi issued an interim order against Copthall Mauritius and Mansi Share and Stock Broking for manipulative trading during the August 13, 2026, Closing Auction Session. The regulator impounded Rs 3.67 crore in alleged wrongful gains from these two entities.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
-
-### [Lenskart Solutions among 4 stocks to hit 52-week highs &amp; surge up to 25% in a month](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-among-4-stocks-to-hit-52-week-highs-amp-surge-up-to-25-in-a-month/slideshow/133348316.cms)
-Four BSE 200 stocks—GlaxoSmithKline Pharmaceuticals, Lenskart Solutions, Bosch and Samvardhana Motherson International—hit fresh 52-week highs despite Sensex weakness. The stocks gained 18%-24% over the past month, signalling strong investor interest and positive momentum.
-
-**Source:** Economic Times - Markets  **Date:** 2026-08-19
 
 ### [Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles](https://www.livemint.com/companies/people/moderna-co-founder-robert-langer-is-a-billionaire-once-again-as-shares-soar-11787152815518.html)
 Moderna shares surged as much as 156% to about $161 on Wednesday after the company and Merck reported positive results from the first late-stage trial of an mRNA-based cancer therapy.
@@ -285,48 +319,33 @@ Navi said the new funds will be used to fuel its next phase of growth as the fin
 
 **Source:** Mint - Pharma  **Date:** 2026-08-19
 
-### [Lawyers say Meta covered up research on teen addiction; influencer outreach to promote teen accounts in focus](https://www.livemint.com/companies/news/lawyers-say-meta-covered-up-research-on-teen-addiction-companys-influencer-outreach-to-promote-teen-accounts-in-focus-11787122114916.html)
-Meta is facing scrutiny over an alleged cover‑up of research showing teens’ addiction to its platforms, amid a lawsuit from 29 US states. It is alleged that Meta engaged parent influencers to promote its teen safety tools and claimed it was prioritizing child safety.
+### [Eppendorf introduces Research 3 neo pipette value packs](https://www.expresspharma.in/eppendorf-introduces-research-3-neo-pipette-value-packs/)
+3-pack and 6-pack bundles are now available at a special rate for laboratories worldwide The post Eppendorf introduces Research 3 neo pipette value packs appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-08-19
-
-### [India-US pharma ties look beyond generics](https://www.expresspharma.in/india-us-pharma-ties-look-beyond-generics/)
-Sergio Gor, US Ambassador to India and Devendra Fadnavis, Maharashatra CM pitch deeper R&#038;D, investment and co-development, at IACC National Convention 2026, reports Lakshmipriya Nair The post India-US pharma ties look beyond generics appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-08-19
+**Source:** Express Pharma  **Date:** 2026-08-20
 
 ### [Pharma sector stocks today, August 20: Strides Pharma jumps 9%, Panacea Biotec gains nearly 3%; JB Chemicals falls 4% - Business Upturn](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZjB3OXNxTERqSTBjVW5YYk1MdUQ2c3FCZWlzejVvWlMzWFZyODd4dXFPREU4S1NtQU0zS28tdjczcGcyYlNBVXdtU0p1cFJ1VTBKa1JaVjh4cFBiZXgwdnM2MGNyU2t6bk9aNWd6UzQwVUhhazlkMHduY0JBS25DVTVnMUxUTkszTi1TRFo4VUxldElVNGJLYTZ1bVZrX1FsY0VTSkRXc0xET2ZCUml5ekVMbDBrVGFDQnB3cnQ4UlNtRjVXeS1xcDRtSExFajE1TGxWV05XQmRHMW9VSUxKb2ZOVW90X0t6NFJhc2NfRUs?oc=5)
 Pharma sector stocks today, August 20: Strides Pharma jumps 9%, Panacea Biotec gains nearly 3%; JB Chemicals falls 4% &nbsp;&nbsp; Business Upturn
 
 **Source:** GNews - India Pharma  **Date:** 2026-08-20
 
-### [Aditya Birla Capital To Foray Into Gold Loan Business, Aims To Open 1,000 Branches](https://www.ndtvprofit.com/markets/aditya-birla-capital-to-foray-into-gold-loan-business-aims-to-open-1-000-branches-11933900#publisher=newsstand)
-Aditya Birla Capital In Focus
+### [Sun Pharma Adv Consolidated June 2026 Net Sales at Rs 39.92 crore, up 314.11% Y-o-Y - Moneycontrol.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQnV4Nl9DdmxiT0J0TEdobUp3c1hjeENyb0xUMEtBRWVPQXBLOUFBTEg5aFVnT0N1cUg5ZGdUVVVQamhHOERhV1k3UjdEa3VubmhyNFYyR1IyZnFVMlByOVh2QkRUMDBsUEpDSWFFLXZiRlFGbnBCSld5N2pTN1BiQ3BuTWpBalJ1bV9GUWZQOE56dC1na1hCWWxweXI2QVIyVXo3S3JuVDRmLXlqV2NuNHVpWlVOc25TaHpNVUU1TUlPNWsySXB1VnFHLW9udEJBSWpPZEpwdVRIbEttVUdRWXZYTGRPd9IB5gFBVV95cUxQQnV4Nl9DdmxiT0J0TEdobUp3c1hjeENyb0xUMEtBRWVPQXBLOUFBTEg5aFVnT0N1cUg5ZGdUVVVQamhHOERhV1k3UjdEa3VubmhyNFYyR1IyZnFVMlByOVh2QkRUMDBsUEpDSWFFLXZiRlFGbnBCSld5N2pTN1BiQ3BuTWpBalJ1bV9GUWZQOE56dC1na1hCWWxweXI2QVIyVXo3S3JuVDRmLXlqV2NuNHVpWlVOc25TaHpNVUU1TUlPNWsySXB1VnFHLW9udEJBSWpPZEpwdVRIbEttVUdRWXZYTGRPdw?oc=5)
+Sun Pharma Adv Consolidated June 2026 Net Sales at Rs 39.92 crore, up 314.11% Y-o-Y &nbsp;&nbsp; Moneycontrol.com
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-08-20
+
+### [FPI Ownership In NSE-Listed Companies Falls To 17-Year Low Of 15.1%; DII Extends 7-Quarter Lead](https://www.ndtvprofit.com/markets/fpi-ownership-in-nse-listed-companies-falls-to-17-year-low-of-15-1-dii-extends-7-quarter-lead-11935562#publisher=newsstand)
+FPIs reduced their exposure to large-cap stocks even more sharply.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
-### [Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today](https://www.ndtvprofit.com/markets/tempsens-instruments-ipo-gmp-signals-bumper-listing-gain-as-subscription-begins-today-11931729#publisher=newsstand)
-Tempsens Instruments India IPO opens today, with GMP indicating a potential 73% listing gain. Here's the latest GMP, issue details and key dates.
+### [Stock Market Highlights: Nifty Snaps Seven-Day Losing Streak, Sensex Rallies 600 Points](https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-gift-nifty-fno-expiry-us-iran-tensions-crude-oil-wall-street-11933485#publisher=newsstand)
+Broader indices underperformed the benchmark. The Nifty Midcap 150 rose nearly 0.4%, while the Nifty Smallcap 250 gained almost 0.6%. The Nifty Realty led sectoral gains with a rise of nearly 1.5%, while the Nifty PSU Bank ended lower for a sixth consecutive session.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
-### [Stock Market News Today Live Updates: Nifty Rises Above 24,200, Sensex Rallies Nearly 600 Points; MMTC Surges 8%](https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-gift-nifty-fno-expiry-us-iran-tensions-crude-oil-wall-street-11933485#publisher=newsstand)
-Nifty IT rose 0.79%, while Nifty Financial Services gained 0.78% and Nifty Realty advanced 0.71%. Nifty Oil and Gas fell 0.21%, while Nifty Energy declined 0.04%.
-
-**Source:** NDTV Profit  **Date:** 2026-08-20
-
-### [HDFC Bank Shares Rise As LIC Gets RBI Nod To Raise Stake To 9.99%](https://www.ndtvprofit.com/markets/hdfc-bank-shares-rise-as-lic-gets-rbi-nod-to-raise-stake-to-9-99-percent-11933825#publisher=newsstand)
-HDFC Bank Shares In Focus
-
-**Source:** NDTV Profit  **Date:** 2026-08-20
-
-### [Shankesh Jewellers IPO GMP In Focus On Final Day Of Subscription: Here's What Investors Should Know](https://www.ndtvprofit.com/markets/shankesh-jewellers-ipo-gmp-in-focus-on-final-day-of-subscription-heres-what-investors-should-know-11931609#publisher=newsstand)
-Shankesh Jewellers IPO enters its final day today
-
-**Source:** NDTV Profit  **Date:** 2026-08-20
-
-### [Sunshine Pictures IPO: GMP, Review, Subscription Status, Other Details. Should You Apply As Issue Closes Today?](https://www.ndtvprofit.com/markets/sunshine-pictures-ipo-gmp-review-subscription-status-other-details-should-you-apply-as-issue-closes-today-11933811#publisher=newsstand)
-Sunshine Pictures had already raised Rs 84.64 crore from anchor investors on August 17.
+### [Tempsens Instruments vs Gaja Capital IPO GMP — Which IPO Offers Better Listing Gains?](https://www.ndtvprofit.com/markets/tempsens-instruments-vs-gaja-capital-ipo-gmp-which-ipo-offers-better-listing-gains-11933876#publisher=newsstand)
+Here is a detailed look at the latest GMP and key IPO details for each issue.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
@@ -335,13 +354,8 @@ Gaja Alternative Asset Management IPO enters Day 2 with GMP signalling a potenti
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
-### [Lalithaa Jewellery Mart IPO Allotment Today: Check Status, GMP And Listing Date](https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-allotment-today-check-status-gmp-and-listing-date-11933675#publisher=newsstand)
-Lalithaa Jewellery Mart IPO allotment status will be available today
-
-**Source:** NDTV Profit  **Date:** 2026-08-20
-
-### [Sunshine Pictures IPO GMP In Focus On Final Day Of Subscription: Here's What Investors Should Know](https://www.ndtvprofit.com/markets/sunshine-pictures-ipo-gmp-in-focus-on-final-day-of-subscription-heres-what-investors-should-know-11931565#publisher=newsstand)
-Sunshine Pictures IPO enters its final day with GMP signalling a potential 21% listing premium. Check the latest GMP, subscription and key details.
+### [Tempsens Instruments IPO GMP Signals 77% Listing Gain As Issue Fully Subscribed On Day 1](https://www.ndtvprofit.com/markets/tempsens-instruments-ipo-gmp-signals-bumper-listing-gain-as-subscription-begins-today-11931729#publisher=newsstand)
+Tempsens Instruments India IPO opened today, with GMP indicating a potential 77% listing gain. Here's the latest GMP, issue details and key dates.
 
 **Source:** NDTV Profit  **Date:** 2026-08-20
 
