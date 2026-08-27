@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-08-27
 
-> 77 items · 2026-08-27 14:58 UTC
+> 82 items · 2026-08-27 21:44 UTC
 
-## 📊 BSE / NSE Filings (22)
+## 📊 BSE / NSE Filings (25)
 
 ### [Sanofi India: The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on August 26, 2026 for Smiti Holding and ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f60afec7-9f61-4ca0-8546-c340d722677f.pdf)
 Category: Insider Trading / SAST | Sub: Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011 | BSE Code: 500820
@@ -26,6 +26,21 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 524715
 
 ### [Dr. Reddy's Laboratories: Allotment of Employee Stock options](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e5a8a20-9b88-4948-8030-01bbb8abf760.pdf)
 Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-08-26
+
+### [Cipla: Please find enclosed disclosure.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0177e57-3aca-4e6b-854d-fc3c889c1c97.pdf)
+Category: Company Update | Sub: Restructuring | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-08-27
+
+### [Cipla: Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we herein mention the schedule of Analyst / ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/990f9e80-2101-449c-9ea2-d6603f26eb61.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-08-27
+
+### [Cipla: In terms of regulation 30 of SEBI (LODR) Regulations, 2015, we hereby notify that the Operations and Admisnistrative Committee of the Company on 26th August, 2026 has allotted 5,281 fully ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f14868b0-2fd0-4692-b659-9498773a4e0f.pdf)
+Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-08-26
 
@@ -99,6 +114,11 @@ Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 524208
 
 **Source:** BSE Filing  **Date:** 2026-08-27
 
+### [Beryl Drugs Ltd: Beryl Drugs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/09/2026 ,inter alia, to consider and approve approve board report and other ....](https://www.bseindia.com/corporates/ann.html?scrip=524606)
+BSE Code: 524606
+
+**Source:** BSE Filing  **Date:** 2026-08-27
+
 ### [Asston Pharmaceuticals Ltd: Asston Pharmaceuticals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/09/2026 ,inter alia, to consider and approve 1. Appointment of M/s ....](https://www.bseindia.com/corporates/ann.html?scrip=544445)
 BSE Code: 544445
 
@@ -109,14 +129,9 @@ BSE Code: 539917
 
 **Source:** BSE Filing  **Date:** 2026-08-27
 
-### [Gujarat Themis Biosyn Ltd: Gujarat Themis Biosyn Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 01/09/2026 ,inter alia, to consider and approve Please refer to the intimation ....](https://www.bseindia.com/corporates/ann.html?scrip=506879)
-BSE Code: 506879
-
-**Source:** BSE Filing  **Date:** 2026-08-27
-
 ---
 
-## 💰 Results & Financials (16)
+## 💰 Results & Financials (18)
 
 ### [Happiest Minds Technologies shares fall 6% as reports suggest ITC Infotech may buy promoter stake](https://economictimes.indiatimes.com/markets/stocks/news/happiest-minds-technologies-shares-fall-6-as-reports-suggest-itc-infotech-may-buy-promoter-stake/articleshow/133570890.cms)
 Happiest Minds Technologies shares fell 6.16% after reports that ITC Infotech may acquire a 22% promoter stake. The stock settled at Rs 420.25, while investors weighed the potential transaction against the company’s recent profit and revenue growth.
@@ -142,6 +157,11 @@ Systematix has initiated coverage on Timex Group India with a Buy rating and a t
 Power capex stocks such as Hitachi Energy India, GE Vernova, TD Power and CG Power witnessed an uptick on Thursday, tracking Nvidia’s strong data-centre growth and bullish revenue outlook. Expectations of sustained AI infrastructure spending boosted sentiment, while US restrictions on Chinese power equipment added to optimism over demand for Indian suppliers.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
+
+### [Achieving free cash flow critical for Vodafone Idea, says Kumar Mangalam Birla](https://www.livemint.com/companies/news/achieving-free-cash-flow-critical-for-vodafone-idea-says-kumar-mangalam-birla-11787839423806.html)
+The telco is evaluating fixed wireless access (FWA) home broadband. India’s average revenue per user remains the lowest globally and tariff rationalisation is needed, said Birla.
+
+**Source:** Mint - Pharma  **Date:** 2026-08-27
 
 ### [Adani, GMR increase bets on non-aero revenue to drive growth](https://www.livemint.com/companies/adani-airports-gmr-non-aero-revenue-growth-passenger-spending-11787757423373.html)
 Major airport developers, Adani and GMR, are aggressively expanding retail, dining, and commercial offerings to drive profitability as passenger traffic growth cools down.&amp;nbsp;
@@ -193,17 +213,27 @@ Nvidia’s AI boom remains strong, but rising memory costs and growing debt are 
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
 
-### [Ajay Devgn's Crime Patrol Crime Ka Current Season To Air After Kaun Banega Crorepati](https://www.ndtvprofit.com/lifestyle/ajay-devgns-crime-patrol-crime-ka-current-season-to-air-after-kaun-banega-crorepati-11967250#publisher=newsstand)
-Ajay Devgn returns as the host of Crime Patrol's new season airing after Kaun Banega Crorepati.
+### [TCS Q1 variable pay: Mid, senior employees get 60-70% while juniors receive full payout, says report](https://www.livemint.com/companies/news/tcs-q1-variable-pay-mid-senior-employees-get-60-70-while-juniors-receive-full-payout-says-report-11787838937159.html)
+Tata Consultancy Services has reportedly lowered variable compensation for mid- and senior-level employees in the April-June quarter, disbursing only 60-70% of eligible pay as operating margins shrink amid investments in artificial intelligence, according to a Moneycontrol report.
 
-**Source:** NDTV Profit  **Date:** 2026-08-27
+**Source:** Mint - Pharma  **Date:** 2026-08-27
+
+### [Sun Pharma and Lupin Post Record Results as Dr Reddy's Takes ₹240 Crore Semaglutide Hit in Q1 FY27 - The Eastern Herald](https://news.google.com/rss/articles/CBMilgFBVV95cUxOenFEb190TGt6SzBGQjg3Y3RHRF8tcm53ZEt1dm5QWDRPYmZpMWRjWmpBNHZCeEI3ckowQ2I3MHdJd0loRVVvZzZsX0ZURjR4NGlPLVN1eHQwUTNJMDI0eGRTR1cwbDF3SE9KMTBjeTNZTzNXX2didVdxOFF1bDJtNXdINHYzOWJ1YlNjY190UGdEMUQ5Wnc?oc=5)
+Sun Pharma and Lupin Post Record Results as Dr Reddy's Takes ₹240 Crore Semaglutide Hit in Q1 FY27 &nbsp;&nbsp; The Eastern Herald
+
+**Source:** GNews - Pharma Q Results  **Date:** 2026-08-27
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
+## 🤝 Deals, M&A & Partnerships (5)
 
 ### [Devyani International shares rally 4% after revision in Sapphire Foods merger plan](https://economictimes.indiatimes.com/markets/stocks/news/devyani-international-shares-rally-4-after-revision-in-sapphire-foods-merger-plan/articleshow/133556635.cms)
 Devyani International witnessed an uptick on Thursday after the company said its merger with Sapphire Foods India remains on track, while a proposed secondary share sale involving Sapphire Foods Mauritius and Arctic International has been called off. The share-swap ratio remains unchanged, but the revised deal alters the expected post-merger promoter holding.
+
+**Source:** Economic Times - Markets  **Date:** 2026-08-27
+
+### [Lenskart shares block deal: Alpha Wave Ventures II likely to sell 1.2% stake worth Rs 1,313 crore](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-block-deal-alpha-wave-ventures-ii-likely-to-sell-1-2-stake-worth-rs-1313-crore/articleshow/133572288.cms)
+Alpha Wave Ventures II plans to sell up to 20.8 million Lenskart shares worth ₹1,313 crore at ₹630 apiece, a 1.7% discount. The secondary transaction represents about 1.2% stake, with Lenskart receiving no proceeds from the sale.
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
 
@@ -212,44 +242,15 @@ Bombay Burmah Trading shares rose sharply on Thursday after the Supreme Court re
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
 
+### [IndiaFirst Life bets on agentic AI for long-term gains, ties-up with Salesforce](https://www.livemint.com/companies/news/indiafirst-life-bets-on-agentic-ai-for-long-term-gains-ties-up-with-salesforce-11787843460775.html)
+IndiaFirst Life has partnered with Salesforce to deploy autonomous AI agents across core sales and customer operations, aiming for long-term growth without immediate staff cuts.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-08-27
+
 ### [Nvidia to buy Hugging face for $12.9 bn, says report; same AI firm was hacked by OpenAI agents in July](https://www.livemint.com/companies/news/nvidia-to-buy-hugging-face-for-12-9-bn-says-report-same-ai-firm-was-hacked-by-openai-agents-in-july-11787813921717.html)
 Nvidia is set to acquire Hugging Face for $12.9 billion, as per media reports. This deal comes just a month after the AI startup was hacked by OpenAI agents, which in turn compromised its infrastructure. Full details here.
 
 **Source:** Mint - Pharma  **Date:** 2026-08-27
-
-### [Meta, Under Duress, Finally Does the Right Thing for Teens](https://www.livemint.com/companies/meta-under-duress-finally-does-the-right-thing-for-teens-11787769236239.html)
-Finally, what some said could never be done has happened: Meta Platforms Inc. has been forced to make real changes to protect the millions of young people who use its products. Make no mistake, while the amount that the company agreed to pay to settle a lawsuit brought by several states — up to $18 billion — is large, it is dwarfed in significance by the long-tail positive effects this so-called Big Tobacco moment will have on the well-being of teens. Meta’s simultaneous call that other social m
-
-**Source:** Mint - Pharma  **Date:** 2026-08-26
-
-### [JSW puts 50GWh cell plant on hold as China tech curbs block partnership](https://www.livemint.com/companies/jsw-puts-50-gwh-cell-plant-on-hold-as-china-tech-curbs-block-partnership-evs-lfp-technology-11787753903646.html)
-The JSW Group, led by Sajjan Jindal, has halted plans for a 50 GWh battery cell gigafactory in India owing to the inability to secure a partner for lithium iron phosphate technology from China.
-
-**Source:** Mint - Pharma  **Date:** 2026-08-26
-
-### [Salim Ramji’s Vanguard strikes $4 billion deal to buy wealth platform Altruist: Report](https://www.livemint.com/companies/news/salim-ramji-s-vanguard-strikes-4-billion-deal-to-buy-wealth-platform-altruist-11787753034929.html)
-Vanguard agrees to acquire Altruist for about $4 billion, expanding its wealth management and financial advice business.
-
-**Source:** Mint - Pharma  **Date:** 2026-08-26
-
-### [Lenskart Block Deal: Alpha Wave Ventures Likely To Sell Rs 1,313-Crore Stake, Floor Price Fixed](https://www.ndtvprofit.com/markets/lenskart-block-deal-alpha-wave-ventures-likely-to-sell-rs-1-313-crore-stake-floor-price-fixed-11967378#publisher=newsstand)
-The stake sale represents around 1.2% of the Lenskart's existing equity.
-
-**Source:** NDTV Profit  **Date:** 2026-08-27
-
----
-
-## 💸 Corporate Actions (2)
-
-### [Dividend Alert: This Small-Cap Auto Components Maker Declares Rs 94/Share Payout. Check Record Date](https://www.ndtvprofit.com/markets/dividend-alert-this-small-cap-automotive-firm-declares-rs-94-share-payout-check-record-date-11967532#publisher=newsstand)
-The dividends will be paid on or before September 25, 2026.
-
-**Source:** NDTV Profit  **Date:** 2026-08-27
-
-### [Buyback Alert: Great Eastern Shipping To Repurchase Rs 900-Crore Shares. Check Details](https://www.ndtvprofit.com/markets/buyback-alert-great-eastern-shipping-to-repurchase-rs-900-crore-shares-check-details-11967270#publisher=newsstand)
-Great Eastern Shipping Company's board has approved buyback of shares worth Rs 900 crore on Thursday, August 27.
-
-**Source:** NDTV Profit  **Date:** 2026-08-27
 
 ---
 
@@ -280,14 +281,14 @@ TILT is targeting a funding gap faced by early-stage businesses serving low-inco
 
 **Source:** Mint - Pharma  **Date:** 2026-08-27
 
-### ['Planted Story': Aakash Chopra's Blunt Take On MS Dhoni's Reported CSK Stake Demand](https://www.ndtvprofit.com/sports/planted-story-aakash-chopras-blunt-take-on-ms-dhonis-reported-csk-stake-demand-11967427#publisher=newsstand)
-MS Dhoni has led CSK to five IPL titles.
+### [No Changes In CAS; Final Approval On NSE IPO Soon: Pandey](https://www.ndtvprofit.com/markets/no-changes-in-cas-final-approval-on-nse-ipo-soon-pandey-11968618#publisher=newsstand)
+A clearing member may be financially sound on its own, but common exposures can create concentrations across the system, Pandey said.
 
 **Source:** NDTV Profit  **Date:** 2026-08-27
 
 ---
 
-## 📉 Analyst & Brokerage Calls (5)
+## 📉 Analyst & Brokerage Calls (8)
 
 ### [Rs 58,000 crore selloff by promoters, PE funds hits stock market. Why are they cashing out now?](https://economictimes.indiatimes.com/markets/stocks/news/rs-58000-crore-selloff-by-promoters-pe-funds-hits-stock-market-why-are-they-cashing-out-now/articleshow/133555496.cms)
 In August, both promoters and private equity funds collectively divested shares valued at nearly ₹58,000 crore, marking a notable selloff as the stock market endeavored to rebound from recent downturns. The numbers revealed that private equity exits skyrocketed five times compared to previous months, achieving peak levels not seen since 2026. This influx of shares from promoters further heightened market liquidity concerns amid ongoing primary market activity.
@@ -314,9 +315,24 @@ Vijay Kedia’s top five stock holdings and how they have performed over the pas
 
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
 
+### [Warburg Pincus' Arm Sells 4.25% Stake In Apollo Tyres For Rs 1,175 Crore](https://www.ndtvprofit.com/markets/warburg-pincus-arm-sells-4-25-stake-in-apollo-tyres-for-rs-1-175-crore-11968628#publisher=newsstand)
+After the latest transaction, Emerald Sage Investment's holding in Apollo Tyres has come down to 5.68% from 9.93%.
+
+**Source:** NDTV Profit  **Date:** 2026-08-27
+
+### [S&P Affirms India's 'BBB' Sovereign Rating; Cites Dynamic Economy, Policy Stability](https://www.ndtvprofit.com/economy/s-p-affirms-indias-bbb-sovereign-rating-cites-dynamic-economy-policy-stability-11968608#publisher=newsstand)
+Earlier this month, another rating agency, Fitch, had affirmed India's rating at 'BBB-', citing a robust domestic economy.
+
+**Source:** NDTV Profit  **Date:** 2026-08-27
+
+### [Trade Setup For Aug 28: Nifty Support Below 24,000; Breach May Worsen Selloff, Analysts Warn](https://www.ndtvprofit.com/markets/trade-setup-for-aug-28-nifty-support-below-24-000-breach-may-worsen-selloff-analysts-warn-11968459#publisher=newsstand)
+24,000-23,950 zone is expected to act as a crucial support area for the Nifty, with an upward-sloping trendline positioned around these levels.
+
+**Source:** NDTV Profit  **Date:** 2026-08-27
+
 ---
 
-## 📰 Industry & Policy News (19)
+## 📰 Industry & Policy News (20)
 
 ### [Solar Industries among 5 stocks hitting 52-week highs; surge up to 22% in a month](https://economictimes.indiatimes.com/markets/stocks/news/solar-industries-among-5-stocks-hitting-52-week-highs-surge-up-to-22-in-a-month/slideshow/133568796.cms)
 Five BSE 200 stocks hit fresh 52-week highs on Thursday despite a weak market. Divi’s Laboratories led the pack with a 22% monthly gain.
@@ -324,6 +340,11 @@ Five BSE 200 stocks hit fresh 52-week highs on Thursday despite a weak market. D
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
 
 ### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-27-aug-2026/liveblog/133554731.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-08-27
+
+### [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133572997.cms)
+Indian equities ended sharply lower on Thursday as expiry-day volatility intensified after the first monthly expiry under the Closing Auction Session. Sensex fell 539 points and Nifty 117 points, while technical indicators signalled weakening momentum amid global and geopolitical uncertainty.
+
 **Source:** Economic Times - Markets  **Date:** 2026-08-27
 
 ### [Calcutta Stock Exchange seeks Sebi nod for trading comeback](https://economictimes.indiatimes.com/markets/stocks/news/calcutta-stock-exchange-seeks-sebi-nod-for-trading-comeback/articleshow/133571060.cms)
@@ -386,29 +407,29 @@ Sembcorp Green Infra has filed draft papers with Sebi for a ₹3,750 crore all-f
 
 **Source:** Mint - Pharma  **Date:** 2026-08-27
 
-### [HPs decline in PC shipments overshadows strong results; shares fall](https://www.livemint.com/companies/hps-decline-in-pc-shipments-overshadows-strong-results-shares-fall-11787777569285.html)
-HP-RESULTS:HP's decline in PC shipments overshadows strong results; shares fall
-
-**Source:** Mint - Pharma  **Date:** 2026-08-26
-
 ### [Aragen Life Sciences files DRHP with SEBI for ₹800 crore IPO](https://www.expresspharma.in/aragen-life-sciences-files-drhp-with-sebi-for-%e2%82%b9800-crore-ipo/)
 IPO comprises a fresh issue of ₹800 crore and an offer for sale of up to 27,329,192 equity shares The post Aragen Life Sciences files DRHP with SEBI for ₹800 crore IPO appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-08-27
 
-### [SanDisk Shares Fall As Investors Shrug At $31-Billion Push For Memory Chips](https://www.ndtvprofit.com/markets/sandisk-shares-fall-as-investors-shrug-at-31-billion-push-for-memory-chips-11967563#publisher=newsstand)
-Sandisk shares fell as much as 1.87% to $1,471.38 apiece.
+### [Vodafone Idea AGR Reassessment Strengthens Balance Sheet, Kumar Mangalam Birla Says](https://www.ndtvprofit.com/business/vodafone-idea-agr-reassessment-strengthens-balance-sheet-kumar-mangalam-birla-says-11968604#publisher=newsstand)
+AGR reassessment improves Vodafone Idea's financial outlook as it pushes capex and 5G growth.
 
 **Source:** NDTV Profit  **Date:** 2026-08-27
 
-### [Nvidia Shares Zoom 8% But There's No Ripple Effect; AMD, Micron, Other Chip Stocks In Red](https://www.ndtvprofit.com/markets/nvidia-shares-zoom-8-but-theres-no-ripple-effect-amd-micron-other-chip-stocks-in-red-11967475#publisher=newsstand)
-Nvidia emerged as the clear standout, with its shares rising 7.19%, or $15.07, to $224.73 in early trade.
+### [IPO GMP Today: Hy-Tech Engineers vs Symbiotec vs Skyways—Which Signals Better Listing Gains?](https://www.ndtvprofit.com/markets/ipo-gmp-today-hy-tech-engineers-vs-symbiotec-vs-skyways-which-signals-better-listing-gains-11961151#publisher=newsstand)
+Hy-Tech Engineers IPO leads with an 85% implied listing gain and 244 times subscription, followed by Skyways Air Services and Symbiotec Pharmalab with 32% and 27% gains respectively.
 
 **Source:** NDTV Profit  **Date:** 2026-08-27
 
-### [NSE To Trade On NSE? SEBI Chief Says Will Assess PTT Proposal When It Comes](https://www.ndtvprofit.com/markets/nse-to-trade-on-nse-sebi-chief-says-will-assess-ptt-proposal-when-it-comes-11967315#publisher=newsstand)
-The proposed arrangement would effectively allow NSE to list on BSE while potentially permitting its shares to trade on NSE.
+### [India's Pharma Giants Brace for Margin Squeeze as Trump's Drug Import Order Sets 25% Tariff Ceiling - The Eastern Herald](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFppS1Y3T2FyNW9kNTFnejdyR05pOGU4U1F1aVRscmR3aWNPbjRYLTQ3NHRaa0hhcXBEVENEYTZ2aXpxSnM3VUJjS2M2bi1sRkROQjd6TjhXdUdBYlRWOUlnakdYT3RPQlFLbEFJeDRlRDRmSE9vSmZwMmZfLVBFbkc3UlpyYVM4aUkwWW9QUXdJb2lQNXZzN0FnNER0X0VtWHRhS18tM0tQazB2WnZ2ZQ?oc=5)
+India's Pharma Giants Brace for Margin Squeeze as Trump's Drug Import Order Sets 25% Tariff Ceiling &nbsp;&nbsp; The Eastern Herald
 
-**Source:** NDTV Profit  **Date:** 2026-08-27
+**Source:** GNews - India Pharma  **Date:** 2026-08-27
+
+### [India's Pharma Stocks Climb as CDMO Contracts Replace the Generic Trade as the Growth Driver - The Eastern Herald](https://news.google.com/rss/articles/CBMipgFBVV95cUxOamFLYmp1T0F1REExNDI4UWRGZE1FbGpaR3FheVVzWTloaVdmSzh6VmZxUE4yTWlERWZlV1ZtSkVwN0gxcWthSDJ3Y1RmLWNTMm9hbHdNLVhUaGNxU0VVT2VRemtRa3BsNmVWT3dNWlEyVVNtUTY5TXpoeTg0V2V1RHFDNDlvOXRpRkJDejljTGRmSHBqS2xFbVBPVHNZcWNVWXRHVkVB?oc=5)
+India's Pharma Stocks Climb as CDMO Contracts Replace the Generic Trade as the Growth Driver &nbsp;&nbsp; The Eastern Herald
+
+**Source:** GNews - India Pharma Export  **Date:** 2026-08-27
 
 ---
