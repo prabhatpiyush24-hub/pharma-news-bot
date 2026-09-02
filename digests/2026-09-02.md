@@ -1,13 +1,33 @@
 # 🏥 India Pharma Investor Digest — 2026-09-02
 
-> 57 items · 2026-09-02 08:21 UTC
+> 51 items · 2026-09-02 15:58 UTC
 
-## 📊 BSE / NSE Filings (2)
+## 📊 BSE / NSE Filings (6)
 
 ### [Aurobindo Pharma: Intimation of incorporation of a new wholly owned subsidiary  by the name of Ávogent Lifesciences Private Limited'' by Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6d5e66b-af04-4e2e-bada-7d00fbd7578b.pdf)
 Category: Company Update | Sub: Acquisition | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-09-01
+
+### [Kabra Drugs Ltd: Outcome of Board Meeting held on 02nd September 2026](https://www.bseindia.com/corporates/ann.html?scrip=524322)
+BSE Code: 524322
+
+**Source:** BSE Filing  **Date:** 2026-09-02
+
+### [Sun Pharma: Sun Pharma participates in White House Signing Ceremony highlighting U.S. Medicines Pricing and Access Commitments](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e6d6a52a-27a2-4c39-9597-c1ac06bd16b0.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-09-01
+
+### [Cipla: Please find attached newspaper publication regarding opening of special window for re-lodgement of transfer and dematerialisation of physical shares](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ee7361e0-13bb-482a-9770-0868e4bead41.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-09-02
+
+### [Biocon: We wish to inform the Exchanges that the Meeting of the Finance Committee of the Board of Directors of the Company will be held on Monday, September 07, 2026, inter-alia, to consider and ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1846950c-3cc6-48dd-978f-ef0e40a9a73c.pdf)
+Category: Company Update | Sub: General | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-09-02
 
 ### [Sanofi India: This is to inform you that the Company through its representatives, will be participating in the conference as per enclosed letter.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d96237db-937e-4538-a70a-ccaa980f512a.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
@@ -16,7 +36,7 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
 
 ---
 
-## 💰 Results & Financials (6)
+## 💰 Results & Financials (8)
 
 ### [Hero MotoCorp shares fall over 4% as August exports, motorcycle dispatches decline](https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-fall-over-4-as-august-exports-motorcycle-dispatches-decline/articleshow/133700041.cms)
 Hero MotoCorp shares fell after August dispatch data showed year-on-year declines in motorcycle and export volumes, despite strong scooter sales keeping overall dispatches positive. The stock’s one-week loss widened to 4.64%, underperforming the benchmark’s 1.97% decline.
@@ -33,24 +53,34 @@ FIIs have remained heavy sellers of Indian equities since September 2024, with n
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
+### [New CEO Aasif Malbari outlines clean-up plan for Godrej Consumer](https://www.livemint.com/companies/news/new-ceo-asif-malbari-outlines-clean-up-plan-for-godrej-consumer-soap-brand-pet-food-frangrances-trade-digital-marketing-11788355945510.html)
+Aasif Malbari, former CFO of Godrej Consumer Products, took over the top job in August after Sudhir Sitapati's unexpected resignation.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-09-02
+
 ### [Mint Explainer: Can NITI Aayog clear the bottlenecks holding back India’s deep-tech startups?](https://www.livemint.com/companies/start-ups/niti-aayog-deep-tech-startups-challenges-11788320293931.html)
 NITI Aayog's upcoming study aims to address critical gaps in patient capital and infrastructure to help India's 4,200 deep-tech ventures move beyond lab prototypes and scale into commercially viable global businesses.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-02
+
+### [Gland Pharma’s Visakhapatnam facilities clear USFDA inspection with zero observations](https://www.expresspharma.in/gland-pharmas-visakhapatnam-facilities-clear-usfda-inspection-with-zero-observations/)
+The inspection was conducted from August 24 to September 1, 2026 The post Gland Pharma’s Visakhapatnam facilities clear USFDA inspection with zero observations appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-02
+
+### [US-Iran War News Live Updates: Rubio Says US To Sanction Countries That Help Iran Obtain Revenue](https://www.ndtvprofit.com/world/us-iran-war-news-live-updates-middle-east-tensions-trump-tehran-launches-counterattack-death-toll-gulf-news-11990085#publisher=newsstand)
+Iran War Live Updates
+
+**Source:** NDTV Profit  **Date:** 2026-09-02
 
 ### [Biocon stock holds steady as investors digest Q1 FY2026 results - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0p2aUZieldySlpyVV9uRVZKRk9aak8tUFNMVHJTMkhPbGQ0NXZTTDA2WHFSb2c3bFFYYjNSQW5XdEpiYm91X3lOejZ3cm9WUzhIZ0lncE5NVkdBOEhvMmQxWkRPRFdTWWFPUUJiWDBEcVRZNHBfQjV5Z1lRMEc2MEl0ZjIwMTZsWnFfWkQtR285aWVVTC1jeThHNDVmN3drd2lMUC00aGVIaVZJdUV6dDk2MFVqZVFzTzZIYkp1cw?oc=5)
 Biocon stock holds steady as investors digest Q1 FY2026 results &nbsp;&nbsp; AD HOC NEWS
 
 **Source:** GNews - Biocon  **Date:** 2026-09-02
 
-### [Semicon India 2026 Draws Strong Global Interest, Chinese Firms May Participate For First Time](https://www.ndtvprofit.com/business/semicon-india-2026-draws-strong-global-interest-chinese-firms-may-participate-for-first-time-11990995#publisher=newsstand)
-Semicon India 2026
-
-**Source:** NDTV Profit  **Date:** 2026-09-02
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (13)
+## 🤝 Deals, M&A & Partnerships (11)
 
 ### [TBZ surges over 38% in two sessions, extending gains after hitting upper circuit. What's triggering the rally?](https://economictimes.indiatimes.com/markets/stocks/news/tbz-shares-rally-16-extending-gains-for-a-second-session-whats-triggering-the-surge/articleshow/133700844.cms)
 Tribhovandas Bhimji Zaveri (TBZ) shares surged 38.9% in two sessions as investors reacted to GRT Jewellers’ proposed acquisition of the jewellery retailer. GRT plans to acquire 74.12% promoter stake at up to Rs 209 per share and launch an open offer for the remaining public stake at Rs 249.61 per share, while the stock climbed to Rs 423 on Wednesday, well above both transaction prices.
@@ -62,18 +92,13 @@ ONGC Videsh may soon be able to access $500 million in dividends stuck in Venezu
 
 **Source:** Mint - Pharma  **Date:** 2026-09-02
 
+### [Happiest Minds' CEO, MD rule out layoffs after merger announcement with ITC Infotech; say deal to boost talent pool](https://www.livemint.com/companies/news/happiest-minds-ceo-md-rule-out-layoffs-after-merger-announcement-with-itc-infotech-says-deal-to-boost-talent-pool-11788337110555.html)
+Happiest Minds Technologies ruled out layoffs following its merger with ITC Infotech, saying the deal is focused on expanding talent and capabilities. The combined entity will have over 19,000 employees, while Happiest Minds shares fell nearly 11% after the announcement.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-02
+
 ### [Why did Elon Musk want Cursor? Know the real story and how MIT grad Aman Sanger sealed $60 billion deal](https://www.livemint.com/companies/people/why-did-elon-musk-want-cursor-know-the-real-story-and-how-mit-grad-aman-sanger-sealed-60-billion-deal-11788275983698.html)
 MIT graduate Aman Sanger helped build Cursor from an AI idea into a $60 billion SpaceX acquisition. Here’s how the deal came together.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [Unacademy’s $3.44 billion valuation to $200 million acquisition by upGrad: Gaurav Munjal reflects on journey](https://www.livemint.com/companies/news/unacademys-3-44-billion-valuation-to-200-million-acquisition-by-upgrad-gaurav-munjal-reflects-on-journey-11788243091634.html)
-Edtech company upGrad has completed its acquisition of Unacademy for just over $200 million, far below the latter's peak $3.44 billion valuation. Unacademy co-founder Gaurav Munjal said the deal will benefit the education ecosystem, while highlighting Unacademy’s impact on online learning in India.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [Sun Pharma signs deal with US government to reduce drug prices](https://www.livemint.com/companies/news/sun-pharma-signs-deal-with-us-government-to-reduce-drug-prices-medicine-pharma-11788257469784.html)
-Sun Pharma has committed to applying MFN pricing to future innovative medicine launches and will also avoid tariffs on innovative pharmaceutical products for more than two years.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-01
 
@@ -82,23 +107,13 @@ Welspun Corp shares will be in focus after the company signed an MoU with Perma-
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
+### [Chevron expands in Venezuela with $7 billion investment as US pushes for greater access to oil reserves](https://www.livemint.com/companies/news/chevron-expands-in-venezuela-with-7-billion-investment-as-us-pushes-for-greater-access-to-oil-reserves-11788355555249.html)
+The agreement marks a significant expansion of Chevron’s presence in Venezuela as US companies seek greater access to the country’s vast oil reserves.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-02
+
 ### [Nestle agrees $1 billion sale of vitamins, minerals and supplements business to Yellow Wood](https://www.livemint.com/companies/nestle-agrees-1-billion-sale-of-vitamins-minerals-and-supplements-business-to-yellow-wood-11788284728805.html)
 The deal includes seven brands — Nature's Bounty, Osteo Bi-Flex, Ester-C, Gard, Nuun, Puritan's Pride and Sisu — and the U.S. private-label supplements business.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [Why Sashidhar Jagdishan chose to leave HDFC Bank, refused another term at India’s largest private bank](https://www.livemint.com/companies/news/why-sashidhar-jagdishan-chose-to-leave-hdfc-bank-refused-another-term-at-india-s-largest-private-bank-11788267068654.html)
-Sashidhar Jagdishan's sudden departure from HDFC Bank surprised many. His decision, influenced by leadership disagreements and governance pressures, highlights the complexities within the bank.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [ArcelorMittal drops out of CLN Joint Venture amid Italian government's restrictions — What we know](https://www.livemint.com/companies/news/arcelormittal-drops-takeover-of-italy-jv-after-government-ruling-11788263866493.html)
-ArcelorMittal SA dropped its planned takeover of a joint venture with struggling carpart manufacturer CLN-Coils Lamiere Nastri SpA after the Italian government imposed restrictions, paving the way for a domestic rival to take control.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [WeWork India inks managed office lease deal with Cognizant in Chennai](https://www.livemint.com/companies/news/wework-india-inks-managed-office-lease-deal-with-cognizant-in-chennai-11788203845980.html)
-WeWork India has leased 141,392 sq ft to Cognizant in Chennai. The deal highlights IT firms’ growing use of flexible workspaces alongside long-term leases.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-01
 
@@ -107,13 +122,18 @@ SBP Group subsidiary Chia Tai Tianqing Pharmaceutical Group (CTTQ) has granted C
 
 **Source:** Express Pharma  **Date:** 2026-09-02
 
-### [India Glycols Completes Demerger; New Entities to List on BSE, NSE - Whalesbook](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQanJEOS1QSTRfMkx3LXFZX0lDVC1uWHNjT0FYbF9tbldvVXFIREFwMkVZbkF1RFpxZ0RMQWtuWEdoRkNFU1JmQVRoQU1OQjM0YnRsYWpZVEowRDlKVGVwOHUyYklFY0hSUVZGQWFsTG1qb2ZMQkpxZU9GVmoxaEVFZ1FwaTN2YVRkdFhfbnVLX0xFRV9VckJPTE9NVUtYNGF0VE9JTTZjQWZtelQ5djM5ZU9VMmZfR3Fzb0dfNmlpQTI5dHBjMHBZZVdCLUNON0RVU1RPSURUS1JUVm42MHNYOXNBN2NFOHNYZ1IyZU4wTlpNUXZsaERN?oc=5)
-India Glycols Completes Demerger; New Entities to List on BSE, NSE &nbsp;&nbsp; Whalesbook
+### [Tiger Woods Avoids Trial With Plea Deal, Gets Five-Year Driving Ban](https://www.ndtvprofit.com/sports/tiger-woods-avoids-trial-with-plea-deal-gets-five-year-driving-ban-11993008#publisher=newsstand)
+Tiger Woods pleaded no contest after a Florida rollover crash, leading to a five-year licence suspension.
 
-**Source:** GNews - India Pharma  **Date:** 2026-09-01
+**Source:** NDTV Profit  **Date:** 2026-09-02
 
-### [Sun Pharma Shares In Focus: US MFN Deal Eases Tariff Risk, Says ICICI Securities — Check Target Price](https://www.ndtvprofit.com/markets/sun-pharma-shares-in-focus-us-mfn-deal-eases-tariff-risk-says-icici-securities-check-target-price-11990756#publisher=newsstand)
-Sun Pharmaceutical Industries Ltd. has entered into a Most Favoured Nation (MFN) pricing agreement with the US government, along with eight other pharmaceutical companies under which Sun will extend MFN pricing to state Medicaid programmes for existing and future launches
+### [Would You Pay Rs 48,000 For A Toothbrush? Dyson Thinks AI Can Make It Worth It](https://www.ndtvprofit.com/technology/would-you-pay-rs-48-000-for-a-toothbrush-dyson-thinks-ai-can-make-it-worth-it-11992453#publisher=newsstand)
+The Dyson CameraJet combines a built-in camera, AI-assisted oral care and automated mouthwash delivery.
+
+**Source:** NDTV Profit  **Date:** 2026-09-02
+
+### [Sergio Gor Confirms Piyush Goyal's US Visit For G20 Summit Amid Trade Deal Talks](https://www.ndtvprofit.com/economy/us-ambassador-sergio-gor-confirms-piyush-goyals-us-visit-for-g20-summit-amid-trade-deal-talks-11992360#publisher=newsstand)
+US Ambassador Sergio Gor confirms Piyush Goyal's visit for G20 meetings and India-US trade talks.
 
 **Source:** NDTV Profit  **Date:** 2026-09-02
 
@@ -121,29 +141,34 @@ Sun Pharmaceutical Industries Ltd. has entered into a Most Favoured Nation (MFN)
 
 ## 🏭 Operations & Approvals (4)
 
+### [Zerodha gets Sebi nod for merchant banking licence, formal registration awaited: Report](https://economictimes.indiatimes.com/markets/stocks/news/zerodha-gets-sebi-nod-for-merchant-banking-licence-formal-registration-awaited-report/articleshow/133713693.cms)
+Zerodha’s merchant banking licence application has received Sebi clearance, enabling its expansion into investment banking after formal registration. The move broadens its financial services portfolio, strengthens its capital markets presence and positions the broker to support companies raising funds through IPOs.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-02
+
 ### [Kwality Walls shares fall 3% as RIL's foray into ice cream biz raises competition fears](https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-shares-fall-3-as-rils-foray-into-ice-cream-biz-raises-competition-fears/articleshow/133698927.cms)
 Kwality Walls shares dropped on Wednesday as Reliance Consumer Products entered India’s ice cream market with Bombay Creamery, raising competition concerns. The stock extended its losing streak to seven sessions, declining 11% during the period. RCPL plans a pan-India rollout after launching the brand in western India, with prices starting at Rs 10.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [United Breweries sees premium beer growing 3x faster than market](https://www.livemint.com/companies/news/ubl-sees-premium-beer-growing-3x-faster-than-market-11788250196928.html)
-United Breweries has made a ₹110 crore investment in a new canning facility, aiming to boost production of Kingfisher and other premium brands despite rising input costs.
+### [The discipline for next 2-3 years will be to keep growing the base responsibly, not chasing volume](https://www.expresspharma.in/the-discipline-for-next-2-3-years-will-be-to-keep-growing-the-base-responsibly-not-chasing-volume/)
+India’s cold-chain logistics sector is witnessing rapid growth, led by rising demand for temperature-sensitive pharmaceuticals, biologics and injectables. ColdStar Logistics is capitalising on this opportunity through specialised pharma logistics, technology-led operations and network expansion, targeting significant growth in Tier-II and Tier-III cities. Sameer Varma, Executive Director, shares the company’s strategy with Express Pharma. The post The discipline for next 2-3 years will be to kee
 
-**Source:** Mint - Pharma  **Date:** 2026-09-01
+**Source:** Express Pharma  **Date:** 2026-09-02
 
-### [Real dairy cream for  ₹10: Reliance enters India’s ice cream market with Bombay Creamery](https://www.livemint.com/companies/news/real-dairy-cream-for-rs-10-reliance-enters-india-s-ice-cream-market-with-bombay-creamery-11788260772699.html)
-Reliance Consumer Products Limited has launched Bombay Creamery, its new premium ice cream brand in India. The brand features real dairy ingredients and a diverse product range starting at ₹10.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [Vivo T5 Launched: 50 MP OIS Camera, Turbo Battery - Check Price, Features, Offers And Other Details](https://www.ndtvprofit.com/technology/vivo-t5-launched-50-mp-ois-camera-turbo-battery-check-price-features-and-other-details-11990957#publisher=newsstand)
-For photography, the Vivo T5 5G gets a 50MP Sony IMX882 primary camera.
+### [Indian Engineering Exporters Flag Fresh Tariff Risk From US-Russia Sanctions Bill](https://www.ndtvprofit.com/economy/indian-engineering-exporters-flag-fresh-tariff-risk-from-us-russia-sanctions-bill-11992505#publisher=newsstand)
+Indian engineering exporters fear additional US tariffs as a Russia sanctions bill moves through Congress.
 
 **Source:** NDTV Profit  **Date:** 2026-09-02
 
 ---
 
-## 📉 Analyst & Brokerage Calls (12)
+## 📉 Analyst & Brokerage Calls (8)
+
+### [Market Trading Guide: Ageis Vopak Terminals among 2 stock recommendations for Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ageis-vopak-terminals-among-2-stock-recommendations-for-thursday/articleshow/133714213.cms)
+Indian equities remained volatile amid global bond-market stress and West Asia tensions, with mid-caps under pressure. Analysts recommend SKF India and Aegis Vopak Terminals, citing technical breakouts, strong volumes and improving momentum for potential upside.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-02
 
 ### [Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5%](https://economictimes.indiatimes.com/markets/stocks/news/bigger-market-crash-ahead-analysts-weigh-how-sensex-nifty-may-react-if-us-10-year-bond-yield-touches-5/articleshow/133702065.cms)
 Global bond yields are hitting multi-year highs, with the US 10-year yield nearing 5% amid rising oil prices, inflation fears and concerns over government debt. Indian 10-year yields also crossed 7%, raising concerns about the impact of higher borrowing costs and shifting investor preference on equities.
@@ -170,58 +195,35 @@ Indian stock markets experienced a significant downturn on Wednesday morning. Se
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [Meesho wants its small sellers to graduate from merchants to brands](https://www.livemint.com/companies/news/meesho-wants-its-small-sellers-to-graduate-from-merchants-to-brands-11788258780890.html)
-As smaller, less-experienced sellers flood the platform, Meesho is using AI to simplify online selling, push merchants towards brands and expand into grocery without abandoning its value proposition.
+### [The double burden of tighter enforcement, slower implementation](https://www.expresspharma.in/the-double-burden-of-tighter-enforcement-slower-implementation/)
+India’s pharma MSMEs are facing a tough transition to revised GMP norms, hampered by slow implementation of the very schemes that were intended to help them upgrade. This highlights gaps between policy intent and implementation, and the subsequent drag on compliance levels The post The double burden of tighter enforcement, slower implementation appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-09-01
+**Source:** Express Pharma  **Date:** 2026-09-02
 
-### [Mankind Pharma sells Broadway Hospitality stake for Rs 49 crore](https://www.expresspharma.in/mankind-pharma-sells-broadway-hospitality-stake-for-rs-49-crore/)
-In a regulatory filing, the company said the transaction was completed on August 31, 2026 The post Mankind Pharma sells Broadway Hospitality stake for Rs 49 crore appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-01
-
-### [RBL Bank, Manappuram, Paisalo Digital Among Small-Cap Stocks That Saw Rise In Promoter Holding](https://www.ndtvprofit.com/markets/rbl-bank-manappuram-paisalo-digital-among-small-cap-stocks-that-saw-rise-in-promoter-holding-11991148#publisher=newsstand)
-Promoter ownership of Indian equities has fallen to 50.3% in June 2026 from 53.4% in June 2014.
-
-**Source:** NDTV Profit  **Date:** 2026-09-02
-
-### [Buy, Sell Or Hold: IndiGo, Maruti Suzuki, Biocon, LIC, Hindustan Copper, Bharat Dynamics  — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-indigo-maruti-suzuki-biocon-lic-hindustan-copper-bharat-dynamics-ask-profit-11985392#publisher=newsstand)
-Buy Sell Hold
-
-**Source:** NDTV Profit  **Date:** 2026-09-02
-
-### [Tukaram Mundhe's Loose Oil Ban Crackdown Put On Hold, Traders Get Respite From FDA Action](https://www.ndtvprofit.com/india/tukaram-mundhes-loose-oil-ban-crackdown-put-on-hold-traders-get-respite-from-fda-action-11990884#publisher=newsstand)
-Fadnavis puts Tukaram Mundhe's FDA action on loose edible oil on hold for a year
-
-**Source:** NDTV Profit  **Date:** 2026-09-02
-
-### [Auto Stocks In Red: Hero Motocorp, Eicher Motors, M&M, Bajaj Auto, Others Fall Up To 6%](https://www.ndtvprofit.com/markets/auto-stocks-in-red-hero-motocorp-eicher-motors-m-m-bajaj-auto-others-fall-up-know-why-11990899#publisher=newsstand)
-The steep selloff comes despite broadly strong August auto sales, and was likely triggered due to a bearish macro sentiment, as per Harshal Dasani, Business Head at INVAsset PMS.
-
-**Source:** NDTV Profit  **Date:** 2026-09-02
-
-### [Ujjivan Small Finance Bank Shares May Rally Up To 38%, Says ICICI Securities — Here's Why](https://www.ndtvprofit.com/markets/ujjivan-small-finance-bank-shares-may-rally-up-to-38-percent-says-icici-securities-heres-why-11990793#publisher=newsstand)
-Management expects RoA to remain at 1.82%, driven primarily by operating leverage and lower credit costs with advances growth at 25% YoY in FY27, adds the brokerage.
+### [Maldives Emerges As Transit Hub For Western Goods Bound For Sanctioned Russian Buyers: Report](https://www.ndtvprofit.com/world/maldives-emerges-as-transit-hub-for-western-goods-bound-for-sanctioned-russian-buyers-report-11992770#publisher=newsstand)
+Microchips and dual-use goods were reportedly routed through the Maldives before being flown to Moscow.
 
 **Source:** NDTV Profit  **Date:** 2026-09-02
 
 ---
 
-## 📰 Industry & Policy News (20)
+## 📰 Industry & Policy News (14)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-02-sep-2026/liveblog/133696348.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-02-sep-2026/liveblog/133696348.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Daily Performance Review](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-02-sep-2026/liveblog/133696337.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-02-sep-2026/liveblog/133696337.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [Apollo Hospital Share Price Live Updates: Today's Stock Movement for Apollo Hospital](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-02-sep-2026/liveblog/133696302.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-02-sep-2026/liveblog/133696302.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [Cipla Share Price Live Updates: Cipla's Market Performance Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-02-sep-2026/liveblog/133696245.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-02-sep-2026/liveblog/133696245.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [Divis Labs Share Price Live Updates: Divis Labs Current Price Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-02-sep-2026/liveblog/133696074.cms)
+### [BSE courts HFT firms to boost closing auction liquidity](https://economictimes.indiatimes.com/markets/stocks/news/bse-courts-hft-firms-to-boost-closing-auction-liquidity/articleshow/133705695.cms)
+BSE Ltd. is taking steps to engage traders in order to enhance day-end trading volumes after encountering liquidity challenges. The implementation of a new closing auction system has led to pronounced price fluctuations and diminished options turnover. According to the CEO, market participants are not experiencing the intended benefits. Since the system's rollout in August, BSE's stock has dropped sharply, prompting consideration of minor adjustments to improve efficiency.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
 ### [Multibaggers: These 9 midcap stocks surged up to 300% in two years. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-these-9-midcap-stocks-surged-up-to-300-in-two-years-do-you-own-any/slideshow/133703134.cms)
@@ -229,7 +231,7 @@ While the Nifty 50 declined nearly 5% over the past two years and the Nifty Midc
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [BSE shares slip 3% exchange flags lower volumes due to CAS](https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-slip-3-exchange-flags-lower-volumes-due-to-cas/articleshow/133702179.cms)
+### [BSE shares slip 3% after exchange flags CAS-driven volume decline](https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-slip-3-exchange-flags-lower-volumes-due-to-cas/articleshow/133702179.cms)
 BSE shares fell dropped on Wednesday after the exchange acknowledged that the newly introduced Closing Auction Session (CAS) had contributed to lower trading volumes. Equity derivatives turnover hit multi-month lows in August, while BSE’s average daily traded turnover declined 26% month-on-month as traders reduced activity amid heightened expiry-day volatility.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
@@ -239,13 +241,7 @@ BEML shares gained nearly 2% after the company secured a Rs 180.60 crore order f
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
-### [IndusInd Bank Share Price Live Updates: IndusInd Bank Shares Fall by More Than 5%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-livestock-price-today-live-updates-02-sep-2026/liveblog/133696301.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-02
-
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Price Trends](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-02-sep-2026/liveblog/133696143.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-02
-
-### [TCS Share Price Live Updates: TCS shares currently priced at Rs 2342.0](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-live-updates-02-sep-2026/liveblog/133696104.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-02-sep-2026/liveblog/133696143.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-02
 
 ### [Adani Group's listed companies report drop in headcount as jobs get outsourced to vendors](https://www.livemint.com/companies/news/adani-group-listed-companies-headcount-outsourcing-jobs-vendors-11788253647002.html)
@@ -263,34 +259,14 @@ Shah Rukh Khan becomes the face of Vodafone Idea's new brand identity campaign. 
 
 **Source:** Mint - Pharma  **Date:** 2026-09-01
 
-### [GIC Re flags GIFT City competition amid changing reinsurance market](https://www.livemint.com/companies/company-results/gic-re-flags-gift-city-competition-amid-changing-reinsurance-market-11788266700328.html)
-In his maiden annual report address as GIC Re’s chairman and managing director, Hitesh Joshi outlines a cautiously optimistic outlook for India’s insurance market and the company’s growth ambitions ahead.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [Ashok Soota’s Happiest Minds stake sale to ITC Infotech not driven by AI fears](https://www.livemint.com/companies/news/ashok-soota-happiest-minds-stake-sale-itc-infotech-ai-india-it-sector-11788260346589.html)
-The clarification from Happiest Minds comes at a time when artificial intelligence has cast a shadow over the future of the country’s $300 billion IT sector, as clients look to shrink their outsourcing costs by deploying AI agents.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
-### [IPO-bound Parle Products appoints former PepsiCo executive George Kovoor as CEO](https://www.livemint.com/companies/news/parle-products-ipo-george-kovoor-ceo-11788246496054.html)
-Kovoor spent over 30 years at PepsiCo across geographies, including China and the US, before serving as senior vice president and general manager of its India beverages business.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-01
-
 ### [Andelyn Biosciences to scale manufacturing for Genprex’s Diabetes Gene Therapy Program](https://www.expresspharma.in/andelyn-biosciences-to-scale-manufacturing-for-genprexs-diabetes-gene-therapy-program/)
 The collaboration will support Genprex's AAV-based diabetes gene therapy candidate for IND-enabling preclinical studies and cGMP clinical manufacturing The post Andelyn Biosciences to scale manufacturing for Genprex&#8217;s Diabetes Gene Therapy Program appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-02
 
-### [Deepa Jewellers vs Purple Style Labs IPO GMP: Which Could Deliver Higher Listing Gain?](https://www.ndtvprofit.com/markets/deepa-jewellers-vs-purple-style-labs-ipo-gmp-which-could-deliver-highest-listing-gain-11987437#publisher=newsstand)
-The Deepa Jewellers and Purple Style Labs IPOs are drawing investor attention, with subscription trends and market sentiment shaping expectations ahead of their stock market debuts.
+### [Sun Pharma Advanced Research Company Ltd Hits Intraday Low Amid Price Pressure - MarketsMojo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX29VRm5UcXlaTnNFNFhVNHlkblhjUEVsX1dPT1RlN2syNGpfNWlSTk1UMF9uNjVjRU9GNVdSNXFkMGQ0bllsYl84SFV5ZmtBVWdfS2NSUExocmpaU2dtRVFfYVJacWpsS3R1ZkJ3dXJQbFQzdllTa2c5SHFhUEZSUVA0NWg3OWRuaEVKTkh5bHdFMnZ1Z2RhQk5qVXBIeHlRM1VSUXVkOUJnSHBtanp4X0MzQzB5NTVkRW9EMHNRM3MxQWwzSHpmVENkUVlHcWhOQlE?oc=5)
+Sun Pharma Advanced Research Company Ltd Hits Intraday Low Amid Price Pressure &nbsp;&nbsp; MarketsMojo
 
-**Source:** NDTV Profit  **Date:** 2026-09-02
-
-### [Stock Market Crash LIVE: Sensex Tanks 550 Points, Nifty50 Near 23,850; All Sectors In Red Zone](https://www.ndtvprofit.com/markets/stock-market-today-live-gift-nifty-signals-weak-start-for-nifty-50-sensex-nikkei-kospi-crude-oil-prices-us-iran-war-11989930#publisher=newsstand)
-Nifty Smallcap 100 and the Nifty Midcap 100 indices declined over 1% each.
-
-**Source:** NDTV Profit  **Date:** 2026-09-02
+**Source:** GNews - Sun Pharma  **Date:** 2026-09-01
 
 ---
