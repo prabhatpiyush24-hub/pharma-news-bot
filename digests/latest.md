@@ -1,13 +1,23 @@
 # 🏥 India Pharma Investor Digest — 2026-09-04
 
-> 78 items · 2026-09-04 08:26 UTC
+> 77 items · 2026-09-04 15:45 UTC
 
-## 📊 BSE / NSE Filings (13)
+## 📊 BSE / NSE Filings (16)
+
+### [Lupin: Lupin Receives U.S. FDA Approval for Modafinil Tablets, USP.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b3d70b0-e8e9-4475-ac17-82bf4cc76a11.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-09-04
 
 ### [FDC Limited: Intimation with regard to Record Date for determining entitlementof members to final dividend for the financial year ended March 31, 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/566c328a-eae6-4f34-857d-9d17764acfd1.pdf)
 Category: Corp. Action | Sub: Record Date | BSE Code: 524230
 
 **Source:** BSE Filing  **Date:** 2026-09-03
+
+### [Asston Pharmaceuticals Ltd: Outcome of the Board Meeting.](https://www.bseindia.com/corporates/ann.html?scrip=544445)
+BSE Code: 544445
+
+**Source:** BSE Filing  **Date:** 2026-09-04
 
 ### [Sun Pharma: Intimation of Schedule of Analyst/Institutional Investor Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e73571e1-30b8-4144-b251-007446265692.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524715
@@ -69,9 +79,14 @@ Category: AGM/EGM | Sub: AGM | BSE Code: 524230
 
 **Source:** BSE Filing  **Date:** 2026-09-03
 
+### [Natco Pharma Ltd: Natco Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 09/09/2026 ,inter alia, to consider and approve Fund Raising](https://www.bseindia.com/corporates/ann.html?scrip=524816)
+BSE Code: 524816
+
+**Source:** BSE Filing  **Date:** 2026-09-04
+
 ---
 
-## 💰 Results & Financials (15)
+## 💰 Results & Financials (17)
 
 ### [Block deal alert! Gland Pharma shares fall 3% as 1.2 crore shares change hands in 2 block deals; promoter Fosun likely seller](https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-gland-pharma-shares-in-focus-as-promoter-fosun-to-sell-5-stake-for-rs-2279-crore/articleshow/133750842.cms)
 Gland Pharma shares fell after a significant block deal involving Fosun Pharma Industrial. The company's VSEZ facility received zero USFDA observations after a recent inspection. Gland Pharma reported strong Q1FY27 results with increased profit and revenue. Its CDMO and B2B businesses showed substantial year-on-year growth. The pharma stock has gained significantly year-to-date.
@@ -80,6 +95,16 @@ Gland Pharma shares fell after a significant block deal involving Fosun Pharma I
 
 ### [Large trade alert! Gland Pharma shares fall 3% after 1.2 crore shares change hands in 2 block deals; promoter Fosun likely seller](https://economictimes.indiatimes.com/markets/stocks/news/large-trade-alert-gland-pharma-shares-fall-3-after-1-2-crore-shares-change-hands-in-2-block-deals-promoter-fosun-likely-seller/articleshow/133751351.cms)
 Gland Pharma shares fell 3% after 1.22 crore shares changed hands in two block deals worth nearly Rs 5,818 crore. Promoter Fosun Pharma Industrial was reportedly looking to sell a 5% stake for Rs 2,279.5 crore. Meanwhile, the company’s recent USFDA inspection of two Visakhapatnam facilities concluded with zero Form 483 observations.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [Dr. Reddy's Q4 Results: Net Profit Drops 86%, Revenue Down on Weak US Sales, Board Recommends 800% Dividend - Goodreturns](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdFpIaG9VMWxoRFpyaVVmZ2JkNGxPRVJtTnRSd2lva1pUcTYzQnQ3RFY3UkJTYmNFUVBISE1FMDNxTFlPaWM5X3BwSktZcnNia1pRb3BaWEZWMXZyMjZYdjFzSWktYk1NTnB2aU15R1pPZUw3MlNYc2JzU2ZzSklSVjFUeWMyRkhCSGZxZmMxdGxjMnJrX2Rsdl9NYVhtYU1udnNmMlhQN2dTN3ZsUnUxY3FhM2ZOTERmWU5qY3lERnNkRDh1WURJY0FQODNZZzVpMGdlTW1GTUNEZw?oc=5)
+Dr. Reddy's Q4 Results: Net Profit Drops 86%, Revenue Down on Weak US Sales, Board Recommends 800% Dividend &nbsp;&nbsp; Goodreturns
+
+**Source:** GNews - Dr Reddys  **Date:** 2026-09-04
+
+### [Swiggy sees 4% equity change hands in block deals; shares gain 2.5%](https://economictimes.indiatimes.com/markets/stocks/news/swiggy-sees-4-equity-change-hands-in-block-deals-shares-gain-2-5/articleshow/133763789.cms)
+Swiggy shares rose 2.53% following block deals involving 4% equity. The company faces MSCI index removal on September 7 due to foreign ownership caps, while Q1 FY27 results showed a narrowed net loss of Rs 791 crore.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
 
@@ -103,8 +128,13 @@ Defence-tech startup Newspace Research and Technologies is seeking $35-40 millio
 
 **Source:** Mint - Pharma  **Date:** 2026-09-04
 
+### [Bumper FCNR(B) inflows may dilute banks' margins but boost earnings by up to Rs 11,000 crore: Jefferies](https://economictimes.indiatimes.com/markets/stocks/news/bumper-fcnrb-inflows-may-dilute-banks-margins-but-boost-earnings-by-up-to-rs-11000-crore-jefferies/articleshow/133760231.cms)
+The FCNR(B) scheme’s $127 billion inflows should boost banking sector earnings by Rs 10,000–11,000 crore annually, despite potential near-term margin pressure. Analysts highlight significant benefits for small private banks and NBFCs, while providing the RBI with increased foreign exchange reserves.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
 ### [Value stocks are making a comeback in India. These 10 stocks could benefit](https://economictimes.indiatimes.com/markets/stocks/news/value-stocks-are-making-a-comeback-in-india-these-10-stocks-could-benefit/articleshow/133755450.cms)
-India’s value-stock universe is showing signs of recovery after a sharp decline during the previous bull run. ICICI Securities has identified 10 stocks, led by Vedanta, ONGC and Indian Oil, that meet its value criteria based on earnings yield, return on equity, valuations, earnings trends and potential catalysts.
+The value-stock universe in India is showing signs of recovery after a sharp decline during the previous bull run. ICICI Securities has identified 10 stocks, led by Vedanta, ONGC and Indian Oil, that meet its value criteria based on earnings yield, return on equity, valuations, earnings trends and potential catalysts.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
 
@@ -138,13 +168,8 @@ PI Industries aims to offset earnings declines and global agrochemical headwinds
 
 **Source:** Mint - Pharma  **Date:** 2026-09-04
 
-### [HCA Healthcare layoffs: Hospital cuts corporate and support jobs amid rising costs](https://www.livemint.com/companies/news/hca-healthcare-layoffs-hospital-cuts-corporate-and-support-jobs-amid-rising-costs-11788446039713.html)
-The company did not disclose the exact number of jobs affected. HCA said the cuts come as hospitals across the US face changes in healthcare policy, rising costs and an increase in uninsured patients.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-03
-
-### [Mirzapur Day 1 Box Office Collection: Pankaj Tripathi, Ali Fazal And Divyenndu Movie Records Rs 3.18 Crore Opening-Day Collection](https://www.ndtvprofit.com/lifestyle/mirzapur-day-1-box-office-collection-pankaj-tripathi-ali-fazal-and-divyenndu-movie-records-rs-3-18-crore-opening-day-collection-12000493#publisher=newsstand)
-Mirzapur: The Movie opens strong on Day 1 in theatres
+### [Mirzapur: The Movie Box Office Collection Day 1: Pankaj Tripathi Film Begins Its Big-Screen Journey On A Strong Note](https://www.ndtvprofit.com/business/mirzapur-the-movie-box-office-collection-day-1-pankaj-tripathi-film-begins-its-big-screen-journey-on-a-strong-note-12002080#publisher=newsstand)
+Mirzapur: The Movie brings the popular franchise to the big screen.
 
 **Source:** NDTV Profit  **Date:** 2026-09-04
 
@@ -152,10 +177,20 @@ Mirzapur: The Movie opens strong on Day 1 in theatres
 
 ## 🤝 Deals, M&A & Partnerships (5)
 
-### [Adani Group may raise debt through family-owned infra firm to refinance Ambuja Cement acquisition loan](https://www.livemint.com/companies/news/adani-infra-debt-refinance-ambuja-acc-acquisition-11788418823609.html)
-The plan is still in the early stages of exploration and the quantum of debt to be raised has not been decided.
+### [Gland Pharma block deal: Fosun Pharma divests 99 lakh shares worth Rs 2,800 crore](https://economictimes.indiatimes.com/markets/stocks/news/gland-pharma-block-deal-fosun-pharma-divests-99-lakh-shares-worth-rs-2800-crore/articleshow/133768263.cms)
+Fosun Pharma sold a 6% stake in Gland Pharma for ₹2,800 crore via a block deal, reducing its holding to 45.77%. Major buyers included Kotak, Axis, and ICICI Prudential Mutual Funds, while Gland Pharma shares closed higher at ₹2,932.40.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-03
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [Sebi, European Markets Authority partner for cooperation on central counterparties](https://economictimes.indiatimes.com/markets/stocks/news/sebi-european-markets-authority-partner-for-cooperation-on-central-counterparties/articleshow/133763285.cms)
+Sebi and the European Securities and Markets Authority (ESMA) signed a memorandum of understanding to enhance cooperation and information exchange regarding central counterparties. This agreement replaces the 2017 pact, facilitating safer cross-border clearing and market infrastructure regulation.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [Ola Electric shares gain 4% as EV maker rolls out first dealer-led stores](https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-gain-4-as-ev-maker-rolls-out-first-dealer-led-stores/articleshow/133759931.cms)
+Ola Electric shares rose nearly 4% after the EV maker launched its first dealer-led stores across seven states. The move comes a month after opening its sales and service network to partners. Ola Electric plans to expand to more than 500 dealerships over the next couple of quarters to strengthen its retail presence.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
 
 ### [Hugging Face founders each worth $1.8 billion after Nvidia deal: Who are Clement Delangue, Julien Chaumond, Thomas Wolf?](https://www.livemint.com/companies/people/hugging-face-founders-each-worth-1-8-billion-after-nvidia-deal-who-are-clement-delangue-julien-chaumond-thomas-wolf-11788503545063.html)
 Clement “Clem” Delangue, 38, Julien Chaumond, 42, and Thomas Wolf, 41, will each have a net worth of about $1.8 billion, according to the Bloomberg Billionaires Index, which valued their fortunes for the first time.
@@ -167,19 +202,19 @@ The financial penalty is only one part of the agreement. The more significant im
 
 **Source:** Mint - Pharma  **Date:** 2026-09-03
 
-### [FLY91, now with Abhinandan Varthaman as pilot, orders 40 ATR aircraft for nearly $1 billion](https://www.livemint.com/companies/fly91-now-with-abhinandan-varthaman-as-pilot-orders-40-atr-aircraft-for-nearly-1-billion-11788436479529.html)
-FLY91 has ordered 40 ATR 72-600 aircraft in a nearly $1 billion deal, its biggest expansion yet, as it targets smaller Indian cities. The regional airline is also set to have former IAF Group Captain Abhinandan Varthaman as a pilot.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-03
-
-### [HUL Plans Capex Hike To 3% Of Turnover, Eyes More Acquisitions In High-Growth Categories](https://www.ndtvprofit.com/markets/hul-to-raise-capex-to-3-of-turnover-eyes-more-bolt-on-acquisitions-in-high-growth-categories-12000864#publisher=newsstand)
-HUL said it will assess new categories based on three filters: right to win, size of the profit pool and sustainable growth.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
 ---
 
-## 💸 Corporate Actions (1)
+## 💸 Corporate Actions (3)
+
+### [From mobiles to missiles? Dixon sets sights on high-value manufacturing segments](https://www.livemint.com/companies/from-mobiles-to-missiles-dixon-sets-sights-on-high-value-manufacturing-segments-11788531376220.html)
+Dixon's camera module business, operated through its 51% stake in Kunshan Q-Tech India, is targeting a significant increase in production capacity.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-04
+
+### [Hindustan Unilever to boost capital expenditure to 3% of turnover for growth](https://www.livemint.com/companies/hindustan-unilever-boosts-capital-expenditure-to-3-of-turnover-for-growth-11788509640739.html)
+HUL said that it will enter spaces like male grooming, masstige skincare, fragrances, vitamins and minerals, healthy snacking and many more segments
+
+**Source:** Mint - Pharma  **Date:** 2026-09-04
 
 ### [Kumar Mangalam Birla's UltraTech enters wires, cables business with  ₹1,800 crore Ultravolt bet](https://www.livemint.com/companies/news/kumar-mangalam-birlas-ultratech-enters-wires-cables-business-with-rs-1-800-crore-ultravolt-bet-11788449157424.html)
 Ultravolt, which is preparing for a nationwide rollout across more than 100,000 retailers, aims to become India’s second-largest player in the wires segment within five years.
@@ -188,7 +223,12 @@ Ultravolt, which is preparing for a nationwide rollout across more than 100,000 
 
 ---
 
-## 🏭 Operations & Approvals (9)
+## 🏭 Operations & Approvals (7)
+
+### [Will BDL, HAL &amp; other defence stocks deliver rocketing returns? Here’s why this brokerage remains bullish](https://economictimes.indiatimes.com/markets/stocks/news/will-bdl-hal-other-defence-stocks-deliver-rocketing-returns-heres-why-this-brokerage-remains-bullish/articleshow/133756838.cms)
+India’s defence sector is gaining momentum on the back of rising defence spending, localisation, strong order pipelines and growing exports. Bajaj Broking remains bullish on Bharat Dynamics and Hindustan Aeronautics, citing improving execution, robust order books and long-term military modernisation as key growth drivers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
 
 ### [Polycab, KEI Industries shares crash up to 9% after UltraTech Cement enters wires &amp; cables business. What Jefferies, Nuvama expect](https://economictimes.indiatimes.com/markets/stocks/news/polycab-kei-industries-shares-crash-up-to-9-after-ultratech-cement-enters-wires-cables-business-what-jefferies-nuvama-expect/articleshow/133751676.cms)
 Shares of Polycab and KEI Industries fell sharply after UltraTech Cement launched its ₹1,800 crore wires and cables business, Ultravolt. Brokerages warned that the Aditya Birla Group’s aggressive entry could trigger near-term de-rating across the cables and wires sector, although Nuvama retained Polycab and KEI as its top picks.
@@ -210,34 +250,39 @@ Airbus expects to deliver over two aircraft a week to India over the next decade
 
 **Source:** Mint - Pharma  **Date:** 2026-09-03
 
-### [After shaking up cola market, Mukesh Ambani's Reliance brings  ₹10 ice cream: Here's why ‘long-game strategy’ may work](https://www.livemint.com/companies/news/after-shaking-up-cola-market-mukesh-ambanis-reliance-brings-10-ice-cream-heres-why-long-game-strategy-may-work-11788435124744.html)
-Mukesh Ambani's Reliance launches Bombay Creamery, an affordable premium ice cream brand priced from ₹10. Initially available in Western India, it aims to make dairy ice cream accessible while competing with established brands like Amul and Kwality Wall's.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-03
-
-### [Credlix crosses $1 bn in export financing for MSMEs, targets $10bn in five years](https://www.livemint.com/companies/news/credlix-1-billion-export-financing-msmes-11788419090684.html)
-Moglix’s trade-financing arm has backed more than 1,000 MSME exporters across India, Mexico, the US, West Asia and Singapore, as India seeks to make smaller businesses a larger part of global supply chains.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-03
-
 ### [Dadachanji Group launches Kaisha Pharma, renews 35-year legacy in pharma glass packaging](https://www.expresspharma.in/dadachanji-group-launches-kaisha-pharma-renews-35-year-legacy-in-pharma-glass-packaging/)
 The visionary founders behind India’s largest manufacturing footprint for primary pharmaceutical glass packaging have launched Kaisha Pharma, a premier global platform engineered to serve the pharmaceutical and biotechnology sectors worldwide. [&#8230;] The post Dadachanji Group launches Kaisha Pharma, renews 35-year legacy in pharma glass packaging appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-04
 
-### [iPhone 18 Pro Launch: Camera Change That Could Matter More Than Megapixels](https://www.ndtvprofit.com/technology/iphone-18-pro-launch-camera-change-that-could-matter-more-than-megapixels-12000956#publisher=newsstand)
-A variable aperture allows the camera to adjust the opening of the lens depending on the shooting conditions.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [Tesla Cybercab: Elon Musk's Wheel-Free Robotaxi Puts Driverless Future To the Test](https://www.ndtvprofit.com/business/tesla-cybercab-elon-musk-s-wheel-free-robotaxi-puts-driverless-future-to-the-test-12000560#publisher=newsstand)
-The launch folds the Cybercab into Tesla's existing Robotaxi service run in Austin since June 2025.
+### [NSE IPO Timeline: From Draft Papers In 2016 To Co-Location Scandal And SEBI Approval In 2026](https://www.ndtvprofit.com/markets/nse-ipo-timeline-from-draft-papers-in-2016-to-co-location-scandal-and-sebi-approval-in-2026-12002666#publisher=newsstand)
+In an observation letter issued on September 4, 2026, SEBI approved NSE IPO.
 
 **Source:** NDTV Profit  **Date:** 2026-09-04
 
 ---
 
-## 📉 Analyst & Brokerage Calls (11)
+## 📉 Analyst & Brokerage Calls (13)
+
+### [Retail investors raise stakes in 10 stocks for two straight quarters; shares rally up to 80% in CY26](https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raise-stakes-in-10-stocks-for-two-straight-quarters-shares-rally-up-to-80-in-cy26/slideshow/133758088.cms)
+Retail investors increased their holdings in 98 BSE 500 companies for the second consecutive quarter through June 2026, signalling continued confidence among individual investors. Despite muted overall market performance, 10 BSE 500 stocks stood out with CY26 gains ranging from 21% to 80%, led by RR Kabel, Sai Life Sciences and Emmvee Photovoltaic Power.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [FOPE opposes proposed exemption of retailers, hospitals from DPCO overcharging liability](https://www.expresspharma.in/fope-opposes-proposed-exemption-of-retailers-hospitals-from-dpco-overcharging-liability/)
+The Federation of Pharma Entrepreneurs (FOPE) has urged the National Pharmaceutical Pricing Authority (NPPA) to reconsider a reported proposal to exempt retailers, hospitals, nursing homes and other downstream sellers from [&#8230;] The post FOPE opposes proposed exemption of retailers, hospitals from DPCO overcharging liability appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-04
+
+### [Market chaos after CAS: What exactly is Sebi reviewing and will it stop expiry-day wild swings?](https://economictimes.indiatimes.com/markets/stocks/news/market-chaos-after-cas-what-exactly-is-sebi-reviewing-and-will-it-stop-expiry-day-wild-swings/articleshow/133757024.cms)
+Sebi’s review of derivative settlement price methodology could reduce sharp expiry-day swings linked to the Closing Auction Session (CAS). Analysts expect the regulator to consider delinking derivative settlements from CAS closing prices rather than scrapping the mechanism. However, a revised framework may curb extreme volatility without eliminating normal expiry-day market swings.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [Sebi moves ahead with action against Hindenburg, others in Adani case: Report](https://economictimes.indiatimes.com/markets/stocks/news/sebi-moves-ahead-with-action-against-hindenburg-others-in-adani-case-reports/articleshow/133756870.cms)
+Sebi has started hearing representations as it seeks to recover gains from trades it suspects were based on prior knowledge of Hindenburg Research’s 2023 report on the Adani Group. The regulator had alleged that Kingdon Capital built short positions in Adani-related stocks before the report triggered a selloff, wiping out $150 billion in group value. Adani denied wrongdoing.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
 
 ### [JM Financial initiates coverage on OnEMI Technology with Buy call, sees 28% upside](https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-initiates-coverage-on-onemi-technology-with-buy-call-sees-28-upside/articleshow/133755070.cms)
 JM Financial has initiated coverage on OnEMI Technology Solutions with a Buy rating and a target price of Rs 385, implying around 28% upside from its reference price of Rs 301. The brokerage values the stock at 2x estimated FY28 book value, citing its digital lending platform Kissht and mass-market borrower focus.
@@ -274,40 +319,40 @@ The lawsuits were filed following 2025 price increases for PlayStation 5 and Xbo
 
 **Source:** Mint - Pharma  **Date:** 2026-09-03
 
-### [Arcil moves beyond buying bad loans, targets early-stage stress](https://www.livemint.com/companies/arcil-moves-beyond-buying-bad-loans-targets-early-stage-stress-ipo-npa-accounts-nbfcs-acquisitions-11788436252091.html)
-Arcil has identified collections-as-a-service as a new business vertical in its draft red herring prospectus for its IPO
+### [Sun Pharmaceutical Industries Ltd Downgraded to Hold Amid Mixed Technical and Valuation Signals - marketsmojo.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1JuZzZXSTg1WFZpV2JLaE1LRE9uRjhjd2hGRlZhdDZweVJJc09rYmZhaXk0UnlzaWpobHVkdV9pRkNDb2EzbENocnRCZWxZbnhqNl9CWklLZ3g4eThaMzhpREhaT3JLRWM0SUppbTI1TEdDS0VQWXdUbUdIVXFfSFVZVFJiWXNybS1sekNkZUI2NlhvemtsekY4MmNXSFJCTmxIVGtFdDlmYXF6d2RGQnZMNTZJVHNSR01KbmVhMmhiU0FVNjhGckp4ZWtuLU1IME9wOGdSZXVlLWg5RWV3bzdaRHRuTGVOTFpmcHpn?oc=5)
+Sun Pharmaceutical Industries Ltd Downgraded to Hold Amid Mixed Technical and Valuation Signals &nbsp;&nbsp; marketsmojo.com
 
-**Source:** Mint - Pharma  **Date:** 2026-09-03
+**Source:** GNews - Sun Pharma  **Date:** 2026-09-04
 
-### [India's 7.8% GDP Growth Looks Strong, But Jefferies Flags A 'Nominal' Unease. Here's Why](https://www.ndtvprofit.com/markets/jefferies-on-india-economy-strong-real-gdp-but-lower-nominal-growth-raises-fiscal-concerns-12000165#publisher=newsstand)
-The brokerage said the lower nominal GDP outlook could make it harder for the government to maintain its fiscal trajectory without adjustments elsewhere.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [NTPC's Rs 16.9 Lakh Crore Capex Plan Offers Rare Multi-Year Visibility, Says Axis Securities — Check Target Price, Upside](https://www.ndtvprofit.com/markets/ntpcs-rs-16-9-lakh-crore-capex-plan-offers-rare-multi-year-visibility-says-axis-securities-check-target-price-upside-12000789#publisher=newsstand)
-NTPC has committed to a 10-year group capex plan through FY37, Rs 1.1 lakh crore in FY25-27, Rs 6 lakh crore in FY27-32 and Rs 9.8 lakh crore in FY33-37, heavily skewed toward renewable energy, nuclear, with thermal at 18.0%.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [Defence Stocks To Buy: HAL, Solar Industries Among ICICI Securities' Top Picks — Details Inside](https://www.ndtvprofit.com/markets/defence-stocks-to-buy-hal-solar-industries-among-icici-securities-top-picks-details-inside-12000662#publisher=newsstand)
-The brokearge also likes Bharat Electronics at current market price.
+### [Norway's $2 Trillion Fund Looks To Cut US Treasuries And Buy More Mortgage Debt: Report](https://www.ndtvprofit.com/world/norways-2-trillion-fund-looks-to-cut-us-treasuries-and-buy-more-mortgage-debt-report-12003071#publisher=newsstand)
+Norway's wealth fund plans to cut US Treasury holdings and increase mortgage debt exposure.
 
 **Source:** NDTV Profit  **Date:** 2026-09-04
 
 ---
 
-## 📰 Industry & Policy News (24)
+## 📰 Industry & Policy News (16)
 
-### [Divis Labs Share Price Live Updates: Divis Labs News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-04-sep-2026/liveblog/133751899.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-04-sep-2026/liveblog/133751899.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-04-sep-2026/liveblog/133750348.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-04-sep-2026/liveblog/133750348.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
 
 ### [Who is Anil Chakravarthy? Adobe's new president, CEO, replacing Shantanu Narayen from 1 December](https://www.livemint.com/companies/news/who-is-anil-chakravarthy-adobes-new-president-ceo-replacing-shantanu-narayen-from-1-december-11788491467677.html)
 Adobe has appointed Anil Chakravarthy as its next president and CEO, succeeding Shantanu Narayen. Chakravarthy, who joined Adobe in 2020, has held senior roles at Informatica, Symantec and VeriSign and will take charge on December 1, 2026.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-04
+
+### [Sudeep Pharma among 8 commodities stocks hitting 52-week highs; rallied up to 55% in a month](https://economictimes.indiatimes.com/markets/stocks/news/sudeep-pharma-among-8-commodities-stocks-hitting-52-week-highs-rallied-up-to-55-in-a-month/slideshow/133763587.cms)
+Eight BSE Commodities Index stocks, led by Sudeep Pharma, hit fresh 52-week highs, with gains ranging from 14% to 53% over the past month.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [Market wrap:  RIL,Tata Steel, Bharti Airtel, HCL Tech top gainers and losers on Nifty and Sensex on Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-riltata-steel-bharti-airtel-hcl-tech-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/133762507.cms)
+Indian equity markets ended Friday with a relief rally, led by metal and banking stocks, as concerns over an imminent US Fed rate hike eased. Nifty gained 0.1%, while Sensex rose 0.48%. SBI Life and Tata Steel were among the top gainers, while HCL Tech and Bharti Airtel declined.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-04
 
 ### [Ceigall India shares gain 4% after securing LoI for Rs 5,300 crore power transmission project](https://economictimes.indiatimes.com/markets/stocks/news/ceigall-india-shares-gain-4-after-securing-loi-for-rs-5300-crore-power-transmission-project/articleshow/133752154.cms)
 Ceigall India shares rose nearly 4% after the company received a Letter of Intent from REC Power Development and Consultancy for a Rs 5,300 crore power transmission project in Gujarat. The project includes a 765/400 kV AIS substation and around 300 km of transmission lines, with 36 months of execution followed by a 35-year operational period and annual transmission charges of Rs 608.67 crore.
@@ -324,28 +369,23 @@ India's IPO market is expected to surpass last year's record fundraising. A stro
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
 
-### [Sensex rallies 700 points tracking Asian peers, Nifty nears 24,000. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-climbs-500-points-but-nifty-gains-marginally-what-lies-ahead/articleshow/133751149.cms)
-On Friday, Indian stock markets experienced a notable upswing, reflecting the positive trends seen in Asian markets following a series of downturns. Sensex and Nifty indices posted impressive gains, complemented by a rise in broader market activity. This upward momentum is bolstered by encouraging economic indicators such as GST collections and credit growth.
+### [Sensex rises 363 points, Nifty ends near 23,900 as market closes at day’s low. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-climbs-500-points-but-nifty-gains-marginally-what-lies-ahead/articleshow/133751149.cms)
+Indian stock markets concluded Friday's trading session with gains. Sensex and Nifty saw intraday gains diminish near closing. Tata Steel and Reliance Industries shares led the market's upward movement. Broader markets presented a mixed performance with varying sector outcomes. Overall market breadth remained positive, indicating more advances than declines.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Stock Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-04-sep-2026/liveblog/133750665.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-04-sep-2026/liveblog/133750665.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-04
+
+### [India regulator presses ahead against Hindenburg, others in Adani case, sources say](https://www.livemint.com/companies/news/india-regulator-presses-ahead-against-hindenburg-others-in-adani-case-sources-say-11788523559262.html)
+The Securities and Exchange Board of India (SEBI) in 2024 said U.S.-based Kingdon Capital Management built short positions in Adani-related stocks through a Mauritius-based fund linked to Kotak International before Hindenburg published its report.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-04
 
 ### [Why is Jensen Huang-led Nvidia acquiring AI platform Hugging Face for $12.9 billion? Here's what we know](https://www.livemint.com/companies/news/why-is-jensen-huang-led-nvidia-acquiring-ai-platform-hugging-face-for-12-9-billion-heres-what-we-know-11788488318681.html)
 Chipmaker Nvidia is acquiring AI platform Hugging Face for $12.9 billion, seeking to strengthen its position in open-source AI, sustain demand for its chips and expand its cloud-computing business.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-04
-
-### [Kotak Alternate names Pushkar Jauhari as CEO for PE, VC arm](https://www.livemint.com/companies/news/kotak-alternate-names-pushkar-jauhari-as-ceo-for-pe-vc-arm-11788426081548.html)
-Pushkar Jauhari will lead investment strategy, fundraising, new investments, portfolio management and exits for Kotak Alternate's private equity and venture capital platform.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-03
-
-### [ABB’s Machine Automation division (B&R) appoints Christian  Strahberger as Division President](https://www.expresspharma.in/abbs-machine-automation-division-br-appoints-christian-strahberger-as-division-president/)
-ABB’s Machine Automation Division (B&#38;R) today announced the appointment of Christian Strahberger as its new Division President. Christian Strahberger succeeds Florian Schneeberger, who tragically passed away in an accident in [&#8230;] The post ABB’s Machine Automation division (B&#038;R) appoints Christian Strahberger as Division President appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-03
 
 ### [Stocks to Watch Today: Gland Pharma, Rail Vikas Nigam, Cipla, Avalon Tech, Ramco Systems, ESDS Software,... - Moneycontrol.com](https://news.google.com/rss/articles/CBMixgJBVV95cUxPa2lSNzFlMWNFd01Yc1doY0xlLVdBelJKaUg1a3VralM2M0FiY1FFZU5DMXFEQjIzRE1LOE5pLWdrT3Z3anJ0TWJhUjJVak1nbC1GVjc1eFRzUU9XS1pjZkRqWjR6b1U4NTNfNExQZ3ltLTFKd2FsdHo3M2Z4TWRzWU1yUW1qQnp0SnNmNzlxMXhmcXVyVUc5clhNN1gwU3BRcDFGTFkwSnhPSGN2S1FPV2xOdTZJeW5DNlNXanZVTi0zUU9jUVE4VGtlcjdVZDFUTF9kX04tTml4cllOT3U0WmI3Vzg4Q1dEV1pVb3J3MTVuMmdsT3BfeEgtaVducWJKY1ZJUjVmenQ1YVllandpM05nNXlUUmI2b0lFQ3Flb2duRURlVTVBMGZxMnBoUlZWR2J4bldacHFlQVdCVDJUelh1TlZjQdIBywJBVV95cUxQZXJjejRQVUdOSVJMZVFWN2NBNGdwUFZZek1xT2NxVkExMXFLMmxEcGkxUVR0YUdTTGxuRzRJRng5cktCSXM5SERaTHN2LW9ZLUhwMkNUelI5MFRELTczVXU0dTZTSUNPbVVnT3pSam9pcUJwdmRKTEVQQl9lMjVjRk0tSnBFNnFEekV6RUM1M2NNdUxMQ0ZMSHR5NTVpT3licHZoUGJzNnl2NUprd1V2bWtpS3hLT29nV3BUOVgwTER6R1pFR0RobmJYYlI4UzVDWlFULXRYSkRDLVlZR051emVsbTdINmU5SEo1VWtxSzhkSklBS0JaQlNXOUY0UWhuOXJKWmdfLU96UHY3MjlqQzZxYmoxUWplaEpEMTZrZEFuRFlHQno0a3BON2Vod1ZzYnBLTlgwcVJVeGtOMHFTQzVHQWF3RlNxT2JF?oc=5)
 Stocks to Watch Today: Gland Pharma, Rail Vikas Nigam, Cipla, Avalon Tech, Ramco Systems, ESDS Software,... &nbsp;&nbsp; Moneycontrol.com
@@ -357,58 +397,13 @@ Top stocks in news: UltraTech, ESDS, Gland Pharma, RVNL, Priority, IEX, Power Gr
 
 **Source:** GNews - Cipla  **Date:** 2026-09-04
 
-### [Cipla News: कैंसर की दवा के लिए बड़ा दांव, Qilu Pharmaceutical के साथ मिलाया हाथ - Whalesbook](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ3ZDeWxxb1FHZXdvTzlUQkptYlZSTGhXaGtPM3R6RXh5NDJVTGhwLVJ0M1RGajI5Y0labnJPUmZYenhYRU9Ka1pndTV3T2Z2bkN5Yng2bGxkSkdfS2x1UmE5b3NjekkyUVljMlFVYmRzcURIVHQtNm4xUGFHUElJcmVkU2RsSk5sc0Jyb3NBbk5fV1U5Ukhrd1lNX3dSbVQtTkYyZC1kQ1VtaHRpMkhoU0FpSnFvQXpqQmp2Q3oybmVIa0ZPMUs5amFBQ0h6Uk9p?oc=5)
-Cipla News: कैंसर की दवा के लिए बड़ा दांव, Qilu Pharmaceutical के साथ मिलाया हाथ &nbsp;&nbsp; Whalesbook
-
-**Source:** GNews - Cipla  **Date:** 2026-09-04
-
-### [Cipla Partners With Qilu: ਕੈਂਸਰ ਦੀ ਦਵਾਈ ਲਈ ਵੱਡਾ ਸਮਝੌਤਾ, ਅਮਰੀਕੀ ਬਾਜ਼ਾਰ 'ਤੇ ਨਜ਼ਰਾਂ - Whalesbook](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbERMOXlUYWNBekpJdzlyYnpELVJWWEM1MUtBRmltVFM3dkh4YjNkZ0dCZUN3STBlU3VRWTljdUhITkZvY0Nod01mZlBoY1Q0Rk43V1NlSmdJQ0RXZ0FZWi01ODFEbGNzUm93WTRZU1F2cmNpRTBHYkYxclNyQ01tQnVOV2puTFFHcnJjc01UUHl3NUt3VVBkX1NkMkpFOHRsQm4tUFpuYkpueW03Tll0czFaNUY3R3RsU1V1YVpqOWhUZl9kb28wbmJFV3FGd25RQmV3?oc=5)
-Cipla Partners With Qilu: ਕੈਂਸਰ ਦੀ ਦਵਾਈ ਲਈ ਵੱਡਾ ਸਮਝੌਤਾ, ਅਮਰੀਕੀ ਬਾਜ਼ਾਰ 'ਤੇ ਨਜ਼ਰਾਂ &nbsp;&nbsp; Whalesbook
-
-**Source:** GNews - Cipla  **Date:** 2026-09-04
-
-### [Cipla चा मोठा निर्णय! कँसरच्या औषधासाठी चीनच्या कंपनीशी हातमिळवणी - Whalesbook](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGdvVzRyQkd1WHlDUXQtaDgtMU0zamZpbUUtYTIyVGEzWjg4eU51QzN3SXlvQ05PT1RnWmtleG9HTUJ5NUNoVk4tRnJhbmZRNHR0a3JSMmFaMllvbHM5ZUF5T1dhaHRFemU4X21XbHZhVVlzSi0wUndZdUtJMFdyYUxJSTlYX0tVSGw2NmtldjhqaEZxYXBlalkzdjJFSXprVG95c0oyMVlxSEwycmREWERIT0pucUk4blhaUU4zNzFxQTJpWWY2Q05JdTZaaVpCcEZr?oc=5)
-Cipla चा मोठा निर्णय! कँसरच्या औषधासाठी चीनच्या कंपनीशी हातमिळवणी &nbsp;&nbsp; Whalesbook
-
-**Source:** GNews - Cipla  **Date:** 2026-09-04
-
-### [Stock Market Today LIVE: Sensex Jumps 550 Points, Nifty50 Near 23,950; The New India Assurance Rallies 20%](https://www.ndtvprofit.com/markets/stock-market-today-live-sensex-today-nifty-50-gift-nifty-sebi-cas-gold-rate-today-us-iran-war-crude-oil-prices-12000117#publisher=newsstand)
-Rupee opened 3 paise higher at 94.46 against the US dollar.
+### [India-EU Ties: Belgium PM Says 'Pressure Creates Diamonds', Flags Port Collaboration](https://www.ndtvprofit.com/economy/india-eu-ties-belgium-pm-says-pressure-creates-diamonds-flags-port-collaboration-12002568#publisher=newsstand)
+Belgium PM Bart De Wever with Union Minister Ram Mohan Naidu.
 
 **Source:** NDTV Profit  **Date:** 2026-09-04
 
-### [Up 66% in 6 Months, 20% Today! What's Driving The New India Assurance Stock To 52-Week High?](https://www.ndtvprofit.com/markets/up-66-percent-in-6-months-20-percent-today-whats-driving-new-india-assurance-stock-to-a-52-week-high-12001202#publisher=newsstand)
-The New India Assurance Stock In Focus
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [NSE IPO: Exchange Plans To Announce Price Band By September 11, Say Sources](https://www.ndtvprofit.com/markets/nse-ipo-exchange-plans-to-announce-price-band-by-september-11-say-sources-12000954#publisher=newsstand)
-NSE aims to announce IPO price band by September 11, with plans to list shares in the third week of September, sources told NDTV Profit.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [143% Return In One Month: Multibagger Smallcap Stock Hits 5% Upper Circuit In Trade. Here's Why](https://www.ndtvprofit.com/markets/143-return-in-one-month-pvp-ventures-share-price-jumps-over-5-in-trade-heres-why-12000611#publisher=newsstand)
-PVP Ventuers stock price has delivered multibagger return of over 184% in one year.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [Meghan Markle Shares Unseen Photo Of Prince Archie With Late Gloria Steinem](https://www.ndtvprofit.com/lifestyle/meghan-markle-shares-unseen-photo-of-prince-archie-with-late-gloria-steinem-12000592#publisher=newsstand)
-Meghan Markle pays tribute to Gloria Steinem; shares unseen photos
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [India's GDP Data: Debate Is 'A Waste Of Time', Adds Uncertainty, Says World Bank's Neelkanth Mishra](https://www.ndtvprofit.com/economy/indias-gdp-data-debate-is-a-waste-of-time-adds-uncertainty-says-world-banks-neelkanth-mishra-11998428#publisher=newsstand)
-According to Mishra, India's rapid growth and high degree of informality make it necessary to periodically revise the GDP series.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [FCNR(B) Repayment Not A Concern For India, Says World Bank's Neelkanth Mishra](https://www.ndtvprofit.com/economy/fcnr-b-repayment-not-a-concern-for-india-says-world-banks-neelkanth-mishra-11999396#publisher=newsstand)
-Mishra said the FCNR (B) are relatively cheap source of capital and can be rolled out again if global financing conditions remain unfavourable.
-
-**Source:** NDTV Profit  **Date:** 2026-09-04
-
-### [HAL Share Price Gains Over 2% After GE Delivers 3 Tejas Engines](https://www.ndtvprofit.com/markets/hindustan-aeronautics-hal-share-price-gains-over-2-percent-after-ge-delivers-3-tejas-engines-12000664#publisher=newsstand)
-The PSU defence stock has delivered multibagger returns of 601% over the past five years.
+### [US Treasury Yields: What The Rise Means For Nifty, Sensex And RBI Repo Rates](https://www.ndtvprofit.com/markets/us-treasury-yields-what-the-rise-means-for-nifty-sensex-and-rbi-repo-rates-12002542#publisher=newsstand)
+Rising US Treasury yields could pressure Indian stocks, bonds, rupee and RBI rate outlook.
 
 **Source:** NDTV Profit  **Date:** 2026-09-04
 
