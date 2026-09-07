@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-09-07
 
-> 59 items · 2026-09-07 08:53 UTC
+> 70 items · 2026-09-07 17:16 UTC
 
-## 📊 BSE / NSE Filings (6)
+## 📊 BSE / NSE Filings (14)
 
 ### [Abbott India: Please find enclosed outcome of the Board Meeting held today i.e., September 7, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/68d5e7b3-a8e0-44cc-a82b-9428c7147abb.pdf)
 Category: Others | Sub: Outcome without intimation | BSE Code: 500680
@@ -14,8 +14,33 @@ Category: Others | Sub: Outcome without intimation | BSE Code: 539798
 
 **Source:** BSE Filing  **Date:** 2026-09-07
 
+### [Biocon: Motilal Oswal Financial Services Limited has informed the Exchange about issue of Securitie](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2dce1fba-3d27-468a-9ba4-2ee7ed4acbd8.pdf)
+Category: Company Update | Sub: Issue of Securities | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
+### [Biocon: Motilal Oswal Financial Services Limited has informed the Exchange about Intimation of Analysts/Investors Meetings/Conferences](https://www.bseindia.com/xml-data/corpfiling/AttachLive/8cd92fef-60ef-4503-916b-545203e45928.pdf)
+Category: Company Update | Sub: General | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
+### [Natco Pharma: Submission of Notice and Annual Report of 13th Annual General Meeting of the company](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9e54eb18-e650-4b93-904a-97ec54b04439.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
+### [Natco Pharma: Annual Report of 13th Annual General Meeting of the company](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a44e71c8-2d2e-42fb-b7c4-56fae15d2f9f.pdf)
+Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
 ### [Natco Pharma: Submission of Newspaper Advertisement (Pre Intimation) of 13th AGM of the company](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a75c8401-9dce-478f-bb2a-01e0adad33cd.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
+### [Ajanta Pharma: Press Release](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3e6b0052-4f3c-4bd7-be27-e79c3dd0f60b.pdf)
+Category: Company Update | Sub: General | BSE Code: 532955
 
 **Source:** BSE Filing  **Date:** 2026-09-07
 
@@ -24,19 +49,34 @@ Category: Company Update | Sub: Credit Rating | BSE Code: 532955
 
 **Source:** BSE Filing  **Date:** 2026-09-07
 
+### [Sanofi India: We wish to inform you that the Board of Directors at its meeting held today, have appointed Mr. Leo Puri as Chairman of the Board with effect from 23rd January 2027.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/256e2c39-85f8-4492-a1b3-bfddd22406ed.pdf)
+Category: Company Update | Sub: Change in Directorate | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
+### [Sanofi India: Find enclosed intimation with respect to appointment of Mr. Leo Puri as Additional and Independent Director effective 7th September 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0bb2e91-ca9a-42c3-b1aa-a3fdc6fbce31.pdf)
+Category: Company Update | Sub: Change in Directorate | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
 ### [Sanofi India: The Company will be participating in group and one - on - one meetings as per enclosed communication.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b7cd2aa3-44ef-4666-84e1-5e37a62156b2.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-09-07
 
-### [Aspira Pathlab & Diagnostics Ltd: Aspira Pathlab & Diagnostics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/09/2026 ,inter alia, to consider and approve To consider approve ....](https://www.bseindia.com/corporates/ann.html?scrip=540788)
-BSE Code: 540788
+### [Marksans Pharma: Press Release titled "Aarti Industries Commissions Phase I of Zone IV, Unlocking New High-Value Manufacturing Opportunities](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c47b1c39-2f1f-4a92-84af-1ef397111a55.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-09-07
+
+### [Gujarat Themis Biosyn Ltd: Gujarat Themis Biosyn Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 10/09/2026 ,inter alia, to consider and approve raising funds through ....](https://www.bseindia.com/corporates/ann.html?scrip=506879)
+BSE Code: 506879
 
 **Source:** BSE Filing  **Date:** 2026-09-07
 
 ---
 
-## 💰 Results & Financials (10)
+## 💰 Results & Financials (12)
 
 ### [SRK, Madhuri Dixit-backed Purple Style Labs makes weak D-Street debut. Should you buy?](https://economictimes.indiatimes.com/markets/stocks/news/srk-madhuri-dixit-backed-purple-style-labs-makes-weak-d-street-debut-should-you-buy/articleshow/133872109.cms)
 Purple Style Labs commenced trading on Monday at a discount, despite its initial public offering being fully subscribed. The acquisition of Pernia's Pop-Up Shop in 2018 played a role in the considerable revenue growth from FY20 to FY24. Nevertheless, analysts caution investors regarding the expanding losses and the company's currently high valuation.
@@ -47,6 +87,11 @@ Purple Style Labs commenced trading on Monday at a discount, despite its initial
 Amara Raja Energy &amp;amp; Mobility Ltd paid ₹6.76 crore in royalty to Amara Raja Enterprises Pvt. Ltd in the year ended March 2026, according to filings reviewed. The payment was equivalent to 0.05% of the company’s ₹13,814 crore revenue and 0.8% of its ₹896 crore net profit during that period.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-07
+
+### [Why Systematix is bullish on Apollo Micro Systems after 47% YTD rally; check target price](https://economictimes.indiatimes.com/markets/stocks/news/why-systematix-is-bullish-on-apollo-micro-systems-after-47-ytd-rally-check-target-price/articleshow/133874090.cms)
+Systematix initiated coverage of Apollo Micro Systems with a Buy rating and Rs 570 target, citing defence-system integration, a Rs 12,000-crore opportunity, capacity expansion, acquisitions and strong earnings growth, while flagging execution, working-capital and tender-related risks.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-07
 
 ### [India’s Rs 1 lakh crore digital-media boom: Two stocks ICICI Securities is betting on](https://economictimes.indiatimes.com/markets/stocks/news/indias-rs-1-lakh-crore-digital-media-boom-two-stocks-icici-securities-is-betting-on/articleshow/133872047.cms)
 India’s digital media market crossed Rs 1 lakh crore in CY25 and is projected to grow rapidly through CY28, while television revenue declines. ICICI Securities has initiated coverage on Amagi Media Labs and Prime Focus with Buy ratings, citing opportunities from cloud adoption, digital advertising, VFX spending and evolving content consumption.
@@ -63,6 +108,11 @@ Driven by proactive deal wins, legacy modernization, and strategic M&amp;amp;A, 
 
 **Source:** Mint - Pharma  **Date:** 2026-09-07
 
+### [Ahead of Market: 10 things that will decide stock market action on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133888719.cms)
+Sensex and Nifty extended their four-week losing streak as rising oil prices and US-Iran tensions weighed on sentiment. Analysts flagged downside risks from supply disruptions and stretched valuations, though earnings improvements and selective buying supported small-cap and mid-cap stocks.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-07
+
 ### [GST reforms rewrote the auto stock map: Who won, who lost and where can investors still make money?](https://economictimes.indiatimes.com/markets/stocks/news/gst-reforms-rewrote-the-auto-stock-map-who-won-who-lost-and-where-can-investors-still-make-money/articleshow/133864453.cms)
 The recent GST reforms have significantly impacted the automotive stock market following a rate cut announcement. Notably, Sona BLW Precision Forgings and Samvardhana Motherson International registered impressive growth. Meanwhile, Bajaj Auto, TVS Motor, and Ashok Leyland saw positive movement ahead of their earnings reports. On the downside, stocks like Mahindra &amp; Mahindra and Maruti Suzuki India lagged. Future prospects appear promising, driven by advancements in electric vehicles and flee
 
@@ -78,19 +128,24 @@ Pivot Path emerged from Strides Pharma&#8217;s internal GCC. Are other pharma co
 
 **Source:** Express Pharma  **Date:** 2026-09-07
 
-### [Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth - scanx.trade](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRy1XTU4tYUFkT3pLVmlPZV9nVDFJSS1wcEw5S0FmOG5BWXdoT184SFdHZThmOHNscm54eERYU29sNkgyZ1FpSUhTc0xXX3NfRmFJRmVXakotT3Nrb3liSGhjS21MQlpzM0lrT3FkWldUeENoUUhUTXN6SXg1RW8zSkVOekltdnZvdEUyUUJMWVdqS0xaZ0RRWDJrVWRqbTZfbTkzemhrUmVKY3BNSVRvN05HNi1xUHNBSXgwYkNR?oc=5)
-Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - Divi's  **Date:** 2026-09-06
-
 ### [From capacity to capability: Five proofs for India’s pharma future](https://www.expresspharma.in/from-capacity-to-capability-five-proofs-for-indias-pharma-future/)
 India’s ability to supply affordable medicines at scale is strategic infrastructure for patients, health systems and global supply chains—not a past chapter to leave behind. The 75th Indian Pharmaceutical Congress [&#8230;] The post From capacity to capability: Five proofs for India’s pharma future appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-07
 
+### [Bypassing Hormuz? UAE Banks On Alternative Routes To Restore Energy Exports](https://www.ndtvprofit.com/world/bypassing-hormuz-uae-banks-on-alternative-routes-to-restore-energy-exports-12014369#publisher=newsstand)
+The UAE has been building pipelines, railroads, and commercial routes for other pathways in addition to increasing port capacity along its eastern coast.
+
+**Source:** NDTV Profit  **Date:** 2026-09-07
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
+## 🤝 Deals, M&A & Partnerships (6)
+
+### [When Nithin Kamath met Karthik Rangappa: The journey from international investor account sales pitch to heading Varsity](https://economictimes.indiatimes.com/markets/stocks/news/when-nithin-kamath-met-karthik-rangappa-the-journey-from-international-investor-account-sales-pitch-to-heading-varsity/articleshow/133879291.cms)
+Zerodha co-founder Nithin Kamath credited Karthik Rangappa as central to building Zerodha Varsity, the brokerage’s free financial education platform. Kamath highlighted Rangappa’s long association, continued contribution and role in expanding Varsity, stressing education rather than customer acquisition as its core purpose.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-07
 
 ### [Did HEG shares really crash 64% in one day? Here’s how the demerger math works](https://economictimes.indiatimes.com/markets/stocks/news/did-heg-shares-really-crash-64-in-one-day-heres-how-the-demerger-math-works/articleshow/133866176.cms)
 HEG shares opened nearly 64% lower on Monday as the stock adjusted for the company’s demerger, which split its businesses into two separately listed entities. The graphite electrodes business will move to HEG Graphite, while the existing listed company will retain advanced materials, battery energy solutions and green power businesses and be renamed HEG Advanced Materials.
@@ -102,13 +157,13 @@ Pricol shares gained after Axis Direct initiated coverage with a Buy rating and 
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
-### [Nomura raises target price of stock that’s up over 150% in 2026; stock soars another 6%](https://economictimes.indiatimes.com/markets/stocks/news/nomura-raises-target-price-of-stock-thats-up-over-150-in-2025-stock-soars-another-6/articleshow/133865022.cms)
-Shares of Avalon Technologies rose sharply on Monday after Nomura raised its target price to Rs 2,767 from Rs 2,211 while retaining a Buy rating. The brokerage said Avalon’s joint venture with Zollner Electronic will expand its capabilities, add global customers and support entry into healthcare, test and measurement, and European markets.
+### [360 One Group CEO Bhagat buys 1.3 lakh shares of Novartis India for Rs 22 cr](https://economictimes.indiatimes.com/markets/stocks/news/360-one-group-ceo-bhagat-buys-1-3-lakh-shares-of-novartis-india-for-rs-22-cr/articleshow/133887525.cms)
+Karan Bhagat acquired 1.3 lakh Novartis India shares for nearly Rs 22 crore. His firm Kyrush Investments sold an equal number of shares in the transaction. Novartis India also announced acquiring trademarks from Pfizer for Rs 1,250 crore. Earlier, Novartis AG agreed to sell its stake to a consortium. This deal excluded its innovative medicines business in the country.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
-### [Tata Motors shares in focus as firm launches tender offer for Iveco Group; values company at €3.82 billion](https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-shares-in-focus-as-firm-launches-tender-offer-for-iveco-group-values-company-at-3-82-billion/articleshow/133861110.cms)
-Tata Motors has launched a voluntary tender offer to acquire all common shares of Iveco Group for €14.1 per share in cash, valuing the Italian commercial vehicle maker at about €3.82 billion. Backed by Iveco’s largest shareholder, Exor, the deal aims to take Tata Motors’ commercial vehicle business global and could lead to Iveco’s delisting from Euronext Milan.
+### [Nomura raises target price of stock that’s up over 150% in 2026; stock soars another 6%](https://economictimes.indiatimes.com/markets/stocks/news/nomura-raises-target-price-of-stock-thats-up-over-150-in-2025-stock-soars-another-6/articleshow/133865022.cms)
+Shares of Avalon Technologies rose sharply on Monday after Nomura raised its target price to Rs 2,767 from Rs 2,211 while retaining a Buy rating. The brokerage said Avalon’s joint venture with Zollner Electronic will expand its capabilities, add global customers and support entry into healthcare, test and measurement, and European markets.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
@@ -117,55 +172,72 @@ Invagen Pharmaceuticals, a wholly owned subsidiary of Cipla announced that it ha
 
 **Source:** Express Pharma  **Date:** 2026-09-07
 
-### [Fairfax May Exit IIFL Finance Ahead of Likely IDBI Bank Deal](https://www.ndtvprofit.com/markets/fairfax-may-exit-iifl-finance-ahead-of-likely-idbi-bank-deal-12012451#publisher=newsstand)
-Fairfax Financial In Focus
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
-### [Irumudi Box Office Collection Day 17: Ravi Teja Starrer Sees 37.8% Jump On Sunday, Earns This Amount](https://www.ndtvprofit.com/business/irumudi-box-office-collection-day-17-ravi-teja-starrer-sees-37-8-jump-on-sunday-check-earnings-12011831#publisher=newsstand)
-Irumudi holds steady at the box office on day 17
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
 ---
 
-## 💸 Corporate Actions (2)
-
-### [SBI Life Share Price Live Updates: SBI Life Dividend Updates](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-07-sep-2026/liveblog/133861973.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-07
+## 💸 Corporate Actions (3)
 
 ### [Wires on fire: Why UltraTech’s Rs 1,800 crore Ultravolt bet wiped out Rs 21,500 crore in 2 days](https://economictimes.indiatimes.com/markets/stocks/news/wires-on-fire-why-ultratechs-rs-1800-crore-ultravolt-bet-wiped-out-rs-21500-crore-in-2-days/articleshow/133865793.cms)
 UltraTech’s entry into wires and cables triggered a sharp selloff in listed peers as investors assess the impact of intensified competition on market share, pricing and margins. While house wires and light-duty cables face the most immediate pressure, higher-voltage segments remain relatively insulated. Analysts remain positive on long-term industry growth, but caution that elevated valuations leave incumbents vulnerable.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
+### [Buyback Alert: PVR Inox's Rs 300-Crore Issue Opens Sept 10. Check Details](https://www.ndtvprofit.com/markets/buyback-alert-pvr-inoxs-rs-300-crore-issue-opens-sept-10-check-details-12014649#publisher=newsstand)
+PVR Inox will buy back up to 20.7 lakh equity shares, representing 4.09% of its total paid-up equity share capital.
+
+**Source:** NDTV Profit  **Date:** 2026-09-07
+
+### [Bonus Shares Alert: Pearl Global Sets Record Date For 1:1 Issue; Stock Up 75% In A Year](https://www.ndtvprofit.com/markets/bonus-shares-alert-pearl-global-sets-record-date-for-1-1-issue-stock-up-75-in-a-year-12014186#publisher=newsstand)
+Representational
+
+**Source:** NDTV Profit  **Date:** 2026-09-07
+
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (6)
+
+### [Muthoot FinCorp rolls out Rs 700 crore NCD issue. Here's what investors need to know](https://economictimes.indiatimes.com/markets/stocks/news/muthoot-fincorp-rolls-out-rs-700-crore-ncd-issue-heres-what-investors-need-to-know/articleshow/133875150.cms)
+Muthoot FinCorp has launched the fifth tranche of its secured, rated and redeemable NCDs, offering effective annual yields of 8.89% to 9.25% across four tenures ranging from 24 to 72 months. The company aims to raise up to Rs 700 crore, with proceeds earmarked for onward lending, repayment or prepayment of existing borrowings and general corporate purposes.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-07
 
 ### [VA Tech Wabag shares jump 3% after securing repeat order from RIL for ETP project](https://economictimes.indiatimes.com/markets/stocks/news/va-tech-wabag-shares-jump-3-after-securing-repeat-order-from-ril-for-etp-project/articleshow/133864671.cms)
 VA Tech Wabag shares rose nearly 3% after securing a medium-sized repeat order from Reliance Industries to design and commission an advanced Effluent Treatment Plant at Jamnagar’s Dhirubhai Ambani Green Energy Giga Complex. The project will use advanced chemical, biological and sludge treatment technologies and is scheduled for completion within 13 months.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
+### [HRV Pharma bets  ₹150 crore on peptides, high-potency oncology APIs](https://www.livemint.com/companies/news/hrv-pharma-bets-150-crore-on-peptides-high-potency-oncology-apis-11788774695787.html)
+The investments mark a shift in HRV’s seven-year-old business model—from using available manufacturing capacity to underwriting specialised capacity for products it owns and commercializes
+
+**Source:** Mint - Pharma  **Date:** 2026-09-07
+
 ### [Taj at Delhi Airport, Ritz-Carlton in Hyderabad: Inside Chalet Hotels’ expansion plan to reach 5,500 rooms by FY30](https://www.livemint.com/companies/news/taj-at-delhi-airport-ritz-carlton-in-hyderabad-inside-chalet-hotels-expansion-plan-to-reach-5-500-rooms-by-fy30-11788717105115.html)
 Chalet Hotels Ltd aims to reach 5,500 hotel keys by FY30, transitioning from a pure asset-ownership model to include third-party and franchise operations while focusing on the Athiva brand and maintaining its hospitality-first approach.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-06
 
-### [SEZ Revamp On The Anvil; Government Plans Common Export Framework](https://www.ndtvprofit.com/economy/exclusive-sez-revamp-on-the-anvil-government-plans-common-export-framework-12012275#publisher=newsstand)
-Government weighs common rules across SEZs and other export schemes to curb scheme shopping, ease switching and simplify payments for businesses.
+### [Seven Years A Niche: How Apple’s Foldable iPhone Launch Could Be An Inflection Point](https://www.ndtvprofit.com/technology/seven-years-a-niche-how-apple-s-foldable-iphone-launch-could-be-an-inflection-point-12014282#publisher=newsstand)
+Representational
 
 **Source:** NDTV Profit  **Date:** 2026-09-07
 
-### [TCS Launches AI-Native Creative Engineering Studio In UK](https://www.ndtvprofit.com/business/tcs-launches-ai-native-creative-engineering-studio-in-uk-12012000#publisher=newsstand)
-Tata Consultancy Services has launched an AI-native creative engineering studio in London, strengthening its global network of studios and committing to create 5,000 jobs in the UK
+### [Preempting Apple? Huawei, Xiaomi Unveil New Premium Foldables Ahead Of iPhone Launch](https://www.ndtvprofit.com/technology/preempting-apple-huawei-xiaomi-turn-unveil-new-premium-foldables-ahead-of-iphone-launch-12014331#publisher=newsstand)
+Apple's first foldable iPhone is expected to cost more than $2,000.
 
 **Source:** NDTV Profit  **Date:** 2026-09-07
 
 ---
 
-## 📉 Analyst & Brokerage Calls (13)
+## 📉 Analyst & Brokerage Calls (16)
+
+### [Market wrap:  L&amp;T, Bharti Airtel, Infosys, Tech Mahindra top gainers and losers on Nifty and Sensex on Monday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-lt-bharti-airtel-infosys-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/133878571.cms)
+Indian markets ended lower on Monday, with Sensex and Nifty falling 0.5% each as elevated crude oil prices and geopolitical uncertainty weighed on sentiment. IT and media stocks faced heavy selling, while pharma and healthcare outperformed. Infosys, SBI Life and HDFC Life were among the top losers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-07
+
+### [FIIs raise stakes in 9 midcap stocks for four straight quarters; shares surge up to 70% in a year](https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-9-midcap-stocks-for-four-straight-quarters-shares-surge-up-to-70-in-a-year/slideshow/133876469.cms)
+Over the four quarters through June 2026, FIIs steadily increased their holdings in around 15 BSE midcap stocks
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-07
 
 ### [India in multi quarter growth upcycle, says Morgan Stanley; sees Sensex at 89,000 by June 2027](https://economictimes.indiatimes.com/markets/stocks/news/india-in-multi-quarter-growth-upcycle-says-morgan-stanley-sees-sensex-at-89000-by-june-2027/articleshow/133871432.cms)
 Morgan Stanley sees India entering a multi-quarter growth upcycle, supported by improving investments, monetary policy and domestic demand. The brokerage expects the Sensex to reach 89,000 by June 2027 in its base case, while assigning 25% probabilities to a bull-case target of 100,000 and a bear-case target of 66,000.
@@ -202,7 +274,7 @@ Investor Vijay Kedia's savvy investment in Neuland Laboratories has paid off han
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
-### [Sensex tumbles 500 points, Nifty below 23,750. Check 5 key reasons behind the selloff](https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-250-points-nifty-falls-below-23850-why-is-market-falling-despite-positive-fundamental-factors/articleshow/133862439.cms)
+### [Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended below 23,800](https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-250-points-nifty-falls-below-23850-why-is-market-falling-despite-positive-fundamental-factors/articleshow/133862439.cms)
 Indian benchmark indices extended their four-week losing streak on Monday as escalating US-Iran tensions, surging crude oil prices, rising US rate-hike bets, elevated bond yields and continued FII selling weighed on investor sentiment. IT stocks led the decline, with Infosys among the top losers.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
@@ -217,29 +289,36 @@ Hindustan Unilever’s Capital Markets Day outlined a strategy focused on consum
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
+### [Swiggy picks 3.2% stake in Udaan, sells B2B arm for  ₹500 crore](https://www.livemint.com/companies/news/swiggy-picks-3-2-stake-in-udaan-sells-b2b-arm-for-500-crore-11788782732922.html)
+Swiggy will swap its entire holding in Lynk Logistics for shares in Udaan’s parent and separately invest ₹75 crore in the B2B platform, retaining exposure to India’s retail distribution opportunity.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-07
+
 ### [Inside Rashesh Shah’s plan to incubate and scale Edelweiss businesses](https://www.livemint.com/companies/news/edelweiss-group-chairman-rashesh-shah-new-business-listing-plans-11788678191214.html)
 Chairman Rasheh Shah cites Nuvama Wealth Management, a company that got listed in 2023, where Edelweiss shareholders received 30% of the shares.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-07
 
-### [RPG Life Sciences bets on China-plus 1, goes on an API buying spree](https://www.livemint.com/companies/rpg-life-sciences-bets-on-china-plus-1-goes-on-an-api-buying-spree-pharma-healthcare-medicine-generic-11788660657183.html)
-The Harsh Goenka group is spending to build a drug-ingredients business, betting that the world's push to rely less on China will favour Indian makers.
+### [Mirzapur: The Movie Box Office Collection Day 4: Gurmmeet Singh Film Holds Strong After Big Weekend](https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-mirzapur-the-movie-box-office-collection-day-4-gurmmeet-singh-film-monday-earnings-12014599#publisher=newsstand)
+Mirzapur: The Movie released on September 4, 2026.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-06
+**Source:** NDTV Profit  **Date:** 2026-09-07
 
-### [Auto Ancillaries Vs OEMs: Jefferies Picks Sona BLW, Bharat Forge Among Top 'Buys' On Operating Leverage](https://www.ndtvprofit.com/markets/auto-ancillaries-vs-oems-jefferies-picks-sona-blw-bharat-forge-among-top-buys-on-operating-leverage-12012254#publisher=newsstand)
-Jefferies highlighted Bharat Forge and Sona BLW Precision Forgings (Sona Comstar) as its preferred ideas within the space.
+### [Apple To Roll Out iOS 27 With Major AI Upgrades: Check If Your iPhone Is Eligible](https://www.ndtvprofit.com/technology/apple-to-roll-out-ios-27-with-major-ai-upgrades-check-if-your-iphone-is-eligible-12014005#publisher=newsstand)
+Apple's next major software update, iOS 27, is expected to arrive in September
 
 **Source:** NDTV Profit  **Date:** 2026-09-07
 
 ---
 
-## 📰 Industry & Policy News (17)
+## 📰 Industry & Policy News (13)
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Market Price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-07-sep-2026/liveblog/133861293.cms)
+### [Vodafone Idea among 4 stocks hitting 52-week highs; rallied up to 22% in a month](https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-stocks-hitting-52-week-highs-rallied-up-to-22-in-a-month/slideshow/133880792.cms)
+Despite a 382-point fall in the Sensex, four stocks from the BSE 200 index, Vodafone Idea, Lenskart Solutions, Solar Industries India and Divi's Laboratories hit fresh 52-week highs on Monday. Key gainers Vodafone Idea and Lenskart led the rally, each rising up to 22% over the past month.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys shows slight growth today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-07-sep-2026/liveblog/133860830.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-07-sep-2026/liveblog/133861293.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
 
 ### [BSE shares surge 10% in just 3 sessions. What’s driving the rally?](https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-surge-10-in-just-3-sessions-whats-driving-the-rally/articleshow/133865305.cms)
@@ -254,6 +333,21 @@ PVR Inox shares fell after reports that the company asked senior executive Pramo
 
 ### [Pranav Constructions IPO GMP Live Updates: Pranav Constructions IPO  fully subscribed within hours; NII quota crosses 2x](https://economictimes.indiatimes.com/markets/stocks/live-blog/pranav-constructions-ipo-gmp-live-updates-pranav-constructions-grey-market-price-band-nse-bse-listing-date/liveblog/133862418.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-07
+
+### [Arnya, IPO-bound Casagrand form  ₹750 cr south India-focused residential platform](https://www.livemint.com/companies/news/arnya-casagrand-rs-750-crore-equity-platform-residential-projects-11788771613590.html)
+Arnya Real Estate Fund III-Preferred Capital, a Category II alternative investment fund, will invest in around 8-10 projects in Chennai, Bengaluru and Hyderabad.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-07
+
+### [HerSpace raises $50 million from Gray Matters Capital to expand worker housing](https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html)
+The Bengaluru-based company plans to deploy the capital across southern India as manufacturers grapple with a shortage of suitable housing for industrial workers.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-07
+
+### [Tata Capital Healthcare Fund expects more IPO candidates from its latest  ₹2,500 crore fund](https://www.livemint.com/companies/news/tata-capital-healthcare-fund-ipo-exits-rs-2500-crore-fund-11788763641627.html)
+Tata Capital Healthcare Fund aims to exit over half of its portfolio companies from its new ₹2,500 crore fund via IPOs, pivoting away from traditional strategic sales. The firm is raising ticket sizes while targeting growth drivers like medical devices, and single-specialty chains.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-07
 
 ### [Nua raises $50 million Series C from Peak XV, Filter Capital](https://www.livemint.com/companies/start-ups/nua-raises-50-million-series-c-funding-women-wellness-11788768200054.html)
 Nua will deploy the fresh capital towards brand building, expanding distribution, and strengthening research and development.
@@ -270,48 +364,13 @@ An Amazon.com Inc. cargo plane overran a runway at Miami International Airport o
 
 **Source:** Mint - Pharma  **Date:** 2026-09-06
 
-### ['Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post](https://www.livemint.com/companies/people/speculative-and-factually-incorrect-nse-denies-ashishkumar-chauhan-being-considered-for-tata-sons-chairman-post-11788707471704.html)
-NSE has denied reports that its MD and CEO Ashishkumar Chauhan is being considered for the Tata Sons chairman post. Chauhan called the reports entirely baseless and said he remains focused on NSE’s planned IPO and his responsibilities at the exchange.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-06
-
-### [AI fears have faded, but auditors must retain human edge: IFAC's top executives](https://www.livemint.com/companies/news/ai-in-auditing-accounting-profession-ifac-11788684430480.html)
-The IFAC's top executives call for rapid tech adoption without compromising professional scepticism and ethics.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-06
-
-### [Stock Market Live Updates: Sensex Drops 280 Points, Nifty Above 23,750; IT, Metals, Banks Drag](https://www.ndtvprofit.com/markets/stock-market-today-live-gift-nifty-asian-markets-us-iran-war-crude-oil-fno-futures-options-12011119#publisher=newsstand)
-Among sectors, Nifty IT, Nifty Metals, Nifty Media, Nifty PSU Banks, Nifty Realty, Nifty FMCG and Nifty Oil & Gas led the losses, while Nifty Pharma was the only index in the green.
+### [Adani Power Recognized for Outstanding ESG Performance by NSE Sustainability](https://www.ndtvprofit.com/business/adani-power-recognized-for-outstanding-esg-performance-by-nse-sustainability-12014674#publisher=newsstand)
+Adani Power has prioritized water conservation and responsible waste disposal during operations.
 
 **Source:** NDTV Profit  **Date:** 2026-09-07
 
-### [Pranav Constructions IPO GMP: What Grey Market Suggests As Issue Opens For Subscription](https://www.ndtvprofit.com/markets/pranav-constructions-ipo-gmp-what-grey-market-suggests-as-issue-opens-for-subscription-12004564#publisher=newsstand)
-Pranav Constructions IPO is a book build issue of Rs 351.03 crore
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
-### [Three Reasons Why Stock Market Is Falling: Nifty Falls Below 28,800, Sensex Falls Over 500 Points](https://www.ndtvprofit.com/markets/stock-market-crash-nifty-falls-below-28-900-sensex-falls-350-points-from-days-high-three-reasons-why-market-is-falling-12011792#publisher=newsstand)
-Nifty and Sensex fall as higher crude prices, US rate-hike fears and broad-based sector weakness weigh on Indian equities.
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
-### [IPO Does Not Mean 'Instant Profit Opportunity': Navneet Munot Cautions Retail Investors Against Euphoria](https://www.ndtvprofit.com/markets/ipo-is-not-instant-profit-opportunity-hdfc-amc-md-navneet-munots-advise-to-retail-investors-12012354#publisher=newsstand)
-Navneet Munot, Managing Director and CEO of HDFC Asset Management Company
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
-### [Prime Focus Shares Slip Up To 2% Despite Bullish Initiation By ICICI Securities](https://www.ndtvprofit.com/markets/prime-focus-share-price-today-stock-drops-despite-icici-securities-buy-rating-12012206#publisher=newsstand)
-Prime Focus shares fall.
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
-### [Pranav Constructions IPO Day 1: Check Subscription Status, GMP And Other Details](https://www.ndtvprofit.com/markets/pranav-constructions-ipo-day-1-check-subscription-status-gmp-and-other-details-12011992#publisher=newsstand)
-Pranav Constructions IPO: GMP, Subscription Status
-
-**Source:** NDTV Profit  **Date:** 2026-09-07
-
-### [Air India Maps Next Phase: Chairman Sets Sight On Safety, Cost Rigor Amid Global Headwinds](https://www.ndtvprofit.com/business/air-india-maps-next-phase-chairman-sets-sight-on-safety-cost-rigor-amid-global-headwinds-12012105#publisher=newsstand)
-Chandrasekaran acknowledged that the past 18 months tested Air India extensively. External headwinds—including widespread geopolitical disruptions, airspace closures, and sharp fuel price volatility—combined with the tragic accident involving flight AI171, had placed severe strain on operations.
+### [PNB Housing Finance Approves Rs 10,000 Crore Fundraise Via NCDs; Check Details](https://www.ndtvprofit.com/markets/pnb-housing-finance-approves-rs-10-000-crore-fundraise-via-ncds-check-details-12014466#publisher=newsstand)
+PNB Housing also extended the date of relieving of their CIO Anubhav Rajput
 
 **Source:** NDTV Profit  **Date:** 2026-09-07
 
