@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-09-09
 
-> 74 items · 2026-09-09 08:34 UTC
+> 75 items · 2026-09-09 15:55 UTC
 
-## 📊 BSE / NSE Filings (13)
+## 📊 BSE / NSE Filings (18)
 
 ### [Ajanta Pharma: The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Life Insurance Corporation of India](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7bf9b678-9730-41a8-9e5e-f988b50349dd.pdf)
 Category: Insider Trading / SAST | Sub: Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011 | BSE Code: 532955
@@ -19,6 +19,11 @@ BSE Code: 524816
 
 **Source:** BSE Filing  **Date:** 2026-09-09
 
+### [Sun Pharma: Incorporation of wholly owned subsidiary of the Company in the International Financial Services Centre at GIFT City, Gandhinagar, Gujarat, India](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9cad5c00-5643-4fa7-84cf-3528d2571626.pdf)
+Category: Company Update | Sub: General | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-09-09
+
 ### [Sun Pharma: International Credit Ratings](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9c710bb9-acfc-40ad-89b9-e154b743c74f.pdf)
 Category: Company Update | Sub: Credit Rating | BSE Code: 524715
 
@@ -29,10 +34,30 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500257
 
 **Source:** BSE Filing  **Date:** 2026-09-08
 
+### [Natco Pharma: Submission of Newspaper Advertisement(Post) of the 13th AGM of the company](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f6db3929-59d5-45d4-bae6-45d9c2036842.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-09-09
+
+### [Ajanta Pharma: Intimation of sale and transfer of project specific SPV/ Subsidiary.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/29087950-7a3a-4839-b6a3-f906767bb1c4.pdf)
+Category: Company Update | Sub: General | BSE Code: 532955
+
+**Source:** BSE Filing  **Date:** 2026-09-09
+
 ### [Ajanta Pharma: Intimation regarding appointment of Statutory Auditors of REC Limited.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e53bcdc0-22db-4790-b9f8-619728d6447f.pdf)
 Category: Company Update | Sub: Appointment of Statutory Auditor/s | BSE Code: 532955
 
 **Source:** BSE Filing  **Date:** 2026-09-08
+
+### [Sanofi India: Pursuant to Regulation 5(5) of Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 (PIT Regulations) read with Asian Paints Limited - Code of Conduct ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9cc2e0f-79f8-4b2b-ab1a-3b9a48db9282.pdf)
+Category: Company Update | Sub: Trading Plan under SEBI (PIT) Regulations, 2015 | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-09-09
+
+### [Wockhardt: Newspaper Advertisement for the Annual General Meeting to be held for the FY_2025-26.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1086c0d2-ca58-41a3-ae20-dc4fa7e4bf01.pdf)
+Category: Company Update | Sub: General | BSE Code: 524752
+
+**Source:** BSE Filing  **Date:** 2026-09-09
 
 ### [Wockhardt: Intimation of Book Closure date and Cut Off Date for Annual General Meeting scheduled to be held on 30th September, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/391a06bf-3b57-4e4a-807f-0671fb859603.pdf)
 Category: AGM/EGM | Sub: AGM | BSE Code: 524752
@@ -71,7 +96,27 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500271
 
 ---
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (14)
+
+### [Vodafone Idea a high-beta turnaround play, says Jefferies; initiates buy with 29% upside potential](https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-a-high-beta-turnaround-play-says-jefferies-initiates-buy-with-29-upside-potential/articleshow/133969890.cms)
+Jefferies initiated coverage on Vodafone Idea with a Buy rating and Rs 20 target, citing subscriber stabilisation, tariff hikes and operating leverage. The brokerage expects strong revenue and cash EBITDA growth, but flags funding needs, execution risks and cash outflows.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [How Apple shares may react to the launch of first-ever foldable iPhone? Here’s what analysts say](https://economictimes.indiatimes.com/markets/stocks/news/how-apple-shares-may-react-to-the-launch-of-first-ever-foldable-iphone-heres-what-analysts-say/articleshow/133960832.cms)
+Apple’s first-ever foldable iPhone could significantly impact the company’s growth and stock performance. Analysts expect the device, potentially priced at $2,000-$2,500, to generate over $45 billion in revenue by the end of next year. Apple shares have historically gained after iPhone launches, while investors will closely track foldable demand, pricing and AI features.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [MCX, IAMAI sign MoU to bring fintech solutions to commodity markets](https://economictimes.indiatimes.com/markets/stocks/news/mcxiamai-sign-mou-to-bring-fintech-solutions-to-commodity-markets/articleshow/133968662.cms)
+MCX and IAMAI have signed an MoU to set up a Commodity Markets Innovation Council aimed at driving fintech-led innovation in India’s commodity markets. The industry-led platform will bring together stakeholders, startups and technology players to identify challenges, develop digital solutions, improve market access and support wider participation and efficiency.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [Explained: Why Bernstein prefers MCX over BSE as volumes plummet amid CAS chaos](https://economictimes.indiatimes.com/markets/stocks/news/explained-why-bernstein-prefers-mcx-over-bse-as-volumes-plummet-amid-cas-chaos/articleshow/133967738.cms)
+Bernstein has favoured MCX over BSE as commodity derivatives volumes maintain strong momentum while equity derivatives activity weakens amid the Closing Auction Session. The brokerage expects MCX’s growth to support earnings upgrades, while BSE faces moderating volumes, slowing market share gains and a sharp deceleration in earnings growth over the coming years.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
 
 ### [Beyond the runway: Emkay sees up to 25% upside in GMR Airports](https://economictimes.indiatimes.com/markets/stocks/news/beyond-the-runway-emkay-sees-up-to-25-upside-in-gmr-airports/articleshow/133959285.cms)
 Emkay Global has initiated coverage on GMR Airports with a Buy rating and a Rs 120 target price, implying 25% upside from the current levels. The brokerage expects non-aeronautical and adjacent businesses such as duty-free, cargo and airport-linked developments to drive incremental profitability, while stronger earnings and cash flows support margin expansion and deleveraging through FY29.
@@ -113,29 +158,19 @@ Jefferies has pinpointed five promising defense stocks poised for significant ga
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
-### [Finolex Cables among 4 Nifty500 stocks flashing bullish signals](https://economictimes.indiatimes.com/markets/stocks/news/finolex-cables-among-4-nifty500-stocks-flashing-bullish-signals/slideshow/133950406.cms)
-Four Nifty500 stocks appeared on the White Marubozu bullish scanner on September 8, according to StockEdge technical scan data. The pattern signals strong buying pressure, with prices moving from near the session low towards the high, indicating positive momentum.
+### ['Don't Compare Apples With Oranges': Govt Clarifies Stance On GST Revenue Math](https://www.ndtvprofit.com/economy/dont-compare-apples-with-oranges-govt-clarifies-stance-on-gst-revenue-math-12024291#publisher=newsstand)
+Government clarifies how GST growth is calculated amid criticism over cess exclusion.
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-09
+**Source:** NDTV Profit  **Date:** 2026-09-09
 
-### [Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth - scanx.trade](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRy1XTU4tYUFkT3pLVmlPZV9nVDFJSS1wcEw5S0FmOG5BWXdoT184SFdHZThmOHNscm54eERYU29sNkgyZ1FpSUhTc0xXX3NfRmFJRmVXakotT3Nrb3liSGhjS21MQlpzM0lrT3FkWldUeENoUUhUTXN6SXg1RW8zSkVOekltdnZvdEUyUUJMWVdqS0xaZ0RRWDJrVWRqbTZfbTkzemhrUmVKY3BNSVRvN05HNi1xUHNBSXgwYkNR?oc=5)
-Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - Divi's  **Date:** 2026-09-08
-
-### [Pivot Path appoints Mukta Arora as Independent Director](https://www.expresspharma.in/pivot-path-appoints-mukta-arora-as-independent-director/)
-She has held senior leadership roles at Eli Lilly, Elanco and Astellas Pharma, where she has focused on building and scaling global capability centres, managing regulated operations and driving cross-border initiatives. She has also held industry-level board roles with organisations including OPPI, CII, NASSCOM and the Biotechnology Vision Group The post Pivot Path appoints Mukta Arora as Independent Director appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-08
-
-### [I'm Game Box Office Collection Day 6: Dulquer Salmaan Film Sees Over 25% Drop On Tuesday](https://www.ndtvprofit.com/business/im-game-box-office-collection-day-6-dulquer-salmaan-film-sees-over-25-drop-on-tuesday-can-it-recover-12021394#publisher=newsstand)
-Dulquer Salmaan's I'm Game recorded another decline in its domestic earnings on Tuesday
+### [Apple Shares Open In Red Ahead Of Highly-Anticipated iPhone 18 Pro, Foldable Launch](https://www.ndtvprofit.com/markets/apple-shares-ahead-of-highly-anticipated-iphone-18-pro-foldable-launch-12024089#publisher=newsstand)
+Apple is expected to unveil its first foldable iPhone, alongside the iPhone 18 Pro and iPhone 18 Pro Max, at the event.
 
 **Source:** NDTV Profit  **Date:** 2026-09-09
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
+## 🤝 Deals, M&A & Partnerships (8)
 
 ### [Biocon shares rise 3% after Rs 638-crore block deal; Active Pine likely seller](https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-3-after-rs-638-crore-block-deal-active-pine-likely-seller/articleshow/133952136.cms)
 Biocon shares rose after a block deal involving around 1.65 crore shares. Investor Active Pine was reportedly looking to sell up to 1.66 crore shares, or about 1% stake, for around Rs 638 crore at a floor price of Rs 385 per share, implying a discount of up to 1.9% to the market price. The seller will face a 30-day lock-up on further stake sales.
@@ -152,10 +187,20 @@ Adani Power has made distressed assets a thrifty route to scale, with a third of
 
 **Source:** Mint - Pharma  **Date:** 2026-09-09
 
+### [Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nifty below 23,450](https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-down-today-sensex-plunges-600-points-nifty-below-23500-6-key-triggers-behind-d-street-selloff/articleshow/133951578.cms)
+For the third day in a row, Indian stock markets faced a sharp decline, driven by rising oil prices and increasing tensions in the Middle East. Investors were unsettled by these factors, resulting in notable losses. Additionally, the ongoing IPO surge in the primary market diverted crucial liquidity from secondary markets. Heavy declines in major IT stocks and a depreciating rupee only added to the mounting pressures.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
 ### [Coforge shares crash 9% after Chairman Om Prakash Bhatt resigns post audit](https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-as-chairman-om-prakash-bhatt-resigns-after-audit-heres-why/articleshow/133951301.cms)
 Coforge shares fell after Chairperson Om Prakash Bhatt resigned. An internal audit identified concerns regarding the board evaluation process and its presentation. Bhatt stated his resignation was appropriate given the circumstances and disagreements. The company clarified his departure followed audit findings and board discussions. Coforge reported strong financial results in its first quarter.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [Proposed JSW-Volkswagen tie-up aims to shield both from Chinese carmakers](https://www.livemint.com/companies/news/jsw-volkswagen-joint-venture-india-11788942462139.html)
+The potential joint venture aims to lower Volkswagen’s manufacturing costs for European exports while giving JSW its first automotive bet free of Chinese partnership risks.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-09
 
 ### [Firms Crowd US Loan Market in Push to Cut Costs, Fund Deals](https://www.livemint.com/companies/firms-crowd-us-loan-market-in-push-to-cut-costs-fund-deals-11788893800553.html)
 Companies are flocking to the US loan market as they seek to reprice large chunks of existing debt, with a pickup in leveraged buyout financing adding to the rush.
@@ -167,16 +212,11 @@ Fermenta Biotech, India&#8217;s leading manufacturer of premium-grade APIs, inte
 
 **Source:** Express Pharma  **Date:** 2026-09-09
 
-### [Paytm Share Price Jumps Over 5% To Hit 52-Week High Amid Reports Of Block Deal, AI Expansion](https://www.ndtvprofit.com/markets/paytm-share-price-jumps-over-5-to-hit-52-week-high-amid-reports-of-block-deal-ai-expansion-12021433#publisher=newsstand)
-Paytm stock price has delivered multibagger return of 176% in two years.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
 ---
 
-## 💸 Corporate Actions (3)
+## 💸 Corporate Actions (2)
 
-### [Cairn buyback case: SC sends Sebi penalty matter back to appellate tribunal](https://www.livemint.com/companies/sc-order-on-sebi-appeal-against-vedanta-in-cairn-india-buyback-case-11788929194492.html)
+### [Cairn buyback case: SC sends Sebi penalty matter back to appellate tribunal to decide on fraud](https://www.livemint.com/companies/sc-order-on-sebi-appeal-against-vedanta-in-cairn-india-buyback-case-11788929194492.html)
 Securities Appellate Tribunal had quashed a ₹5.25-crore penalty imposed on erstwhile Cairn India, now part of Vedanta, over its 2014 share buyback.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-09
@@ -186,14 +226,9 @@ NIKE-AGM/CLIMATE (PIX):Nike shareholders reject climate proposal backed by Norwa
 
 **Source:** Mint - Pharma  **Date:** 2026-09-08
 
-### [HRV Pharma invests Rs 150 crore to expand peptide, high-potent API capabilities](https://www.expresspharma.in/hrv-pharma-invests-rs-150-crore-to-expand-peptide-high-potent-api-capabilities/)
-The investment strengthens HRV Pharma's presence in high-value pharma segments The post HRV Pharma invests Rs 150 crore to expand peptide, high-potent API capabilities appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-08
-
 ---
 
-## 🏭 Operations & Approvals (10)
+## 🏭 Operations & Approvals (14)
 
 ### [India’s textile boom ahead? Why Jefferies is bullish on Welspun, Raymond](https://economictimes.indiatimes.com/markets/stocks/news/indias-textile-boom-ahead-why-jefferies-is-bullish-on-welspun-raymond/articleshow/133959129.cms)
 Jefferies upgraded Welspun Living to Buy and more than doubled its target to Rs 260, while initiating coverage on Raymond Lifestyle with a Rs 900 target. The brokerage expects FTAs, China+1 sourcing and improving export competitiveness to drive multi-year growth.
@@ -215,20 +250,20 @@ India’s defence sector is entering a new growth phase, with the combat use of 
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
+### [KARAM Safety secures  ₹600 crore investment from Motilal Oswal Alternates, eyes global expansion](https://www.livemint.com/companies/news/karam-safety-secures-600-crore-investment-from-motilal-oswal-alternates-eyes-global-expansion-11788961157073.html)
+The investment is expected to help KARAM expand its scale, strengthen its capabilities and increase its presence in overseas markets.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-09
+
 ### [Adani Enterprises leads rush for  ₹37,500 crore coal gasification scheme](https://www.livemint.com/companies/news/adani-ntpc-talcher-fertilizers-among-five-applicants-for-rs-37-500-crore-coal-gasification-scheme-11788878908476.html)
 Five companies have filed seven applications in the first round of the ₹37,500 crore scheme, which aims to build 25 gasification plants and curb import dependence
 
 **Source:** Mint - Pharma  **Date:** 2026-09-08
 
-### [Maharashtra's Chandukaka Saraf jewellers plans 5-7 new stores as jewellery consumption continues to shift](https://www.livemint.com/companies/news/maharashtras-chandukaka-saraf-jewellers-plans-5-7-new-stores-as-jewellery-consumption-continues-to-shift-11788874503337.html)
-The expansion comes as jewellery consumption in India evolves beyond traditional wedding and festival purchases. Consumers are increasingly buying jewellery to mark personal milestones such as first salaries, career achievements, birthdays and anniversaries.
+### [Leucine Rich Bio launches enhanced BugSpeaks Skin Microbiome Test 2026 edition](https://www.expresspharma.in/leucine-rich-bio-launches-enhanced-bugspeaks-skin-microbiome-test-2026-edition/)
+Leucine Rich Bio has announced the launch of the upgraded BugSpeaks Skin Microbiome Test 2026 Edition. The company is ISO 9001:2015 and ISO/IEC 17025:2017 certified. The new report builds on [&#8230;] The post Leucine Rich Bio launches enhanced BugSpeaks Skin Microbiome Test 2026 edition appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-09-08
-
-### [Alkem launches Renocia Exo, Ginsenoside Exosome-based hair growth serum](https://www.expresspharma.in/alkem-launches-renocia-exo-ginsenoside-exosome-based-hair-growth-serum/)
-The formulation integrates Ginsenoside phyto-exosomes, biomimetic peptides, copper peptides and stem cell-supportive actives to support follicular vitality, scalp health and the natural hair growth cycle The post Alkem launches Renocia Exo, Ginsenoside Exosome-based hair growth serum appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-08
+**Source:** Express Pharma  **Date:** 2026-09-09
 
 ### [CDSCO move towards smarter, risk-based regulation to ease doing business for Indian pharma: iPHEX 2026](https://www.expresspharma.in/cdsco-move-towards-smarter-risk-based-regulation-to-ease-doing-business-for-indian-pharma-iphex-2026/)
 The Central Drugs Standard Control Organisation (CDSCO) is moving towards a smarter, risk-based regulatory approach that reduces and prioritises intervention, simplifies processes and applies greater proportionality to compliance, while continuing [&#8230;] The post CDSCO move towards smarter, risk-based regulation to ease doing business for Indian pharma: iPHEX 2026 appeared first on Express Pharma .
@@ -240,14 +275,54 @@ The Department of Biotechnology (DBT) and the Biotechnology Industry Research As
 
 **Source:** Express Pharma  **Date:** 2026-09-09
 
-### [Nifty Pharma Falls 0.46% on September 3 as the US Tariff Timeline Hangs Over India’s Generic Export Story - The Eastern Herald](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1p0LUM4d1ZSVXl3bW9lWEhfb2dlMmIxaUNTeF9QMHZWMHY5bDFCQXZJN1hJVmc3TUQ3SjZGemJVZXZRZzZfM2ROQzFCYlJGSmRnakJkcnc4UG1zRTNHdjRxUnBENTBZbVh0UC1KWWhfZG1uaV9TMFNLVEpTYnl4SUE2NEtKc0la?oc=5)
-Nifty Pharma Falls 0.46% on September 3 as the US Tariff Timeline Hangs Over India’s Generic Export Story &nbsp;&nbsp; The Eastern Herald
+### [Apple Store Down Ahead Of 'Surprise And Shine' Event As iPhone 18 Pro Launch Nears](https://www.ndtvprofit.com/technology/apple-store-down-ahead-of-surprise-and-shine-event-as-iphone-18-pro-launch-nears-12024399#publisher=newsstand)
+Apple is expected to unveil the iPhone 18 Pro, Pro Max and foldable iPhone Duo at its Surprise and Shine event.
 
-**Source:** GNews - Cipla  **Date:** 2026-09-08
+**Source:** NDTV Profit  **Date:** 2026-09-09
+
+### [Apple Event 2026 LIVE Streaming: Watch The Launch Of Foldable iPhone, 18 Pro, MacBook & More](https://www.ndtvprofit.com/technology/apple-event-2026-live-streaming-watch-the-launch-of-foldable-iphone-18-pro-macbook-more-12024292#publisher=newsstand)
+The even will take place at Apple Park in Cupertino, California.
+
+**Source:** NDTV Profit  **Date:** 2026-09-09
+
+### [Foldable iPhone To 18 Pro Max: Six Key Apple Launches Expected At Today's Event](https://www.ndtvprofit.com/technology/foldable-iphone-to-18-pro-max-six-key-apple-launches-expected-at-todays-event-12023329#publisher=newsstand)
+Apple is expected to unveil its first foldable iPhone at its annual launch event.
+
+**Source:** NDTV Profit  **Date:** 2026-09-09
+
+### ['iPhone Duo': Name, Price, Features Of Apple's First Foldable 'Leaked' Ahead Of Launch](https://www.ndtvprofit.com/technology/iphone-duo-name-price-features-of-apples-first-foldable-leaked-ahead-of-launch-12023818#publisher=newsstand)
+According to Bloomberg's Mark Gurman, Apple's first foldable could be called the iPhone Duo.
+
+**Source:** NDTV Profit  **Date:** 2026-09-09
+
+### [Apple 'Surprise And Shine' Event 2026 LIVE Updates: iPhone 18 Pro, Foldable, AirPod, Macbook, Watch Series Launch Expected](https://www.ndtvprofit.com/technology/apple-event-2026-live-updates-iphone-18-pro-foldable-airpod-macbook-watch-series-launch-expected-12024019#publisher=newsstand)
+Apple's 'Surprise And Shine' event will begin at 10:30 PM IST on Sept. 9.
+
+**Source:** NDTV Profit  **Date:** 2026-09-09
 
 ---
 
-## 📉 Analyst & Brokerage Calls (4)
+## 📉 Analyst & Brokerage Calls (8)
+
+### [Vodafone Idea among 4 stocks that hit 52-week highs &amp; rallied up to 22% in a month](https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-stocks-that-hit-52-week-highs-amp-rallied-up-to-22-in-a-month/slideshow/133967670.cms)
+Four BSE 150 Midcap stocks hit fresh 52-week highs despite Wednesday’s market sell-off. Vodafone Idea and One97 Communications gained 22% each over the past month, while Piramal Finance and Laurus Labs also advanced.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [Ahead of Market: 10 things that will decide stock market action on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133974711.cms)
+Indian markets extended their losing streak for a third day as soaring oil prices and Middle East tensions hurt sentiment. Sensex fell 813 points, Nifty dropped 204 points, and BSE market capitalisation lost over Rs 2 lakh crore amid broad-based selling.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [Sebi fines two Jindal Steel designated persons for trading-window violations](https://economictimes.indiatimes.com/markets/stocks/news/sebi-fines-two-jindal-steel-designated-persons-for-trading-window-violations/articleshow/133968938.cms)
+Sebi has fined two designated persons of Jindal Steel &amp; Power Rs 1 lakh each for trading in the company’s shares and stock options during the trading-window closure period. The regulator also found that they executed trades above the prescribed threshold without obtaining pre-clearance, in violation of the company’s insider trading code.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
+
+### [CLSA sees 29% downside in Meesho despite a 19% YTD rally. Buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/clsa-sees-29-downside-in-meesho-despite-a-19-ytd-rally-buy-sell-or-hold/articleshow/133961341.cms)
+CLSA maintained an Underperform rating on Meesho with a Rs 150 target, citing stretched valuations and optimism around advertising monetisation, order frequency and logistics savings. The brokerage sees significant downside if these growth drivers fail to meet market expectations.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
 
 ### [IFCI shares fall 4% on reports of lower price band for NSE IPO](https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-fall-4-on-reports-of-lower-price-band-for-nse-ipo/articleshow/133955883.cms)
 IFCI shares fell sharply on Wednesday after reports suggested NSE could price its IPO below earlier indications and reduce the stake offered. The proposed price band of Rs 1,700–1,785 values NSE at around Rs 4.4 lakh crore. IFCI’s indirect exposure to NSE through Stock Holding Corporation has put its shares under pressure.
@@ -264,25 +339,34 @@ Adani Enterprises will raise around $1 billion by issuing fresh shares in its ai
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
-### [Infosys' AI Deflation To Continue, Says JPMorgan; Flags Rising Competition — Check Target Price](https://www.ndtvprofit.com/markets/infosys-ai-deflation-to-continue-says-jpmorgan-flags-rising-competition-check-target-price-12021469#publisher=newsstand)
-The brokerage also noted the upcoming leadership transition. Infosys has appointed Ashiss Kumar Dash as CEO-designate, with the transition to take effect on April 1, 2027.
+### [Sun Pharma Advanced Research Company Ltd is Rated Buy - MarketsMojo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjhpbVdsVzBLUW9qRW84UmFQTHl3LVdlaHAtclAwcVFWZC1Ia09fVEQ4MkVRQnIyTUZMWWREZ2c3aHNuOGtoQmNvQlgwSnFIdXJzVUtqcTByM2RBRHlteG1NTlliNXJDSWpkZWZhaFJRczBDZTZpMHV1R2RzVXhKQ1RoUmREZTcwXzFKZUlWZm5SSzNqOWtLUENmMDI1cDBuRU91UGh0OFJtbzBvTlItRDhNRzVUdw?oc=5)
+Sun Pharma Advanced Research Company Ltd is Rated Buy &nbsp;&nbsp; MarketsMojo
 
-**Source:** NDTV Profit  **Date:** 2026-09-09
+**Source:** GNews - Sun Pharma  **Date:** 2026-09-08
 
 ---
 
-## 📰 Industry & Policy News (25)
+## 📰 Industry & Policy News (11)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-09-sep-2026/liveblog/133950404.cms)
+### [Market wrap: Adani Ent, Max Healthcare, Infosys, HDFC Life among top gainers and losers on Nifty and Sensex on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ent-max-healthcare-infosys-hdfc-life-among-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133966457.cms)
+Indian equities extended losses on September 9 as rising oil prices pressured sentiment. Sensex fell 813 points and Nifty declined 204 points. IT stocks led sectoral losses, while metals gained. Technical indicators remained bearish, though oversold conditions could trigger a rebound.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
-### [Divis Labs Share Price Live Updates: Divis Labs Trading Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-09-sep-2026/liveblog/133950181.cms)
+### [Great companies build people first: Manish Padharia on leadership, people growth, and lasting community impact](https://www.livemint.com/companies/great-companies-build-people-first-manish-padharia-on-leadership-people-growth-and-lasting-community-impact-11788938862082.html)
+ARaymond India, under Manish Padharia's leadership, is committed to shaping its organizational culture by empowering employees. The company prioritizes employee engagement and community contributions, believing that sustainable growth hinges on the success of both individuals and society.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-09
+
+### [India lifts ban on JPMorgan unit in index manipulation charge](https://economictimes.indiatimes.com/markets/stocks/news/india-lifts-ban-on-jpmorgan-unit-in-index-manipulation-charge/articleshow/133969969.cms)
+India lifted its trading ban on JPMorgan unit Copthall Mauritius and Mansi Share after they deposited Rs 2.96 crore ($311,230) in alleged unlawful gains. Accused by SEBI of manipulating BSE Sensex closing auction prices to boost options bets, both entities can trade again while the investigation continues
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
-### [Mixed reactions emerge as President William Ruto asks Tata Chemicals to ‘pack up and leave’ Kenya](https://www.livemint.com/companies/news/mixed-reactions-emerge-as-president-william-ruto-asks-tata-chemicals-to-pack-up-and-leave-kenya-11788864921041.html)
-Kenyan President William Ruto has revoked the Tata Group's mining concession near Lake Magadi, sparking division within the community. Ruto seeks enhanced local manufacturing to boost Kenya's economy.
+### [Multibagger Stocks: 14 microcaps surged up to 355% in just 6 months](https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stocks-14-microcaps-surged-up-to-355-in-just-6-months/slideshow/133961311.cms)
+The rally has been broad-based, with nearly 60 microcap stocks gaining more than 50% during the period.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-08
+**Source:** Economic Times - Markets  **Date:** 2026-09-09
 
 ### [ASM Tech shares rally 10% to record high as Radhakishan Damani, Mukul Agrawal join Rs 526-crore preferential issue](https://economictimes.indiatimes.com/markets/stocks/news/asm-tech-shares-rally-10-to-record-high-as-radhakishan-damani-mukul-agrawal-join-rs-526-crore-preferential-issue/articleshow/133957991.cms)
 ASM Technologies share price rallied sharply on Wednesday to hit a record high after the company approved a Rs 526-crore preferential issue involving entities linked to Radhakishan Damani and Mukul Agrawal. The engineering services firm will issue 10.78 lakh shares at Rs 4,875 apiece, while existing investors will gain fresh exposure.
@@ -294,15 +378,7 @@ PC Jeweller shares have surged 38% in a week and 40% in a month as the company m
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
-### [Why stock market is down today? Oil spike, IT rout among 6 key factors dragging Sensex and Nifty](https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-down-today-sensex-plunges-600-points-nifty-below-23500-6-key-triggers-behind-d-street-selloff/articleshow/133951578.cms)
-Indian stock markets experienced significant losses as Sensex and Nifty declined. Soaring oil prices and other factors spooked investors, leading to a market downturn. Major IT stocks like Infosys and TCS saw considerable drops, impacting the overall market. Broader markets also followed the downward trend, with midcap and smallcap indices falling. The total market capitalization saw a substantial reduction of approximately two lakh crore rupees.
-
-**Source:** Economic Times - Markets  **Date:** 2026-09-09
-
-### [Rentomojo IPO GMP Live Updates | Karamtara Engineering among 6 mainboard IPOs open for bidding; Check GMP, other details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-rentomojo-manipal-cards-karamtara-engineering-ipo-gmp-price-band-nse-bse-listing-date/liveblog/133951169.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-09
-
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Price and Trend Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-today-live-09-sep-2026/liveblog/133950178.cms)
+### [Rentomojo IPO GMP Live Updates | Rentomojo IPO fully subscribed on Day 1; Check GMP and other key details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-rentomojo-manipal-cards-karamtara-engineering-ipo-gmp-price-band-nse-bse-listing-date/liveblog/133951169.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-09
 
 ### [Adani Airports becomes India's most valuable private airport operator after $1 billion fundraise](https://www.livemint.com/companies/news/adani-airports-1-billion-fundraise-alpha-wave-temasek-blackrock-11788927890933.html)
@@ -315,78 +391,13 @@ As Myntra and AJIO make rapid fashion delivery easier to replicate, Slikk is bet
 
 **Source:** Mint - Pharma  **Date:** 2026-09-09
 
-### [Bajaj Finance acquires 5% stake in video generation platform TrueFan AI](https://www.livemint.com/companies/bajaj-finance-acquires-5-stake-in-video-generation-platform-truefan-ai-11788862377659.html)
-TrueFan AI investment is part of Finserv Intelligence, Bajaj Finserv Ltd's group-wide initiative focused on applied research and innovation.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-08
-
-### [IPO Live Updates: Rentomojo, LCC Projects Lead Bidding Race; Check GMP, Subscription Status](https://www.ndtvprofit.com/markets/ipo-today-live-updates-rentomojo-karamtara-engineering-kanohar-electricals-among-10-ipos-check-gmp-subscription-12021207#publisher=newsstand)
-Rentomojo, Karamtara Engineering, Kanohar Electricals IPOs in focus.
+### [NSE IPO: Indian Bank To Divest 17.91% Of Its Stake Via OFS](https://www.ndtvprofit.com/markets/nse-ipo-indian-bank-to-divest-17-91-of-its-stake-via-ofs-12024379#publisher=newsstand)
+Indian Bank is planning to divest around 18% or upto 15,00,000 shares held by the state-owned lender in National Stock Exchange of India.
 
 **Source:** NDTV Profit  **Date:** 2026-09-09
 
-### [Steamhouse India IPO GMP Today: Grey Market Signals 22.22% Listing Gain As Issue Opens](https://www.ndtvprofit.com/markets/steamhouse-india-ipo-gmp-what-grey-market-suggests-as-issue-opens-for-subscription-12011424#publisher=newsstand)
-Steamhouse India IPO is a book build issue of Rs 414 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Karamtara Engineering IPO GMP: Grey Market Signals 26.77% Listing Gain As Issue Opens](https://www.ndtvprofit.com/markets/karamtara-engineering-ipo-gmp-what-grey-market-suggests-as-issue-opens-for-subscription-12011305#publisher=newsstand)
-The IPO price band is set between Rs 241 and Rs 254 per share.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Rentomojo IPO GMP Today: Grey Market Signals 33.17% Listing Gain As Issue Opens](https://www.ndtvprofit.com/markets/rentomojo-ipo-gmp-ahead-of-september-9-launch-12005207#publisher=newsstand)
-Rentomojo IPO is a book build issue of Rs 1,255.57 crore
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Coforge Share Price Slumps 8% After Chairman OP Bhatt Resigns Post Internal Audit Review](https://www.ndtvprofit.com/markets/coforge-share-price-slumps-8-after-chairman-op-bhatt-resigns-post-internal-audit-review-12021230#publisher=newsstand)
-The IT stock declined as much as 8.67% to Rs 1,780.10 apiece on the BSE.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Asset Reconstruction Company IPO GMP Today: Grey Market Signals 21.58% Listing Gain As Issue Opens](https://www.ndtvprofit.com/markets/asset-reconstruction-ipo-gmp-ahead-of-september-9-launch-12005148#publisher=newsstand)
-Asset Reconstruction IPO is a book build issue of Rs 732.97 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Pranav Constructions IPO Day 3: Issue Subscribed 24.43 Times So Far— Check GMP](https://www.ndtvprofit.com/markets/pranav-constructions-ipo-day-3-check-subscription-status-gmp-and-other-key-details-12021067#publisher=newsstand)
-Pranav Constructions IPO: GMP, Subscription Status On Day 3
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Adani Enterprises Share Price Jumps 6% As Airport Arm To Raise $1 Billion From BlackRock, Temasek](https://www.ndtvprofit.com/markets/adani-enterprises-share-price-jumps-6-as-airport-arm-to-raise-1-billion-from-blackrock-temasek-12021520#publisher=newsstand)
-Shares of Adani Enterprises Ltd. opened at Rs 2,959.90 and rallied over 6.5% to hit an intraday high of Rs 3,137.10 apiece on the NSE.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [IPO GMP Today: Kanohar Electricals, Glass Wall Systems, Prasol Chemicals — Which Offers the Biggest Listing Gains?](https://www.ndtvprofit.com/markets/ipo-gmp-today-kanohar-electricals-glass-wall-systems-prasol-chemicals-which-offers-the-biggest-listing-gains-12017923#publisher=newsstand)
-Kanohar Electricals, Glass Wall Systems and Prasol Chemicals IPOs enter Day 2 of bidding
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Stock Market Today LIVE: Sensex Drops Over 500 Points, Nifty Below 23,600 On Oil Price Surge; IT Top Drag](https://www.ndtvprofit.com/markets/stock-market-today-live-sensex-today-nifty-50-gift-nifty-crude-oil-prices-gold-rate-today-silver-us-iran-war-ipo-12020934#publisher=newsstand)
-Gift Nifty Signals Negative Start For Indian Stock Market Today.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Pranav Constructions IPO GMP Today: 36.29% Expected Listing Gain As Bidding Enters Final Day](https://www.ndtvprofit.com/markets/pranav-constructions-ipo-gmp-today-36-29-expected-listing-gain-as-bidding-enters-final-day-12017727#publisher=newsstand)
+### [Pranav Constructions IPO: Issue Subscribed 121 Times, GMP Points To 32.26% Listing Gain](https://www.ndtvprofit.com/markets/pranav-constructions-ipo-gmp-today-36-29-expected-listing-gain-as-bidding-enters-final-day-12017727#publisher=newsstand)
 Pranav Constructions IPO enters its final day of bidding today
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [NSE IPO: Price Band Likely At Rs 1,750 - Rs 1,785; Valuation Seen Lower At Rs 4.42 Lakh Crore](https://www.ndtvprofit.com/markets/nse-ipo-price-band-likely-at-rs-1-750-rs-1-785-valuation-seen-lower-at-rs-4-42-lakh-crore-12021552#publisher=newsstand)
-At the upper end of the proposed range, NSE would be valued at around Rs 4.42 lakh crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [LCC Projects IPO Day 1: Issue Subscribed 21% Within Half An Hour Of Opening — Should You Invest?](https://www.ndtvprofit.com/markets/lcc-projects-ipo-day-1-gmp-reviews-subscription-status-and-more-should-you-subscribe-12020969#publisher=newsstand)
-LCC Projects IPO Day 1
-
-**Source:** NDTV Profit  **Date:** 2026-09-09
-
-### [Raymond Shares Fall Over 8% in Trade. Here's Why](https://www.ndtvprofit.com/markets/raymond-shares-fall-over-8-in-trade-heres-why-12021310#publisher=newsstand)
-Raymond shares fall 8% after Rs 215 crore fundraise plan
 
 **Source:** NDTV Profit  **Date:** 2026-09-09
 
