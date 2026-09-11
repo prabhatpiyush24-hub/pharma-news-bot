@@ -1,13 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-09-11
 
-> 54 items · 2026-09-11 08:32 UTC
+> 59 items · 2026-09-11 15:51 UTC
 
-## 📊 BSE / NSE Filings (9)
+## 📊 BSE / NSE Filings (16)
 
-### [Gujarat Themis Biosyn Ltd: Please refer to the Outcome of the Board meeting held on 10.09.2026](https://www.bseindia.com/corporates/ann.html?scrip=506879)
-BSE Code: 506879
+### [Sun Pharma: As attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/989e1898-8944-483b-9452-4102f40df15c.pdf)
+Category: Company Update | Sub: General | BSE Code: 524715
 
-**Source:** BSE Filing  **Date:** 2026-09-10
+**Source:** BSE Filing  **Date:** 2026-09-11
 
 ### [Dr. Reddy's Laboratories: Allotment of Employee Stock options](https://www.bseindia.com/xml-data/corpfiling/AttachLive/63109ba5-7945-468a-b60b-008f7b5b6f5f.pdf)
 Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500124
@@ -19,12 +19,27 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-09-10
 
-### [Aurobindo Pharma: Intimation of investor / analyst meet scheduled on 18.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c6944c5-ab3f-431b-8c41-a206a411e3bb.pdf)
+### [Aurobindo Pharma: Intimation of completion of US FDA inspection of Unit-IV of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9fc0a09f-02c0-480d-b9be-d36d5bf996d0.pdf)
+Category: Company Update | Sub: General | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
+### [Aurobindo Pharma: Intimation of investor / analyst meet scheduled on 22.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb964ea2-9ee2-431f-8ced-b3bf6de63a31.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-09-11
 
-### [Aurobindo Pharma: Intimation of Investor / analyst meet scheduled on 17.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/26961ef5-7630-464f-8794-13505e87101e.pdf)
+### [Aurobindo Pharma: Intimation of investor / analyst meet scheduled on 21.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e8c24f8-7f1d-4c86-b38e-f8c8f35f387a.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
+### [Aurobindo Pharma: Intimation of investor / analyst meet scheduled on 17.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/dc26680d-660b-47c5-9ae7-2861c9369459.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
+### [Aurobindo Pharma: Intimation of investor / analyst meet scheduled on 18.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c6944c5-ab3f-431b-8c41-a206a411e3bb.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-09-11
@@ -40,6 +55,16 @@ Category: Company Update | Sub: Change in Management | BSE Code: 532955
 
 **Source:** BSE Filing  **Date:** 2026-09-10
 
+### [Sanofi India: Find enclosed communication with respect to credit ratings reaffirmed by Crisil Ratings Limited](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9c39f307-200b-4977-8b7d-ad21a0e3620e.pdf)
+Category: Company Update | Sub: Credit Rating | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
+### [Sanofi India: This is to inform you that the trading window for trading in the securities of the Company will be closed from Friday, 18th September 2026 until two trading days from the date of declaration ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/54a310c9-73d7-4827-b29a-315de5c7f608.pdf)
+Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
 ### [Gland Pharma: Intimation of Analyst/Institutional Investors Meet/Con. Call/Updates.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2f5d2aa0-3606-47c1-9ae4-859365b4d871.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 543213
 
@@ -50,9 +75,29 @@ Category: Company Update | Sub: General | BSE Code: 590086
 
 **Source:** BSE Filing  **Date:** 2026-09-10
 
+### [Glaxosmithkline Pharma: As per the disclosure attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3db5d3d6-d8b1-4982-a6f4-4527b323bb3b.pdf)
+Category: Company Update | Sub: General | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
+### [Symbiotec Pharmalab Ltd: Symbiotec Pharmalab Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 21/09/2026 ,inter alia, to consider and approve To consider and approve ....](https://www.bseindia.com/corporates/ann.html?scrip=544889)
+BSE Code: 544889
+
+**Source:** BSE Filing  **Date:** 2026-09-11
+
 ---
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (17)
+
+### [Sri Lotus Developers shares jump 3% to fresh 52-week high after Capital Group buys nearly 2% stake](https://economictimes.indiatimes.com/markets/stocks/news/sri-lotus-developers-shares-jump-3-to-fresh-52-week-high-after-capital-group-buys-nearly-2-stake/articleshow/134056130.cms)
+Sri Lotus Developers shares hit a fresh 52-week high after a Capital Group fund acquired a 2% stake worth over Rs 195 crore. The promoter stake sale helped meet minimum public shareholding norms. The stock has more than doubled since its March low, while Q1 FY27 profit rose 77% year-on-year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
+
+### [Jefferies' 25% CAGR club: Paytm, Groww among 5 financial stocks that can deliver up to 25% returns](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-25-cagr-club-paytm-groww-among-5-financial-stocks-that-can-deliver-up-to-25-returns/articleshow/134055438.cms)
+Jefferies has identified Paytm, Groww, PB Fintech, AU Small Finance Bank and Poonawalla Fincorp as its 25% CAGR club of Indian financial stocks. The brokerage expects strong earnings and revenue growth over FY26-29, supported by scale, new business initiatives and operating leverage, while maintaining Buy calls on all five stocks.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
 
 ### [Oracle earnings show slower cash burn as AI spending starts to pay off; stock jumps 4% after market](https://economictimes.indiatimes.com/markets/stocks/news/oracle-earnings-show-slower-cash-burn-as-ai-spending-starts-to-pay-off-stock-jumps-4-after-market/articleshow/134051217.cms)
 Oracle’s latest earnings offered investors relief as stronger-than-expected revenue and a smaller cash burn eased concerns over its heavy AI spending. The company’s revenue backlog surged to $664 billion, while customer prepayments helped fund capital expenditure. Oracle shares rose 4% after market as investors gained confidence in its AI growth strategy.
@@ -64,6 +109,16 @@ Sterlite Technologies secured US certification for its indoor optical fibre asse
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
+### [Meta’s Muse $20 vs $100 AI plans: How much revenue can its paid AI agent really generate?](https://www.livemint.com/companies/news/metas-muse-20-vs-100-ai-plans-how-much-revenue-can-its-paid-ai-agent-really-generate-11789130248665.html)
+Meta's new AI agent, launched on September 8, offers paid subscription plans of $20 and $100 monthly, but revenue remains small compared to its advertising earnings. The focus is on heavy users, while most will likely use the free tier.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-11
+
+### [DreamFolks is moving beyond airport lounges. Can it regain lost ground?](https://www.livemint.com/companies/dreamfolks-services-liberatha-kallat-airport-lounges-travel-benefits-lifestyle-benefits-credit-cards-11789108814513.html)
+DreamFolks expects to return to its pre-lounge-exit revenue by 2030, but with a radically different business mix spanning travel, dining, wellness, golf and railway lounges.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-11
+
 ### [Decathlon widens India playfield, eyes B2B growth from govt, schools, small cities](https://www.livemint.com/companies/news/decathlon-india-playfield-b2b-wholesale-growth-govt-schools-small-cities-11789032830241.html)
 Decathlon India’s wholesale business has grown 20-fold in five years and now contributes 10% of India revenue, with schools, smaller cities and sports communities offering further headroom.
 
@@ -73,6 +128,11 @@ Decathlon India’s wholesale business has grown 20-fold in five years and now c
 Ceat aims to target customers who purchase tyres across categories and cross-sell its and Camso's products, enabling the brands to generate more revenue from the same customer.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-11
+
+### [NSEL settlement scheme: Sebi settles proceedings against 91 commodity brokers](https://economictimes.indiatimes.com/markets/stocks/news/nsel-settlement-scheme-sebi-settles-proceedings-against-91-commodity-brokers/articleshow/134074347.cms)
+Sebi has concluded its proceedings against ninety-one commodity brokers linked to the NSEL issue, allowing these firms to participate in a settlement scheme. Many brokers consented to temporary limitations on proprietary trading and onboarding new clients, with some remitting settlement fees of up to thirty-six lakh rupees. This move aligns with the directive from the Securities Appellate Tribunal regarding an orderly settlement process.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
 
 ### [Bernstein names Paytm stock as its top pick, lists 3 strong growth drivers for fintech giant](https://economictimes.indiatimes.com/markets/stocks/news/bernstein-names-paytm-stock-as-its-top-pick-lists-3-strong-growth-drivers-for-fintech-giant/articleshow/134051463.cms)
 Bernstein has named Paytm its top pick, citing strong merchant lending growth, operating leverage and potential UPI MDR as key earnings drivers. The brokerage has set a Rs 2,200 target, implying further upside, while flagging key downside risks.
@@ -109,17 +169,22 @@ The launch follows ANVISA approval and introduces an olopatadine-containing intr
 
 **Source:** Express Pharma  **Date:** 2026-09-11
 
-### [Are Banks Open Or Closed Today? Strike, Weekend And Ganpati Holiday May Disrupt Services For Four Days](https://www.ndtvprofit.com/business/are-banks-open-or-closed-today-strike-weekend-and-ganpati-holiday-may-disrupt-services-for-four-days-12031164#publisher=newsstand)
-Bank Employees Nationwide Strike May Disrupt Services Starting September 11
+### [Haiwaan Box Office Collection Day 1: Akshay Kumar, Saif Ali Khan Starrer Sees Early Occupancy Trends — Check Earnings](https://www.ndtvprofit.com/business/haiwaan-box-office-collection-day-1-akshay-kumar-saif-ali-khan-starrer-sees-early-occupancy-trends-check-earnings-12034106#publisher=newsstand)
+Haiwaan stars Akshay Kumar and Saif Ali Khan along with Boman Irani, Shriya Pilgaonkar and Saiyami Kher.
 
 **Source:** NDTV Profit  **Date:** 2026-09-11
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (3)
 
 ### [From 52% to 42%: Is HDFC Bank’s 10 percentage point drop in FII shareholding a worrying sign?](https://economictimes.indiatimes.com/markets/stocks/news/fii-darling-turns-into-exit-trade-is-hdfc-banks-10-foreign-holding-drop-a-worrying-sign/articleshow/134046237.cms)
 HDFC Bank has seen a sharp decline in foreign investor ownership since its merger with HDFC, reflecting concerns over slower growth, funding pressures, margins and leadership changes. FII holding has fallen from 52.13% in September 2023 to 41.82% in June 2026. While valuations have become more attractive, investors await clearer signs of improving growth, profitability and post-merger execution.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
+
+### [Explained: Why did market bounce back? Sensex recovers 620 points from day’s low, Nifty closes near 23,400](https://economictimes.indiatimes.com/markets/stocks/news/explained-why-is-market-bouncing-back-sensex-recovers-over-700-points-from-days-low-nifty-back-above-23400/articleshow/134058035.cms)
+On Friday, Indian stock indices bounced back notably after a sluggish start, largely due to declining oil prices and bond yields. The shift in market sentiment was fueled by news of an upcoming summit between Gulf nations and Iran aimed at regulating shipping through the crucial Strait of Hormuz. This potential agreement has raised hopes of better supply management, but experts advise maintaining vigilance amidst the current market’s unpredictability.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
@@ -128,58 +193,43 @@ National Stock Exchange of India Ltd., the world’s largest derivatives exchang
 
 **Source:** Mint - Pharma  **Date:** 2026-09-10
 
-### [JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report](https://www.livemint.com/companies/news/jsw-volkswagen-group-potential-india-deal-cost-cuts-exports-and-control-at-centre-of-talks-says-report-11789043077410.html)
-JSW Group and Volkswagen Group are reportedly negotiating a potential partnership in India focused on reducing costs and export access. JSW aims to cut production expenses by 50%, while Volkswagen assesses its decision-making authority in the joint venture.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-10
-
-### [High Commissioner highlights stronger pharma partnership for India & Sri Lanka](https://www.expresspharma.in/high-commissioner-highlights-stronger-pharma-partnership-for-india-sri-lanka/)
-Sri Lanka’s High Commissioner to India Mahishini Colonne highlighted opportunities for deeper India &#8211; Sri Lanka cooperation in pharmaceutical manufacturing, investment, healthcare technologies and resilient supply chains at the Ambassadors’ [&#8230;] The post High Commissioner highlights stronger pharma partnership for India &#038; Sri Lanka appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-10
-
 ---
 
-## 🏭 Operations & Approvals (7)
+## 🏭 Operations & Approvals (3)
+
+### [LG Electronics India in Jefferies’ ‘pole position’; bull case points to 21% upside](https://economictimes.indiatimes.com/markets/stocks/news/lg-electronics-india-in-jefferies-pole-position-bull-case-points-to-21-upside/articleshow/134061715.cms)
+Jefferies retains a Buy rating on LG Electronics India with a Rs 1,895 target and sees Rs 2,000 in its bull case. Growth could come from premiumisation, exports, B2B expansion, higher in-house production and Sri City capacity expansion over time.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
+
+### [Jefferies cuts KEI Industries target price by 11%. Will UltraTech’s entry put the company at risk?](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-kei-industries-target-price-by-11-will-ultratechs-entry-put-the-company-at-risk/articleshow/134056011.cms)
+Jefferies has cut its target price for KEI Industries by 11% to Rs 6,150, citing concerns over UltraTech Cement’s entry into wires and cables. The brokerage expects some retail market-share pressure but believes KEI can offset the impact through power transmission cables and exports, retaining its Buy rating on the stock.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
 
 ### [Experts call for intense evaluation of boards as Coforge chairman exits under a cloud](https://www.livemint.com/companies/news/coforge-chairman-op-bhatt-resignation-corporate-governance-in-india-11789026227593.html)
 Bhatt's resignation from Coforge, linked to undisclosed findings in its board evaluation report, has put the spotlight on India's board practices. The Sebi-mandated exercise is often a formality rather than a rigorous assessment. Some advisory firms now push for deeper, more customized reviews.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-11
 
-### [International flights from Navi Mumbai gets a fee waiver boost](https://www.livemint.com/companies/news/international-flights-from-navi-mumbai-gets-a-fee-waiver-boost-11789049550324.html)
-An airline already flying to Dubai from CSMIA can now launch Navi Mumbai-Dubai flights and still qualify for the fee waiver. Under the earlier rule, it would not have qualified.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-10
-
-### [Adyen steps up India expansion after licence approval, plans to grow local team](https://www.livemint.com/companies/news/adyen-steps-up-india-expansion-after-licence-approval-plans-to-grow-local-team-11789038518286.html)
-Adyen plans to expand its local product, commercial and operations teams as it targets Indian businesses going global and multinational companies entering India.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-10
-
-### [Greenwave Circularity raises $31.5 mn from Development Bank of Austria](https://www.livemint.com/companies/news/greenwave-circularity-raises-31-5-mn-from-development-bank-of-austria-11789031739940.html)
-The company plans to use the funding to develop its integrated plastic recycling facility in Odisha.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-10
-
-### [UK-MHRA inspects Indoco’s solid dosages facility in Goa](https://www.expresspharma.in/uk-mhra-inspects-indocos-solid-dosages-facility-in-goa/)
-Indoco Remedies announced that the UK Medicines and Healthcare Products Regulatory Agency (UKMHRA) inspected its solid dosages manufacturing facility in Goa (Plant I) from September 7 to September 9, 2026. [&#8230;] The post UK-MHRA inspects Indoco’s solid dosages facility in Goa appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-10
-
-### [Complex-molecule specialist Shilpa CDMO launches at CPHI Milan](https://www.expresspharma.in/complex-molecule-specialist-shilpa-cdmo-launches-at-cphi-milan/)
-Shilpa CDMO, a dedicated complex small-molecule contract development and manufacturing organisation will launch next month at CPHI Milan. The new brand, separate from parent company Shilpa Medicare, provides a specialist [&#8230;] The post Complex-molecule specialist Shilpa CDMO launches at CPHI Milan appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-10
-
-### [India's Peak Electricity Demand Soars To 270.8 GW, Nearly Double The 2013-14 Level](https://www.ndtvprofit.com/india/india-s-electricity-peak-soars-to-270-8-gw-nearly-double-2013-14-level-12031668#publisher=newsstand)
-India's total installed power capacity increased from249 GW in March 2014 to 552 GW by July 2026.
-
-**Source:** NDTV Profit  **Date:** 2026-09-11
-
 ---
 
-## 📉 Analyst & Brokerage Calls (6)
+## 📉 Analyst & Brokerage Calls (9)
+
+### [How NSE helped Zerodha start when it had little money: Nithin Kamath recalls ahead of IPO](https://economictimes.indiatimes.com/markets/stocks/news/how-nse-helped-zerodha-start-when-it-had-little-money-nithin-kamath-recalls-ahead-of-ipo/articleshow/134064067.cms)
+Zerodha founder Nithin Kamath recalled how NSE’s free NSE NOW trading platform helped the brokerage start in 2010 when it lacked funds to build its own platform. He also said NSE waived Zerodha’s membership fee and was welcoming during its early days, expressing confidence that NSE’s much-awaited IPO will succeed.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
+
+### [Counting Rs 4 lakh crore loss in RIL? Dangote refinery listing in Nigeria could trigger a 30% rally](https://economictimes.indiatimes.com/markets/stocks/news/counting-rs-4-lakh-crore-lossinrildangote-refinery-listinginnigeria-could-triggera30rally/articleshow/134063393.cms)
+Reliance Industries could see a re-rating of its oil-to-chemicals business as the planned Dangote Petroleum Refinery listing provides a global valuation benchmark, says YES Securities. The brokerage sees up to Rs 1 lakh crore of potential O2C valuation uplift and retains a Buy rating on Reliance with a Rs 1,660 target price.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
+
+### [Hidden goldmine! How NSE IPO will unlock Rs 95,000 crore value for over 20 listed companies](https://economictimes.indiatimes.com/markets/stocks/news/hidden-goldmine-how-nse-ipo-will-unlock-rs-95000-crore-value-for-over-20-listed-companies/articleshow/134055566.cms)
+The NSE IPO could unlock significant hidden value for 26 listed shareholders, whose combined NSE holdings could be worth around Rs 94,619 crore at the tentative upper price of Rs 1,785 per share. LIC stands to benefit the most, with its 26.53-crore-share stake valued at around Rs 47,351 crore.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-11
 
 ### [SBI's 80 paise masterstroke: How NSE IPO could deliver Rs 2,850 crore jackpot and 2,23,025% return](https://economictimes.indiatimes.com/markets/stocks/news/sbis-80-paise-masterstroke-how-nse-ipo-could-deliver-rs-2850-crore-jackpot-and-223025-return/articleshow/134047862.cms)
 SBI is set to potentially book a massive profit from the NSE IPO by selling up to 1.60 crore shares acquired at a weighted-average cost of just 80 paise each. At the upper price band of Rs 1,785, the stake sale could fetch around Rs 2,850 crore, implying a staggering 223,025% return.
@@ -196,35 +246,43 @@ NSE has reduced its IPO offer for sale to 12.64 crore shares from 14.89 crore sh
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
-### [Paytm, Groww, PB Fintech, And More: Jefferies' 25% Profit Growth Picks For The Next Three Years](https://www.ndtvprofit.com/markets/financial-stocks-to-buy-jefferies-25-profit-growth-club-includes-paytm-groww-pb-fintech-12031324#publisher=newsstand)
-The brokerage's list spans fintechs, a bank and an NBFC: Groww, Paytm, PB Fintech, AU Small Finance Bank and Poonawalla Fincorp.
+### [Second Exit At Coforge: NRC Chair DK Singh Resigns After KMPG Audit Flags Hidden Scores](https://www.ndtvprofit.com/business/second-exit-at-coforge-nrc-chair-dk-singh-resigns-after-kmpg-audit-flags-hidden-scores-12034464#publisher=newsstand)
+Coforge Board has reconstituted Nomination and Remuneration Committee (NRC) and Stakeholders' Relationship Committee (SRC) and has designated Beth Boucher, Non-Executive Independent Director, as the Chairperson of the NRC.
 
 **Source:** NDTV Profit  **Date:** 2026-09-11
 
-### [Nifty IT Under Pressure: Stocks Trade Mixed After Sharp Selloff; Check Top Gainers, Losers](https://www.ndtvprofit.com/markets/newgen-kpit-tech-tcs-infosys-nifty-it-under-pressure-stocks-trade-mixed-after-sharp-selloff-check-top-gainers-losers-12031429#publisher=newsstand)
-The broader mid- and small-cap IT space remained under pressure. Latent View Analytics was the biggest decliner, falling 1.35%, followed by Newgen Software Technologies at 0.85%.
+### [OP Bhatt Exit: Coforge Board 'Gobsmacked' As KPMG Reveals Withheld Ratings](https://www.ndtvprofit.com/business/op-bhatt-exit-coforge-board-gobsmacked-as-kpmg-reveals-withheld-ratings-12033439#publisher=newsstand)
+The governance red flag follows Bhatt's unexpected resignation on Sept. 8, well before his tenure was set to end in April 2027.
 
 **Source:** NDTV Profit  **Date:** 2026-09-11
 
-### [Three Reasons Why Stock Market Is Falling: Nifty Down 1%, Sensex Falls Over 700 Points](https://www.ndtvprofit.com/markets/three-reasons-why-stock-market-is-falling-nifty-down-1-sensex-falls-over-700-points-12031604#publisher=newsstand)
-Three factors are weighing on domestic equities: rising crude oil prices amid escalating US-Iran tensions, weakness across key sectors, and continuing selling pressure in the benchmarks.
+### [Three Reasons Why US Stock Market Is Rallying Today: Cooler Oil To Traders Shrugging Fed Fears](https://www.ndtvprofit.com/markets/three-reasons-why-us-stock-market-is-rallying-today-cooler-oil-to-traders-shrugging-fed-fears-12034225#publisher=newsstand)
+US stocks rebound as easing oil prices and dip-buying lift investor sentiment.
 
 **Source:** NDTV Profit  **Date:** 2026-09-11
 
 ---
 
-## 📰 Industry & Policy News (16)
+## 📰 Industry & Policy News (11)
 
-### [Divis Labs Share Price Live Updates: Divis Labs Price and Returns Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-11-sep-2026/liveblog/134042473.cms)
+### [Market wrap: HDFC Bank, Dr Reddys, Hindalco, JSW Steel top gainers and losers on Nifty and Sensex on Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hdfc-bank-dr-reddys-hindalco-jsw-steel-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134062966.cms)
+Indian equity markets ended the week lower as crude oil prices surged and global rate concerns pressured sentiment. Nifty fell 0.34%, while Sensex gained 0.16%. Midcaps and smallcaps declined, volatility rose, with metals and realty stocks leading losses on Friday.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-11-sep-2026/liveblog/134042372.cms)
+### [IRCTC among 8 midcap stocks hitting 52-week low; slipped up to 18% in a month](https://economictimes.indiatimes.com/markets/stocks/news/irctc-among-8-midcap-stocks-hitting-52-week-low-slipped-up-to-18-in-a-month/slideshow/134064040.cms)
+Nine BSE 150 Midcap stocks hit fresh 52-week lows on Friday, led by PI Industries, Havells India and IRCTC, with declines of up to 18% over one month.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
-### [Apollo Hospital Share Price Live Updates: Current Trading Status of Apollo Hospital](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-11-sep-2026/liveblog/134042354.cms)
+### [ET Alpha Wealth Summit 2.0: How are India's family offices investing in 2026?](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-how-are-indias-family-offices-investing-in-2026/articleshow/134059475.cms)
+At ET Alpha Wealth Summit 2.0, experts will explore how India’s family offices are reshaping their investment strategies in 2026. From private credit, venture debt and co-investments to global opportunities, family offices are broadening beyond traditional assets while focusing on diversification, capital preservation, liquidity and long-term, multi-generational wealth creation.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddy's Surpasses Key Moving Average](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-11-sep-2026/liveblog/134041830.cms)
+### [10 Nifty stocks that fell up to 40% from their yearly peaks](https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-stocks-that-fell-up-to-40-from-their-yearly-peaks/slideshow/134060761.cms)
+Several Nifty 50 stocks have fallen sharply from their 52-week highs, with Infosys, ITC and Wipro among the biggest decliners, shedding up to 40% from their yearly peaks amid heightened market volatility.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
 ### [Retail algo trading gets a makeover: how APIs, AI and regulation are opening the door for Indian traders](https://economictimes.indiatimes.com/markets/stocks/news/retail-algo-trading-gets-a-makeover-how-apis-ai-and-regulation-are-opening-the-door-for-indian-traders/articleshow/134049975.cms)
@@ -252,36 +310,13 @@ Indian stock markets tumbled significantly on Friday, with benchmark indices Sen
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-11
 
-### [Bajaj Finance Share Price Live Updates: Bajaj Finance closes at Rs 1039.3, with a trading volume of 9,244,698 shares](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-livestock-price-today-live-updates-11-sep-2026/liveblog/134042060.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-11
+### [Fidelity, GIC, BlackRock among global funds eyeing NSE’s anchor allocation](https://www.livemint.com/companies/news/fidelity-prudential-and-gic-likely-to-participate-in-6-800-crore-nse-ipo-anchor-book-11789123294707.html)
+The anchor portion is likely to be valued at approximately ₹6,800 crore, less than a third of the truncated IPO size, which will comprise entirely an offer for sale by existing investors.
 
-### [OPPI appoints Amitabh Dube as its President](https://www.expresspharma.in/oppi-appoints-amitabh-dube-as-its-president/)
-The Organisation of Pharmaceutical Producers of India (OPPI), which represents the global research-based pharmaceutical companies in India, has appointed Amitabh Dube as its President for a term of two years [&#8230;] The post OPPI appoints Amitabh Dube as its President appeared first on Express Pharma .
+**Source:** Mint - Pharma  **Date:** 2026-09-11
 
-**Source:** Express Pharma  **Date:** 2026-09-10
-
-### [Saudi Arabia's Vital East-West Oil Pipeline Hit? Satellite Images Show Huge Smoke Plumes](https://www.ndtvprofit.com/world/saudi-arabia-s-vital-east-west-oil-pipeline-hit-satellite-images-show-huge-smoke-plumes-12031894#publisher=newsstand)
-A large smoke plume was reportedly detected southeast of Medina, close to the route of the Petroline toward Mahd adh-Dhahab.
-
-**Source:** NDTV Profit  **Date:** 2026-09-11
-
-### [LCC Projects vs Karamtara Engineering vs Steamhouse India IPO GMP Today: Day 3 Subscription, Listing Gain](https://www.ndtvprofit.com/markets/lcc-projects-vs-karamtara-engineering-vs-steamhouse-india-ipo-gmp-today-day-3-subscription-listing-gain-12030111#publisher=newsstand)
-LCC Projects leads the IPO listing-gain race on Day 3, ahead of Steamhouse India and Karamtara Engineering, as subscription closes today.
-
-**Source:** NDTV Profit  **Date:** 2026-09-11
-
-### [Rentomojo vs Asset Reconstruction vs Manipal Payment IPO Day 3: GMP, Subscription Status, Expected Listing Gain](https://www.ndtvprofit.com/markets/rentomojo-vs-asset-reconstruction-vs-manipal-payment-ipo-day-3-gmp-subscription-status-expected-listing-gain-12030029#publisher=newsstand)
-The IPOs will close for subscription today
-
-**Source:** NDTV Profit  **Date:** 2026-09-11
-
-### [Nifty 50 Slips Below 23,300, Sensex Cracks Over 700 Points In Trade. What Should Be Strategy Ahead?](https://www.ndtvprofit.com/markets/nifty-50-slips-below-23-300-sensex-cracks-over-700-points-in-trade-what-should-be-strategy-ahead-12031958#publisher=newsstand)
-The ongoing weakness in the Indian stock markets for a cautious and stock-specific approach.
-
-**Source:** NDTV Profit  **Date:** 2026-09-11
-
-### [Veegaland Developers IPO GMP Today: Grey Market Signals 11% Listing Gain As Day 2 Begins](https://www.ndtvprofit.com/markets/veegaland-developers-ipo-gmp-today-grey-market-signals-17-86-listing-gain-as-day-2-begins-12031363#publisher=newsstand)
-Veegaland Developers IPO GMP signals a 10.71% listing gain on Day 2, with the issue subscribed 0.90 times so far.
+### [Oracle Shares Spike 8% As $30 Billion In AI Contracts Eases Spending Fears](https://www.ndtvprofit.com/markets/oracle-shares-spike-6-pre-market-as-30-billion-in-ai-contracts-eases-spending-fears-12032788#publisher=newsstand)
+Oracle's positive results come after a period of underperformance as the company struggles to keep up with hyperscale competitors
 
 **Source:** NDTV Profit  **Date:** 2026-09-11
 
