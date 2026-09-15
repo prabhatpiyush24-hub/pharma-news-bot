@@ -1,21 +1,31 @@
 # 🏥 India Pharma Investor Digest — 2026-09-15
 
-> 58 items · 2026-09-15 09:10 UTC
+> 66 items · 2026-09-15 16:13 UTC
 
-## 📊 BSE / NSE Filings (5)
+## 📊 BSE / NSE Filings (6)
 
 ### [Sequent Scientific: Orissa Minerals Development Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 17/09/2026 ,inter alia, to consider and approve Board Meeting ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b3a8fcff-6b64-4b5e-a0c9-60356c9caa1d.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 590086
 
 **Source:** BSE Filing  **Date:** 2026-09-14
 
-### [Orissa Minerals Development Company Ltd: Orissa Minerals Development Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 17/09/2026 ,inter alia, to consider and approve Board Meeting ....](https://www.bseindia.com/corporates/ann.html?scrip=590086)
-BSE Code: 590086
+### [Mangalam Drugs & Organics Ltd: Outcome of Board Meeting pursuant to Regulation 30 of LODR for appointment of Mr. Prabhakar Raghunath Zavar as the Additional Indepedent Director ( Non- Executive) for term of 5 years wef. ....](https://www.bseindia.com/corporates/ann.html?scrip=532637)
+BSE Code: 532637
 
-**Source:** BSE Filing  **Date:** 2026-09-14
+**Source:** BSE Filing  **Date:** 2026-09-15
+
+### [Aurobindo Pharma: Submission of completion of US FDA inspection of Unit-II of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ef17274c-30c3-4be8-8982-3073c584ab70.pdf)
+Category: Company Update | Sub: General | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-09-15
 
 ### [Aurobindo Pharma: Submission of Press Release that is  being issued in connection with receipt of US FDA final approval for Beclomethasone Dipropionate HFA Inhalation Aerosol , 40 mcg and 80 mcg.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5757305d-c881-4183-bc85-563c046ca731.pdf)
 Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-09-15
+
+### [Biocon: We wish to inform the Exchange that India Ratings & Research Private Limited ('India Ratings') has upgraded the long-term rating to 'IND AA+/Stable' from 'IND AA/Positive' for various instrument(s) ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/383cda04-80a4-41a0-ab16-453f68e10753.pdf)
+Category: Company Update | Sub: Credit Rating | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-09-15
 
@@ -24,14 +34,9 @@ Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 59
 
 **Source:** BSE Filing  **Date:** 2026-09-14
 
-### [Choksi Laboratories Ltd: Choksi Laboratories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 19/09/2026 ,inter alia, to consider and approve 1. To consider and approve ....](https://www.bseindia.com/corporates/ann.html?scrip=526546)
-BSE Code: 526546
-
-**Source:** BSE Filing  **Date:** 2026-09-14
-
 ---
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (15)
 
 ### [CLSA hikes Sterlite Tech share price target by 47%; maintains Outperform call on stock that’s up 775% YTD](https://economictimes.indiatimes.com/markets/stocks/news/clsa-hikes-sterlite-tech-share-price-target-by-47-maintains-outperform-call-on-stock-thats-up-775-ytd/articleshow/134251562.cms)
 Sterlite Tech shares gained 2% after CLSA raised its target price by 47% to Rs 1,400, implying a 55.55% upside, while retaining its Outperform rating. The brokerage expects the company’s capacity to expand 50% by FY29, backed by Rs 3,000 crore of approved capex. Revenue is projected to reach Rs 20,000 crore, driven by AI data centres and hyperscalers.
@@ -45,6 +50,16 @@ Shares of Solar Industries India tumbled by over 12% on Tuesday following the co
 
 ### [Tech picks: Adani Ports, Data Patterns among 5 stocks that could give up to 23% returns in short term](https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-adani-ports-data-patterns-among-5-stocks-that-could-give-up-to-23-returns-in-short-term/slideshow/134256630.cms)
 Technical analysts recommend five stocks, including Black Box, Adani Ports, ABSL AMC, Torrent Pharma and Data Patterns, with upside potential of up to 23% as markets navigate crude oil, geopolitical and Fed-related uncertainties.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
+
+### [Sensex crashes over 1,400 pts from day’s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-down-today-sensex-crashes-over-1300-pts-from-days-high-nifty-below-23200-5-triggers-behind-rs-7l-cr-wipeout/articleshow/134257556.cms)
+Indian markets faced a notable downturn, witnessing significant erosion of capitalisation. Factors like climbing US bond yields and escalating oil prices heightened inflation fears among investors. Anticipation of a rate hike by the Federal Reserve added to the market's woes. Additionally, growing geopolitical tensions in the Middle East, combined with a thriving IPO environment, intensified the pressure, culminating in a widespread sell-off across various sectors.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
+
+### [HSBC raises ACME Solar target price by 15%; stock jumps 5%. Why is the brokerage bullish?](https://economictimes.indiatimes.com/markets/stocks/news/hsbc-raises-acme-solar-target-price-by-15-stock-jumps-5-why-is-the-brokerage-bullish/articleshow/134257471.cms)
+ACME Solar shares rose sharply after HSBC raised its target price by 15% to Rs 450 and retained its Buy rating. The brokerage sees signs of a recovery in renewable energy auctions, supported by rising power demand and growing adoption of battery storage and firm, dispatchable renewable energy projects.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-15
 
@@ -78,34 +93,39 @@ The shift is being driven by two forces working in tandem: technological evoluti
 
 **Source:** Mint - Pharma  **Date:** 2026-09-15
 
-### [HEG Share Price Falls 5% Intraday, Down 67% Since Demerger: What's Dragging The Stock?](https://www.ndtvprofit.com/markets/heg-share-price-falls-5-down-67-since-demerger-whats-dragging-the-stock-12048030#publisher=newsstand)
-Currently, the stock is trading at a price-to-earnings multiple of 12.76 times, with a market cap of Rs 4,348.7 crore.
+### [Ahmedabad-based researcher develops novel formulation for tinnitus that targets brain pathways](https://www.expresspharma.in/ahmedabad-based-researcher-develops-novel-formulation-for-tinnitus-that-targets-brain-pathways/)
+Dr Sanjay Agrawal has developed a novel formulation aimed at addressing changes in auditory processing as well as factors associated with the emotional and perceptual experience of tinnitus The post Ahmedabad-based researcher develops novel formulation for tinnitus that targets brain pathways appeared first on Express Pharma .
 
-**Source:** NDTV Profit  **Date:** 2026-09-15
+**Source:** Express Pharma  **Date:** 2026-09-15
 
-### [Irumudi Box Office Collection Day 25: Ravi Teja Starrer Continues Steady Run, Check Earnings](https://www.ndtvprofit.com/business/entertainment-cinema-tollywood-movie-irumudi-box-office-collection-day-25-ravi-teja-film-continues-steady-run-check-monday-earnings-12048216#publisher=newsstand)
-Irumudi has reached an India net collection of Rs 182.9 crore, while its India gross stands at Rs 212.5 crore.
+### [Dr Reddy's Labs Q2 FY27: Results Preview - univest.in](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmlVZkZlVjdhMkM0bjlvMUk1aGQ4UEpiTTI2N3g4SU5Ma3pUNDRBcXB1R2lCaGJCWXcwZF9MeXZJbjNEUUhDOHk3YUpDaDk3N1lTMUg4MVhIMU93LW5jLWtmbkhoZGdNV1VGYzhoSXhKYmc5X3hIZnlrMlpSajFDNWRSZ2pkVzdOazViZHZkSEVFNms?oc=5)
+Dr Reddy's Labs Q2 FY27: Results Preview &nbsp;&nbsp; univest.in
 
-**Source:** NDTV Profit  **Date:** 2026-09-15
+**Source:** GNews - Dr Reddys  **Date:** 2026-09-15
 
-### [Paytm, PhonePe, Razorpay Are Building AI Products. When Will They Start Making Money?](https://www.ndtvprofit.com/business/paytm-phonepe-razorpay-are-building-ai-products-when-will-they-start-making-money-12048220#publisher=newsstand)
-AI product launches should currently be viewed more as a sign of future ambition than immediate earnings potential
+### [Divi's Laboratories Q2 FY27: Results Outlook - univest.in](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2YxdEpRb3V2YnFYR1QtZVlJZ0QyZlpleGdObzNaNXp3d0p6T0lHUndFQXFrSEctU19ZRzlPay1jU0hHN1F4T1loY0ZuZmo2aHRtSk40aWFkaUJQdDhXS1liY0pGdGd3N1lzQV94WjNyUDJjaXFaM2RtRzM5V3NjNzFFTnJpcWgyb3N1ME1B?oc=5)
+Divi's Laboratories Q2 FY27: Results Outlook &nbsp;&nbsp; univest.in
+
+**Source:** GNews - Divi's  **Date:** 2026-09-15
+
+### [Mirzapur The Movie Box Office Collection Day 12: Film Keeps Winning Streak Going](https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-mirzapur-the-movie-box-office-collection-day-12-film-keeps-winning-streak-going-12050508#publisher=newsstand)
+Pankaj Tripathi in a still from Mirzapur: The Movie
 
 **Source:** NDTV Profit  **Date:** 2026-09-15
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (5)
 
 ### [Solar Industries shares crash 9% after acquisition of South Africa’s Omnia Holdings for Rs 12,951 crore](https://economictimes.indiatimes.com/markets/stocks/news/solar-industries-shares-crash-9-after-acquisition-of-south-africas-omnia-holdings-for-rs-12951-crore/articleshow/134254076.cms)
 Solar Industries shares fell sharply on Tuesday after the company announced the Rs 12,951 crore acquisition of South Africa’s Omnia Holdings in an all-cash deal. The transaction, subject to regulatory and shareholder approvals, is expected to strengthen Solar’s global explosives and blasting business while expanding its presence across Africa and other international markets.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-15
 
-### [Jio, Airtel vs Vi: What are the alleged MNP malpractices committed by Vodafone Idea under TRAI lens?](https://www.livemint.com/companies/news/jio-airtel-vs-vi-what-are-the-alleged-mnp-malpractices-committed-by-vodafone-idea-under-trai-lens-11789386961527.html)
-The allegations relate to customer acquisition through mobile number portability. MNP allows users to change their telecom operator while keeping the same mobile number.
+### [New charges on UPI payments: Here's what you will be charged for stock market investments](https://economictimes.indiatimes.com/markets/stocks/news/new-charges-on-upi-payments-heres-what-you-will-be-charged-for-stock-market-investments/articleshow/134266721.cms)
+UPI payments for capital market transactions will attract a nominal 0.02% Merchant Discount Rate, capped at Rs 300. The fee covers mutual funds, securities, brokers and dealers, with limited impact expected for long-term investors but greater sensitivity among frequent traders.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-14
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
 
 ### [FSSAI scrutiny puts food startup claims under investor microscope](https://www.livemint.com/companies/start-ups/fssai-scrutiny-puts-food-startup-claims-under-investor-microscope-misleading-ads-false-claims-brands-11789358549155.html)
 Investors are digging deeper into ingredients, lab tests and supply chains as weak product claims increasingly threaten to derail deals.
@@ -117,13 +137,8 @@ Private equity firms such as Warburg Pincus and CVC Capital Partners have evince
 
 **Source:** Mint - Pharma  **Date:** 2026-09-15
 
-### [Coforge tasks Egon Zehnder to find independent director as next board chair](https://www.livemint.com/companies/news/coforge-egon-zehnder-board-chairman-op-bhatt-dk-singh-resignations-governance-concerns-11789393138204.html)
-Coforge has hired Egon Zehnder to find two independent directors and a new chair after OP Bhatt and DK Singh resigned amid governance concerns. The company said the board turmoil will not affect business, highlighting strong large-deal momentum and its AI-led growth strategy.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-14
-
-### [Boiling Oceans, Dire Diseases, Climate Injustice: El Nino's Terrifying Trifecta](https://www.ndtvprofit.com/world/climate-crisis-change-nepal-flash-floods-el-nino-2026-how-extreme-heat-deluge-disease-can-get-worse-with-global-warming-12040726#publisher=newsstand)
-Nepal's reconstruction bill after the flash floods amounts up to approximately $5 billion.
+### [Flipkart Big Billion Days Sale 2026: Early Access Starts Oct 8 Alongside 10% Bank Discounts](https://www.ndtvprofit.com/trending/flipkart-big-billion-days-sale-2026-early-access-starts-october-8-alongside-10-bank-discounts-12050801#publisher=newsstand)
+Flipkart's next sale offers early access from Oct. 8, with top deals yet to be revealed.
 
 **Source:** NDTV Profit  **Date:** 2026-09-15
 
@@ -138,41 +153,51 @@ KEC International shares rallied after the company secured Rs 1,303 crore of new
 
 ---
 
-## 🏭 Operations & Approvals (5)
-
-### [Elivaas looks beyond individual holiday homes for growth](https://www.livemint.com/companies/news/elivaas-looks-beyond-individual-holiday-homes-for-growth-11789318511139.html)
-Elivaas has launched a ₹200-250 crore fundraising and is targeting 1,200 properties by March 2027.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-14
+## 🏭 Operations & Approvals (6)
 
 ### [Hexaware Technologies stock gains 5% on Project NANDA Fellowship collaboration to advance AI agents](https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-stock-gains-5-on-project-nanda-fellowship-collaboration-to-advance-ai-agents/articleshow/134254868.cms)
 Hexaware Technologies shares rose sharply on Tuesday after the company partnered with Project NANDA Fellowship, a global programme focused on developing open-source infrastructure for AI agents. The three-month fellowship will bring together developers, including Hexaware engineers, to work on agent discovery, identity and secure coordination within an open, decentralised Internet of AI Agents.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-15
 
-### [Tata Sons under IPO pressure: Noel faces biggest crisis amid RBI push for public listing](https://www.livemint.com/companies/news/tata-sons-under-ipo-pressure-noel-faces-biggest-crisis-amid-rbis-regulatory-push-for-public-listing-11789377205627.html)
-RBI's IPO mandate poses unprecedented challenge for Tata Sons. Chairman Noel Tata faces biggest crisis as India’s oldest conglomerate struggles to navigate through regulatory push.
+### [Embassy Developments to double down on luxury housing, says MD Aditya Virwani](https://www.livemint.com/companies/news/embassy-developments-premium-luxury-housing-bengaluru-11789466740568.html)
+Backed by a ₹19,500-crore launch pipeline, the developer is targeting ₹8,000 crore in sales bookings for FY27.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-14
+**Source:** Mint - Pharma  **Date:** 2026-09-15
+
+### [Titan SKINN gets in the game for pricier perfumes](https://www.livemint.com/companies/news/titan-skinn-premium-perfumes-india-premium-products-11789448499017.html)
+Titan sees room for SKINN to move consumers up the price ladder with the company increasing premium launches and expanding physical sampling points to drive the shift.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-15
+
+### [Dr. Reddy’s Laboratories launches NIVORZ in India](https://www.expresspharma.in/dr-reddys-laboratories-launches-nivorz-in-india/)
+Dr. Reddy’s Laboratories announced the launch of NIVORZ (Nivolumab Biosimilar) in India. NIVORZ is a biosimilar to Opdivo(nivolumab). The launch represents a significant milestone for Dr. Reddy’s, with NIVORZ marking [&#8230;] The post Dr. Reddy’s Laboratories launches NIVORZ in India appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-15
 
 ### [Dr. Reddy’s launches initiative to train India’s obesity care workforce](https://www.expresspharma.in/dr-reddys-launches-initiative-to-train-indias-obesity-care-workforce/)
 More than 5,000 healthcare support professionals to be trained to strengthen obesity prevention, education and long-term management across India The post Dr. Reddy&#8217;s launches initiative to train India&#8217;s obesity care workforce appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-15
 
-### [India’s Rice Export Map Is Changing: Jordan Shipments Surge 8-Fold, Turkey Basmati Doubles](https://www.ndtvprofit.com/economy/india-s-rice-export-map-is-changing-jordan-shipments-surge-8-fold-turkey-basmati-doubles-12048119#publisher=newsstand)
-The BIRC 2026 will be held at Bharat Mandapam in New Delhi from October 23 to 25.
+### ['Meta One' Service Launched: Single App Plans Start At $2.99, Bundles Up To $49.99](https://www.ndtvprofit.com/technology/meta-one-service-launched-single-app-plans-start-at-2-99-bundles-up-to-49-99-12050737#publisher=newsstand)
+Meta launches Meta One subscriptions, with individual plans starting at $2.99 a month.
 
 **Source:** NDTV Profit  **Date:** 2026-09-15
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (10)
 
-### [Inside Nvidia's exit interviews: Why CEO Jensen Huang doesn't hold back on startup dreams](https://www.livemint.com/companies/people/inside-nvidias-exit-interviews-why-ceo-jensen-huang-doesnt-hold-back-on-startup-dreams-11789372882769.html)
-Jensen Huang counsels outgoing staff with a mix of blunt business critique, personal concern, and, in some cases, subsequent financial backing, according to a report.&amp;nbsp;
+### [Market Trading Guide: Acme Solar,  Bharat Dynamics among 5 stock recommendations for Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-bharat-dynamics-among-5-stock-recommendations-for-wednesday/slideshow/134267881.cms)
+Domestic markets face pressure from high crude oil prices, rising bond yields and foreign outflows. Analysts recommend Acme Solar, Emcure Pharma and Prime Focus for potential gains, while Bharat Dynamics faces a bearish outlook after breaking key support levels.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-14
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
+
+### [FIIs cut stakes in 14 smallcap stocks after 2 quarters of buying; shares fall up to 55%](https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-14-smallcap-stocks-after-2-quarters-of-buying-shares-fall-up-to-55/slideshow/134257680.cms)
+FIIs reduced their holdings in 93 smallcap stocks in the June quarter after increasing stakes for two consecutive quarters. Among them, 14 stocks have declined 15–55% over the past six months, including HEG, GRM Overseas, Alok Industries, Natco Pharma and JK Tyre.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
 
 ### [Tata Sons IPO: How 7 group stocks performed in 3 months and their stake in Tata Sons](https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-how-7-group-stocks-performed-in-3-months-and-their-stake-in-tata-sons/slideshow/134255835.cms)
 Three of these companies hold more than 3% stake in Tata Sons, the group’s holding company.
@@ -209,23 +234,37 @@ HDFC Bank submitted two CEO candidates to the RBI, initiating the succession pro
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-15
 
+### [AstraZeneca’s AZD6793 holds potential to expand oral COPD treatment options, says GlobalData](https://www.expresspharma.in/astrazenecas-azd6793-holds-potential-to-expand-oral-copd-treatment-options-says-globaldata/)
+At the European Respiratory Society (ERS) Congress 2026, AstraZeneca presented the design of the Phase IIb PRESTO trial, a large study set to evaluate whether AZD6793, an oral IRAK4 inhibitor, [&#8230;] The post AstraZeneca’s AZD6793 holds potential to expand oral COPD treatment options, says GlobalData appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-15
+
 ---
 
-## 📰 Industry & Policy News (21)
+## 📰 Industry & Policy News (23)
 
-### [Cipla Share Price Live Updates: Cipla's Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-15-sep-2026/liveblog/134250871.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-15-sep-2026/liveblog/134250871.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-15
 
-### [Divis Labs Share Price Live Updates: Divis Labs reports a minor drop in share price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-15-sep-2026/liveblog/134250617.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-15
+### [Delhi HC orders tax dept to refund  ₹783 cr to Teva Israel over Ranbaxy payment](https://www.livemint.com/companies/delhi-hc-tax-refund-to-teva-israel-ranbaxy-sun-pharma-income-tax-india-11789467986662.html)
+This brings relief to Teva in a nearly nine-year-old court battle over the payments linked to erstwhile Ranbaxy, now part of Sun Pharmaceutical Industries
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Stock Performance Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-15-sep-2026/liveblog/134250595.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-15
+**Source:** Mint - Pharma  **Date:** 2026-09-15
 
 ### [Delhi High Court seeks OpenAI’s reply on ANI plea to stop ChatGPT from using its content](https://www.livemint.com/companies/news/delhi-high-court-openai-copyright-lawsuit-ani-plea-stop-chatgpt-from-using-content-11789457353087.html)
 A division bench has asked OpenAI to respond to ANI’s appeal challenging a single-judge order that denied an injunction against ChatGPT’s use of its news content.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-15
+
+### [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134268234.cms)
+Indian markets reversed morning gains to plunge over 1% on Tuesday as surging oil prices, rising bond yields, global uncertainty and foreign outflows pressured sentiment. Nifty breached 23,231 support, while 2,824 NSE stocks declined, signalling strong bearish market breadth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
+
+### [Valuation Check: 9 midcap stocks trading well above Industry PE](https://economictimes.indiatimes.com/markets/stocks/news/valuation-check-9-midcap-stocks-trading-well-above-industry-pe/slideshow/134258841.cms)
+Eight NSE midcap stocks, excluding banking and financial companies, are trading at trailing twelve-month (TTM) P/E ratios above their respective industry averages, according to a StockEdge valuation scan. Aster DM Quality Care leads with a P/E of 208.69, followed by Lenskart Solutions and Bharat Forge.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-15
 
 ### [From borrowed rules to a bespoke rulebook: Can IFSCA create an international market conduct regime?](https://economictimes.indiatimes.com/markets/stocks/news/from-borrowed-rules-to-a-bespoke-rulebook-can-ifsca-create-an-international-market-conduct-regime/articleshow/134255601.cms)
 The IFSCA announced on August 25, 2026, the implementation of new market abuse regulations, which will replace existing SEBI guidelines for the GIFT-IFSC securities market. These regulations are designed to comprehensively combat insider trading and manipulation, employing international language and a unified coding system. The true measure of their effectiveness will become evident with future enforcement initiatives.
@@ -262,8 +301,10 @@ Five NSE F&amp;O stocks recorded a rise of more than 5% in futures open interest
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-15
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Price Decline](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-15-sep-2026/liveblog/134250654.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-15
+### [SC refuses to quash Delhi HC order against former NSE CEO Chitra Ramkrishna on corruption charges](https://www.livemint.com/companies/people/sc-refuses-to-quash-delhi-hc-order-against-former-nse-ceo-chitra-ramkrishna-on-corruption-charges-11789461001301.html)
+Chitra Ramkrishna's plea against her prosecution under the Prevention of Corruption Act was dismissed by the Supreme Court, which stated her argument regarding public servant status can be raised at trial. The High Court's ruling was deemed correct.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-15
 
 ### [Jefferies calls Zerodha's Nikhil Kamath ‘YouTube podcaster’, investor spots bigger shift](https://www.livemint.com/companies/people/jefferies-calls-zerodhas-nikhil-kamath-youtube-podcaster-investor-spots-bigger-shift-11789458187242.html)
 A Jefferies research note reportedly cited Nikhil Kamath’s WTF Podcast as a source for insights on India’s travel sector, prompting investor Rahul Mathur to highlight how YouTube is increasingly becoming a source of market intelligence.
@@ -290,23 +331,28 @@ CONNECTA Therapeutics, a clinical-stage biotech company pioneering first-in-clas
 
 **Source:** Express Pharma  **Date:** 2026-09-15
 
-### [Air India Board Meets In Mumbai; New CEO's Pay Package, Other Matters On Agenda](https://www.ndtvprofit.com/markets/air-india-board-meets-in-mumbai-new-ceos-pay-package-other-matters-on-agenda-12048486#publisher=newsstand)
-Air India Board Meeting
-
-**Source:** NDTV Profit  **Date:** 2026-09-15
-
 ### [Top stocks in news: HDFC Bank, DRL, Solar Industries, Sun Pharma, TVS Motor, Pranav, Cochin Shipyard - Business Today](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLUNsdlppa3NkTTN0cUluTG44U2FHQVRPb1o1d3V4SDQwNjlvbFdNNWwtT1lzRVRxUzZBMGJoSUtGcXdsaS10SU5UTnNRR1JNRTB4djRydFlFeXpkUjIxTmsyLXowQ1pmQXluNVJhbl9yVG9hVlQ5MExUVHdVancwMmJweW5JMHM0TElLSHlDU3MyQkI0ZFotNmJzY2l0RnV2ak9rbTM1LWFuQkQ5REpSb2ZBU3I0U2ExR3BvZzE4OHZ5VjZ4M1RBa2xOZWdSaWdFQV9PcXpuODBaNmtFRUdsak5ubjRZTnpOUjAzNF9BbUg0cHPSAfgBQVVfeXFMUFZVbHpHR2UtUWZaaFl3TmFGRTFyb2tTNVN2WC1lTGIyZS03eGs4Q0VySzJ2R1lsVGJSQ2hScWpPQmJPbkpVVlJRekRId0lNSTFjaXE4Z0FjU2VpczJVaTFRVEJHRk1rZmVYNmxEbU5kRWMtc2xFYzl2RmgzZWFQMktac0x0TVR2dEVsQkN6SEZvMmpXVHBVc1FLNnN0ckkxVF9QT2IzUmszSWd5WEN0SmludXFtOVlkM3FQU2FvenFUMTZ3QVdvbnhDSjVOaXBjN3lzY09lVWhqbVFaM0lfN3dyX2h4NkE1akhtRGY3OWlGU1FsVTRJS28?oc=5)
 Top stocks in news: HDFC Bank, DRL, Solar Industries, Sun Pharma, TVS Motor, Pranav, Cochin Shipyard &nbsp;&nbsp; Business Today
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-09-15
 
-### [Stock Market Today LIVE: Sensex Down 300 Points, Nifty50 Below 23,300; SMIDs Fall, Realty Top Drag](https://www.ndtvprofit.com/markets/stock-market-today-live-gift-nifty-signals-muted-start-for-nifty-50-sensex-asian-markets-gain-crude-oil-prices-surge-12047191#publisher=newsstand)
-Nifty IT index jumped over 4% in early trade.
+### [AI Could 'Kill Us All': Ex-Google DeepMind Expert Echoes Warning Of Former Anthropic, OpenAI Researchers](https://www.ndtvprofit.com/technology/ai-could-kill-us-all-ex-google-deepmind-expert-echoes-warning-of-former-anthropic-openai-researchers-12050831#publisher=newsstand)
+Chughtai's post echoed similar warnings from Anthropic's former researcher Jacob Coxon.
 
 **Source:** NDTV Profit  **Date:** 2026-09-15
 
-### [Japan Bonds Fall On Defense Spending Report Despite Solid Sale](https://www.ndtvprofit.com/markets/japan-bonds-fall-on-defense-spending-report-despite-solid-sale-12048188#publisher=newsstand)
-Japan Bonds
+### [Fibe IPO Gets SEBI Nod; Rs 750 Crore Public Issue Comprises OFS](https://www.ndtvprofit.com/markets/fibe-ipo-gets-sebi-nod-rs-750-crore-public-issue-comprises-ofs-12050476#publisher=newsstand)
+Fibe gets SEBI nod for its proposed IPO, which includes a fresh issue of up to Rs 750 crore.
+
+**Source:** NDTV Profit  **Date:** 2026-09-15
+
+### [Tukaram Mundhe Strikes: FDA Suspends Licenses Of 4 Mumbai Eateries, Including Colaba's Cafe Mondegar](https://www.ndtvprofit.com/business/tukaram-mundhe-strikes-fda-suspends-licenses-of-4-mumbai-eateries-including-colabas-cafe-mondegar-12050677#publisher=newsstand)
+Across Maharashtra, the department said it seized 4,138.7 kg of dairy products and sweets.
+
+**Source:** NDTV Profit  **Date:** 2026-09-15
+
+### [AI Seesaw: Infosys, Wipro ADRs, Accenture, Cognizant Tumble As Chip Stocks Recover](https://www.ndtvprofit.com/markets/ai-seesaw-infosys-wipro-adrs-accenture-cognizant-tumble-as-chip-stocks-recover-pre-market-12049788#publisher=newsstand)
+Shares of Alphabet declined 1.28%, Salesforce fell 1.09%, Cognizant dropped 0.69%, while Accenture slid 1.1%. ADRs of Infosys tumbled 2.2% and Wipro slipped 1.69%.
 
 **Source:** NDTV Profit  **Date:** 2026-09-15
 
