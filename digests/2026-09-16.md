@@ -1,13 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-09-16
 
-> 59 items · 2026-09-16 09:03 UTC
+> 56 items · 2026-09-16 16:07 UTC
 
-## 📊 BSE / NSE Filings (5)
-
-### [Mangalam Drugs & Organics Ltd: Outcome of Board Meeting pursuant to Regulation 30 of LODR for appointment of Mr. Prabhakar Raghunath Zavar as the Additional Indepedent Director ( Non- Executive) for term of 5 years wef. ....](https://www.bseindia.com/corporates/ann.html?scrip=532637)
-BSE Code: 532637
-
-**Source:** BSE Filing  **Date:** 2026-09-15
+## 📊 BSE / NSE Filings (8)
 
 ### [Aurobindo Pharma: Submission of completion of US FDA inspection of Unit-II of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ef17274c-30c3-4be8-8982-3073c584ab70.pdf)
 Category: Company Update | Sub: General | BSE Code: 524804
@@ -19,6 +14,11 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-09-15
 
+### [Biocon: Press release issued by the Company wherein India Ratings and Research Private Limited ("India Ratings") has upgraded the long-term rating of various instrument(s) of Motilal Oswal Financial ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/31ea5c8c-b569-4dce-ba88-c45ede99970b.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-09-16
+
 ### [Biocon: We wish to inform the Exchange that the Finance Committee ('the Committee') of the Board of Directors ('the Board') of the Company at its Meeting held on Wednesday, September 16, 2026 has, ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c079e43b-aac1-4117-bd20-0e9e31903a4b.pdf)
 Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 532892
 
@@ -28,6 +28,21 @@ Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 532892
 Category: Company Update | Sub: Credit Rating | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-09-15
+
+### [Alkem Laboratories: With reference to the subject cited above and our letter dated 10th September, 2026 regarding the Schedule of Analysts/Institutional Investors Meets, this is to inform you that due to unavoidable ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0cf8261e-5c57-4a2a-9547-c884d7b16a38.pdf)
+Category: Company Update | Sub: General | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-09-16
+
+### [Gland Pharma: Intimation of Analyst/ Institutional Investor Meet/ Con. Call/Updates.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b6c0685-d438-4075-999a-042c0e969fdd.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 543213
+
+**Source:** BSE Filing  **Date:** 2026-09-16
+
+### [Marksans Pharma: Intimation of Analyst/Investor Meet](https://www.bseindia.com/xml-data/corpfiling/AttachLive/75455a4b-369f-4de5-a85e-61e31dd9add1.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-09-16
 
 ---
 
@@ -57,6 +72,11 @@ Paytm and Pine Labs stand to benefit from the new UPI MDR framework, but the imp
 NPCI’s decision to allow a 0.4% fee on high-value UPI transactions from 15 October gives the payment giant long-awaited revenue visibility, rekindling its IPO plans, two sources told Mint.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-16
+
+### [JM Financial sees up to 28% upside in Dr Reddy’s and Aurobindo Pharma. Should you buy?](https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-sees-up-to-28-upside-in-dr-reddys-and-aurobindo-pharma-should-you-buy/articleshow/134283456.cms)
+JM Financial retained Buy ratings on Dr Reddy’s Laboratories and Aurobindo Pharma, seeing up to 28% upside over the next 12 months. The brokerage expects stronger earnings growth, business diversification and new product launches to support both drugmakers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-16
 
 ### [Dalal Street faces a double whammy of Fed rate hike, soaring bond yields. Are Sensex and Nifty heading for a bigger crash?](https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-faces-a-double-whammy-of-fed-rate-hike-soaring-bond-yields-are-sensex-and-nifty-heading-for-a-bigger-crash/articleshow/134279370.cms)
 Dalal Street faces pressure from rising US bond yields and expectations of a Federal Reserve rate hike, raising concerns over equity valuations and foreign flows. However, analysts say the impact may depend on earnings growth, currency movements and global liquidity, with some arguing that higher yields need not necessarily trigger a sharp market correction.
@@ -88,48 +108,33 @@ Rainmatter’s Dinesh Pai says Indian startups need more patient, entrepreneuria
 
 **Source:** Mint - Pharma  **Date:** 2026-09-16
 
+### [Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth - scanx.trade](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRy1XTU4tYUFkT3pLVmlPZV9nVDFJSS1wcEw5S0FmOG5BWXdoT184SFdHZThmOHNscm54eERYU29sNkgyZ1FpSUhTc0xXX3NfRmFJRmVXakotT3Nrb3liSGhjS21MQlpzM0lrT3FkWldUeENoUUhUTXN6SXg1RW8zSkVOekltdnZvdEUyUUJMWVdqS0xaZ0RRWDJrVWRqbTZfbTkzemhrUmVKY3BNSVRvN05HNi1xUHNBSXgwYkNR?oc=5)
+Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth &nbsp;&nbsp; scanx.trade
+
+**Source:** GNews - Divi's  **Date:** 2026-09-15
+
 ### [Unclogging India’s innovation pipeline](https://www.expresspharma.in/unclogging-indias-innovation-pipeline/)
 Innovation is often measured through rankings, patents and startup success stories. While these are important indicators, they capture only a part of the picture. A truly innovation-led economy is built [&#8230;] The post Unclogging India’s innovation pipeline appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-16
 
-### [Ahmedabad-based researcher develops novel formulation for tinnitus that targets brain pathways](https://www.expresspharma.in/ahmedabad-based-researcher-develops-novel-formulation-for-tinnitus-that-targets-brain-pathways/)
-Dr Sanjay Agrawal has developed a novel formulation aimed at addressing changes in auditory processing as well as factors associated with the emotional and perceptual experience of tinnitus The post Ahmedabad-based researcher develops novel formulation for tinnitus that targets brain pathways appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-15
-
-### [Gravita India's Copper Push Is Changing Its Growth Mix. Can Earnings Keep Pace?](https://www.ndtvprofit.com/business/gravita-indias-copper-push-is-changing-its-growth-mix-can-earnings-keep-pace-12053062#publisher=newsstand)
-Gravita reported 42% YoY revenue growth in Q1FY27 to Rs 1,475 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
-### [Haiwaan Box Office Collection Day 5: Akshay Kumar-Saif Ali Khan Starrer Sees No Growth, Check Earnings](https://www.ndtvprofit.com/business/haiwaan-box-office-collection-day-5-akshay-kumar-saif-ali-khan-starrer-sees-no-growth-check-tuesday-earnings-12052588#publisher=newsstand)
-Haiwaan stars Akshay Kumar and Saif Ali Khan along with Boman Irani, Shriya Pilgaonkar and Saiyami Kher.
+### [Govt Readies 16th Round Of Coal Auctions; Sees Rs 47,500 Crore From 147 Mines Auctioned So Far](https://www.ndtvprofit.com/business/govt-readies-16th-round-of-coal-auctions-sees-rs-47-500-crore-from-147-mines-auctioned-so-far-12054904#publisher=newsstand)
+The auctioned mines are expected to generate around Rs 47,500 crore in annual revenue.
 
 **Source:** NDTV Profit  **Date:** 2026-09-16
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (3)
+## 🤝 Deals, M&A & Partnerships (1)
 
 ### [Shilpa Biologicals and SPIMACO Bio sign strategic license agreement for PD-1 Biosimilar for MENA market](https://www.expresspharma.in/shilpa-biologicals-and-spimaco-bio-sign-strategic-license-agreement-for-pd-1-biosimilar-for-mena-market/)
 Shilpa Biologicals, an integrated biologics development and manufacturing organisation, announces an exclusive Middle East and North Africa (MENA) strategic licensing and commercialization agreement with SPIMACO Bio of Saudi Arabia for [&#8230;] The post Shilpa Biologicals and SPIMACO Bio sign strategic license agreement for PD-1 Biosimilar for MENA market appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-16
 
-### [Oberoi Realty Gets Buy Upgrade As Motilal Oswal Bets On Next Growth Phase — Check Revised Target Price](https://www.ndtvprofit.com/markets/oberoi-realty-gets-buy-upgrade-as-motilal-oswal-bets-on-next-growth-phase-check-revised-target-price-12052886#publisher=newsstand)
-Oberoi Realty's renewed focus on growth and significant project acquisitions position it well to ride the next leg of scale-up, says Motilal Oswal.
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
-### [Groww Shares Slump Nearly 5% After Major Block Deal](https://www.ndtvprofit.com/markets/groww-share-price-stock-slumps-nearly-5-percent-after-major-block-deal-12052813#publisher=newsstand)
-Groww shares fall after block deal.
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
 ---
 
-## 🏭 Operations & Approvals (9)
+## 🏭 Operations & Approvals (5)
 
 ### [UPI MDR explained for investors: How will new charges impact your mutual fund SIPs and stock investments?](https://economictimes.indiatimes.com/markets/stocks/news/upi-mdr-explained-for-investors-how-will-new-charges-impact-your-mutual-fund-sips-and-stock-investments/articleshow/134280097.cms)
 From October 15, MDR will apply to select UPI person-to-merchant payments above Rs 2,000, but not to all such transactions. UPI AutoPay and mandates will be treated separately, while mutual funds and capital-market payments will attract a lower MDR. Importantly, the charge will be borne by merchants, not customers, raising questions over its impact on SIPs and stock investments.
@@ -146,47 +151,32 @@ Glass Wall Systems shares debuted at a premium of up to 7% on Wednesday after it
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [Embassy Developments to double down on luxury housing, says MD Aditya Virwani](https://www.livemint.com/companies/news/embassy-developments-premium-luxury-housing-bengaluru-11789466740568.html)
-Backed by a ₹19,500-crore launch pipeline, the developer is targeting ₹8,000 crore in sales bookings for FY27.
+### [Tata Sons board to discuss keeping Chandra as chairman post RBI's IPO push](https://www.livemint.com/companies/news/tata-sons-board-meeting-chairman-natarajan-chandrasekaran-tata-sons-ipo-listing-tata-trusts-11789559737967.html)
+Tata Sons board is meeting to discuss how to handle a listing mandated by RBI, including if outgoing Chairman Natarajan Chandrasekaran should be asked to stay on.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-15
+**Source:** Mint - Pharma  **Date:** 2026-09-16
 
-### [Titan SKINN gets in the game for pricier perfumes](https://www.livemint.com/companies/news/titan-skinn-premium-perfumes-india-premium-products-11789448499017.html)
-Titan sees room for SKINN to move consumers up the price ladder with the company increasing premium launches and expanding physical sampling points to drive the shift.
+### [JCB India expects double-digit growth as infrastructure spending powers demand](https://www.livemint.com/companies/news/jcb-india-double-digit-growth-construction-equipment-infrastructure-spending-demand-roads-railways-ports-exports-11789551734655.html)
+With infrastructure investment holding up and exports widening, JCB India expects demand for construction equipment to potentially double over the next five years, creating room to expand both its Indian business and its global manufacturing role.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-15
-
-### [Dr. Reddy’s Laboratories launches NIVORZ in India](https://www.expresspharma.in/dr-reddys-laboratories-launches-nivorz-in-india/)
-Dr. Reddy’s Laboratories announced the launch of NIVORZ (Nivolumab Biosimilar) in India. NIVORZ is a biosimilar to Opdivo(nivolumab). The launch represents a significant milestone for Dr. Reddy’s, with NIVORZ marking [&#8230;] The post Dr. Reddy’s Laboratories launches NIVORZ in India appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-15
-
-### [Privacy Concerns? Meta’s New Smart Glasses May Ditch Cameras, Target Fall Launch - What We Know](https://www.ndtvprofit.com/technology/privacy-concerns-meta-s-new-smart-glasses-may-ditch-cameras-target-fall-launch-what-we-know-12053112#publisher=newsstand)
-Meta's new smart glasses may ditch cameras; launch expected in fall
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
-### [Landmark Initiative! MoD Approves Lifetime Train Travel Facility For Gallantry Awardees, Spouses & Families](https://www.ndtvprofit.com/india/landmark-initiative-mod-approves-lifetime-train-travel-facility-for-gallantry-awardees-spouses-families-12052904#publisher=newsstand)
-MoD approves lifetime railway travel facility for gallantry award recipients
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
-### [Google Launches Gemini 3.8 Live, New Extended Thinking Voice AI Models](https://www.ndtvprofit.com/technology/google-launches-gemini-3-8-live-new-extended-thinking-voice-ai-models-12052276#publisher=newsstand)
-Google Launches Gemini 3.8 Live and Extended Thinking Voice Models
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
+**Source:** Mint - Pharma  **Date:** 2026-09-16
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (6)
 
-### [Volume Shocker: MFs added 1 crore+ shares to 8 stocks in August '26; rally up to 30%](https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-august-26-rally-up-to-30/slideshow/134282897.cms)
-Mutual funds raised holdings in several stocks in August, with eight companies combining strong institutional accumulation and gains of up to 30% since the beginning of the month.
+### [Market Trading Guide: PVR Inox, Radico Khaitan among 5 stock recommendations for Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-pvr-inox-radico-khaitan-among-5-stock-recommendations-for-thursday/slideshow/134291164.cms)
+Indian equities gained as easing crude prices, softer Japanese bond yields and expectations of a largely priced-in US Fed hike improved sentiment. Analysts identified Policybazaar, PNB, PVR Inox, Radico Khaitan and Hindalco as stocks showing bullish technical setups and rebound potential.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [Sensex rises 400 points, Nifty nears 23,250 as investors await Fed meeting outcome. What to expect?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-400-points-nifty-nears-23250-as-investors-await-fed-meeting-outcome-what-to-expect/articleshow/134279785.cms)
-Sensex and Nifty rebounded around 0.5% on Wednesday after Tuesday’s selloff wiped out more than Rs 9 lakh crore from Dalal Street. Investors await the Federal Reserve’s policy decision, while elevated US bond yields and crude prices continue to weigh on sentiment. Analysts expect volatility and stock-specific opportunities amid the weak market.
+### [Market wrap: SBI, HDFC Life, TCS, Infosys top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sbi-hdfc-life-tcs-infosys-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134286572.cms)
+Indian equities recovered on September 16, with Nifty and Sensex gaining over 0.4% as banking and heavyweight stocks attracted value buying. Broader markets remained weak, while FMCG and PSU banks advanced. Investors now await the Federal Reserve’s rate decision and guidance.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-16
+
+### [Volume Shocker: MFs added 1 crore+ shares to 8 stocks in August '26; rally up to 30%](https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-august-26-rally-up-to-30/slideshow/134282897.cms)
+Mutual funds raised holdings in several stocks in August, with eight companies combining strong institutional accumulation and gains of up to 30% since the beginning of the month.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
@@ -200,40 +190,30 @@ Paytm, MobiKwik and Pine Labs are likely to remain in focus after the government
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [AstraZeneca’s AZD6793 holds potential to expand oral COPD treatment options, says GlobalData](https://www.expresspharma.in/astrazenecas-azd6793-holds-potential-to-expand-oral-copd-treatment-options-says-globaldata/)
-At the European Respiratory Society (ERS) Congress 2026, AstraZeneca presented the design of the Phase IIb PRESTO trial, a large study set to evaluate whether AZD6793, an oral IRAK4 inhibitor, [&#8230;] The post AstraZeneca’s AZD6793 holds potential to expand oral COPD treatment options, says GlobalData appeared first on Express Pharma .
+### [EQT Group to ramp up India presence with $50 billion investment plan over next four years](https://www.livemint.com/companies/news/eqt-group-to-ramp-up-india-presence-with-planned-50-bln-investment-by-2030-11789568380262.html)
+The global private-equity firm plans to expand beyond large buyouts into data centres, infrastructure, mid-market companies, venture capital and secondary transactions in India.
 
-**Source:** Express Pharma  **Date:** 2026-09-15
-
-### [Stock Market News Today Live: Sensex Jumps 300 Points, Nifty Holds Above 23,200; FMCG, Media Top Gainers](https://www.ndtvprofit.com/markets/stock-market-news-today-highlights-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-tech-selloff-global-bonds-crude-oil-12052176#publisher=newsstand)
-Stock Market News Today Live: Investor sentiment is fragile as the Brent crude benchmark sustained above $107 and a spike in US Treasury yields
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
-### [Buy, Sell Or Hold: Paytm, MobiKwik, L&T, Tata Motors PV, Paras Defence, Suzlon  — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-paytm-mobikwik-larsen-toubro-tata-motors-pv-paras-defence-suzlon-ask-profit-12031971#publisher=newsstand)
-Buy Sell Hold
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
-
-### [Nifty Rises 0.7%, Sensex Jumps Over 400 Points From Day's Low — Three Reasons Why Stock Market Is Rising](https://www.ndtvprofit.com/markets/nifty-rises-0-7-sensex-jumps-nearly-500-points-from-days-low-three-reasons-why-stock-market-is-rising-12052843#publisher=newsstand)
-The recovery comes as investors look beyond Tuesday's selloff and wait for the US Federal Reserve's policy decision later today.
-
-**Source:** NDTV Profit  **Date:** 2026-09-16
+**Source:** Mint - Pharma  **Date:** 2026-09-16
 
 ---
 
-## 📰 Industry & Policy News (19)
+## 📰 Industry & Policy News (21)
 
-### [Divis Labs Share Price Live Updates: Divis Labs Price Movement](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-16-sep-2026/liveblog/134277290.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-16-sep-2026/liveblog/134277290.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-livestock-price-today-live-updates-16-sep-2026/liveblog/134276920.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-livestock-price-today-live-updates-16-sep-2026/liveblog/134276920.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [Delhi HC orders tax dept to refund  ₹783 cr to Teva Israel over Ranbaxy payment](https://www.livemint.com/companies/delhi-hc-tax-refund-to-teva-israel-ranbaxy-sun-pharma-income-tax-india-11789467986662.html)
-This brings relief to Teva in a nearly nine-year-old court battle over the payments linked to erstwhile Ranbaxy, now part of Sun Pharmaceutical Industries
+### [Maruti Suzuki among 8 large-cap stocks to hit 52-week lows and fall up to 12% in a month](https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-among-8-large-cap-stocks-to-hit-52-week-lows-and-fall-up-to-12-in-a-month/slideshow/134286817.cms)
+Eight BSE 100 Largecap TMC stocks hit fresh 52-week lows despite the Sensex gaining 332 points on Wednesday. Shree Cement, Maruti Suzuki, IRFC, Britannia, Ambuja Cements, Godrej Consumer, Bank of Baroda and Muthoot Finance recorded new yearly lows.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-15
+**Source:** Economic Times - Markets  **Date:** 2026-09-16
+
+### [AI, algorithms and human judgement: The future of portfolio management](https://economictimes.indiatimes.com/markets/stocks/news/ai-algorithms-and-human-judgement-the-future-of-portfolio-management/articleshow/134285324.cms)
+AI is moving beyond technology and reshaping how investors analyse markets, manage risk and construct portfolios. As algorithms become increasingly integrated into investment decisions, human judgement remains critical. Sandeep Tandon’s masterclass at the ET Alpha Wealth Summit 2.0 will explore how AI and human expertise could shape the future of wealth management.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-16
 
 ### [Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market](https://economictimes.indiatimes.com/markets/stocks/news/inevitable-inching-closer-us-fed-may-raise-rates-after-3-years-what-it-means-for-indian-stock-market/articleshow/134282239.cms)
 The US Federal Reserve is widely expected to raise interest rates for the first time in three years, as persistent inflation, higher oil prices and rising bond yields add to pressure on policymakers. The move could have implications for Indian equities, the rupee, bond yields, gold and foreign investor flows, with the Fed’s forward guidance likely to remain crucial.
@@ -250,21 +230,26 @@ Zerodha CEO Nithin Kamath said the new UPI MDR framework may not make economic s
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
+### [Sensex rises 333 points, Nifty closes above 23,200; all eyes on Fed meet outcome. What to expect?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-400-points-nifty-nears-23250-as-investors-await-fed-meeting-outcome-what-to-expect/articleshow/134279785.cms)
+Indian markets ended higher on Wednesday, breaking a two-session losing streak and recovering part of Tuesday’s steep losses. Sensex rose 333 points to 74,336, while Nifty gained 99 points to 23,218. FMCG and PSU banks led sectoral gains, while IT stocks declined sharply. Broader markets remained weak amid negative market breadth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-16
+
 ### [Paytm wins, but ATM also wins! Why CMS Info Systems shares jumped 7% on UPI MDR](https://economictimes.indiatimes.com/markets/stocks/news/paytm-wins-but-atm-also-wins-why-cms-info-systems-shares-jumped-7-on-upi-mdr/articleshow/134278876.cms)
 CMS Info Systems shares rose on Wednesday after the government announced MDR on select UPI transactions above Rs 2,000, making the company a potential direct beneficiary. From October 15, merchants will pay 0.4% MDR on eligible P2M UPI transactions, capped at Rs 300 for payments of Rs 75,000 or more.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [IPO GMP Today Live Updates | Hero Motors IPO sails through on Day 1; retail portion subscribed 1.7 times](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-hero-motors-ss-retails-nse-ipo-gmp-subscription-price-band-nse-bse-listing-date/liveblog/134277831.cms)
+### [IPO GMP Today Highlights| Hero Motors IPO booked nearly 1.4 times on NII push; retail portion subscribed 2.2 times](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-hero-motors-ss-retails-nse-ipo-gmp-subscription-price-band-nse-bse-listing-date/liveblog/134277831.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Sees Minor Price Drop](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-16-sep-2026/liveblog/134277108.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-16-sep-2026/liveblog/134277108.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-16
 
-### [Prasol Chemicals shares list at 10% discount to IPO price on BSE, NSE](https://economictimes.indiatimes.com/markets/stocks/news/prasol-chemicals-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134276775.cms)
-The Rs 550 crore public issue was priced at Rs 676 per share. The offering comprised a fresh issue of 11.83 lakh shares worth Rs 80 crore and an offer for sale (OFS) of 62.13 lakh shares aggregating to Rs 420 crore.
+### [Meta admits mistake, agrees to report child abuse content in India: Report](https://www.livemint.com/companies/news/meta-admits-mistake-agrees-to-report-child-abuse-content-in-india-report-11789559883865.html)
+Meta has transitioned into a service provider, influencing user content visibility. It has acknowledged its errors and has pledged to report child abuse content to Indian authorities, thereby assuming greater responsibility for its platform's content.
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-16
+**Source:** Mint - Pharma  **Date:** 2026-09-16
 
 ### [L Catterton invests in restaurant operator Nandhana Foods](https://www.livemint.com/companies/news/l-catterton-investment-restaurant-operator-nandhana-foods-south-indian-cuisine-restaurant-industry-11789531908151.html)
 The investment will support Nandhana’s next phase of growth and enable the group to achieve greater scale
@@ -286,28 +271,28 @@ Oracle is cutting jobs even as it plans to spend up to $95 billion on capital ex
 
 **Source:** Mint - Pharma  **Date:** 2026-09-16
 
-### [SC refuses to quash Delhi HC order against former NSE CEO Chitra Ramkrishna on corruption charges](https://www.livemint.com/companies/people/sc-refuses-to-quash-delhi-hc-order-against-former-nse-ceo-chitra-ramkrishna-on-corruption-charges-11789461001301.html)
-Chitra Ramkrishna's plea against her prosecution under the Prevention of Corruption Act was dismissed by the Supreme Court, which stated her argument regarding public servant status can be raised at trial. The High Court's ruling was deemed correct.
+### [DoP Secretary Manoj Joshi visits Amneal Pharmaceuticals in Ahmedabad](https://www.expresspharma.in/dop-secretary-manoj-joshi-visits-amneal-pharmaceuticals-in-ahmedabad/)
+Manoj Joshi, Secretary, Department of Pharmaceuticals, Government of India, visited Amneal Pharmaceuticals’ corporate office in Ahmedabad on Tuesday and met with company leaders to discuss Amneal’s growth, investments, pipeline and [&#8230;] The post DoP Secretary Manoj Joshi visits Amneal Pharmaceuticals in Ahmedabad appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-09-15
+**Source:** Express Pharma  **Date:** 2026-09-16
 
 ### [From scale to science: Ahmedabad’s pharma ecosystem at crossroads](https://www.expresspharma.in/from-scale-to-science-ahmedabads-pharma-ecosystem-at-crossroads/)
 The Formulation Development and Drug Delivery (FDD) Conclave has become a meeting ground for India&#8217;s formulation R&#38;D community. Scientists, innovators, and industry leaders gather to exchange ideas and tackle real [&#8230;] The post From scale to science: Ahmedabad&#8217;s pharma ecosystem at crossroads appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-16
 
-### [Scientists rethink how rare lysosomal disorders are classified](https://www.expresspharma.in/scientists-rethink-how-rare-lysosomal-disorders-are-classified/)
-A landmark collaborative study led by the University of Sheffield has proposed a new framework bringing 108 rare lysosomal disorders together, potentially enabling more precise diagnosis and helping researchers identify shared targets for future treatments The post Scientists rethink how rare lysosomal disorders are classified appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-15
-
-### [Pakistan’s 'Smart Lockdown’ Plan: How It Aims To Cut Oil Use, Government Expenses](https://www.ndtvprofit.com/world/pakistan-s-smart-lockdown-plan-how-it-aims-to-cut-oil-use-government-expenses-12053036#publisher=newsstand)
-The government is weighing a lockdown similar to measures adopted during the peak of the US-Iran war.
+### [Apple Eyes Return To Server Market, Mulls Use Of Nvidia's NVLink Tech; Shares Climb](https://www.ndtvprofit.com/technology/apple-eyes-return-to-server-market-mulls-use-of-nvidias-nvlink-tech-shares-climb-12055294#publisher=newsstand)
+Apple may return to the server market with Nvidia's NVLink technology
 
 **Source:** NDTV Profit  **Date:** 2026-09-16
 
-### [IPO Listing Live: Glass Wall Systems, Kanohar Electricals Shares Rally More, Prasol Chemicals Swings To Green](https://www.ndtvprofit.com/markets/ipo-listing-live-glass-wall-systems-kanohar-electricals-prasol-chemicals-listing-price-in-focus-today-12052385#publisher=newsstand)
-IPO listing live updates
+### [Houthis Assure US Of Abiding By 2025 Ceasefire, Sparing American Vessels: Report](https://www.ndtvprofit.com/world/houthis-assure-us-of-abiding-by-2025-ceasefire-sparing-american-vessels-report-12054808#publisher=newsstand)
+US officials met Houthis in Oman as group pledged to spare American vessels.
+
+**Source:** NDTV Profit  **Date:** 2026-09-16
+
+### [Novo Nordisk Taps Anthropic's 'Claude Science' To Accelerate Drug Discovery](https://www.ndtvprofit.com/business/novo-nordisk-taps-anthropics-claude-science-to-accelerate-drug-discovery-12054787#publisher=newsstand)
+Novo Nordisk enters into a collaboration with Anthropic toaccelerate the development of new medicines through Claude.
 
 **Source:** NDTV Profit  **Date:** 2026-09-16
 
