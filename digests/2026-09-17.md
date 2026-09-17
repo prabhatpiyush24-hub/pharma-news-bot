@@ -1,8 +1,18 @@
 # 🏥 India Pharma Investor Digest — 2026-09-17
 
-> 62 items · 2026-09-17 09:08 UTC
+> 78 items · 2026-09-17 16:13 UTC
 
-## 📊 BSE / NSE Filings (6)
+## 📊 BSE / NSE Filings (11)
+
+### [Sequent Scientific: Financial Results for the Quarter Ened 30.06.2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6532136d-1e4e-4eb0-868b-7d3999c8c227.pdf)
+Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-09-17
+
+### [Dr. Reddy's Laboratories: The Exchange has sought clarification from Dr Reddys Laboratories Ltd on September 17, 2026, with reference to news appeared in https://pharma.economictimes.indiatimes.com/ dated September ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/02e1fecf-fd7c-466d-b4e4-9499cf3109ac.pdf)
+Category: Company Update | Sub: Clarification | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-09-17
 
 ### [Dr. Reddy's Laboratories: Copies of newspaper publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0b02d588-8e8e-4b11-aef7-9217bc900703.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500124
@@ -29,17 +39,37 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 543213
 
 **Source:** BSE Filing  **Date:** 2026-09-16
 
+### [Sequent Scientific: Financial Results for the quarter ended 30.06.2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/93978edb-e838-4ce6-98ae-c3b33273e30c.pdf)
+Category: Result | Sub: Financial Results | BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-09-17
+
 ### [Marksans Pharma: Intimation of Analyst/Investor Meet](https://www.bseindia.com/xml-data/corpfiling/AttachLive/75455a4b-369f-4de5-a85e-61e31dd9add1.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524208
 
 **Source:** BSE Filing  **Date:** 2026-09-16
 
+### [Orissa Minerals Development Company Ltd: Financial Results for the quarter ended 30.06.2026](https://www.bseindia.com/corporates/ann.html?scrip=590086)
+BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-09-17
+
+### [Orissa Minerals Development Company Ltd: Financial Results for the Quarter Ened 30.06.2026](https://www.bseindia.com/corporates/ann.html?scrip=590086)
+BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-09-17
+
 ---
 
-## 💰 Results & Financials (10)
+## 💰 Results & Financials (14)
+
+### [Sebi bars Kore Digital promoters over alleged Rs 541 crore revenue misstatement](https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-kore-digital-promoters-over-alleged-rs-541-crore-revenue-misstatement/articleshow/134316145.cms)
+Sebi has restrained Kore Digital and three key executives after finding prima facie evidence of misstated financials, questionable subsidiaries, suspicious accounting and alleged diversion of preferential issue proceeds. The regulator also blocked main-board migration and ordered a forensic audit of company records.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
 
 ### [Paytm karo, back in vogue again: Can the stock reclaim IPO price after 5 years and 480% rally?](https://economictimes.indiatimes.com/markets/stocks/news/paytm-karo-back-in-vogue-again-can-the-stock-reclaim-ipo-price-after-5-years-and-480-rally/articleshow/134304777.cms)
-Paytm shares have rebounded over 480% from their lifetime low but remain 20% below the Rs 2,150 IPO price. The introduction of MDR on select high-value UPI transactions could create a new revenue stream for the fintech, while merchant lending, operating leverage and AI initiatives offer additional growth avenues.
+Paytm shares have rebounded over 480% from their lifetime low but remain 20% below the Rs 2,150 IPO price. The introduction of MDR on select high-value UPI transactions could create a new revenue stream for the fintech, while merchant lending, operating leverage and AI initiatives may offer additional growth avenues.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
@@ -48,10 +78,25 @@ The record date for the buyback was scheduled for September 4. This means only t
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
+### [Sebi bars Kore Digital, three top execs from capital markets over alleged fraud](https://www.livemint.com/companies/news/sebi-bars-kore-digital-three-top-execs-from-capital-markets-over-alleged-fraud-11789653081860.html)
+The markets regulator has ordered a forensic audit after a preliminary probe revealed alleged revenue inflation of over ₹540 crore, fund diversion, and non-existent entities.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-17
+
 ### [Indian chip startup Mindgrove Technologies eyes first revenues this fiscal year](https://www.livemint.com/companies/news/indian-chip-startup-mindgrove-technologies-eyes-first-revenues-this-fiscal-year-11789563796918.html)
 The IIT Madras-incubated startup is finalizing deals with about half a dozen clients for its indigenous chips, aligning with India's broader push for sovereign semiconductor design.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
+
+### [India’s ‘anti-AI’ trade hides 42 AI-enabler stocks that rallied 60% already: Goldman Sachs](https://economictimes.indiatimes.com/markets/stocks/news/indias-anti-ai-trade-hides-42-ai-enabler-stocks-that-rallied-60-already-goldman-sachs/articleshow/134309681.cms)
+India’s Nifty has declined 12% in 2026, but Goldman Sachs’ basket of 42 AI enablers has surged 60%. Power, data centres and semiconductor companies are driving gains, supported by earnings growth, rising capex and increasing corporate focus on AI infrastructure.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [India’s wealth market seen growing to $436 billion by 2034; small, micro-caps in focus: Emkay Wealth](https://economictimes.indiatimes.com/markets/stocks/news/indias-wealth-market-seen-growing-to-436-billion-by-2034-small-micro-caps-in-focus-emkay-wealth/articleshow/134309567.cms)
+India’s wealth-management market could grow 2.5 times to $436 billion by 2034, driven by rising incomes, financialisation of savings and wider capital-market participation, Emkay Wealth Management said. The wealth manager expects small- and micro-caps, global diversification and customised investment solutions to gain importance as investor needs become more sophisticated.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
 
 ### [Glass Wall Systems shares rally 32% in 2 days after IPO. What should investors do?](https://economictimes.indiatimes.com/markets/stocks/news/glass-wall-systems-shares-rally-32-in-2-days-after-ipo-what-should-investors-do/articleshow/134302133.cms)
 Glass Wall Systems shares rallied 12% on Thursday, extending gains after a 7% premium listing and an 18% rise on debut. Analysts highlighted project execution, earnings growth, margins and cash-flow generation as key factors to watch.
@@ -78,10 +123,10 @@ FIRSTSOLAR-PATENT:First Solar drops ITC patent case, shifts focus to lawsuits ag
 
 **Source:** Mint - Pharma  **Date:** 2026-09-16
 
-### [Gland Pharma Q2 Preview: Revenue & Margin Trend - Univest](https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFJTYlM2Vll5NmdHR0JJNHozajh1d2hvYklKaEJxdERkU3ZmVThXay1LcmswSlpRcGkyVWVuLWhrcTZfZEdWdEJtY2RfWUdwTlh1eXJsVldDLWdVMHdFOEJ2WlA5WGVKUmF4TlFKRjRzMmRMTUZMWk16T1V3a3NIMGFtSlVidw?oc=5)
-Gland Pharma Q2 Preview: Revenue & Margin Trend &nbsp;&nbsp; Univest
+### [Alkem launches NeuCeno for treatment of partial-onset seizures in adult patients](https://www.expresspharma.in/alkem-launches-neuceno-for-treatment-of-partial-onset-seizures-in-adult-patients/)
+Alkem Laboratories announced the launch of NeuCeno (cenobamate), anti-seizure medication (ASM) for the treatment of partial-onset seizures in adult patients. Cenobamate, being launched for the first time in India, represents a significant advancement in the management of epilepsy. NeuCeno is a once daily oral therapy, and is available in 12.5 mg, 25 mg, 50 mg, [&#8230;] The post Alkem launches NeuCeno for treatment of partial-onset seizures in adult patients appeared first on Express Pharma .
 
-**Source:** GNews - Pharma Q Results  **Date:** 2026-09-16
+**Source:** Express Pharma  **Date:** 2026-09-17
 
 ### [Who Are The New CBFC Members? Preity Zinta, Pankaj Tripathi, Suniel Shetty In 18-Member Panel](https://www.ndtvprofit.com/lifestyle/who-are-the-new-cbfc-members-preity-zinta-pankaj-tripathi-suniel-shetty-in-18-member-panel-12056291#publisher=newsstand)
 CBFC's new 18-member board includes Preity Zinta, Pankaj Tripathi, Suniel Shetty and other personalities.
@@ -90,7 +135,7 @@ CBFC's new 18-member board includes Preity Zinta, Pankaj Tripathi, Suniel Shetty
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (7)
 
 ### [Juniper Hotels shares rise 2% on proposed Rs 248 crore acquisition of Novotel Imagicaa](https://economictimes.indiatimes.com/markets/stocks/news/juniper-hotels-shares-rise-2-on-proposed-rs-248-crore-acquisition-of-novotel-imagicaa/articleshow/134303242.cms)
 Juniper Hotels shares rose on Thursday after the company proposed acquiring the operating Novotel Imagicaa hotel in Maharashtra for Rs 248 crore. The 287-key property, located in Khopoli, spans around 11 acres and includes restaurants, banquet and meeting facilities. The acquisition is aimed at expanding Juniper’s presence in the Mumbai-Pune corridor.
@@ -112,6 +157,11 @@ Shares of GR Infraprojects fell 2% after the company issued a notice to terminat
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
+### [Dr. Reddy’s expands collaboration with Gilead Sciences for investigational once-yearly lenacapavir for HIV prevention](https://www.expresspharma.in/dr-reddys-expands-collaboration-with-gilead-sciences-for-investigational-once-yearly-lenacapavir-for-hiv-prevention/)
+Dr. Reddy&#8217;s Laboratories announced a royalty-free non-exclusive voluntary licensing agreement with Gilead Sciences for investigational once-yearly lenacapavir for HIV prevention as pre-exposure prophylaxis (PrEP). The agreement builds on Dr. Reddy&#8217;s existing voluntary licensing arrangement with Gilead, signed in October 2024, for twice-yearly lenacapavir for HIV prevention and treatment and reflects the continued confidence between the [&#8230;] The post Dr. Reddy&#8217;s expands col
+
+**Source:** Express Pharma  **Date:** 2026-09-17
+
 ### [Oncodesign Services, Nexus BioQuest partners to give biotechs a clearer route](https://www.expresspharma.in/oncodesign-services-nexus-bioquest-partners-to-give-biotechs-a-clearer-route/)
 Oncodesign Services and Nexus BioQuest have formed a partnership connecting their respective in vitro and in vivo expertise, giving biotech companies a clearer route to specialist support as preclinical programs progress. The collaboration links Nexus BioQuest’s human-relevant in vitro expertise with Oncodesign Services’ three decades of experience in in vivo pharmacology. With shared experience across [&#8230;] The post Oncodesign Services, Nexus BioQuest partners to give biotechs a clearer rou
 
@@ -124,10 +174,15 @@ Amazon-Generac Deal
 
 ---
 
-## 💸 Corporate Actions (3)
+## 💸 Corporate Actions (4)
 
 ### [Dividend alert! Last day to buy Cochin Shipyard, LT Foods among nearly 90 stocks for dividends. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-cochin-shipyard-lt-foods-among-nearly-90-stocks-for-dividends-do-you-own-any/articleshow/134300936.cms)
 On September 18, ninety companies will observe their dividend record date, and investors must acquire shares prior to this date to be eligible. Notably, Victoria Mills is set to provide the largest dividend at fifty rupees per share. Additionally, numerous companies have shared their dividend announcements, offering a last chance for investors to capitalize on these payouts.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [Emami announces share buyback worth Rs 282 crore at 29% premium. Here's what you need to know](https://economictimes.indiatimes.com/markets/stocks/news/emami-announces-share-buyback-worth-rs-282-crore-at-29-premium-heres-what-you-need-to-know/articleshow/134309969.cms)
+Emami announced a Rs 282 crore share buyback at Rs 475 per share, offering a premium to the previous close. The FMCG company will repurchase up to 59.36 lakh shares through the open market, marking its first buyback since 2023.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
@@ -143,15 +198,15 @@ From strong post-listing rallies to sharp gains in the months since their debut,
 
 ---
 
-## 🏭 Operations & Approvals (7)
+## 🏭 Operations & Approvals (5)
 
 ### [RBI listing, N Chandrasekaran's decision on agenda: What's in store as Tata Sons meet today?](https://www.livemint.com/companies/news/rbi-listing-n-chandrasekarans-decision-on-agenda-whats-in-store-as-tata-sons-meet-today-11789621258784.html)
 Tata Sons board meeting on Thursday will address the RBI's public listing mandate and outgoing Chairman Natarajan Chandrasekaran's resignation. Friction with Tata Trusts Chairman Noel Tata over listing issues has led to tensions within the board.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
 
-### [Reliance Industries shares in focus as govt slashes windfall tax on fuel exports; stock down 21% in 2026 so far](https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-govt-slashes-windfall-tax-on-fuel-exports-stock-down-21-in-2026-so-far/articleshow/134301211.cms)
-Reliance Industries will remain in focus after the government cut windfall taxes on petrol, diesel and ATF exports. The company, a major exporter of ATF and diesel, is also raising Rs 12,500 crore through a five-year bond issue amid continued volatility in oil prices.
+### [Reliance Industries shares gain as govt slashes windfall tax on fuel exports; stock down 21% in 2026 so far](https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-govt-slashes-windfall-tax-on-fuel-exports-stock-down-21-in-2026-so-far/articleshow/134301211.cms)
+Reliance Industries shares saw a gain following the government's reduction in windfall taxes on fuel exports. The duty on diesel and petrol exports has been significantly lowered as part of a routine review. This move benefits Reliance Industries, a major exporter of aviation turbine fuel and diesel. The company is also raising Rs 12,500 crore through a five-year bond issuance.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
@@ -165,16 +220,6 @@ According to an expert, the quality of Indian utility vehicles has improved, whi
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
 
-### [Tata Sons board to discuss keeping Chandra as chairman post RBI's IPO push](https://www.livemint.com/companies/news/tata-sons-board-meeting-chairman-natarajan-chandrasekaran-tata-sons-ipo-listing-tata-trusts-11789559737967.html)
-Tata Sons board is meeting to discuss how to handle a listing mandated by RBI, including if outgoing Chairman Natarajan Chandrasekaran should be asked to stay on.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-16
-
-### [JCB India expects double-digit growth as infrastructure spending powers demand](https://www.livemint.com/companies/news/jcb-india-double-digit-growth-construction-equipment-infrastructure-spending-demand-roads-railways-ports-exports-11789551734655.html)
-With infrastructure investment holding up and exports widening, JCB India expects demand for construction equipment to potentially double over the next five years, creating room to expand both its Indian business and its global manufacturing role.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-16
-
 ### [Windfall Tax Revised: Govt Trims Export Duty On Petrol To Rs 0.5/Litre; Diesel, ATF Also See Cuts](https://www.ndtvprofit.com/economy/windfall-tax-revised-govt-trims-export-duty-on-petrol-to-rs-0-5-litre-diesel-atf-also-see-cuts-12056701#publisher=newsstand)
 Government cuts export duties on petrol, diesel and ATF
 
@@ -182,7 +227,17 @@ Government cuts export duties on petrol, diesel and ATF
 
 ---
 
-## 📉 Analyst & Brokerage Calls (18)
+## 📉 Analyst & Brokerage Calls (19)
+
+### [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134316208.cms)
+Indian equities ended mixed on Thursday as Sensex slipped 22 points after sharp volatility during the closing auction session, while Nifty gained 53 points. Mid- and small-caps outperformed, with capital goods, industrial, defence, power and healthcare stocks attracting buying interest.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [GIFT City moves up 9 places to 37th globally, ranks among Asia-Pacific top 15](https://economictimes.indiatimes.com/markets/stocks/news/gift-city-moves-up-9-places-to-37th-globally-ranks-among-asia-pacific-top-15/articleshow/134306723.cms)
+GIFT City has surged nine positions to secure the 37th spot in the Global Financial Centres Index, marking a significant achievement for India as it joins the top 15 financial hubs in the Asia-Pacific region. With its FinTech ranking also improving by three places to 26th globally, this leap underscores the city's commitment to enhancing its financial services ecosystem and integrating technology.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
 
 ### [Unique Picks: 10 stocks held by a single MF scheme in August; rally up to 141% in 6 months](https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-10-stocks-held-by-a-single-mf-scheme-in-august-rally-up-to-141-in-6-months/slideshow/134305886.cms)
 ETMarkets identified 41 stocks held exclusively by a single equity mutual fund scheme, with holdings valued at over Rs 10 crore. Ten gained between 50% and 141% in six months, including three multibaggers that more than doubled investors’ wealth.
@@ -201,11 +256,6 @@ He publicly holds 72 stocks with a net worth of nearly Rs 7,910 crore, according
 
 ### [Rentomojo shares jump 9% after listing at 19% premium over IPO price. Can the debut-day mojo last?](https://economictimes.indiatimes.com/markets/stocks/news/rentomojo-shares-jump-9-after-listing-at-19-premium-over-ipo-price-can-the-debut-day-mojo-last/articleshow/134303672.cms)
 Rentomojo shares surged 9% after a strong debut, taking gains to 30% above the IPO price. The stock listed at a 19% premium and rallied to Rs 526.70 within an hour. While analysts see long-term potential, they have flagged valuation concerns and advised caution after the sharp listing-day gains.
-
-**Source:** Economic Times - Markets  **Date:** 2026-09-17
-
-### [Sensex rises 200 points, Nifty above 23,300 despite Fed rate hike. Why bears may be ready to pounce](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-23300-despite-fed-rate-hike-why-bears-may-be-ready-to-pounce/articleshow/134303083.cms)
-Sensex and Nifty extended gains despite the US Federal Reserve’s first rate hike in three years, supported by broad-based buying outside the IT sector. Analysts remain cautious as elevated bond yields, FII selling, rupee weakness and geopolitical risks could fuel volatility.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
@@ -234,6 +284,11 @@ Indian IT stocks such as Infosys and TCS are likely to remain in focus after the
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
+### [Direct selling platform Oriflame will resist quick commerce](https://www.livemint.com/companies/news/direct-selling-platform-oriflame-will-resist-quick-commerce-swedish-beauty-and-wellness-brand-ceo-kenneth-benaim-campbel-11789639027798.html)
+The Swedish beauty brand is digitizing its direct-selling model and expanding its seller network as faster deliveries reshape consumer expectations.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-17
+
 ### [Noel Tata tables a mega offer from SP Group to avoid Tata Sons listing](https://www.livemint.com/companies/news/tata-sons-ipo-listing-noel-tata-sp-group-tata-trusts-11789620405503.html)
 In its letter, SP Group asked for ₹25,000 crore for 2-3% of Tata Sons shares, which values the holding company at ₹8.3 trillion at this price. According to the executive, SP Group expects to receive this money over the next 18 months.
 
@@ -243,11 +298,6 @@ In its letter, SP Group asked for ₹25,000 crore for 2-3% of Tata Sons shares, 
 Netrasemi has urged the government to support domestic chipmakers by becoming a direct buyer through tailored procurement policies instead of relying solely on R&amp;amp;D subsidies.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
-
-### [EQT Group to ramp up India presence with $50 billion investment plan over next four years](https://www.livemint.com/companies/news/eqt-group-to-ramp-up-india-presence-with-planned-50-bln-investment-by-2030-11789568380262.html)
-The global private-equity firm plans to expand beyond large buyouts into data centres, infrastructure, mid-market companies, venture capital and secondary transactions in India.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-16
 
 ### [Stock Picks Today: SBI, UltraTech Cement, Emami, Lenskart, Torrent Power, And More On Brokerages' Radar](https://www.ndtvprofit.com/markets/stock-picks-today-sbi-ultratech-cement-emami-lenskart-torrent-power-hitachi-energy-gmr-airports-bagmane-prime-and-more-on-brokerages-radar-12057125#publisher=newsstand)
 Check out top stocks under brokerages' radar heading into trade today.
@@ -276,18 +326,52 @@ Despite Wednesday's recovery, momentum indicators continue to point to strong se
 
 ---
 
-## 📰 Industry & Policy News (12)
+## 📰 Industry & Policy News (18)
 
-### [Cipla Share Price Live Updates: Cipla's Market Activity Snapshot](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-17-sep-2026/liveblog/134300605.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-17
+### [Tata Sons board meeting: What happened inside the Tata Sons boardroom that brought Chandrasekaran back | Full statement](https://www.livemint.com/companies/news/tata-sons-board-meeting-what-happened-as-chandrasekaran-gets-5-year-extension-read-full-statement-here-11789641813137.html)
+Tata Sons reappointed N. Chandrasekaran as Executive Chairman for another five years after he initially declined. The Board acknowledged his contributions and discussed the reappointment during various meetings
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddy's Achieves New Milestone](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-17-sep-2026/liveblog/134300429.cms)
+**Source:** Mint - Pharma  **Date:** 2026-09-17
+
+### [Tata Sons board meeting outcome today: Decision reversal! N Chandrasekharan gets 5-yr extension - Eyes on IPO?](https://www.livemint.com/companies/news/tata-sons-board-meeting-outcome-today-decision-reversal-n-chandrasekharan-gets-5-yr-extension-eyes-on-ipo-11789636936582.html)
+The board of Tata Sons has approved a fresh five-year term for N Chandrasekaran as executive chairman.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-17
+
+### [Investors should assess if F&amp;O trading works: Sebi chief Tuhin Kanta Pandey after heavy losses](https://economictimes.indiatimes.com/markets/stocks/news/investors-should-assess-if-fo-trading-works-sebi-chief-tuhin-kanta-pandey-after-heavy-losses/articleshow/134309986.cms)
+Sebi Chairman Tuhin Kanta Pandey said regulatory measures have helped reduce aggregate F&amp;O losses, but individual traders continue to lose money. Sebi’s latest study showed individual traders’ net losses fell to Rs 91,685 crore in FY26 from Rs 1.12 lakh crore in FY25, while 88% still reported losses.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-17
 
 ### [Divisions run deep as Tata Sons meets](https://www.livemint.com/companies/news/tata-sons-board-meeting-noel-tata-tata-trusts-natarajan-chandrasekaran-tata-sons-ipo-listing-11789564248600.html)
 Members of the Tata Sons board are split on the question of listing Tata Sons as well as a third term for Chandrasekaran as chairman. While Noel Tata is expected to dig in his heels, other members may have different ideas
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
+
+### [Voltas among 7 stocks hitting 52-week low; slipped up to 10% in a month](https://economictimes.indiatimes.com/markets/stocks/news/voltas-among-7-stocks-hitting-52-week-low-slipped-up-to-10-in-a-month/slideshow/134312527.cms)
+Seven BSE 200 stocks touched fresh 52-week lows on Thursday as the Sensex closed 22 points lower at 74,314. Voltas, United Breweries, Shree Cement and Maruti Suzuki declined about 11% each over the past month, while Wipro, Bank of Baroda and UPL also weakened.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [Market wrap:  HDFC Life, Tata Motors PV, BEL, HDFC Bank, ONGC top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hdfc-life-tata-motors-pv-bel-hdfc-bank-ongc-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134310473.cms)
+Indian equities ended mixed on Thursday, with the Sensex declining marginally while the Nifty gained 0.23%. HDFC Life, Tata Motors PV and SBI Life led Nifty gainers, while ONGC, Titan and HDFC Bank were among the top laggards. Broader markets recovered, with midcap and smallcap indices gaining up to 1%.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [Ashish Kacholia, Vikas Khemani to get Venus Pipes shares in preferential issue; stock jumps 9%](https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-vikas-khemani-to-get-venus-pipes-shares-in-preferential-issue-stock-jumps-9/articleshow/134309738.cms)
+Venus Pipes and Tubes shares jumped 9% after the company proposed a Rs 372 crore preferential issue to marquee investors including Ashish Kacholia, Carnelian Bharat Amritkaal Fund and WhiteOak Capital-linked entities, with most proceeds earmarked for debt repayment.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [TCS, Tata Chemicals, other group stocks zoom up to 14% on Tata Sons IPO nod, N Chandra’s term extension](https://economictimes.indiatimes.com/markets/stocks/news/tcs-tata-chemicals-other-group-stocks-rally-up-to-14-as-tata-sons-approves-n-chandras-tenure-extension-prepares-for-ipo/articleshow/134307500.cms)
+Tata Sons has granted Chairman N Chandrasekaran a five-year extension, setting the stage for the long-awaited initial public offering of the group. This announcement spurred a surge in several Tata group stocks, particularly Tata Chemicals and Tata Investment Corporation, which experienced significant price increases. This development follows the Reserve Bank of India's decision to deny the company's request to remain privately held.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
+
+### [CAS chaos: Sensex ends in red as indicative price falls 270 points in 5 minutes, Nifty above 23,250](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-23300-despite-fed-rate-hike-why-bears-may-be-ready-to-pounce/articleshow/134303083.cms)
+Indian stock markets showed divergence on Thursday as Sensex closed lower while Nifty ended higher. Sensex experienced volatility during the closing auction session, leading to its decline. Broader markets like Nifty Midcap and Smallcap indices saw gains after recent corrections. Investor sentiment remains cautious due to global tensions and potential rate hikes. Mid and smallcap stocks continue to outperform, favoring companies with strong fundamentals.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-17
 
 ### [Highway Infrastructure shares jump 5% after securing Rs 220 crore order from UPEIDA](https://economictimes.indiatimes.com/markets/stocks/news/highway-infrastructure-shares-jump-5-after-securing-rs-220-crore-order-from-upeida/articleshow/134302279.cms)
 Highway Infrastructure shares rose nearly 5% to Rs 45.90 after the company secured a Rs 220.66 crore contract from UPEIDA for toll collection and plaza operations on the Gorakhpur Link Expressway. The two-year order includes annual escalation. The company also recently secured an Rs 80.16 crore Tamil Nadu toll plaza project.
@@ -322,10 +406,10 @@ Boeing Co. expects some testing on the upcoming 777X model to spill into 2027, e
 
 **Source:** Mint - Pharma  **Date:** 2026-09-16
 
-### [Meta admits mistake, agrees to report child abuse content in India: Report](https://www.livemint.com/companies/news/meta-admits-mistake-agrees-to-report-child-abuse-content-in-india-report-11789559883865.html)
-Meta has transitioned into a service provider, influencing user content visibility. It has acknowledged its errors and has pledged to report child abuse content to Indian authorities, thereby assuming greater responsibility for its platform's content.
+### [Sun Pharmaceutical Industries Stock Signals to Watch This Week - Univest](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdE1jbnlJQjB5YWk5Z3Q1NmJEZWFWQy02TUN0Wm12RWVtZFJRb0p0T0xGS1p1bkJsdEJMWXZMcUYzSXIxU0drdThtMmxtOU5mQXF5TUdLaFBZZHpkTlRIZEZHRVdnS3JlTUd0QTVhQ0UzTzFpam5STHM1dzFsTGVyUHNZejBhTUx4OEY5RGMyY0trbDNiMnc?oc=5)
+Sun Pharmaceutical Industries Stock Signals to Watch This Week &nbsp;&nbsp; Univest
 
-**Source:** Mint - Pharma  **Date:** 2026-09-16
+**Source:** GNews - Sun Pharma  **Date:** 2026-09-17
 
 ### [Oil Prices On September 17: Brent Crude Falls Below $105 As Saudi Moves To Restore Key Pipeline](https://www.ndtvprofit.com/markets/oil-prices-on-september-17-brent-crude-falls-below-105-as-saudi-moves-to-restore-key-pipeline-12057114#publisher=newsstand)
 Brent crude slipped below $105 a barrel as signs of easing supply disruptions in the Middle East reduced some of the risk premium. West Texas Intermediate crude also weakened, trading near $101 a barrel.
