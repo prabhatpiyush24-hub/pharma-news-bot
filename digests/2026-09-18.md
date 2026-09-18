@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-09-18
 
-> 57 items · 2026-09-18 08:42 UTC
+> 62 items · 2026-09-18 15:49 UTC
 
-## 📊 BSE / NSE Filings (8)
+## 📊 BSE / NSE Filings (15)
+
+### [Alkem Laboratories: The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Life Insurance Corporation of India](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0beca6b8-0600-4e66-86fe-74c9150a6fba.pdf)
+Category: Insider Trading / SAST | Sub: Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011 | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-09-18
 
 ### [Sequent Scientific: Financial Results for the Quarter Ened 30.06.2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6532136d-1e4e-4eb0-868b-7d3999c8c227.pdf)
 Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 590086
@@ -24,10 +29,35 @@ Category: Company Update | Sub: Clarification | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-09-17
 
+### [Cipla: Please find enclosed disclosure on ESG Rating.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/19a09c48-3498-45a6-a617-971ae528690b.pdf)
+Category: Company Update | Sub: General | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-09-18
+
+### [Abbott India: Intimation regarding change in Senior Management Personnel of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/10246029-cd3f-4020-8049-ce9cac7870f9.pdf)
+Category: Company Update | Sub: Change in Management | BSE Code: 500680
+
+**Source:** BSE Filing  **Date:** 2026-09-18
+
+### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 3 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, this is to inform you that Niche Ninety Nine Capability and Certifications ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e0f578c-49c8-4be7-bc2b-feb9db0c6c4f.pdf)
+Category: Company Update | Sub: General | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-09-18
+
+### [Sanofi India: Find enclosed the intimation with respect to ESG rating received by the Company from Niche Ninety Nine Capability and Certifications (OPC) Private Limited](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b248ffa9-a9e6-4a88-9c5a-c7d1387d304c.pdf)
+Category: Company Update | Sub: General | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-09-18
+
 ### [Sanofi India: Find enclosed intimation under Regulation 30 of the SEBI (LODR)Regulations, 2015 with respect to the commencement of commercial production at the Company''s VAE manufacturing facility at ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4d700e28-41f0-4aba-ab5c-eca7a6925471.pdf)
 Category: Company Update | Sub: General | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-09-17
+
+### [Sequent Scientific: Paper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/efab4605-a2b0-4be2-917f-32ca085e4da0.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-09-18
 
 ### [Sequent Scientific: Financial Results for the quarter ended 30.06.2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/93978edb-e838-4ce6-98ae-c3b33273e30c.pdf)
 Category: Result | Sub: Financial Results | BSE Code: 590086
@@ -44,9 +74,14 @@ BSE Code: 590086
 
 **Source:** BSE Filing  **Date:** 2026-09-17
 
+### [Ishita Drugs & Industries Ltd: Ishita Drugs & Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 22/09/2026 ,inter alia, to consider and approve 1. To consider and ....](https://www.bseindia.com/corporates/ann.html?scrip=524400)
+BSE Code: 524400
+
+**Source:** BSE Filing  **Date:** 2026-09-18
+
 ---
 
-## 💰 Results & Financials (9)
+## 💰 Results & Financials (6)
 
 ### [Kore Digital shares crash 10% as Sebi alleges Rs 541 cr revenue misstatement, bars CEO, CFO and MD from capital market](https://economictimes.indiatimes.com/markets/stocks/news/kore-digital-shares-crash-10-as-sebi-alleges-rs-541-cr-revenue-misstatement-bars-ceo-cfo-and-md-from-capital-market/articleshow/134325722.cms)
 Kore Digital shares plunged after Sebi barred the company and key executives from the securities market over alleged financial statement manipulation, non-genuine subsidiaries and diversion of preferential issue proceeds.
@@ -57,11 +92,6 @@ Kore Digital shares plunged after Sebi barred the company and key executives fro
 InterGlobe Aviation, IndiGo’s operator, raised charges for domestic ancillary services, including infant travel, excess baggage and priority check-in and boarding. The revisions increase passenger costs beyond base fares. IndiGo had reported a Rs 238 crore Q1 FY27 loss amid higher fuel expenses, despite strong revenue growth and expanding domestic and international operations.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
-
-### [Sebi bars Kore Digital, three top execs from capital markets over alleged fraud](https://www.livemint.com/companies/news/sebi-bars-kore-digital-three-top-execs-from-capital-markets-over-alleged-fraud-11789653081860.html)
-The markets regulator has ordered a forensic audit after a preliminary probe revealed alleged revenue inflation of over ₹540 crore, fund diversion, and non-existent entities.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-17
 
 ### [Jefferies hikes Navin Fluorine share price target, forecasts 14% upside. 4 reasons why](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-hikes-navin-fluorine-share-price-target-forecasts-14-upside-4-reasons-why/articleshow/134328838.cms)
 Jefferies has retained its Buy rating on Navin Fluorine International and raised its price target to Rs 9,405, citing growth prospects in CDMO, R32 and the Chemours project. The brokerage expects a 23% EPS CAGR through FY29, while the company’s Q1FY27 profit more than doubled year-on-year to Rs 243 crore.
@@ -83,33 +113,58 @@ The pattern is represented by a long white (or green) candlestick with no upper 
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
-### [Dr Parthasarathy Sampathkumar, Head Group – COE, Biocon](https://www.expresspharma.in/dr-parthasarathy-sampathkumar-head-group-coe-biocon-25-aug-2026-blr/)
-Bengaluru Pharma Summit 2026 &#124; 25th August 2026 The post Dr Parthasarathy Sampathkumar, Head Group &#8211; COE, Biocon appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-18
-
-### [Mr Krutik Prajapati, Manager (Techno Commercial), Vikram Thermo (India)](https://www.expresspharma.in/mr-krutik-prajapati-manager-techno-commercial-vikram-thermo-india-25-aug-2026-blr/)
-Bengaluru Pharma Summit 2026 &#124; 25th August 2026 The post Mr Krutik Prajapati, Manager (Techno Commercial), Vikram Thermo (India) appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-18
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (1)
+## 🤝 Deals, M&A & Partnerships (8)
+
+### [HDFC Mutual Fund buys 13.9 lakh Entero Healthcare shares from Prasid Uno Family Trust in Rs 236 crore block deal](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mutual-fund-buys-13-9-lakh-entero-healthcare-shares-from-prasid-uno-family-trust-in-rs-236-crore-block-deal/articleshow/134338556.cms)
+HDFC Mutual Fund bought 13.90 lakh Entero Healthcare Solutions shares worth Rs 235.6 crore through a block deal at Rs 1,695 apiece. Prasid Uno Family Trust sold the shares, representing about 3.19% of the company’s equity, amid recent stock gains.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
+
+### [Lenskart block deal: Rs 2,047 crore stake sale likely; Platinum Jasmine may offload 1.7% holding](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-block-deal-rs-2047-crore-stake-sale-likely-platinum-jasmine-may-offload-1-7-holding/articleshow/134338290.cms)
+Bitcoin has gained 61.7% over five years, outperforming Ethereum and Solana, which declined 26.2% and 27.9%. Analysts attribute Bitcoin’s lead to institutional adoption, ETF flows, liquidity and scarcity, while Ethereum and Solana remain more sensitive to network activity and crypto narratives.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
+
+### [Air India new CEO weighs Express merger to cut costs after $2.3-billion loss](https://www.livemint.com/companies/news/air-india-express-merger-new-ceo-tewolde-gebremariam-11789734819396.html)
+Air India CEO Designate Tewolde Gebremariam argues that having a single airline group would lower regulatory requirements and reduce need for two sets of staff.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-18
+
+### [Gujarat Themis Biosyn completes JPY 21.5 billion acquisition of MicroBiopharm Japan](https://www.expresspharma.in/gujarat-themis-biosyn-completes-jpy-21-5-billion-acquisition-of-microbiopharm-japan/)
+The acquisition gives GTBL access to MBJ’s fermentation, biotechnology and CDMO capabilities across three GMP-compliant manufacturing plants The post Gujarat Themis Biosyn completes JPY 21.5 billion acquisition of MicroBiopharm Japan appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-18
 
 ### [Noel Tata outvoted as Tata Sons board backs IPO and Chandrasekaran extension](https://www.livemint.com/companies/news/tata-sons-chairman-natarajan-chandrasekaran-noel-tata-trusts-tata-sons-ipo-listing-11789651170924.html)
 Expecting disagreement and interruptions, Noel Tata decided to submit his written statement to be included in the meeting records.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-18
 
+### [Lenskart Block Deal: ADIA Arm To Sell Rs 2,047-Crore Stake At 3.5% Discount, Say Sources](https://www.ndtvprofit.com/markets/lenskart-block-deal-adia-arm-to-sell-rs-2-047-crore-stake-at-3-5-discount-say-sources-12065330#publisher=newsstand)
+Platinum Jasmine A will sell shares equivalent to a 1.7% stake in the eyewear retailer.
+
+**Source:** NDTV Profit  **Date:** 2026-09-18
+
+### [AI Compute Race: OpenAI, Anthropic Explore Smaller Data Centre Deals](https://www.ndtvprofit.com/technology/ai-compute-race-openai-anthropic-explore-smaller-data-centre-deals-12064876#publisher=newsstand)
+OpenAI and Anthropic are exploring smaller data centre deals to expand AI compute capacity.
+
+**Source:** NDTV Profit  **Date:** 2026-09-18
+
+### [US Drafts Rules To Spare Pharma From Strictest China Investment Curbs: Report](https://www.ndtvprofit.com/world/us-drafts-rules-to-spare-pharma-from-strictest-china-investment-curbs-report-12064627#publisher=newsstand)
+The rules might enable billions of dollars in deals to bolster US companies'drug pipelines.
+
+**Source:** NDTV Profit  **Date:** 2026-09-18
+
 ---
 
 ## 💸 Corporate Actions (1)
 
-### [Dividend alert! Last day to buy Bharat Dynamics, Dixon Tech among 55 stocks for dividends. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-bharat-dynamics-dixon-tech-among-55-stocks-for-dividends-do-you-own-any/articleshow/134324303.cms)
-As per Sebi's T+1 settlement norm, investors need to buy a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action.
+### [Elevate Campuses IPO a pivotal moment for student housing segment: CEO Jayakumar](https://www.livemint.com/companies/elevate-campuses-ipo-pivotal-moment-for-student-housing-segment-ceo-jayakumar-higher-education-11789711401612.html)
+Elevate Campuses' three-day IPO, which will open on 23 September, comprises an entirely fresh issue of equity shares, with no offer-for-sale component
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-18
+**Source:** Mint - Pharma  **Date:** 2026-09-18
 
 ---
 
@@ -120,14 +175,8 @@ Bharat Electronics (BEL) secured additional orders worth Rs 648 crore since late
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
-### [Axis Bank Share Price Live Updates: Apple Pay set for India launch next month with Axis Bank credit cards: Report](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-18-sep-2026/liveblog/134324459.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-18
-
-### [HDFC Bank Share Price Live Updates: Apple Pay set for India launch next month with Axis Bank credit cards: Report](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-18-sep-2026/liveblog/134324354.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-18
-
 ### [Tata Sons board backs Chandrasekaran’s extension—but how will they win over shareholders?](https://www.livemint.com/companies/news/tata-sons-board-chandrasekaran-extension-shareholders-tata-trusts-sir-dorabji-tata-trust-sir-ratan-tata-trust-noel-tata-11789712154485.html)
-Chandrasekaran’s appointment as a director won't get majority approval even if one of the two main Tata Trusts does not vote.
+Chandrasekaran’s appointment as a director on the Tata Sons board won't get majority approval even if one of the two main Tata Trusts does not vote.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-18
 
@@ -141,19 +190,34 @@ Greenbase 2.0 will develop 5 million sq. ft across 215 acres as Hiranandani lead
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
 
-### [Air India vs IndiGo vs SpiceJet - What numbers reveal about India’s aviation market in September](https://www.livemint.com/companies/news/air-india-vs-indigo-vs-spicejet-what-numbers-reveal-about-india-s-aviation-market-in-september-11789634356466.html)
-IndiGo remains India's largest airline with over 50% market share and 11.3 million seats despite a 4.5% capacity decrease. Air India and Air India Express follow, with notable reductions. Emirates was the only foreign airline to increase capacity, while low-cost carriers hold 69% of the market.
+### [Merck expands Jigani facility to boost life science manufacturing in India](https://www.expresspharma.in/merck-expands-jigani-facility-to-boost-life-science-manufacturing-in-india/)
+€13 million investment will add biological buffer manufacturing and expand chemistry and biology capabilities for India and Asia-Pacific The post Merck expands Jigani facility to boost life science manufacturing in India appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-09-17
+**Source:** Express Pharma  **Date:** 2026-09-18
 
-### ['Capital Markets Megatrend To Continue, Small Caps To Outperform': Nimesh Chandan](https://www.ndtvprofit.com/markets/capital-markets-megatrend-to-continue-small-caps-to-outperform-nimesh-chandan-12063170#publisher=newsstand)
-Nimesh Chandan, Chief Investment Officer at Bajaj Asset Management
+### [Tenthpin launches Bengaluru Innovation Hub for life sciences digital solutions](https://www.expresspharma.in/tenthpin-launches-bengaluru-innovation-hub-for-life-sciences-digital-solutions/)
+Centre will focus on AI, cloud technologies, advanced therapies, IoMT and intelligent clinical supply chain solutions The post Tenthpin launches Bengaluru Innovation Hub for life sciences digital solutions appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-18
+
+### [60 Million Barrels Boost? Saudi Aramco Shifts Oil Exports To Oman To Offset Red Sea Headwinds](https://www.ndtvprofit.com/world/60-million-barrels-boost-saudi-aramco-shifts-oil-exports-to-oman-to-offset-red-sea-headwinds-12064270#publisher=newsstand)
+Major Asian buyers, particularly refiners in China and South Korea, have reportedly snapped up the spot cargoes
+
+**Source:** NDTV Profit  **Date:** 2026-09-18
+
+### [Oppo K14 Plus 5G India Launch Teased: Flipkart Availability Confirmed, What We Know So Far](https://www.ndtvprofit.com/technology/oppo-k14-plus-5g-india-launch-teased-flipkart-availability-confirmed-what-we-know-so-far-12064047#publisher=newsstand)
+Oppo K14 Plus 5G teased in India with Flipkart availability confirmed; price and specs remain unknown.
 
 **Source:** NDTV Profit  **Date:** 2026-09-18
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (7)
+
+### [Adani stocks soar up to 12% after Jefferies sees up to 53% upside in Adani Energy and others](https://economictimes.indiatimes.com/markets/stocks/news/adani-stocks-soar-up-to-12-after-jefferies-sees-up-to-53-upside-in-adani-energy-and-others/articleshow/134332474.cms)
+Adani group stocks rallied on Friday after Jefferies highlighted growth prospects across energy, ports and power businesses. Adani Total Gas gained over 12%, while Adani Energy Solutions, Adani Green, Adani Power and Adani Ports advanced following positive brokerage commentary and targets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
 
 ### [Sensex rises 200 points, Nifty above 23,300 as oil prices cool down. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-23300-as-oil-prices-cool-down-what-lies-ahead/articleshow/134326491.cms)
 Sensex and Nifty traded higher as crude oil prices eased to around $104 per barrel, while mid- and small-cap indices outperformed. Buying was broad-based outside the IT sector, with analysts identifying opportunities in select large-cap stocks despite elevated global bond yields.
@@ -185,40 +249,40 @@ Here's a look at the six-member board of Tata Sons, the holding Tata Group compa
 
 **Source:** Mint - Pharma  **Date:** 2026-09-17
 
-### [Tata Sons’ debt-free status can’t avert listing, RBI clarifies](https://www.livemint.com/companies/news/rbi-faqs-may-pave-way-for-tata-sons-listing-decision-11789645529279.html)
-The RBI’s latest clarification on Tata Sons listing comes against the backdrop of the return of Natarajan Chandrasekaran as chairman of the holding company.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-17
-
-### [Direct selling platform Oriflame will resist quick commerce](https://www.livemint.com/companies/news/direct-selling-platform-oriflame-will-resist-quick-commerce-swedish-beauty-and-wellness-brand-ceo-kenneth-benaim-campbel-11789639027798.html)
-The Swedish beauty brand is digitizing its direct-selling model and expanding its seller network as faster deliveries reshape consumer expectations.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-17
-
 ---
 
-## 📰 Industry & Policy News (22)
+## 📰 Industry & Policy News (17)
 
-### [Tata Sons board meeting: What happened inside the Tata Sons boardroom that brought Chandrasekaran back | Full statement](https://www.livemint.com/companies/news/tata-sons-board-meeting-what-happened-as-chandrasekaran-gets-5-year-extension-read-full-statement-here-11789641813137.html)
-Tata Sons reappointed N. Chandrasekaran as Executive Chairman for another five years after he initially declined. The Board acknowledged his contributions and discussed the reappointment during various meetings
-
-**Source:** Mint - Pharma  **Date:** 2026-09-17
-
-### [Tata Sons board meeting outcome today: Decision reversal! N Chandrasekharan gets 5-yr extension - Eyes on IPO?](https://www.livemint.com/companies/news/tata-sons-board-meeting-outcome-today-decision-reversal-n-chandrasekharan-gets-5-yr-extension-eyes-on-ipo-11789636936582.html)
-The board of Tata Sons has approved a fresh five-year term for N Chandrasekaran as executive chairman.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-17
-
-### [Divis Labs Share Price Live Updates: Divis Labs continues to perform well](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-18-sep-2026/liveblog/134324924.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-18-sep-2026/liveblog/134324924.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
-### [Cipla Share Price Live Updates: Cipla Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-18-sep-2026/liveblog/134324539.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-18-sep-2026/liveblog/134324539.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-18-sep-2026/liveblog/134324490.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-18-sep-2026/liveblog/134324490.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Stock Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-18-sep-2026/liveblog/134324468.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-18-sep-2026/liveblog/134324468.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
+
+### [Market wrap:  Adani Ports, Adani Ports SEZ, TCS, Tata Motors PV top gainers and losers on Nifty and Sensex on Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ports-adani-ports-sez-tcs-tata-motors-pv-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134332633.cms)
+Indian equities ended higher on September 18, led by softer crude prices and supportive Asian cues. Nifty gained 0.31%, while Sensex rose marginally. Midcaps and smallcaps advanced over 1%, volatility eased, and Adani Ports topped Nifty gainers with a 4.94% rise.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
+
+### [CAS chaos continues: Sensex indicative price tumbles nearly 1,000 points in seconds, closes in red but Nifty ends above 23,300](https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-continues-sensex-indicative-price-tumbles-nearly-1000-points-closes-in-red-but-nifty-ends-above-23300/articleshow/134332368.cms)
+Indian stock markets showed divergence as Sensex closed lower and Nifty ended higher. Sharp swings occurred during the closing auction session, impacting both indices significantly. Broader markets, including smallcap and midcap indices, significantly outperformed the benchmarks. Several large-cap stocks experienced declines, while others saw substantial gains. Investor sentiment improved due to easing crude prices and global yields, despite ongoing uncertainties.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
+
+### [Bodal Chemicals among 5 commodities stocks that hit 52-week highs &amp; rallied up to 175% in a month](https://economictimes.indiatimes.com/markets/stocks/news/bodal-chemicals-among-5-commodities-stocks-that-hit-52-week-highs-amp-rallied-up-to-175-in-a-month/slideshow/134332435.cms)
+Five listed BSE Commodities Index stocks touched fresh 52-week highs on Friday despite the Sensex closing 20 points lower. Bodal Chemicals led gains with a 174% monthly rise, followed by Valiant Organics, West Coast Paper Mills, GOCL Corporation and Neogen Chemicals.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-18
+
+### [Nestle India shares slip nearly 3% after FSSAI initiates legal action over infant nutrition products](https://economictimes.indiatimes.com/markets/stocks/news/nestle-india-shares-slip-nearly-3-after-fssai-initiates-legal-action-over-infant-nutrition-products/articleshow/134330393.cms)
+Nestle India shares fell on Friday after FSSAI initiated three adjudication cases over alleged violations involving infant nutrition products. The regulator flagged promotional claims on NAN Excella Pro Stage 1 and Lactogen Pro 1 and also found a follow-up formula sample non-conforming for biotin content during laboratory testing.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
 ### [Tata Sons IPO: Why Tata Chemicals may be the biggest beneficiary although Tata Motors, Tata Steel own bigger stake](https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-why-tata-chemicals-may-be-the-biggest-beneficiary-although-tata-motors-tata-steel-own-bigger-stake/articleshow/134329137.cms)
@@ -256,49 +320,14 @@ Veegaland Developers shares debuted at a 10% premium on the NSE and 7.86% on the
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-18
 
-### [SS Retail IPO GMP Today: Check Grey Market Premium On Final Day Of Subscription](https://www.ndtvprofit.com/markets/ss-retail-ipo-gmp-as-subscription-enters-final-day-12062753#publisher=newsstand)
-SS Retail IPO is a book build issue of Rs 500 crore.
+### [Who is Howard G Buffett? Warren Buffett's son to be Berkshire Hathaway Chair as father vacates position after 50+ years](https://www.livemint.com/companies/people/who-is-howard-g-buffett-warren-buffetts-son-to-be-berkshire-hathaway-chair-as-father-vacates-position-after-50-years-11789728538087.html)
+Howard G Buffett will succeed Warren Buffett as chairman of Berkshire Hathaway. Warren, 96, becomes chairman emeritus after leading since 1970. Howard, born in 1954, has been on the board since 1993 and is involved in agriculture, conservation, and philanthropy.
 
-**Source:** NDTV Profit  **Date:** 2026-09-18
+**Source:** Mint - Pharma  **Date:** 2026-09-18
 
-### [Jindal Supreme IPO GMP Gains On Final Subscription Day; Check Expected Listing Price](https://www.ndtvprofit.com/markets/jindal-supreme-ipo-gmp-as-subscription-enters-final-day-12062835#publisher=newsstand)
-Jindal Supreme IPO GMP today signals a 32% listing premium, with shares set to debut at an estimated Rs 123 on Sept. 23.
+### [SEMICON India 2026: India’s chip ambitions draw $12 billion | Which companies are investing?](https://www.livemint.com/companies/news/semicon-india-2026-india-s-chip-ambitions-draw-12-billion-which-companies-are-investing-11789724927418.html)
+India secured $12 billion in investment commitments from various global and domestic investors, emphasising a rapid development of its semiconductor ecosystem.&amp;nbsp;
 
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [Hero Motors IPO GMP Falls As Subscription Enters Final Day: Check Latest Premium](https://www.ndtvprofit.com/markets/hero-motors-ipo-gmp-as-subscription-enters-final-day-12062623#publisher=newsstand)
-Hero Motors IPO is a book build issue of Rs 1,000 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [Vedanta Approves Rs 3,500 Crore NCD Issue Through Private Placement](https://www.ndtvprofit.com/markets/vedanta-approves-rs-3-500-crore-ncd-issue-through-private-placement-12063411#publisher=newsstand)
-Vedanta will issue up to 3.5 lakh unsecured, rated, listed and redeemable non-convertible debentures, with each NCD carrying a face value of Rs 1 lakh.
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [Power Grid Board Approves Fundraise Of Up To Rs 5,000 Crore — Details Here](https://www.ndtvprofit.com/markets/power-grid-board-approves-fundraise-key-details-bse-sensex-bonds-12063338#publisher=newsstand)
-Power Grid In Focus
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [Stock Market Live: Nifty Above 23,300, Sensex Up 180 Points; Small Caps, Realty Shares Outperform](https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-share-market-sensex-nifty-gift-nifty-iran-war-us-attack-oil-impact-fno-futures-12062345#publisher=newsstand)
-Broaders markets, too, were buzzing in trade. Nifty Small Cap 100 index was trading over 1% higher, hile Nifty Mid Cap 100 was trading 0.5% higher.
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [NSE IPO Day 2: Issue Subscribed 57% So Far. Check GMP, Price Band, Review](https://www.ndtvprofit.com/markets/nse-ipo-day-2-check-nse-ipo-gmp-today-subscription-status-price-band-review-12062466#publisher=newsstand)
-NSE IPO price band is Rs 1,700-1,785 per share.
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [Veegaland Developers Shares Debut At 10% Premium Over IPO Price](https://www.ndtvprofit.com/markets/veegaland-developers-debuts-on-nse-with-10-percent-premium-over-ipo-price-12062770#publisher=newsstand)
-Veegaland Developers Debuts With 10% Premium On IPO
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
-
-### [Hero Motors IPO Day 3: 4.29x Subscribed; Check GMP, Allotment, Listing Details](https://www.ndtvprofit.com/markets/hero-motors-ipo-day-3-subscription-status-issue-3-27x-subscription-day-2-gmp-allotment-listing-details-12062350#publisher=newsstand)
-Hero Motors IPO Day 3
-
-**Source:** NDTV Profit  **Date:** 2026-09-18
+**Source:** Mint - Pharma  **Date:** 2026-09-18
 
 ---
