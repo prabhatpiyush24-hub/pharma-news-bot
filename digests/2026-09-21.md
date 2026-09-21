@@ -1,11 +1,36 @@
 # 🏥 India Pharma Investor Digest — 2026-09-21
 
-> 56 items · 2026-09-21 09:33 UTC
+> 70 items · 2026-09-21 17:52 UTC
 
-## 📊 BSE / NSE Filings (3)
+## 📊 BSE / NSE Filings (11)
 
-### [Coral Laboratories Ltd: Coral Laboratories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/09/2026 ,inter alia, to consider and approve Intimation of Board meeting ....](https://www.bseindia.com/corporates/ann.html?scrip=524506)
-BSE Code: 524506
+### [Symbiotec Pharmalab Ltd: With reference to the captioned subject, this is to inform you that Board Meeting held on September 21, 2026, have inter alia consider and approved the unaudited Standalone & Consolidated ....](https://www.bseindia.com/corporates/ann.html?scrip=544889)
+BSE Code: 544889
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Dr. Reddy's Laboratories: Intimation of analyst meet](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0733b99a-26a2-41e8-bf9f-2d34820a2da1.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Lupin: Intimation of allotment of 24,111 equity shares under ESOP.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/472f66db-8fbf-452c-87d9-bc61e5c5c57f.pdf)
+Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Aurobindo Pharma: Intimation of investor Analyst meet scheduled on 24.09.2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/37ba3466-1ad5-4b1d-ae68-3690f00c67b9.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Biocon: We wish to inform the Exchanges that the Meeting of the Finance Committee of the Board of Directors of the Company will be held on Thursday, September 24, 2026, inter-alia, to consider ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c275ed2c-d447-4417-84ca-12b302ed71aa.pdf)
+Category: Company Update | Sub: General | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Biocon: The Trading Window for dealing in Securities of the Company will be closed from Thursday, October 01, 2026 for the consideration and approval of the Unaudited Financial Results of the Company ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2867e57e-fda8-4bee-80ab-f67bcac928ad.pdf)
+Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-09-21
 
@@ -14,14 +39,31 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-09-21
 
-### [Dolphin Medical Services Ltd: Dolphin Medical Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 21/09/2026 ,inter alia, to consider and approve To consider and approve ....](https://www.bseindia.com/corporates/ann.html?scrip=526504)
-BSE Code: 526504
+### [Indoco Remedies: Proceedings of 35th Annual General Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/70c0825b-4fe0-4939-b238-73efe604b419.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 524570
 
-**Source:** BSE Filing  **Date:** 2026-09-20
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Marksans Pharma: Investor Presentation made at 43rd Annual General Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ae194a98-fd47-464e-909b-2b279f5943c7.pdf)
+Category: Company Update | Sub: Investor Presentation | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Marksans Pharma: Proceedings of 43rd Annual General Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb896c2b-dd10-4b40-a3bb-7927c108160b.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-09-21
+
+### [Symbiotec Pharmalab Ltd: Dear Sir / Madam,
+With reference to the captioned subject, this is to inform you that the Board of Directors of the
+Company at its meeting held today i.e., Monday, September 21, 2026, ....](https://www.bseindia.com/corporates/ann.html?scrip=544889)
+BSE Code: 544889
+
+**Source:** BSE Filing  **Date:** 2026-09-21
 
 ---
 
-## 💰 Results & Financials (10)
+## 💰 Results & Financials (7)
 
 ### [Pine Labs shares can rally 30%, says Motilal Oswal after initiating coverage with Buy. Here’s why](https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-can-rally-30-says-motilal-oswal-after-initiating-coverage-with-buy-heres-why/articleshow/134381725.cms)
 Pine Labs shares gained after Motilal Oswal initiated coverage with a Buy rating and a Rs 250 target, implying 30% upside. The brokerage sees the merchant commerce platform benefiting from multiple monetisation avenues, with affordability, digital payments and issuing businesses driving growth. DITP is expected to remain its largest revenue contributor.
@@ -38,11 +80,6 @@ FIIs increased stakes in 14 BSE 500 stocks during the June 2026 quarter, with sh
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
-### [Why is market rising today? Sensex rallies nearly 700 pts, Nifty above 23,450. 4 key factors driving the surge](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms)
-On Monday, Indian stock markets soared as both Sensex and Nifty recorded impressive gains, fueled by declining oil prices and an optimistic global outlook that buoyed investor morale. Major players such as UltraTech Cement and HDFC Bank showcased remarkable earnings, driving their stock prices higher. Nevertheless, broader indices like Nifty Midcap and Smallcap struggled, with FMCG, Pharma, Realty, and Consumer Durables leading sector gains, whereas Metal stocks lagged behind.
-
-**Source:** Economic Times - Markets  **Date:** 2026-09-21
-
 ### [Transrail sticks to 20-22% annual growth guidance despite macro headwinds, tepid Q1: CEO Narang](https://www.livemint.com/companies/news/transrail-lighting-revenue-growth-guidance-data-centres-bess-11789962431374.html)
 For Transrail, the strategy for navigating both near-term uncertainty and longer-term opportunity is to avoid chasing growth at the expense of profitability.
 
@@ -53,29 +90,24 @@ The government has been pushing for greater private-sector participation in defe
 
 **Source:** Mint - Pharma  **Date:** 2026-09-21
 
-### [Micron workers demand 15% of operating profit as AI boom lifts chip earnings, point to Samsung, SK Hynix](https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html)
-Micron Technology faces labor unrest as employees reject a proposed bonus of 68 months' salary, threatening strikes. Workers demand a one-time bonus equivalent to 83 months' salary and quarterly bonus distributions amidst rising profits driven by AI technology demand.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-20
-
-### [Sun Pharma FY26 net profit rises 5% to ₹114,794 million - scanx.trade](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNazBaR2RnZkxMV2tUZUxyV2hVbWNyNHczMFNNM2pJQVczekVDN1JrWEVkRG9pTGhhc3NzbDQxMXBpUFh4R09uQldHakI5VmtSamdtTFVhTkJkN3pPbE5UM3hmcDNic2ZzNGlqSHk3VU9pZUJnb1h6LWpueHhHVUh6c3ZfR011bE8tNzVSSnlwMVdIbTI0ZTlabW5pLUZ4ejU4NmpKTHdmQVZfX0R2dWFhdFFUWVNwWGZrbFQ5c3ZiMm1pa1YyQ2VOdzAtUGY1c1IyU1BGZVk2UUJtMDhNWVZVb0d3?oc=5)
-Sun Pharma FY26 net profit rises 5% to ₹114,794 million &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-09-20
-
 ### [How pharma is charting a greener path to growth](https://www.expresspharma.in/how-pharma-is-charting-a-greener-path-to-growth/)
 The conversation around environmental sustainability in the pharma industry is now expanding beyond the traditional boundaries of the compliance department. For years, the life sciences sector treated sustainability largely as a peripheral function, focusing primarily on meeting local waste management rules, running safety checklists, and fulfilling regulatory mandates. Today, industry leaders are viewing it as [&#8230;] The post How pharma is charting a greener path to growth appeared first on 
 
 **Source:** Express Pharma  **Date:** 2026-09-21
 
-### [Aurobindo Pharma Publishes Q3FY26 Results in Newspaper Advertisement - scanx.trade](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHpwemhGNFVkcnRBODdBWXppb3ZZWE9sN1ZGTmhUckt4Smg3YTh1eXZmT3gzTlc3RkhpbHJqNW1uQVd6SVdYY0JvSzAxYi1VY29oU2UtdU9mQXRlLUVZR2JYV1dRcWF6NDR4M2VOc0FyRnRQWFZYYXhvVzlTN0pCRVZKYS1LTGdfdWhCaWY2Mm1Bai1PYzRCaU1JcUFXTmRlUHlKNU5UYlJkMEF6TkNnbnVaS09RZGF3enJxUVJscHN4S0dlUVhDbnkzX2xMRlZNOEd6d0c3OVdlbkFUN1FSVUw4d0lNQQ?oc=5)
-Aurobindo Pharma Publishes Q3FY26 Results in Newspaper Advertisement &nbsp;&nbsp; scanx.trade
+### [India At Asian Games 2026 Day 4: Full Schedule, Match Timings For September 22 Events](https://www.ndtvprofit.com/sports/india-at-asian-games-2026-day-4-full-schedule-match-timings-for-september-22-events-12077779#publisher=newsstand)
+India's Rudrankksh Patil, right, wins bronze medal and Himanshu Dhillon wins Silver medal in the 10 meter rifle men individual event in Asian Games 2026 in Nagoya, Japan.
 
-**Source:** GNews - Aurobindo  **Date:** 2026-09-20
+**Source:** NDTV Profit  **Date:** 2026-09-21
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (13)
+
+### [Pine Labs block deal: Mastercard Asia may divest 4.3% equity worth Rs 892 crore](https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-block-deal-mastercard-asia-may-divest-4-3-equity-worth-rs-892-crore/articleshow/134392101.cms)
+Mastercard Asia Pacific may sell up to 49.7 million Pine Labs shares, representing 4.3% of the fintech company, through a Rs 892.5 crore block deal. Priced at Rs 179.50 per share, the secondary sale is scheduled for September 22.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
 
 ### [HEG shares rally 5% after receiving Rs 217.56 crore order from Indus Towers for lithium-ion battery banks](https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-rally-5-after-receiving-rs-217-56-crore-order-from-indus-towers-for-lithium-ion-battery-banks/articleshow/134380584.cms)
 HEG shares rose sharply on Monday after subsidiary Replus Engitech received a Rs 217.56 crore order from Indus Towers for lithium-ion battery banks. The order is to be executed by March 31, 2027. The development comes as HEG progresses with its demerger into separate graphite electrodes and advanced materials businesses.
@@ -87,10 +119,25 @@ Lenskart Solutions shares fell over 3% to Rs 683 after a massive block deal wort
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
+### [Paramount settles with US states to clear $110bn Warner Bros Discovery deal, says report—Check conditions, penalties](https://www.livemint.com/companies/news/paramount-settles-with-us-states-clear-110-bn-warner-bros-discovery-deal-editorial-boards-cnn-cbs-30-mn-penalty-report-11790003029272.html)
+Paramount has settled with California and 11 other US states that sued to block its $110 billion acquisition of Warner Bros Discovery, a source told Reuters on Monday. The move clears one of the last hurdles to a deal that would reshape Hollywood.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-21
+
 ### [Welspun Corp shares rally 5% as firm bags Rs 2,000 crore order from Saudi Aramco; stock up over 230% YTD](https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-in-focus-as-firm-bags-rs-2000-crore-order-from-saudi-aramco-stock-up-over-230-ytd/articleshow/134379420.cms)
 Welspun Corp shares are in focus after its associate company EPIC secured a Rs 2,000 crore Saudi Aramco order for steel pipes. The stock has surged 232% in 2026, leading the Nifty 500 this year. Earlier this month, Welspun Corp also signed an MoU with Perma-Pipe International Holdings Inc.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
+
+### [JP Morgan’s new India chief Rahul Badhwar aims for top spot in wholesale banking](https://www.livemint.com/companies/news/jp-morgan-s-new-india-chief-rahul-badhwar-aims-for-top-spot-in-wholesale-banking-11789993937894.html)
+Badhwar, who joined as senior country officer in July, plans to double down on dealmaking and corporate lending to outpace rivals, even as rich valuations and rising US yields spur foreign outflows.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-21
+
+### [SoftBank's OpenAI investment: Inside Masayoshi Son’s massive $11 billion gamble on ChatGPT's future](https://www.livemint.com/companies/news/softbanks-openai-investment-inside-masayoshi-son-s-massive-11-billion-gamble-on-chatgpts-future-11789990291896.html)
+SoftBank Group plans to sell over $11 billion in bonds, aiming to raise $10 billion in dollar bonds and 1 billion euros for investments, including OpenAI. The deal may set new yield records. Recent activities include securing loans, highlighting its significant role in AI financing.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-21
 
 ### [ASML enters India: What does its Tata partnership mean for country’s semiconductor ambitions?](https://www.livemint.com/companies/news/asml-enters-india-what-does-its-tata-partnership-mean-for-country-s-semiconductor-ambitions-11789960666419.html)
 ASML’s expansion is closely connected with the development of India’s semiconductor ecosystem, particularly Tata Electronics’ upcoming 300 mm semiconductor fabrication facility in Dholera, Gujarat.
@@ -102,23 +149,48 @@ Existing investors are exploring a partial or full stake sale, but the exact ter
 
 **Source:** Mint - Pharma  **Date:** 2026-09-21
 
-### [Samay Raina, Medha Shankr To Wed In December? Here’s His Hilarious Reply](https://www.ndtvprofit.com/lifestyle/samay-raina-medha-shankr-to-wed-in-december-here-s-his-hilarious-reply-12075103#publisher=newsstand)
-Samay Raina reacts to wedding rumours with Medha Shankr
+### [Lenskart Bulk Deal: AIDIA Arm Pares Stake Worth Rs 2,930 Crore](https://www.ndtvprofit.com/markets/lenskart-bulk-deal-aidia-arm-pares-stake-worth-rs-2-930-crore-12078125#publisher=newsstand)
+The transaction brought ADIA's holding down to 7.76% from 9.77%.
+
+**Source:** NDTV Profit  **Date:** 2026-09-21
+
+### [Paramount Clears Major Hurdle In Warner Bros. Discovery Takeover With Multi-State Settlement](https://www.ndtvprofit.com/business/paramount-clears-major-hurdle-in-warner-bros-discovery-takeover-with-multi-state-settlement-12077621#publisher=newsstand)
+The proposed $111 billion merger, the largest in Hollywood history, had been put on hold because of an antitrust lawsuit filed by the states.
+
+**Source:** NDTV Profit  **Date:** 2026-09-21
+
+### [US-China AI Deal To Open Communication 'Hotline'; Trump To Take Final Call: Report](https://www.ndtvprofit.com/world/us-china-ai-deal-to-open-communication-hotline-trump-to-take-final-call-report-12077910#publisher=newsstand)
+Artificial intelligence or AI
+
+**Source:** NDTV Profit  **Date:** 2026-09-21
+
+### [OpenAI And Anthropic Negotiate Deal To Stress Test Each Other's AI Systems](https://www.ndtvprofit.com/technology/openai-and-anthropic-negotiate-deal-to-stress-test-each-others-ai-systems-12077328#publisher=newsstand)
+OpenAI,Anthropic may stress-test each other's AI systems in order to detect safety risks.
 
 **Source:** NDTV Profit  **Date:** 2026-09-21
 
 ---
 
-## 💸 Corporate Actions (1)
+## 💸 Corporate Actions (2)
 
 ### [Stock split alert! Last day to buy this Mukul Agrawal-backed stock that rallied 107% in 4 months](https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-this-mukul-agrawal-backed-stock-that-rallied-107-in-4-months/articleshow/134378720.cms)
 As per Sebi's T+1 settlement norm, investors need to buy a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time and they become eligible for the corporate action. Accordingly, today is the last opportunity for investors to buy Taal Tech’s shares to be eligible for the stock split.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
+### [Natco Pharma receives in-principle approval for rights issue from NSE and BSE - Business Upturn](https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2xLczMtblJYSjlLMjd0Rm5xWDZqdU5YY29YdjJreFJXaFBQTXZKVlJtR2VuelN2S3R2eEFwVHVqQlZDNUp2T2lLQmRsZ1dPN1ViTjY1MTR0RWlqLUNEQjJBMk9kdUxEOTBKX3RQSXg1SENWd1doNHNZdzlRekkzUDBqYm40TXZSX1V3NGVNWG9jaWxLTEhYYi1VQ05RQ2NPTkRjYmtJa0N2YnU0Zmt2a1BaTkE5alRWMUE?oc=5)
+Natco Pharma receives in-principle approval for rights issue from NSE and BSE &nbsp;&nbsp; Business Upturn
+
+**Source:** GNews - India Pharma  **Date:** 2026-09-21
+
 ---
 
 ## 🏭 Operations & Approvals (4)
+
+### [RBI issues norms on capital requirements for market risk under Basel III for banks](https://economictimes.indiatimes.com/markets/stocks/news/rbi-issues-norms-on-capital-requirements-for-market-risk-under-basel-iii-for-banks/articleshow/134391520.cms)
+As of April 1, 2027, banks are prohibited from reclassifying instruments to achieve lower capital requirements under the new market risk guidelines that align with the updated Basel III framework. This transition will see banks adopting a simplified standardized approach for determining risk-weighted assets, along with revisions to interest rate risk tables and the treatment of debt funds.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
 
 ### [Trump’s tariff tantrums return? Gokaldas Exports, other textile stocks drop up to 5% after Trump signs Russia sanctions bill](https://economictimes.indiatimes.com/markets/stocks/news/trumps-tariff-tantrums-return-gokaldas-exports-other-textile-stocks-drop-up-to-5-after-trump-signs-russia-sanctions-bill/articleshow/134384836.cms)
 Shares of textile exporters fell after US President Donald Trump signed a law allowing tariffs of up to 100% on countries buying Russian oil and gas, raising concerns over potential fresh duties on Indian exports. Gokaldas Exports fell nearly 5%, while Indo Count Industries and Vardhman Textiles dropped over 3% each and Arvind declined more than 2%. The US is the largest market for India’s textile and apparel exporters, making them vulnerable to any tariff escalation.
@@ -135,14 +207,9 @@ The proposed projects would mark Adani’s expansion into Uzbekistan’s fast-gr
 
 **Source:** Mint - Pharma  **Date:** 2026-09-21
 
-### ['World Will Be Astonished’: Iran Threatens New Weapons And Battlefield Tactics If US Launches Fresh Attack](https://www.ndtvprofit.com/world/world-will-be-astonished-iran-threatens-new-weapons-and-battlefield-tactics-if-us-launches-fresh-attack-12075327#publisher=newsstand)
-Iran warns of 'painful retaliation' if US launches fresh attacks
-
-**Source:** NDTV Profit  **Date:** 2026-09-21
-
 ---
 
-## 📉 Analyst & Brokerage Calls (9)
+## 📉 Analyst & Brokerage Calls (11)
 
 ### [Samara Capital acquires stake in ARC and Calyx to build logistics platform](https://www.livemint.com/companies/start-ups/samara-capital-arc-calyx-logistics-platform-rs-1200-crore-11789902774973.html)
 The private equity (PE) firm invested close to ₹1,200 crore, with the promoters and the firm holding almost equal stakes in the new entity.
@@ -161,6 +228,11 @@ Tata Group stocks remain volatile amid the Tata Trusts-Tata Sons dispute over N 
 
 ### [RIL selloff wipes off Rs 4 lakh crore from market value as shares drop 21% in 2026 so far. Should you buy now?](https://economictimes.indiatimes.com/markets/stocks/news/ril-selloff-wipes-off-rs-4-lakh-crore-from-market-value-as-shares-drop-21-in-2026-so-far-should-you-buy-now/articleshow/134380690.cms)
 In 2026, Reliance Industries has seen a sharp decline of twenty-one percent in its share prices, wiping out an impressive four lakh crore rupees from its market worth. Analysts recommend that investors should be wary and avoid the temptation to buy during this dip, as the company is currently grappling with windfall tax implications and rising concerns regarding a Jio listing.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
+
+### [Why did market rise today? Sensex jumps 564 pts, Nifty closes above 23,400. 4 key factors driving the surge](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms)
+Indian stock markets saw gains on Monday, with Sensex and Nifty rising. Cooling oil prices and strong global cues boosted investor sentiment across Dalal Street. Foreign investors turned net buyers, adding to the positive market momentum. Broader markets, however, underperformed the benchmark indices during the session.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
@@ -184,33 +256,58 @@ The pharmaceutical industry has invested heavily in digitisation over the past f
 
 **Source:** Express Pharma  **Date:** 2026-09-21
 
-### [What Happens If US Imposes 100% Tariff On Russian Oil Buyers? IOCL, BPCL & HPCL Face Risk](https://www.ndtvprofit.com/markets/what-happens-if-us-imposes-100-tariff-on-russian-oil-buyers-iocl-bpcl-hpcl-face-risk-12075425#publisher=newsstand)
-The Lindsey Graham Sanctioning Russia and Iran Act of 2026, signed into law by US President Donald Trump on September 18, authorises tariffs of up to 100% on countries among the largest buyers of Russian energy.
+### [Buy, Sell Or Hold: L&T, Infosys, HAL, Bajaj Housing And Laurus Labs— Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-l-t-infosys-hal-bajaj-housing-and-laurus-labs-ask-profit-12077944#publisher=newsstand)
+Market experts shared their insights on fundamentals and technical levels for key stocks.
+
+**Source:** NDTV Profit  **Date:** 2026-09-21
+
+### [Major TV Networks Suspend Trump Pool Coverage After White House Blocks CNN](https://www.ndtvprofit.com/world/major-tv-networks-suspend-trump-pool-coverage-after-white-house-blocks-cnn-12077591#publisher=newsstand)
+CNN's Betsy Klein, holding up an empty credential holder, reports near the White House complex after having her credential confiscated.
 
 **Source:** NDTV Profit  **Date:** 2026-09-21
 
 ---
 
-## 📰 Industry & Policy News (23)
+## 📰 Industry & Policy News (22)
 
 ### [Four hours at Bombay House: How five Tata Sons directors outflanked Noel Tata](https://www.livemint.com/companies/news/tata-sons-board-meeting-noel-tata-11789917014343.html)
 The Tata scion left Bombay House believing Tata Sons had taken no decisions at last week’s crucial board meeting. Hours later, the board had reappointed N. Chandrasekaran as chair and moved towards RBI compliance.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-21
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-21-sep-2026/liveblog/134379669.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-21-sep-2026/liveblog/134379669.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Daily Performance Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-21-sep-2026/liveblog/134379584.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-21-sep-2026/liveblog/134379584.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Financial Snapshot](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-21-sep-2026/liveblog/134378942.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-21-sep-2026/liveblog/134378942.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
-### [Divis Labs Share Price Live Updates: Divis Labs Stock Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-21-sep-2026/liveblog/134378723.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-21-sep-2026/liveblog/134378723.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
-### [Cipla Share Price Live Updates: Cipla's Recent Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-21-sep-2026/liveblog/134378711.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-21-sep-2026/liveblog/134378711.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
+
+### [Ahead of Market: 10 things that will decide stock market action on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134393212.cms)
+Indian equities gained on Monday as cooling oil prices and positive global cues lifted sentiment. Sensex rose 564 points to 74,859, while Nifty gained 68 points to 23,414. Market capitalisation increased nearly Rs 2 lakh crore, despite mixed market breadth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
+
+### [ET Alpha Wealth Summit 2.0: Mapping global capital flows to identify the next big opportunity](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-summit-2-0-mapping-global-capital-flows-to-identify-the-next-big-opportunity/articleshow/134389341.cms)
+Global capital is constantly shifting across markets, sectors and asset classes as investors respond to growth, interest rates, valuations and geopolitical risks. ET Alpha Wealth Summit 2.0 will explore these shifts with Nilesh Shah, examining where global money is moving, what it means for India and how investors can identify emerging opportunities.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
+
+### [Quote of the day by Fred Schwed Jr: "The principle of “managed” investment trusts is absolutely sound, granted only one premise. The premise is that there are somewhere people of such experience and insight that they can predict with some sort of accuracy the future behavior of securities"](https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-fred-schwed-jr-the-principle-of-managed-investment-trusts-is-absolutely-sound-granted-only-one-premise-the-premise-is-that-there-are-somewhere-people-of-such-experience-and-insight-that-they-can-predict-with-some-sort-of-accuracy-the-future-behavior-of-securities/articleshow/134387670.cms)
+Fred Schwed Jr. questions the premise behind professionally managed investments: that experts can predict securities’ future behaviour with reasonable accuracy. His observation highlights the limits of financial expertise, emphasizing uncertainty, changing market conditions and the importance of understanding investment risks.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-21
+
+### [Oriental Aromatics, Bodal Chemicals among 6 commodity stocks that hit 52-week highs &amp; rallied up to 150% in a month](https://economictimes.indiatimes.com/markets/stocks/news/oriental-aromatics-bodal-chemicals-among-6-commodity-stocks-that-hit-52-week-highs-amp-rallied-up-to-150-in-a-month/slideshow/134387647.cms)
+Seven BSE Commodities Index stocks hit fresh 52-week highs on Monday as the Sensex gained 564 points. Bodal Chemicals led one-month gains at 150%, followed by Bhageria Industries and Oriental Aromatics, highlighting strong momentum across select commodity-linked counters.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
 ### [NMDC shares rally 2% after company sets target to achieve net-zero operational emissions by 2047](https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-rally-2-after-company-sets-target-to-achieve-net-zero-operational-emissions-by-2047/articleshow/134382521.cms)
@@ -238,7 +335,7 @@ The dispute between Tata Trusts and Tata Sons over N Chandrasekaran’s reappoin
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
-### [NSE IPO GMP Day 3 Live Updates: Issue booked nearly 4x on strong QIB push; GMP at 4%. Should you subscribe?](https://economictimes.indiatimes.com/markets/stocks/live-blog/nse-ipo-gmp-today-live-updates-nse-ipo-details-subscription-price-band-listing-date-latest-news/liveblog/134379270.cms)
+### [NSE IPO GMP Day 3 Live Updates: Issue booked nearly 6x on strong QIB push; GMP drops to 2%](https://economictimes.indiatimes.com/markets/stocks/live-blog/nse-ipo-gmp-today-live-updates-nse-ipo-details-subscription-price-band-listing-date-latest-news/liveblog/134379270.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-21
 
 ### [DailyObjects in talks to raise  ₹350 crore led by Xponentia and Anicut Capital as demand for lifestyle tech grows](https://www.livemint.com/companies/start-ups/dailyobjects-xponentia-capital-anicut-capital-funding-consumer-tech-lifestyle-accessories-startups-11789957044477.html)
@@ -256,43 +353,18 @@ UBS GROUP-REGULATION/ (PIX):UBS CEO Ermotti warns against harsh capital rules ah
 
 **Source:** Mint - Pharma  **Date:** 2026-09-20
 
-### [Tata Trusts-Tata Sons row: Mehli Mistry objects to possibility of education trust bearing legal expenses](https://www.livemint.com/companies/news/tata-trusts-tata-sons-row-mehli-mistry-objects-to-possibility-of-education-trust-bearing-legal-expenses-11789904000707.html)
-Mehli Mistry of the Tata Education and Development Trust has opposed using trust funds for legal expenses in the dispute between Tata Trusts and Tata Sons over N Chandrasekaran's reappointment as Chairman.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-20
-
 ### [Akums announces DCGI-approved triple therapy for H. pylori infection](https://www.expresspharma.in/akums-announces-dcgi-approved-triple-therapy-for-h-pylori-infection/)
 Akums Drugs &#38; Pharmaceuticals has announced the development of a DCGI-approved Clarithromycin + Vonoprazan + Amoxicillin Combikit for the treatment of Helicobacter pylori (H. pylori) infection in adults. The development is part of the company&#8217;s ongoing work in pharmaceutical formulation and reflects the growing focus within healthcare on treatment approaches that consider both therapeutic requirements [&#8230;] The post Akums announces DCGI-approved triple therapy for H. pylori infecti
 
 **Source:** Express Pharma  **Date:** 2026-09-21
 
-### [Piramal Finance Board Gives Nod To Allotting NCDs Worth Rs 1,100 Crore](https://www.ndtvprofit.com/markets/piramal-finance-board-gives-nod-to-allotting-ncds-worth-rs-1-100-crore-12075353#publisher=newsstand)
-Piramal Finance approves NCD allotment.
+### [AMD Joins $1-Trillion Chip Club As AI Bets Drive Shares To Record High](https://www.ndtvprofit.com/technology/amd-joins-1-trillion-chip-club-as-ai-bets-drive-shares-to-record-high-12077957#publisher=newsstand)
+Representational
 
 **Source:** NDTV Profit  **Date:** 2026-09-21
 
-### [Stock Market Live: Nifty Rallies Above 23,450, Sensex Surges Over 650 Points; HDFC Bank, RIL Lead Gains](https://www.ndtvprofit.com/markets/stock-market-news-live-updates-share-market-today-sensex-nifty-gift-nifty-levels-iran-war-us-attack-oil-market-impact-economy-fno-expiry-futures-optio-12074048#publisher=newsstand)
-Nifty Realty rose 0.98%, while Nifty Auto and Nifty Metal gained 0.69% and 0.50%, respectively. Nifty IT fell 0.41%, followed by Nifty PSU Bank at 0.23% and Nifty Rural at 0.12%.
-
-**Source:** NDTV Profit  **Date:** 2026-09-21
-
-### [Seth Freeman's Market Dichotomy: 10-Year Bond Yields 'Attractive' At 5%, Yet No Relief From Oil Shock](https://www.ndtvprofit.com/markets/seth-freemans-market-dichotomy-10-year-bond-yields-attractive-at-5-yet-no-cost-relief-from-energy-supply-shock-12075223#publisher=newsstand)
-Seth R. Freeman, Senior Managing Director, GlassRatner Advisory & Capital Group
-
-**Source:** NDTV Profit  **Date:** 2026-09-21
-
-### [NSE IPO Day 3: Retail Portion Gets Fully Subscribed; Check GMP, Price Band, And Other Key Details](https://www.ndtvprofit.com/markets/nse-ipo-day-3-check-subscription-status-gmp-price-band-and-other-key-details-12074220#publisher=newsstand)
-NSE IPO final day.
-
-**Source:** NDTV Profit  **Date:** 2026-09-21
-
-### [NSE IPO GMP In Focus As Subscription Enters Final Day](https://www.ndtvprofit.com/markets/nse-ipo-gmp-in-focus-as-subscription-enters-final-day-12074187#publisher=newsstand)
-NSE IPO GMP today fell to Rs 59 on the final subscription day from a high of Rs 160, indicating a potential 3.31% listing premium.
-
-**Source:** NDTV Profit  **Date:** 2026-09-21
-
-### [CBSE Date Sheet 2027 To Be OUT Soon; Direct Link To Access Class 10 And 12 Board Exam Schedule](https://www.ndtvprofit.com/india/cbse-date-sheet-2027-to-be-out-soon-direct-link-to-access-class-10-and-12-board-exam-schedule-12074654#publisher=newsstand)
-Students can head over to the official CBSE site, cbse.gov.in.
+### [Novo Shares Plunge 6% Despite CagriSema Beating Lilly In Diabetes Trial](https://www.ndtvprofit.com/markets/novo-shares-plunge-6-per-cent-despite-cagrisema-beating-lilly-in-diabetes-trial-12077155#publisher=newsstand)
+CagriSema is a weekly injection that blends cagrilintide, a compound that mimics the pancreatic hormone amylin, with semaglutide, the active component in Wegovy.
 
 **Source:** NDTV Profit  **Date:** 2026-09-21
 
