@@ -1,82 +1,28 @@
 # 🏥 India Pharma Investor Digest — 2026-09-23
 
-> 72 items · 2026-09-23 09:02 UTC
+> 60 items · 2026-09-23 16:06 UTC
 
-## 📊 BSE / NSE Filings (13)
+## 💰 Results & Financials (11)
 
-### [Dr. Reddy's Laboratories: Dr Reddys Laboratories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve Unaudited Standalone ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a7abd4f-8566-44f3-9904-e8b1bb60624b.pdf)
-Category: Board Meeting | Sub: Board Meeting | BSE Code: 500124
+### [Cupid raises FY27 profit guidance, targets Rs 750 crore revenue; stock up 160% in 2026](https://economictimes.indiatimes.com/markets/stocks/news/cupid-raises-fy27-profit-guidance-targets-rs-750-crore-revenue-stock-up-160-in-2026/articleshow/134439902.cms)
+Cupid Limited raised its FY27 guidance to Rs 725-750 crore revenue and Rs 210-225 crore net profit after strong June-quarter growth. Revenue rose 142% and profit 194%, while expansion in manufacturing, consumer distribution and international healthcare supports its medium-term growth plans.
 
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Sun Pharma: Investor Presentation Sept-2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f361f36b-8df4-4f89-a3dd-d66cc7b57d8a.pdf)
-Category: Company Update | Sub: Investor Presentation | BSE Code: 524715
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Dr. Reddy's Laboratories: Closure of Trading window](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6d706be2-b8ec-4c43-8e76-288e319606b7.pdf)
-Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 500124
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Cipla: Please find enclosed disclosure relating to the Change in SMP.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d672a060-f146-43e8-845e-56fbfa3f4d5c.pdf)
-Category: Company Update | Sub: Change in Management | BSE Code: 500087
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [IPCA Laboratories: Closure of Trading Window](https://www.bseindia.com/xml-data/corpfiling/AttachLive/90056041-e41f-44c3-a537-0b01eca3bb9b.pdf)
-Category: Insider Trading / SAST | Sub: Closure of Trading Window | BSE Code: 524494
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Ajanta Pharma: Intimation regarding completion of tenure of Independent Directors of REC Limited.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4a30303d-81f2-4b4e-9177-1762cdd30d3e.pdf)
-Category: Company Update | Sub: Change in Directorate | BSE Code: 532955
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Indoco Remedies: Scrutinizer''s Report of 35th Annual General Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/98af7e10-2498-43de-8e76-d70de124009c.pdf)
-Category: AGM/EGM | Sub: AGM | BSE Code: 524570
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Indoco Remedies: Voting Results of 35th Annual General Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0b7040ca-0d6a-4989-86f4-14335602793c.pdf)
-Category: AGM/EGM | Sub: AGM | BSE Code: 524570
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Sequent Scientific: Appointment of Nominee Director](https://www.bseindia.com/xml-data/corpfiling/AttachLive/8f4e14bc-f1be-446a-bdc2-ee73ba65d8ac.pdf)
-Category: Company Update | Sub: General | BSE Code: 590086
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Marksans Pharma: Scrutinizers Report and Voting Results of 43rd Annual General Meeting.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/75a3f2b5-4835-4fd2-be4a-727a29362391.pdf)
-Category: AGM/EGM | Sub: AGM | BSE Code: 524208
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Natco Pharma Ltd: Natco Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/09/2026 ,inter alia, to consider and approve to consider, discuss and decide ....](https://www.bseindia.com/corporates/ann.html?scrip=524816)
-BSE Code: 524816
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Astonea Labs Ltd: Please find enclosed herewith re-submission of financial results for the half year and year ended 31.03.2025.](https://www.bseindia.com/corporates/ann.html?scrip=544409)
-BSE Code: 544409
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
-### [Prasol Chemicals Ltd: Prasol Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/09/2026 ,inter alia, to consider and approve To consider and approve, inter-alia, ....](https://www.bseindia.com/corporates/ann.html?scrip=544912)
-BSE Code: 544912
-
-**Source:** BSE Filing  **Date:** 2026-09-22
-
----
-
-## 💰 Results & Financials (7)
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
 
 ### [‘I know how difficult today will be’: CCO Matt Booty opens up as Microsoft's Xbox division lays off more employees](https://www.livemint.com/companies/news/i-know-how-difficult-today-will-be-cco-matt-booty-opens-up-as-microsofts-xbox-division-lays-off-more-employees-11790094313663.html)
 Microsoft's Xbox division is laying off more employees amid a reorganisation of its game studios. Xbox continues to face challenges, including declining revenue and profit margins.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-22
+
+### [Dr. Reddy's Q4 Results: Net Profit Drops 86%, Revenue Down on Weak US Sales, Board Recommends 800% Dividend - Goodreturns](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdFpIaG9VMWxoRFpyaVVmZ2JkNGxPRVJtTnRSd2lva1pUcTYzQnQ3RFY3UkJTYmNFUVBISE1FMDNxTFlPaWM5X3BwSktZcnNia1pRb3BaWEZWMXZyMjZYdjFzSWktYk1NTnB2aU15R1pPZUw3MlNYc2JzU2ZzSklSVjFUeWMyRkhCSGZxZmMxdGxjMnJrX2Rsdl9NYVhtYU1udnNmMlhQN2dTN3ZsUnUxY3FhM2ZOTERmWU5qY3lERnNkRDh1WURJY0FQODNZZzVpMGdlTW1GTUNEZw?oc=5)
+Dr. Reddy's Q4 Results: Net Profit Drops 86%, Revenue Down on Weak US Sales, Board Recommends 800% Dividend &nbsp;&nbsp; Goodreturns
+
+**Source:** GNews - Dr Reddys  **Date:** 2026-09-23
+
+### [Supernova in talks to raise $15–20 million from Vertex Ventures, Verlinvest](https://www.livemint.com/companies/supernova-in-talks-to-raise-15-20-million-from-vertex-ventures-verlinvest-11790151494506.html)
+The Bengaluru-based AI English-learning startup has about $15 million in annual recurring revenue as it shifts from children’s learning content to AI-powered spoken-English lessons.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ### [Sensex crossed 85K for first time 2 years ago, now down 10K points from milestone. What can trigger the next bull run?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-crossed-85k-for-first-time-2-years-ago-now-down-10k-points-from-milestone-what-can-trigger-the-next-bull-run/articleshow/134426180.cms)
 Two years ago, Sensex soared to an impressive 85,000, but the market has seen a steep decline since then. This downturn is attributed to several factors, including high crude oil prices and geopolitical instability. Analysts believe a change in macroeconomic conditions could help the index bounce back, relying heavily on the performance of large-cap stocks and improved earnings. Investors should be discerning, focusing on high-quality stocks in this challenging environment.
@@ -88,11 +34,6 @@ The pattern is represented by a long white (or green) candlestick with no upper 
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
 
-### [Sun Pharma FY26 Results: Net profit up 5% YoY to ₹11,479 crore - scanx.trade](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0pvQlV2Y2ZaTnBOSXpfMEdSczd3bU9oU3lsMDdrQzNrTUxNNXBkeXVIWXRVY0hiYi0xY0ltT1VFY1lhQnVsUDJiem5uNUNnQVRiV0ZXeGpiUENwYTNaUFp2ZFdObjRJQnh0ZHJSeDN3VjhiWURUZE0temlVWnFLYU50RS1qVjlVTHBsRXFuRk1iMXV2bVZQLVRpNjB4NTV5U016dUJHdWZBTnNhanpFdmQ5aw?oc=5)
-Sun Pharma FY26 Results: Net profit up 5% YoY to ₹11,479 crore &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-09-22
-
 ### [ERS Genomics and Sai Life Sciences sign CRISPR/Cas9 license agreement](https://www.expresspharma.in/ers-genomics-and-sai-life-sciences-sign-crispr-cas9-license-agreement/)
 ERS Genomics Limited (‘ERS’), the CRISPR licensing company, announced that it has signed a non-exclusive license agreement with Sai Life Sciences , an integrated contract research, development, and manufacturing organization (CRDMO). The agreement grants Sai Life Sciences access to ERS Genomics’ foundational CRISPR/Cas9 patent portfolio for use in research and product development. Through this license, [&#8230;] The post ERS Genomics and Sai Life Sciences sign CRISPR/Cas9 license agreement appea
 
@@ -103,19 +44,29 @@ Corporate history is replete with examples of the ‘third generation curse’, 
 
 **Source:** Express Pharma  **Date:** 2026-09-23
 
-### [Dhoot Transmission EV Expansion: What Needs To Go Right At 73x Earnings](https://www.ndtvprofit.com/business/dhoot-transmission-ev-expansion-what-needs-to-go-right-at-73x-earnings-12085481#publisher=newsstand)
-Dhoot Transmission is expanding into battery packs, electronic controllers and other EV components as electric mobility raises content per vehicle. But at 73x earnings, the company needs its new businesses, Multilink acquisition and capacity additions to translate into sustained earnings growth.
+### [Amazon Retail Losses Widen To Rs 1,158 Crore In FY26](https://www.ndtvprofit.com/markets/amazon-retail-losses-widen-to-rs-1-158-crore-in-fy26-12088220#publisher=newsstand)
+The loss was mainly due to an increase in cost of goods by 64 per cent to 2,887.9 crore -- accounting for almost 94 per cent of the company's revenue
+
+**Source:** NDTV Profit  **Date:** 2026-09-23
+
+### [IRDAI Eyes 5-Year Glide Path To Cut EoM Caps To 20% For General Insurers, 12.5% For Life Insurers](https://www.ndtvprofit.com/personal-finance/irdai-eyes-5-year-glide-path-to-cut-eom-caps-to-20-for-general-insurers-12-5-for-life-insurers-12088255#publisher=newsstand)
+IRDAI proposes lower EoM caps and tighter rules for insurer-distributor payments
+
+**Source:** NDTV Profit  **Date:** 2026-09-23
+
+### [DDA Tightens Park Security After Astha Kunj Incident, Orders More CCTV, Night Patrols](https://www.ndtvprofit.com/india/dda-tightens-park-security-after-astha-kunj-incident-orders-more-cctv-night-patrols-12087688#publisher=newsstand)
+Lady Shri Ram College (LSR) students hold a solidarity march demanding enhanced safety measures following the alleged gang rape of a 17-year-old girl at nearby Aastha Kunj Park in New Delhi.
 
 **Source:** NDTV Profit  **Date:** 2026-09-23
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (8)
+## 🤝 Deals, M&A & Partnerships (7)
 
-### [CCI clears L’Oréal India's acquisition of Bare Anatomy maker Innovist: All you need to know](https://www.livemint.com/companies/news/cci-clears-l-or-al-indias-acquisition-of-bare-anatomy-maker-innovist-all-you-need-to-know-11790081555179.html)
-As part of the proposed transaction, Innovist’s founding team will remain responsible for running the business. Its brands will be brought under L’Oréal’s Consumer Products Division.
+### [Sedemac Mechatronics block deal: HDFC Life, A91 to offload 10% stake worth Rs 1,329 crore](https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-block-deal-hdfc-life-a91-to-offload-10-stake-worth-rs-1329-crore/articleshow/134440898.cms)
+Sedemac Mechatronics may see a block deal of up to 44.3 lakh shares, representing 10% equity, as investors seek approximately Rs 1,329 crore. The reported Rs 3,000 floor price is below Wednesday’s close, with shares subject to a 60-day lock-in.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-22
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
 
 ### [Meesho shares drop 4% after block deal worth Rs 900 crore. Should you buy the dip?](https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-drop-4-after-block-deal-worth-rs-900-crore-should-you-buy-the-dip/articleshow/134427534.cms)
 Meesho shares witnessed a dip on Wednesday after 3.86 crore shares changed hands in a block deal worth Rs 899.71 crore on the BSE. The transaction came a day after the stock surged nearly 10% following UBS’ 24% target price hike.
@@ -127,13 +78,13 @@ Bankers are reaching out to investors ahead of the sale of $49 billion in financ
 
 **Source:** Mint - Pharma  **Date:** 2026-09-22
 
-### [Indian bosses can hire, but have little say when layoffs are decided: Survey says India is ‘cheaper and legally quieter’](https://www.livemint.com/companies/news/indian-bosses-can-hire-but-have-little-say-when-layoffs-are-decided-survey-says-india-is-cheaper-and-legally-quieter-11790144169562.html)
-An Oracle employee, cited anonymously in the survey, said India was hired for its cost advantage and was among the first to be cut when trimming became necessary, describing the country as “cheaper and legally quieter.”
+### [Salesforce missed OpenAI. Its $50 million Anthropic bet is now worth $5 billion](https://www.livemint.com/companies/news/salesforce-missed-openai-its-50-million-anthropic-bet-is-now-worth-5-billion-11790164533797.html)
+Salesforce's $50 million investment in AI company Anthropic has surged to around $5 billion, following extensive funding rounds. The partnership aligns with Salesforce's push into AI, amidst competition among growing generative AI valuations.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-23
 
-### [Avaada Ventures pays back Brookfield’s debt in  ₹6,700 crore deal](https://www.livemint.com/companies/news/avaada-brookfield-exit-rs-6713-crore-renewable-energy-11790133469766.html)
-Brookfield’s exit comes ahead of a ₹7,600 crore initial public offering by Avaada Ventures-promoted group company Avaada Electro Ltd.
+### [Indian bosses can hire, but have little say when layoffs are decided: Survey says India is ‘cheaper and legally quieter’](https://www.livemint.com/companies/news/indian-bosses-can-hire-but-have-little-say-when-layoffs-are-decided-survey-says-india-is-cheaper-and-legally-quieter-11790144169562.html)
+An Oracle employee, cited anonymously in the survey, said India was hired for its cost advantage and was among the first to be cut when trimming became necessary, describing the country as “cheaper and legally quieter.”
 
 **Source:** Mint - Pharma  **Date:** 2026-09-23
 
@@ -142,15 +93,24 @@ Eyeing a ₹1,741-crore valuation, AceVector is taking Snapdeal public with a na
 
 **Source:** Mint - Pharma  **Date:** 2026-09-23
 
-### [Kylian Mbappe dumps Nike after 20 years for On: Football star gets equity, not just endorsement cheque; check details](https://www.livemint.com/companies/news/kylian-mbappe-dumps-nike-after-20-years-for-on-football-star-gets-equity-not-just-endorsement-cheque-check-details-11790085380175.html)
-Nike had been with Kylian Mbappe since 2006, when he was still a child. He chose not to renew once that deal expired this summer. On has confirmed the contract is a mix of cash and company shares, not a simple endorsement cheque.
+### [Meesho Block Deal: Goldman Sachs, Morgan Stanley Among Buyers As Rs 900-Crore Stake Change Hands](https://www.ndtvprofit.com/markets/meesho-block-deal-goldman-sachs-morgan-stanley-among-buyers-as-rs-900-crore-stake-change-hands-12088153#publisher=newsstand)
+The Government of Singapore was the largest buyer in the block transactions, acquiring 1.32 crore shares for around Rs 307.53 crore.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-22
+**Source:** NDTV Profit  **Date:** 2026-09-23
 
-### [Adani Group companies pay  ₹1.5 crore to settle Sebi’s Hindenburg-linked probe](https://www.livemint.com/companies/news/adani-sebi-settlement-adani-hindenburg-report-11790078187149.html)
-The agreement resolves adjudication proceedings involving five group firms over alleged related-party disclosure lapses and auditor compliance issues without admission of guilt.
+---
 
-**Source:** Mint - Pharma  **Date:** 2026-09-22
+## 💸 Corporate Actions (2)
+
+### [NTPC pays Rs 3,393.83 crore final dividend for FY26; total payout reaches Rs 8,727 crore](https://economictimes.indiatimes.com/markets/stocks/news/ntpc-pays-rs-3393-83-crore-final-dividend-for-fy26-total-payout-reaches-rs-8727-crore/articleshow/134440113.cms)
+NTPC Ltd has declared a final dividend of Rs 3,393.83 crore, contributing to a total of Rs 8,727 crore for the financial year 2025-26. This dividend represents 35 percent of the company's paid-up equity share capital. The company has now paid dividends for 33 consecutive years to its shareholders. NTPC aims to increase its generation capacity from over 91 GW to 149 GW by 2032.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [Byju’s parent Think &amp; Learn, Aakash settle rights issue before NCLT Bengaluru](https://www.livemint.com/companies/news/byjus-parent-think-learn-aakash-reach-settlement-over-rights-issue-before-nclt-after-legal-battle-what-led-to-d-11790167107059.html)
+The Bengaluru bench of the NCLT was informed that Think &amp;amp; Learn Private Limited and Aakash Educational Services Limited have settled their dispute over Aakash’s rights issue. This was communicated by Senior Advocates representing both parties during a tribunal hearing.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ---
 
@@ -160,6 +120,16 @@ The agreement resolves adjudication proceedings involving five group firms over 
 Rajesh Exports has seen a staggering drop of 61.39% since the start of the year, making it the worst performer in the Nifty 500 index. HEG isn't far behind, down 61.16% year-to-date, reflecting significant volatility. Alok Industries' decline of 54.52% highlights the tough atmosphere for stocks. With KPIT Tech and CE Info Systems also struggling, investors should consider reevaluating these lagging investments amidst the current market downturn.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [Who is Arvind Subramanian? Axis Bank appoints IIT and IIM alumnus as additional independent director for four years](https://www.livemint.com/companies/people/who-is-arvind-subramanian-axis-bank-appoints-iit-and-iim-alumnus-as-additional-independent-director-for-four-years-11790157357492.html)
+Axis Bank appointed Arvind Subramanian as an additional independent director for a four-year term, pending shareholder approval. He holds a B.Tech in Electrical and Electronics Engineering from IIT Madras and completed his postgraduate management studies at IIM Ahmedabad.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-23
+
+### [Air India gains share as Express expands flying in a slowing market](https://www.livemint.com/companies/air-india-express-aviation-market-dgca-indigo-11790152491962.html)
+Air India is gaining domestic market share as capacity returns and Air India Express adds flights. But demand is weakening and planes are flying with fewer seats filled, presenting incoming chief Gebremariam with an early challenge.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ### [Inside Oracle's job cuts: Employees over 40, middle managers take biggest hit in latest layoff round](https://www.livemint.com/companies/news/inside-oracles-job-cuts-over-40s-middle-managers-take-biggest-hit-in-latest-round-of-layoffs-11790134724210.html)
 Oracle began a new round of layoffs last week amid a massive, debt-funded expansion into AI infrastructure.
@@ -171,19 +141,19 @@ A recent essay in Express Pharma by Mr. S. Swaminathan, CEO of GS1 India, extoll
 
 **Source:** Express Pharma  **Date:** 2026-09-23
 
-### [Iran Says South Pars Gas Field Recovers 50% of Damaged Production Capacity](https://www.ndtvprofit.com/world/iran-says-south-pars-gas-field-recovers-50-of-damaged-production-capacity-12085534#publisher=newsstand)
-It plays a central role in the country's electricity generation and winter heating.
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
-### [Vivo V80 India Launch: Date, Expected Price, Battery, Camera And More - What We Know](https://www.ndtvprofit.com/technology/vivo-v80-india-launch-date-expected-price-battery-camera-and-more-what-we-know-12085154#publisher=newsstand)
-Vivo is all set to launch new V80 in India
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
 ---
 
-## 📉 Analyst & Brokerage Calls (17)
+## 📉 Analyst & Brokerage Calls (15)
+
+### [Whirlpool of India stock soars 20% to hit upper circuit on promoter stake sale buzz](https://economictimes.indiatimes.com/markets/stocks/news/whirlpool-of-india-stock-soars-20-to-hit-upper-circuit-on-promoter-stake-sale-buzz/articleshow/134431708.cms)
+Whirlpool of India shares surged 20% to hit the upper circuit at Rs 865.35 after reports indicated promoter Whirlpool Mauritius may sell its entire remaining 39.76% stake. The potential stake sale, reportedly involving major investors and a multinational consumer durables company, follows years of promoter stake reduction and drove strong buying interest.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [Market wrap: Bajaj Finance, Tata Steel, HCL Tech, Titan Company top gainers and losers on Nifty and Sensex on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bajaj-finance-tata-steel-hcl-tech-titan-company-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134434149.cms)
+Indian equity benchmarks ended higher on Wednesday, with Nifty rising 0.50% and Sensex gaining 0.40% as buying emerged across sectors. Metal stocks led the gains, while IT stocks lagged. Bajaj Finance and Tata Steel topped the gainers, while HCL Tech and Titan Company featured among the biggest losers.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
 
 ### [Stocks to buy: Jefferies lists 11 NBFC picks with up to 48% upside potential. Do you own any?](https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jefferies-lists-11-nbfc-picks-with-up-to-48-upside-potential-do-you-own-any/slideshow/134429716.cms)
 Jefferies has ‘Buy’ calls on 11 NBFCs, with target prices implying up to 48% upside. The brokerage expects healthy disbursement growth and resilient asset quality, while tracking funding costs and near-term NIM trends.
@@ -202,11 +172,6 @@ Hero Motors shares staged a dramatic recovery on Wednesday, surging 20% to hit t
 
 ### [Clean Max shares surge 13% in 3 days as Macquarie initiates coverage with outperform rating](https://economictimes.indiatimes.com/markets/stocks/news/clean-max-shares-surge-13-in-3-days-as-macquarie-initiates-coverage-with-outperform-rating/articleshow/134427464.cms)
 Clean Max shares: Macquarie initiated coverage on Clean Max Enviro Energy Solutions with an Outperform rating and a Rs 1,700 target price, implying 24% upside from current levels. The stock has gained 13% in three sessions, making Macquarie the second brokerage to initiate coverage after JM Financial.
-
-**Source:** Economic Times - Markets  **Date:** 2026-09-23
-
-### [Sensex jumps 350 points, Nifty above 23,400 as oil dips below $99/barrel. What can trigger the next sharp rally on D-Street?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-350-points-nifty-above-23400-as-oil-dips-below-99/barrel-what-can-trigger-the-next-sharp-rally-on-d-street/articleshow/134426992.cms)
-Indian benchmark indices gain up to 0.5% as metal and financial stocks support the market, while elevated crude prices and bond yields remain key constraints. Analysts highlight resistance levels and stretched midcap and smallcap valuations.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
 
@@ -240,48 +205,29 @@ Shares of Voltas received mixed brokerages calls after the company’s analyst m
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
 
-### [Subhash Chandra repayment plan: NCLT seeks CBI response, puts hearing on hold](https://www.livemint.com/companies/news/subhash-chandra-repayment-plan-nclt-seeks-cbi-response-puts-hearing-on-hold-11790136656008.html)
-The tribunal said the CBI’s investigation into the Zee founder’s case could have a bearing on proceedings over his ₹6.5 crore repayment plan
+### [Airtel Money plans biggest London listing since 2021](https://www.livemint.com/companies/airtel-money-plans-london-stock-exchange-listing-2021-sub-saharan-africa-11790158568232.html)
+Airtel Money seeks to debut on the London Stock Exchange, potentially raising $800 million through an offer for sale by current shareholders.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-09-23
 
-### [Disclosure gap at heart of Chandra family's TVS link](https://www.livemint.com/companies/news/tat-sons-chandrasekaran-family-tvs-link-went-undisclosed-venu-srinivasan-judged-his-term-11790084628035.html)
-Filings show that family members of Tata Sons chairman N Chandrasekaran hold business relations with TVS Motor Co. Ltd, a firm led by Venu Srinivasan, who recently cast a decisive board vote backing Chandrasekaran's fresh term.
+### [Subhash Chandra repayment plan: NCLT seeks CBI response, puts hearing on hold](https://www.livemint.com/companies/news/subhash-chandra-repayment-plan-nclt-seeks-cbi-response-puts-hearing-on-hold-11790136656008.html)
+Minutes after the NCLT proceedings, a plea made by Subhash Chandra was also heard in NCLAT challenging the constitution of five judge bench by the NCLT and the alienation of assets in ₹6.5 crore repayment plan case. The bench accepted the plea and agreed to hear the matter on 28 September.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-22
-
-### [Sajjan Jindal’s new challenge: selling Ampstar electric trucks to fellow industrialists](https://www.livemint.com/companies/news/jsw-greentech-ampstar-electric-trucks-buses-sajjan-jindal-11790058648199.html)
-Jindal is betting ₹2,000 crore that industrial customers will make electric trucks commercially viable, starting with the predictable routes of steel, cement and port operators.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-22
+**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ### [Treating hair loss as a health issue, not just a haircare concern](https://www.expresspharma.in/treating-hair-loss-as-a-health-issue-not-just-a-haircare-concern/)
 Traya has treated hair loss as a health issue rather than simply a cosmetic concern. How has this approach shaped the way you have built the business and developed your offerings? We operate very differently from a conventional haircare brand. In most cases, consumers either buy a product off the shelf, such as an oil [&#8230;] The post Treating hair loss as a health issue, not just a haircare concern appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-23
 
-### [GCF organises three day conference on ‘Advancing green & sustainable chemistry in the pharma supply chain’](https://www.expresspharma.in/gcf-organises-three-day-conference-on-advancing-green-sustainable-chemistry-in-the-pharma-supply-chain/)
-The pharmaceutical industry is increasingly focusing on integrating Green and Sustainable Chemistry into manufacturing processes and supply chains. Moving from sustainability commitments to practical implementation requires collaboration, innovation, and industry-wide knowledge sharing. To advance this dialogue, Green ChemisTree Foundation (GCF) is organising the 5th Conference &#38; Exhibition on “Advancing Implementation of Green &#38; Sustainable Chemistry [&#8230;] The post GCF organises thr
-
-**Source:** Express Pharma  **Date:** 2026-09-22
-
-### [Persistent Systems Gains Control Of Nagarro; HSBC Flags 90% Stake As Next Key Trigger](https://www.ndtvprofit.com/markets/persistent-nagarro-deal-hsbc-holds-persistent-at-rs-5-000-target-as-nagarro-integration-moves-closer-12084235#publisher=newsstand)
-HSBC said crossing 90% ownership could open the possibility of pursuing a squeeze-out of remaining minority shareholders under German law.
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
 ---
 
-## 📰 Industry & Policy News (22)
+## 📰 Industry & Policy News (20)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys experiences a small rise in value](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-23-sep-2026/liveblog/134424660.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-23
+### [Kotak Alts raises  ₹5,000 crore for private credit, real assets](https://www.livemint.com/companies/kotak-alts-raises-5-000-crore-for-private-credit-real-assets-11790154569685.html)
+Kotak Yield &amp;amp; Growth Fund was raised entirely from domestic investors, which includes institutional investors, family offices and Ultra High-Net-Worth Individuals (UHNIs) across India, according to the company.
 
-### [Cipla Share Price Live Updates: Cipla News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-23-sep-2026/liveblog/134424588.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-23
-
-### [Sun Pharma Share Price Live Updates: Sun Pharma News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-23-sep-2026/liveblog/134424580.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-23
+**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ### [Microsoft-owned Xbox cuts 268 more jobs; over 1,800 layoffs so far as overhaul continues](https://www.livemint.com/companies/news/microsoftowned-xbox-cuts-268-more-jobs-over-1-800-layoffs-so-far-as-overhaul-continues-11790147184126.html)
 Microsoft's Xbox division is cutting 268 jobs as part of a wider restructuring. The latest layoffs affect Halo Studios and other first-party teams.
@@ -292,6 +238,26 @@ Microsoft's Xbox division is cutting 268 jobs as part of a wider restructuring. 
 Vehicles backed by Atlas SP Partners, a structured-credit arm of Apollo Global Management Inc., face a possible loss of as much as £860 million ($1.1 billion) from the collapse of UK mortgage firm Market Financial Solutions Ltd. earlier this year, according to court-appointed administrators.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-22
+
+### [Sebi weighs lower margins for longer-term derivatives as F&amp;O losses stay high: Tuhin Kanta Pandey](https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-lower-margins-for-longer-term-derivatives-as-fo-losses-stay-high-tuhin-kanta-pandey/articleshow/134440032.cms)
+Sebi Chairman Tuhin Kanta Pandey said the regulator is examining whether margin requirements can be lowered for longer-term derivatives contracts. The move could support deeper markets while Sebi continues addressing high retail F&amp;O losses and speculative short-term trading.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [Anlon Healthcare among 7 healthcare stocks hitting 52-week highs; rallied up to 105% in a month](https://economictimes.indiatimes.com/markets/stocks/news/anlon-healthcare-among-7-healthcare-stocks-hitting-52-week-highs-rallied-up-to-105-in-a-month/slideshow/134436863.cms)
+Seven healthcare stocks hit fresh 52-week highs on Wednesday, led by Anlon Healthcare, which gained 108% in a month. Kopran, Kilitch Drugs, Innova Captab and others also posted strong recent gains.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [ET Alpha Wealth Summit 2.0: How India’s biggest investors are hunting for the next alpha](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-how-indias-biggest-investors-are-hunting-for-the-next-alpha/articleshow/134433518.cms)
+As large investors look beyond traditional equities and debt, private credit, venture debt, co-investments and alternative strategies are gaining attention. At ET Alpha Wealth Summit 2.0, leading experts will explore how family offices and institutions are deploying capital and what their approach could mean for retail investors.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [Sensex jumps 299 points, Nifty closes near 23,450 as oil dips below $99/barrel. What can trigger the next sharp rally on D-Street?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-350-points-nifty-above-23400-as-oil-dips-below-99/barrel-what-can-trigger-the-next-sharp-rally-on-d-street/articleshow/134426992.cms)
+The Indian stock market closed positively on Wednesday, with Sensex climbing over 299 points to stand at 74,828, and Nifty gaining roughly 118 points to reach 23,447. Broader market indices also performed well, with Nifty Midcap 100 and Smallcap 100 showing increases of up to 0.9%. Major sectors like metal and FMCG had significant upticks, while IT stocks underperformed.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-23
 
 ### [Arvind SmartSpaces shares rally 11% as bookings cross Rs 500 crore in Bengaluru project](https://economictimes.indiatimes.com/markets/stocks/news/arvind-smartspaces-shares-rally-11-as-bookings-cross-rs-500-crore-in-bengaluru-project/articleshow/134425999.cms)
 Arvind SmartSpaces shares surged 10.83% after its Bengaluru project, Arvind Sylva – The Green Reserve, crossed Rs 500 crore in bookings within 30 days, achieving 60% value-based absorption. Located on Sarjapur Road, the premium project spans 4.7 acres with 375 residences. The stock has also shown strong recent momentum.
@@ -313,11 +279,16 @@ Four NSE F&amp;O stocks recorded over 10% increases in futures open interest on 
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Market Position](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-23-sep-2026/liveblog/134424818.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-23-sep-2026/liveblog/134424818.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
 
-### [IPO GMP Today Live Updates | Adroit Industries IPO subscribed over 3x; Check issue size, price band, GMP and key details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-elevate-campuses-armee-infotech-varmora-granito-grey-market-price-band-subscription-status-listing-date/liveblog/134424803.cms)
+### [IPO GMP Today Live Updates | Adroit Industries IPO subscribed over 4x; Check issue size, price band, GMP and key details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-elevate-campuses-armee-infotech-varmora-granito-grey-market-price-band-subscription-status-listing-date/liveblog/134424803.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-23
+
+### [Synechron kicks off stake sale talks with PE investors](https://www.livemint.com/companies/news/synechron-stake-sale-private-equity-eqt-cvc-apax-valuation-11790138307096.html)
+Synechron plans to remain private and independent for the foreseeable future and there are no strategic transactions on the horizon, a company spokesperson said.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ### [Former Walmart COO Mediratta eyes 100 stores for new grocery venture FreshTerra, targets IPO in five years](https://www.livemint.com/companies/news/freshterra-arvind-mediratta-grocery-stores-expansion-ipo-plans-11790096830119.html)
 Former Metro and Hippo Homes CEO Arvind Mediratta is focusing on FreshTerra's growth, targeting 100 stores in five years. The company leverages physical outlets for online sales, emphasizing customer experience and private label offerings in the fast-evolving organized retail sector.
@@ -339,39 +310,14 @@ USA-TRUMP/SPACEX (PIX):Trump bought and sold shares in Musk's SpaceX in July, fi
 
 **Source:** Mint - Pharma  **Date:** 2026-09-22
 
-### [Medical devices maker Romsons secures Temasek funding, sets sights on IPO](https://www.livemint.com/companies/news/romsons-secures-temasek-capital-sets-sights-on-ipo-11790081534010.html)
-Mint first reported in October that Temasek had joined the race to acquire a minority stake worth ₹1,500 crore in the medical device manufacturer, valuing the company at about $500 million.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-22
-
-### [APL Apollo Tubes Raises Product Prices; Further Hike From October 1](https://www.ndtvprofit.com/markets/apl-apollo-tubes-raises-product-prices-further-hike-from-october-1-12085478#publisher=newsstand)
-APL Apollo Tubes has undertaken a blended price hike of around 3-5% across key geographies.
+### [SEBI Chief Says Regulator May Explore Margin Cuts For Longer-Term Derivatives](https://www.ndtvprofit.com/markets/sebi-chief-says-regulator-may-explore-margin-cuts-for-longer-term-derivatives-12087999#publisher=newsstand)
+Pandey also said F&amp;O losses remain high and underlined the importance of investor suitability and risk awareness.
 
 **Source:** NDTV Profit  **Date:** 2026-09-23
 
-### [NSE IPO: Will Shares List At A Premium? Here's What GMP Signals](https://www.ndtvprofit.com/markets/nse-ipo-gmp-will-shares-list-at-a-premium-heres-what-gmp-signals-12084254#publisher=newsstand)
-What Does GMP Signal Ahead Of Listing
+### [Orchid Pharma lists 4.45 crore equity shares on NSE and BSE - scanx.trade](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG90RFU4U3oyRkpfVGJGeE4wYjQ1ZTBhNG9WcmlnRjltY0stVDcwckFKLXg1SnoxRDVkRHpoM2RPS2tRVUFaMURWbDU4anZJaUdpQ1IwdXJUMGt0UENEY1hRN0NYZERQakgxVWN0ZWcyZlJXSWdkWmRrQ3hhY2x6dFhidklKbFpYMllJNHB3VmxwUWUzdDdnRkpXTFJmQVB2VXpXdWRWWEFuU0VNQkE?oc=5)
+Orchid Pharma lists 4.45 crore equity shares on NSE and BSE &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
-### [Clean Max Share Price Jumps Over 3% After Macquarie Initiates With 'Outperform' Call, Sees 24% Upside](https://www.ndtvprofit.com/markets/clean-max-share-price-jumps-over-3-after-macquarie-initiates-with-outperform-call-sees-24-upside-12084687#publisher=newsstand)
-Clean Max shares surge 13% in 3 days; Macquarie initiates 'outperform'
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
-### [IPO GMP: Adroit Industries, Elevate Campuses, ArMee Infotech, Swastika Infra — Which Could Deliver Highest Listing Gain?](https://www.ndtvprofit.com/markets/ipo-gmp-elevate-campuses-armee-infotech-swastika-infra-adroit-industries-which-could-deliver-highest-listing-gain-12084647#publisher=newsstand)
-Adroit Industries leads the IPO listing-gain race, followed by ArMee Infotech, Swastika Infra and Elevate Campuses, based on latest GMP.
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
-### [Godfather Of AI Takes On Nvidia's Jensen Huang Playing Down Slowdown Call — 'He Has Trump's Ears'](https://www.ndtvprofit.com/technology/godfather-of-ai-geoffrey-hinton-takes-on-nvidias-jensen-huang-playing-down-slowdown-call-he-has-trumps-ears-12084457#publisher=newsstand)
-Geoffrey Hinton questions Jensen Huang's zero-risk AI view and cites financial incentives, as rogue-agent incidents fuel calls for tighter AI oversight.
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
-
-### [Mobile Payments Firm Airtel Money Announces Plans For London IPO](https://www.ndtvprofit.com/markets/mobile-payments-firm-airtel-money-announces-plans-for-london-ipo-12085364#publisher=newsstand)
-Airtel Money IPO Plans
-
-**Source:** NDTV Profit  **Date:** 2026-09-23
+**Source:** GNews - India Pharma  **Date:** 2026-09-23
 
 ---
