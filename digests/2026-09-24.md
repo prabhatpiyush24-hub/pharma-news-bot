@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-09-24
 
-> 51 items · 2026-09-24 08:58 UTC
+> 55 items · 2026-09-24 16:30 UTC
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (14)
+
+### [HDFC MF bets on PB Fintech, buys stake worth Rs 321 crore as IRDAI reforms trigger 36% stock rout](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-bets-on-pb-fintech-buys-stake-worth-rs-321-crore-as-irdai-reforms-trigger-36-stock-rout/articleshow/134466281.cms)
+HDFC Mutual Fund bought 25 lakh PB Fintech shares worth about Rs 321 crore at Rs 1,282.30 each, even as the stock plunged 36% after IRDAI proposed renewed insurance commission caps, raising concerns over the company’s general insurance revenues.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
 
 ### [Sebi board meeting: PMS rules overhaul, FPI commodity trades among key decisions to watch out](https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-pms-rules-overhaul-fpi-commodity-trades-among-key-decisions-to-watch-out/articleshow/134454100.cms)
 Sebi's upcoming board meeting aims to discuss significant changes to portfolio management services and settlement regulations. Proposed revisions could allow discretionary portfolio managers to make new types of investments, including overseas assets. The meeting is expected to review widening the accredited investor framework to increase market participation. Another key focus is enhancing foreign portfolio investor access in commodity derivatives to improve liquidity.
@@ -24,13 +29,18 @@ Macquarie initiated coverage of NSE with an Outperform rating and a Rs 1,965 tar
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [Supernova in talks to raise $15–20 million from Vertex Ventures, Verlinvest](https://www.livemint.com/companies/supernova-in-talks-to-raise-15-20-million-from-vertex-ventures-verlinvest-11790151494506.html)
-The Bengaluru-based AI English-learning startup has about $15 million in annual recurring revenue as it shifts from children’s learning content to AI-powered spoken-English lessons.
+### [NSE sees no change in duties as listed entity; to protect market integrity, public interest:Chairman](https://economictimes.indiatimes.com/markets/stocks/news/nse-sees-no-change-in-duties-as-listed-entity-to-protect-market-integrity-public-interestchairman/articleshow/134464199.cms)
+The National Stock Exchange recently celebrated a milestone with its highly anticipated IPO, entering the stock market with shares opening at Rs 1,800, surpassing the issue price of Rs 1,785. The chairperson and CEO expressed a commitment to prioritizing public interest while driving growth, as the IPO drew impressive institutional interest, reflecting strong investor belief in the exchange's promising future.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-23
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [PB Fintech shares crash 30%, bloodbath wipes off Rs 26,200 cr from m-cap after IRDAI’s reform plans. What Citi and Jefferies are warning](https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-loses-rs-22700-cr-from-market-value-as-stock-crashes-26-after-irdais-reform-plans-what-citi-and-jefferies-are-warning/articleshow/134454219.cms)
-PB Fintech shares plunged on Thuesday wiping out nearly Rs 26,200 crore from its market capitalisation after IRDAI proposed changes to insurance commission structures. Jefferies flagged risks to distributor earnings, while Citi warned of a potential sharp compression in distribution economics across several high-margin insurance categories.
+### [Sebi board approves FPI play in non-agri commodity derivatives, expands scope of PMS](https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-foreign-investor-access-to-commodity-derivatives-expands-scope-of-portfolio-managers/articleshow/134464170.cms)
+Sebi has approved new regulations allowing foreign portfolio investors to participate in non-agricultural commodity derivatives. This regulatory change aims to increase institutional participation and streamline existing portfolio manager regulations. The newly approved framework will clarify delivery structures for futures contracts to mitigate operational and tax challenges. Significant reforms were also made to simplify settlement proceedings and ease compliance burdens for research entities.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [Info Edge shares plunge 7% as bloodbath in PB Fintech shares wipes off Rs 1,809 crore from recruiter's stake. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-plunge-7-as-bloodbath-in-pb-fintech-shares-wipes-off-rs-1809-crore-from-recruiters-stake-what-lies-ahead/articleshow/134456914.cms)
+Shares of Info Edge dropped 7% after a massive 32% crash in PB Fintech reduced the value of its 6.5% stake by Rs 1,809 crore in a single session. The sell-off follows IRDAI's proposed overhaul of insurance distributor commission structures and crackdown on digital dark patterns.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
@@ -44,6 +54,11 @@ Three stocks in the Nifty 500 pack, including Steel Authority of India, Whirlpoo
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
+### [Why did market crash today? Sensex plummets 1,248 points, Nifty ends below 23,100. 5 factors behind today's D-Street bloodbath](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-over-500-points-nifty-below-23250-5-factors-behind-rs-4-lakh-crore-wipeout/articleshow/134450985.cms)
+Sensex Nifty Crash Today: The Indian stock market took a significant hit as both Sensex and Nifty posted sharp declines. This downturn is largely attributed to rising US Treasury bond yields coupled with growing anticipation of interest rate increases. In conjunction, oil prices surged past $102 per barrel, driven by ongoing geopolitical instability. The Indian rupee also weakened against the US dollar, dampening investor enthusiasm. Experts predict ongoing volatility until economic conditions b
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
 ### [IFCI, New India Assurance, other stocks drop up to 3% as NSE makes a muted market debut. What to expect?](https://economictimes.indiatimes.com/markets/stocks/news/ifci-new-india-assurance-other-stocks-fall-up-to-3-ahead-of-nses-stock-market-debut-today-what-to-expect/articleshow/134451099.cms)
 On Thursday, shares of IFCI, New India Assurance Company, and General Insurance Corporation fell up to 3%. The National Stock Exchange listed with less than a 1% premium over the IPO price. NSE's initial public offering aimed to raise Rs 22,562 crore entirely through an offer for sale. Analysts anticipated long-term potential for NSE despite the muted listing, with a target price of Rs 1,965.
 
@@ -54,19 +69,29 @@ On Thursday, BSE shares fell by 1.5%, coinciding with NSE's much-anticipated mar
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [Over 60% Jump In A Month: Genesys International Share Price Rises Over 4% After Order Win](https://www.ndtvprofit.com/markets/over-60-jump-in-a-month-genesys-international-share-price-rises-over-4-after-order-win-12090356#publisher=newsstand)
-Genesys International won a Rs 283 crore World Bank-funded contract for Ahmedabad's 3D Digital Twin and Spatial Intelligence Platform. Investors assessing the improvement revenue visibility of the comapny
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [Solar Industries Rated 'Buy' By PL Capital On Coverage Initiation — Check Target Price, Potential Upside](https://www.ndtvprofit.com/markets/solar-industries-rated-buy-by-pl-capital-on-coverage-initiation-check-target-price-potential-upside-12090447#publisher=newsstand)
-PL Capital estimates Solar Industries' revenue/APAT CAGR of 28%/30% over FY2629E, driven by fastest-growing defence business, scale-up in international explosives, and favorable revenue mix.
+### [The Paradise Box Office Collection Day 1: Nani Starrer Opens Strong Across India; Check Earnings](https://www.ndtvprofit.com/business/entertainment-cinema-tollywood-movie-the-paradise-box-office-collection-day-1-nani-telugu-film-india-opening-thursday-earnings-12091461#publisher=newsstand)
+The Paradise released on September 24.
 
 **Source:** NDTV Profit  **Date:** 2026-09-24
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (3)
+## 🤝 Deals, M&A & Partnerships (6)
+
+### [Four Godrej family members buy 1 pc stake in Godrej Consumer for Rs 900 cr](https://economictimes.indiatimes.com/markets/stocks/news/four-godrej-family-members-buy-1-pc-stake-in-godrej-consumer-for-rs-900-cr/articleshow/134465297.cms)
+Nadir Burjor Godrej and Adi Godrej's heirs recently acquired a 1 percent stake in Godrej Consumer Products, purchasing 1,02,30,000 shares at Rs 880 each, totaling over Rs 900 crore. This transaction occurred via block deals from two entities within the promoter group. Notably, despite this shift in shareholding, the overall ownership percentage among the promoters remained unchanged.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [India tech funding hits $10.3 billion despite fewer deals: Where is the money going?](https://www.livemint.com/companies/news/india-tech-funding-hits-10-3-billion-despite-fewer-deals-where-is-the-money-going-11790244671385.html)
+India's tech sector raised $10.3 billion in equity funding in the first nine months of 2026, up 7% from last year. While funding rounds decreased, mega-rounds boosted total investments, with enterprise applications and AI infrastructure leading the way in attracting capital.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-24
+
+### [JSW wants Volkswagen to cover India tax bill as deal condition](https://www.livemint.com/companies/news/jsw-wants-volkswagen-to-cover-india-tax-bill-as-deal-condition-11790249144684.html)
+The deal under discussion involves JSW making an investment in closely held Skoda Auto Volkswagen India, with JSW seeking a majority stake.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-24
 
 ### [Morgan Stanley deal leak exposes 100+ potential deals: What could it mean for companies named?](https://www.livemint.com/companies/news/morgan-stanley-deal-leak-exposes-100-potential-deals-what-could-it-mean-for-companies-named-11790234064504.html)
 Morgan Stanley is racing to contain fallout after an email blunder exposed details of 100+ potential deals. With regulators assessing the incident, the leak could affect companies named in the pipeline, particularly planned share sales and other transactions.
@@ -78,57 +103,77 @@ The transaction will be a combination of a secondary share purchase and fresh ca
 
 **Source:** Mint - Pharma  **Date:** 2026-09-24
 
-### [Salesforce missed OpenAI. Its $50 million Anthropic bet is now worth $5 billion](https://www.livemint.com/companies/news/salesforce-missed-openai-its-50-million-anthropic-bet-is-now-worth-5-billion-11790164533797.html)
-Salesforce's $50 million investment in AI company Anthropic has surged to around $5 billion, following extensive funding rounds. The partnership aligns with Salesforce's push into AI, amidst competition among growing generative AI valuations.
+### [Morgan Stanley Accidentally Shares Asia Deal Pipeline In Client Email](https://www.ndtvprofit.com/business/morgan-stanley-accidentally-shares-asia-deal-pipeline-in-client-email-12093323#publisher=newsstand)
+Morgan Stanley
 
-**Source:** Mint - Pharma  **Date:** 2026-09-23
+**Source:** NDTV Profit  **Date:** 2026-09-24
 
 ---
 
-## 💸 Corporate Actions (2)
+## 💸 Corporate Actions (3)
 
 ### [HSBC plans India equity broking return after 13 years amid IPO boom, sources say](https://economictimes.indiatimes.com/markets/stocks/news/hsbc-plans-india-equity-broking-return-after-13-years-amid-ipo-boom-sources-say/articleshow/134455177.cms)
 After a decade-long hiatus, HSBC is gearing up to re-enter the Indian equity broking sector, responding to the increasing demands from wealthy clients and an active share sale market. The bank is set to introduce retail broking services shortly, leveraging its existing broking license. With this move, HSBC aims to enhance its equities platform and tap into the growing retail investor segment in India’s wealth management landscape.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [Byju’s parent Think &amp; Learn, Aakash settle rights issue before NCLT Bengaluru](https://www.livemint.com/companies/news/byjus-parent-think-learn-aakash-reach-settlement-over-rights-issue-before-nclt-after-legal-battle-what-led-to-d-11790167107059.html)
-The Bengaluru bench of the NCLT was informed that Think &amp;amp; Learn Private Limited and Aakash Educational Services Limited have settled their dispute over Aakash’s rights issue. This was communicated by Senior Advocates representing both parties during a tribunal hearing.
+### [PB Fintech shares crash 36%, bloodbath wipes off Rs 31,426 cr from m-cap after IRDAI’s reform plans. What Citi and Jefferies are warning](https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-loses-rs-22700-cr-from-market-value-as-stock-crashes-26-after-irdais-reform-plans-what-citi-and-jefferies-are-warning/articleshow/134454219.cms)
+PB Fintech shares crashed 36% to a 52-week low after IRDAI proposed an overhaul of insurance distributor commissions. The proposed norms could tighten distribution economics, with brokerages warning of lower commission income across key insurance segments.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-23
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [Inox Green Energy Opens Rs 300-Crore QIP With Option To Upsize: Sources](https://www.ndtvprofit.com/business/inox-green-energy-opens-rs-300-crore-qip-with-option-to-upsize-sources-12093787#publisher=newsstand)
+Inox Green Energy opens Rs 300-crore QIP, with option to upsize to Rs 400 crore.
+
+**Source:** NDTV Profit  **Date:** 2026-09-24
 
 ---
 
-## 🏭 Operations & Approvals (5)
+## 🏭 Operations & Approvals (4)
 
 ### [Carnelian launches  ₹2,000 crore PE fund to target India’s mid-market](https://www.livemint.com/companies/news/carnelian-asset-management-rs-2000-crore-private-equity-fund-first-close-11790227411029.html)
-The boutique investment firm has secured ₹1,000 crore at first close and will invest across growth equity, pre-IPO opportunities and listed stocks.
+The boutique investment firm is expected to reach a first close by end of September at about ₹1,000 crore and will invest across growth equity, pre-IPO opportunities and listed stocks.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-24
-
-### [Who is Arvind Subramanian? Axis Bank appoints IIT and IIM alumnus as additional independent director for four years](https://www.livemint.com/companies/people/who-is-arvind-subramanian-axis-bank-appoints-iit-and-iim-alumnus-as-additional-independent-director-for-four-years-11790157357492.html)
-Axis Bank appointed Arvind Subramanian as an additional independent director for a four-year term, pending shareholder approval. He holds a B.Tech in Electrical and Electronics Engineering from IIT Madras and completed his postgraduate management studies at IIM Ahmedabad.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-23
-
-### [Air India gains share as Express expands flying in a slowing market](https://www.livemint.com/companies/air-india-express-aviation-market-dgca-indigo-11790152491962.html)
-Air India is gaining domestic market share as capacity returns and Air India Express adds flights. But demand is weakening and planes are flying with fewer seats filled, presenting incoming chief Gebremariam with an early challenge.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-23
 
 ### [Generic Remedy crosses 700+ franchise outlets across 9 States](https://www.expresspharma.in/generic-remedy-crosses-700-franchise-outlets-across-9-states/)
 India’s emerging True MRP generic pharmacy network expands rapidly since its November 2024 launch, targeting 10,000 outlets by 2031 The post Generic Remedy crosses 700+ franchise outlets across 9 States appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-24
 
-### [SPR Auto Shares May Rally 37%, Says Motilal Oswal As It Initiates Coverage — Check Target Price](https://www.ndtvprofit.com/markets/spr-auto-shares-may-rally-37-percent-says-motilal-oswal-as-it-initiates-coverage-check-target-price-12090554#publisher=newsstand)
-SPR Auto Tech's balance sheet is expected to improve gradually from the FY26 base, supported by a strong margin expansion in subsidiaries and limited growth capex requirements, says Motilal Oswal
+### [Rs 10,000 A Month Into Crypto Vs Rs 10,000 Into Mutual Funds: What Changes Over Five Years?](https://www.ndtvprofit.com/personal-finance/rs-10-000-a-month-into-crypto-vs-rs-10-000-into-mutual-funds-what-changes-over-five-years-12092247#publisher=newsstand)
+The choice depends on the investor's time horizon, risk capacity and financial goals.
+
+**Source:** NDTV Profit  **Date:** 2026-09-24
+
+### [Microsoft Launches Surface Pro 12-Inch, Laptop 13-Inch With Snapdragon X2 Plus: Check Price, Specs](https://www.ndtvprofit.com/technology/microsoft-launches-surface-pro-12-inch-laptop-13-inch-with-snapdragon-x2-plus-check-price-specs-12093602#publisher=newsstand)
+Microsoft launches new Surface Pro and Surface Laptop with Snapdragon X2 Plus chips and AI upgrades.
 
 **Source:** NDTV Profit  **Date:** 2026-09-24
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (9)
+
+### [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134466210.cms)
+Indian equities suffered a sharp selloff, with Sensex plunging 1,248 points and Nifty falling 1.6% as US Treasury yields hit 19-year highs, crude stayed above $100 and geopolitical concerns intensified. Financial stocks led losses, while market breadth remained heavily negative.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [Market Trading Guide: Allied Blenders among 3 stock recommendations for Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-allied-blenders-among-3-stock-recommendations-for-friday/slideshow/134465077.cms)
+Indian equities ended higher as investors focused on domestic growth momentum despite crude volatility and geopolitical risks. For Friday, analysts recommended Texmaco Rail, South Indian Bank and Allied Blenders.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [Sebi cancels registration of Religare Capital Mkts, 11 others for non-payment of renewal fee](https://economictimes.indiatimes.com/markets/stocks/news/sebi-cancels-registration-of-religare-capital-mkts-11-others-for-non-payment-of-renewal-fee/articleshow/134463981.cms)
+Sebi has revoked the registrations of Religare Capital Markets and 11 other entities due to their failure to pay required renewal fees for research analyst registrations. The fees were due between May 2024 and November 2025. Although these entities responded to show-cause notices, they could not substantiate their claims of non-payment, prompting Sebi to take measures to protect investors from potential misuses of expired registrations.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [NSE shares list with gains on debut day: How much Radhakishan Damani, Raamdeo Agrawal &amp; other ace investors’ stakes are now worth](https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-rise-5-on-debut-day-how-much-radhakishan-damani-raamdeo-agrawal-other-ace-investors-stakes-are-now-worth/articleshow/134456618.cms)
+NSE shares gained up to 5% on debut day, lifting the value of stakes held by ace investors including Radhakishan Damani, Dolly Khanna, Raamdeo Agrawal and Motilal Oswal. Damani’s 1.58% stake was worth over Rs 7,340 crore at the day’s high, while brokerages retained a positive outlook on NSE.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
 
 ### [NSE draws brokerage attention on stock market debut as 3 firms initiate coverage on Day 1](https://economictimes.indiatimes.com/markets/stocks/news/nse-draws-brokerage-attention-on-stock-market-debut-as-3-firms-initiate-coverage-on-day-1/articleshow/134453158.cms)
 NSE shares rallied after a muted listing at Rs 1,800, pushing the exchange into India’s ninth-most valued company with a market cap of Rs 4.63 lakh crore. The post-listing surge came as three major brokerages initiated coverage on Day 1 with positive ratings. Macquarie called NSE “The Dominator” and assigned an Outperform rating with a Rs 1,965 target price.
@@ -150,42 +195,46 @@ NSE Share Price: National Stock Exchange shares made their market debut at Rs 1,
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [Why is market falling today? Sensex plummets over 1,200 points, Nifty below 23,100. 5 factors behind bloodbath on D-Street](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-over-500-points-nifty-below-23250-5-factors-behind-rs-4-lakh-crore-wipeout/articleshow/134450985.cms)
-The Indian stock market fell significantly as Sensex and Nifty dropped over 1%. The downturn was driven by surging US bond yields, which reached a 19-year high. Expectations of a rate hike by the Federal Reserve added to market concerns and uncertainty. Furthermore, rising oil prices displaced investor confidence amid ongoing geopolitical tensions. Analysts suggest that continued volatility is likely, depending on global economic developments.
+### [Amazon plans to invest  ₹25,000 crore in India's quick-commerce sector, but can it catch up to Blinkit, Zepto and Swiggy?](https://www.livemint.com/companies/news/amazon-plans-to-invest-25-000-crore-in-indias-quick-commerce-sector-but-can-it-catch-up-to-blinkit-zepto-and-swiggy-11790254959528.html)
+Amazon plans to invest $3 billion in its India quick-commerce business by 2030, aiming to increase its market presence. Currently, Amazon holds a 6.2% market share, competing against rivals like Swiggy and Blinkit, which dominate with 77% of the sector.
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-24
-
-### [Airtel Money plans biggest London listing since 2021](https://www.livemint.com/companies/airtel-money-plans-london-stock-exchange-listing-2021-sub-saharan-africa-11790158568232.html)
-Airtel Money seeks to debut on the London Stock Exchange, potentially raising $800 million through an offer for sale by current shareholders.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-09-23
-
-### [NSE Shares In Focus As PL Capital Initiates Coverage On 'The Goliath Of Capital Markets' — Check Target Price](https://www.ndtvprofit.com/markets/nse-shares-in-focus-as-pl-capital-initiates-coverage-on-the-goliath-of-capital-markets-check-target-price-12090375#publisher=newsstand)
-NSE dominates the exchange landscape with over 93% share in cash market and 100% in stock and index futures, supported by strong liquidity, robust technology and a comprehensive product suite.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [NSE Share Price Jumps Over 5% After Muted Listing. Should Investors Buy, Sell Or Hold?](https://www.ndtvprofit.com/markets/nse-share-price-jumps-over-5-percent-post-muted-listing-should-investors-buy-sell-or-hold-12090256#publisher=newsstand)
-NSE IPO listing date was today, September 24.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
+**Source:** Mint - Pharma  **Date:** 2026-09-24
 
 ---
 
-## 📰 Industry & Policy News (21)
+## 📰 Industry & Policy News (19)
+
+### [Allied Blenders among 7 stocks that hit 52-week highs and rallied up to 17% in a month](https://economictimes.indiatimes.com/markets/stocks/news/allied-blenders-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-17-in-a-month/slideshow/134463710.cms)
+Seven BSE 500 stocks hit fresh 52-week highs despite a sharp 1,247-point Sensex decline on Thursday. Allied Blenders, Carborundum Universal, Caplin Point Laboratories, Laurus Labs, Shyam Metalics, Aurobindo Pharma and GNFC recorded notable monthly gains.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [Market wrap: Cipla, ONGC, HDFC Life, Bajaj Finance top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-cipla-ongc-hdfc-life-bajaj-finance-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134462526.cms)
+Indian equities ended sharply lower, with the Nifty falling 1.64% and Sensex 1.67%, as rising bond yields and crude prices pressured sentiment. Broader indices declined, India VIX surged 22%, financial stocks led losses, and market breadth remained firmly negative.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [Can IRDAI’s insurance reforms impact NBFCs? Jefferies warns L&amp;T Finance, Piramal Finance, others are most exposed](https://economictimes.indiatimes.com/markets/stocks/news/can-irdais-insurance-reforms-impact-nbfcs-jefferies-warns-lt-finance-piramal-finance-others-are-most-exposed/articleshow/134459825.cms)
+IRDAI’s proposed insurance distribution reforms could extend beyond insurers and distributors, potentially pressuring NBFC fee income. Jefferies flagged L&amp;T Finance, Piramal Finance and others as exposed to insurance commissions, with proposed cuts potentially affecting profitability.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [The hype, the listing &amp; the lessons: 5 takeaways for investors from the NSE IPO](https://economictimes.indiatimes.com/markets/stocks/news/the-hype-the-listing-the-lessons-5-takeaways-for-investors-from-the-nse-ipo/articleshow/134459509.cms)
+NSE’s muted 0.8% listing premium despite stronger grey-market expectations highlights why GMP cannot predict IPO performance. Subsequent gains showed broader market conditions, valuations, fundamentals and post-listing price discovery can matter more than pre-listing sentiment for investors.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [The battle of bourses: NSE shook Dalal Street, beat BSE's broker club](https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-the-batle-of-bourses-nse-shook-dalal-street-beat-bses-broker-club/articleshow/134457366.cms)
+The NSE listed its own shares on the BSE on Thursday, 34 years after its incorporation, marking an ironic milestone for the exchange created to challenge the BSE’s dominance. The story of NSE began with Manohar J. Pherwani, who proposed a national, computerised exchange after the 1991 economic reforms.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
 
 ### [10 midcap stocks that have fallen up to 58% from their 52-week highs](https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-that-have-fallen-up-to-58-from-their-52-week-highs/slideshow/134455492.cms)
 Despite the Nifty Midcap 150 trading near peak levels, several individual constituents have suffered deep corrections. Data from ACE Equity reveals 10 prominent midcap stocks, including KPIT Technologies, RVNL, Tata Elxsi, and Swiggy, that have fallen between 37% and 59% from their 52-week highs.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [Cipla Share Price Live Updates: Cipla's Stock Price Exceeds 100-Day Simple Moving Average](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-24-sep-2026/liveblog/134450254.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-24
-
-### [Divis Labs Share Price Live Updates: Divis Labs Current Market Position](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-24-sep-2026/liveblog/134450056.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-24
-
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Trading Insights](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-24-sep-2026/liveblog/134449989.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-24-sep-2026/liveblog/134450254.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
 ### [Tata Group’s boardroom drama: Meet five influential figures beyond Noel Tata and Chandrasekaran - why they matter](https://www.livemint.com/companies/people/tata-group-s-boardroom-drama-meet-five-influential-figures-beyond-noel-tata-and-chandrasekaran-11790230135878.html)
@@ -193,10 +242,15 @@ Tata Sons faces internal conflict with Tata Trusts over leadership and financial
 
 **Source:** Mint - Pharma  **Date:** 2026-09-24
 
-### [Kotak Alts raises  ₹5,000 crore for private credit, real assets](https://www.livemint.com/companies/kotak-alts-raises-5-000-crore-for-private-credit-real-assets-11790154569685.html)
-Kotak Yield &amp;amp; Growth Fund was raised entirely from domestic investors, which includes institutional investors, family offices and Ultra High-Net-Worth Individuals (UHNIs) across India, according to the company.
+### [Sebi gets over 3,000 comments in closing auction review, chairman says](https://economictimes.indiatimes.com/markets/stocks/news/sebi-gets-over-3000-comments-in-closing-auction-review-chairman-says/articleshow/134465282.cms)
+India's markets regulator has received about 3,500 responses to proposed changes in the closing auction session framework, its chairman Tuhin Kanta Pandey said on Thursday. A short
 
-**Source:** Mint - Pharma  **Date:** 2026-09-23
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
+
+### [What Nithin Kamath sees as the biggest risk for broking after Irdai shock](https://economictimes.indiatimes.com/markets/stocks/news/what-nithin-kamath-sees-as-the-biggest-risk-for-broking-after-irdai-shock/articleshow/134464882.cms)
+Zerodha co-founder Nithin Kamath said regulatory risk is the biggest threat for regulated financial businesses, citing IRDAI’s proposed insurance commission changes. He warned that regulatory shifts affecting broking, F&amp;O, client float and MTF can rapidly alter business economics and valuations.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-24
 
 ### [Billionaire Ambani's Reliance Industries eyes Rs 10,000 cr debt fundraise: Sources](https://economictimes.indiatimes.com/markets/stocks/news/billionaire-ambanis-reliance-industries-eyes-rs-10000-cr-debt-fundraise-sources/articleshow/134456182.cms)
 Reliance Industries plans to raise around Rs 10,000 crore ($1.04 billion) via 10-year rupee-denominated bonds at a 7.90% annual coupon. Following a recent Rs 12,000 crore 5-year debt issuance, the oil-to-telecom major aims to secure funding ahead of the RBI’s October 7 monetary policy meeting amid favourable local yields.
@@ -221,54 +275,24 @@ Bharat Dynamics shares gained 2% after the Defence Ministry awarded an Rs 810.79
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-24
 
-### [Sonaselection India shares list at 3% premium over IPO price](https://economictimes.indiatimes.com/markets/stocks/news/sonaselection-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134449848.cms)
-The Rs 141.57-crore IPO was offered in the price band of Rs 94–99 per share and comprised entirely a fresh issue of 1.43 crore equity shares, with no offer-for-sale (OFS) component.
+### [Sachin Khandelwal quits Nuvama Group to join Emirates NBD Capital India as head of ECM business](https://www.livemint.com/companies/people/sachin-khandelwal-nuvama-group-emirates-nbd-capital-india-ecm-business-11790244468835.html)
+Five to six other professionals are also expected to join Khandelwal's team at the Dubai-based lender in the coming months,
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-24
+**Source:** Mint - Pharma  **Date:** 2026-09-24
 
 ### [Reliance Industries said to eye $1 billion debt fundraise](https://www.livemint.com/companies/news/reliance-industries-said-to-eye-1-billion-debt-fundraise-11790239027278.html)
 Reliance Industries plans to raise around ₹10,000 crore (~$1.04 billion) through a sale of 10-year notes at an annual coupon of 7.90%, merchant bankers say.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-24
 
+### ['Validly Passed': Tata Sons Cites Ex-CJI's Opinion To Back Board Decision On N Chandra's Reappointment](https://www.ndtvprofit.com/business/validly-passed-tata-sons-cites-ex-cjis-opinion-to-back-board-decision-on-n-chandras-reappointment-12093349#publisher=newsstand)
+The company shared the legal opinions in its response to an email from Tata Trusts Chairman Noel Tata questioning the legality of the resolution passed at the Sept. 17 board meeting.
+
+**Source:** NDTV Profit  **Date:** 2026-09-24
+
 ### [NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap - Business Today](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHFlLVppT29pemkxUlQyaU5mLTBxaWlRU2JsenBBa1NiNVZ4eHhaWjJKbHQtYjZHZWRRNk1hQXpYdlNCa0JSWXhWSm16aTFhRlF3OUNTVGx0eG9rQWhaWmc3OXlIN0diZDU0YmRuYmZIRFdLbl9rb014aVpDaUFyUk5pYV9aS2dJdVRuLUx3OHRNMjZLOFFPX2VUX2RmSTdlYlcxS1VibTFiby1rejVPTGZvZ2RqOUpEbDhJbkc5Ty1MVlY2TlRKb1dMMW1wd2tFelNmRVItNVl0LWxKQXVhVDhsTlnSAeoBQVVfeXFMUEtfd1Q5a3RnRHR4bGViNnE5blJMZTEyT2FqNTlfdUZMeWpqclZZbFpGN20zaERHdHVJdnVIc3lPQ2Z2Z3h1LWZldFpkZy11R0lGNUxEVVpzMTJacVVGZkhxbGtMWExkZTRVbFRZRnF5Qk5vS1QySGNMY1N6VVAzTXVNTUNyRzRXU01fbmtIUXNsSFFyaVNmN3hwSXBZU1RRNENDazc5R0JmMXF5bHZ2MGI0ekJVZFNRTld3Qlp3T3Bsa0gzazBnUWxKWWVnY1dQd0RURS1Cdy15a2dQSkNNQ3llLV9KNVNoY0Zn?oc=5)
 NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap &nbsp;&nbsp; Business Today
 
 **Source:** GNews - India Pharma  **Date:** 2026-09-24
-
-### [Solar Stock In Focus: Suzlon Energy Share Price Falls Over 3%. Here's Why](https://www.ndtvprofit.com/markets/solar-stock-in-focus-suzlon-energy-share-price-falls-over-3-know-why-12090474#publisher=newsstand)
-Suzlon Energy shares are trading at Rs 41.07 apiece on the NSE, down 3.11% from its previous close
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [NSE Listing To Provide More Depth, Breadth To Market, Says Nilesh Shah Of Envision Capital](https://www.ndtvprofit.com/markets/nse-ipo-listing-to-provide-more-depth-breadth-to-market-says-nilesh-shah-of-envision-capital-12090663#publisher=newsstand)
-Nilesh Shah said that the market participants and long-term investors will continue to eye NSE shares.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [NSE IPO Listing Live: Shares Jump Over 3% After Flat Debut; Should Investors Book Profit?](https://www.ndtvprofit.com/markets/nse-ipo-listing-live-updates-gmp-subscription-share-price-issue-price-listing-price-gains-premium-discount-bumper-nse-ipo-bse-12089557#publisher=newsstand)
-NSE IPO listing LIVE updates.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [Varmora Granito IPO GMP Today: Grey Market Premium Falls To Rs 0, Flat Listing Expected](https://www.ndtvprofit.com/markets/varmora-granito-ipo-gmp-in-focus-as-subscription-enters-final-day-12087650#publisher=newsstand)
-Varmora Granito IPO GMP is Rs 0 on September 24, indicating a flat listing. Check the latest GMP, Day 3 subscription status, expected listing price and key dates.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [IPO GMP Tracker: Comparing Adroit Industries, ArMee Infotech, Swastika Infra, Elevate Campuses](https://www.ndtvprofit.com/markets/ipo-gmp-tracker-comparing-adroit-industries-armee-infotech-swastika-infra-elevate-campuses-12087549#publisher=newsstand)
-Track IPO GMP, Day 2 subscription status, and retail lot gains for Adroit Industries, ArMee Infotech, Swastika Infra, & Elevate Campuses.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [Stock Market Crash Live: Nifty Below 23,250, Sensex Tanks 650 Points; PB Fintech Hits 10% Lower Circuit](https://www.ndtvprofit.com/markets/stock-market-crash-news-today-live-updates-share-market-sensex-nifty-gift-nifty-bonds-iran-war-us-attack-oil-market-impact-fno-expiry-12089662#publisher=newsstand)
-The Nifty 50 fell 211.80 points, or 0.90%, to 23,235 at the opening bell. The Sensex declined 619.26 points, or 0.83%, to 74,208.99.
-
-**Source:** NDTV Profit  **Date:** 2026-09-24
-
-### [Orchid Pharma lists 4.45 crore equity shares on NSE and BSE - scanx.trade](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG90RFU4U3oyRkpfVGJGeE4wYjQ1ZTBhNG9WcmlnRjltY0stVDcwckFKLXg1SnoxRDVkRHpoM2RPS2tRVUFaMURWbDU4anZJaUdpQ1IwdXJUMGt0UENEY1hRN0NYZERQakgxVWN0ZWcyZlJXSWdkWmRrQ3hhY2x6dFhidklKbFpYMllJNHB3VmxwUWUzdDdnRkpXTFJmQVB2VXpXdWRWWEFuU0VNQkE?oc=5)
-Orchid Pharma lists 4.45 crore equity shares on NSE and BSE &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - India Pharma  **Date:** 2026-09-23
 
 ---
