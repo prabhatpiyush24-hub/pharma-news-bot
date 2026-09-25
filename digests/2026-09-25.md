@@ -1,10 +1,10 @@
 # 🏥 India Pharma Investor Digest — 2026-09-25
 
-> 42 items · 2026-09-25 09:19 UTC
+> 44 items · 2026-09-25 16:34 UTC
 
-## 💰 Results & Financials (9)
+## 💰 Results & Financials (7)
 
-### [Will NSE list on its own platform? Chairman Ashish Chauhan hints at very likely possibility](https://economictimes.indiatimes.com/markets/stocks/news/will-nse-list-on-its-own-platform-chairman-ashish-chahuan-hints-at-very-likely-possibility/articleshow/134479320.cms)
+### [Will NSE list on its own platform? MD &amp; CEO Ashish Chauhan hints at very likely possibility](https://economictimes.indiatimes.com/markets/stocks/news/will-nse-list-on-its-own-platform-chairman-ashish-chahuan-hints-at-very-likely-possibility/articleshow/134479320.cms)
 The National Stock Exchange's debut was characterized by a modest 0.8% premium on its initial public offering price. The Chairman underscored the necessity of adopting a long-term viewpoint when assessing the exchange's viability. NSE's strategic direction includes diversifying its revenue streams over the next five years to minimize dependence on transaction fees.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
@@ -39,22 +39,27 @@ Three stocks with a market capitalisation above Rs 10,000 crore featured in Stoc
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
-### [Asian Games 2026: Aishwary Pratap Singh Tomar, Niraj Kumar, Rudrankksh Patil Win Silver For India In Shooting](https://www.ndtvprofit.com/sports/asian-games-2026-aishwary-pratap-singh-tomar-niraj-kumar-rudrankksh-patil-win-silver-for-india-in-shooting-12096181#publisher=newsstand)
-India Wins Silver In Men's 50m Rifle Team Event At Asian Games
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [Ganpati Visarjan: Mumbai Metro Aqua Line Services To Operate Throughout Night](https://www.ndtvprofit.com/india/ganpati-visarjan-mumbai-metro-aqua-line-to-remain-open-all-night-12096037#publisher=newsstand)
-Central Railway will operate 22 special night trains on both its Main and Harbour lines.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
 ---
 
 ## 🤝 Deals, M&A & Partnerships (5)
 
-### [Fintechs bet on AI agents to retain merchants as acquisition costs rise and margins thin](https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html)
-Merchants using AI agents have seen a jump in their topline.
+### [Adani group entities swap 86 lakh shares of Adani Enterprises in Rs 2,498 cr block deal](https://economictimes.indiatimes.com/markets/stocks/news/adani-group-entities-swap-86-lakh-shares-of-adani-enterprises-in-rs-2498-cr-block-deal/articleshow/134488246.cms)
+Recently, the Adani Group's promoter entities completed a significant exchange of 86 lakh shares of Adani Enterprises, worth Rs 2,498 crore via block deals. Adani Infra (India) Ltd and Adani Properties garnered noteworthy shares, while Infinite Trade and Investment Ltd divested an equivalent amount, cutting their ownership from 2.01 percent to 1.38 percent. Overall, the promoter shareholding in Adani Enterprises has shown a slight increase.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
+
+### [CleanMax Enviro block deal: Augment India Holdings likely to divest 85 lakh shares worth Rs 1,063 crore](https://economictimes.indiatimes.com/markets/stocks/news/cleanmax-enviro-block-deal-augment-india-holdings-likely-to-divest-85-lakh-shares-worth-rs-1063-crore/articleshow/134488759.cms)
+Augment India Holdings may sell 85 lakh Clean Max Enviro Energy Solutions shares, representing a 7.25% stake, through a Rs 1,062.8 crore block deal. The reported floor price of Rs 1,250 implies a potential discount to market price.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
+
+### [Dabur India to bring Ayurvedic brand Sesa Care under its portfolio after NCLT nod](https://www.livemint.com/companies/news/dabur-india-to-bring-ayurvedic-brand-sesa-care-under-its-portfolio-after-nclt-nod-11790337983225.html)
+Dabur India plans to enhance its premium Ayurvedic hair-care segment following NCLT's approval of Sesa Care's merger.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-09-25
+
+### [Paramount+ is going the YouTube, TikTok and Netflix way: What David Ellison is changing before WBD takeover](https://www.livemint.com/companies/news/paramount-is-going-the-youtube-tiktok-and-netflix-way-what-david-ellison-is-changing-before-wbd-takeover-11790331740288.html)
+Paramount+ plans to introduce new features, including a free tier and interactive ads, to enhance engagement before acquiring Warner Bros. Discovery for $110 billion. Changes aim to emulate Netflix and YouTube, as Paramount addresses a rise in subscriber cancellations.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-25
 
@@ -62,21 +67,6 @@ Merchants using AI agents have seen a jump in their topline.
 Dutch Prime Minister Rob Jetten has spoken to US President Donald Trump about preventing ASML Holding NV being hit by new export restrictions and is confident that an agreement will be found.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-24
-
-### [India tech funding hits $10.3 billion despite fewer deals: Where is the money going?](https://www.livemint.com/companies/news/india-tech-funding-hits-10-3-billion-despite-fewer-deals-where-is-the-money-going-11790244671385.html)
-India's tech sector raised $10.3 billion in equity funding in the first nine months of 2026, up 7% from last year. While funding rounds decreased, mega-rounds boosted total investments, with enterprise applications and AI infrastructure leading the way in attracting capital.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-24
-
-### [JSW wants Volkswagen to cover India tax bill as deal condition](https://www.livemint.com/companies/news/jsw-wants-volkswagen-to-cover-india-tax-bill-as-deal-condition-11790249144684.html)
-The deal under discussion involves JSW making an investment in closely held Skoda Auto Volkswagen India, with JSW seeking a majority stake.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-24
-
-### [Acevector IPO GMP Today: Snapdeal Parent's Issue Opens With Grey Market Signalling Listing Gain](https://www.ndtvprofit.com/markets/acevector-ipo-gmp-today-snapdeal-parents-issue-opens-with-grey-market-signalling-listing-gain-12091383#publisher=newsstand)
-Acevector IPO is a book build issue of Rs 420 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
 
 ---
 
@@ -89,34 +79,49 @@ Ola Electric shares fell sharply on Friday, snapping a four-day winning streak a
 
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (5)
 
 ### [Balrampur Chini Mills shares rally 4% as company receives Rs 75 crore BioE3 grant from government](https://economictimes.indiatimes.com/markets/stocks/news/balrampur-chini-mills-shares-rally-4-as-company-receives-rs-75-crore-bioe3-grant-from-government/articleshow/134477303.cms)
 Balrampur Chini Mills shares gained after the government awarded a Rs 75 crore BioE3 grant for a 100 TPA PLA co-polymer R&amp;D facility at its Kumbhi manufacturing complex in Uttar Pradesh.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
+### [Akasa Air eyes billion-dollar 200+ Boeing 737 MAX order for fleet expansion, decision expected early 2027: Report](https://www.livemint.com/companies/news/akasa-air-eyes-billion-dollar-200-boeing-737-max-order-for-fleet-expansion-decision-expected-early-2027-report-11790330099654.html)
+Akasa Air, India’s third-largest airline, is reportedly contemplating an order for over 200 Boeing 737 MAX aircraft. A decision could be made early next year, with commercial terms expected by late 2027.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-09-25
+
 ### [Adani Realty plans Mumbai luxury push with Goregaon, Bandra projects](https://www.livemint.com/companies/news/adani-realty-plans-mumbai-luxury-push-with-goregaon-bandra-projects-11790071514846.html)
 The developer plans premium and ultra-luxury launches in Goregaon and Bandra as it expands its Mumbai portfolio and builds out a large land bank.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-25
 
-### [2026 Tata Aeris Launched: Price, Colours, Features And Other Details; Bookings Open Today](https://www.ndtvprofit.com/lifestyle/2026-tata-aeris-launched-price-colours-features-and-others-details-bookings-open-today-12096401#publisher=newsstand)
-Bookings are now open, while deliveries are scheduled to begin from October 11.
+### [Xinjiang Sanctions Evaded? Firms Tied To Banned Chinese Cotton Giant Still Export To US](https://www.ndtvprofit.com/world/xinjiang-sanctions-evaded-firms-tied-to-banned-chinese-cotton-giant-still-export-to-us-12097145#publisher=newsstand)
+Notably, the Chinese textile companies face an import ban in the US over allegations of forced labour in the province of Xinjiang.
+
+**Source:** NDTV Profit  **Date:** 2026-09-25
+
+### [Green Lines On iPhone 18 Pro? Users Flag Display Issue Days After Launch, Videos Surface](https://www.ndtvprofit.com/technology/green-lines-on-iphone-18-pro-users-flag-display-issue-days-after-launch-videos-surface-12096736#publisher=newsstand)
+Some iPhone 18 Pro users report coloured lines on displays days after the phone went on sale.
 
 **Source:** NDTV Profit  **Date:** 2026-09-25
 
 ---
 
-## 📉 Analyst & Brokerage Calls (6)
+## 📉 Analyst & Brokerage Calls (10)
 
-### [Retail investors raise stakes in 10 smallcaps; 3 turn multibaggers in 3 months](https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raise-stakes-in-10-smallcaps-3-turn-multibaggers-in-3-months/slideshow/134478529.cms)
-Retail investors increased holdings across 766 BSE smallcaps in June 2026. Several stocks subsequently delivered sharp gains, with Kabra Extrusiontechnik, Indo Rama Synthetics and PVP Ventures among the biggest performers, while retail ownership also increased across these companies.
+### [Sebi bans Omaxe, 5 others for violating minimum public shareholding norms](https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-omaxe-5-others-for-violating-minimum-public-shareholding-norms/articleshow/134488287.cms)
+The Securities and Exchange Board of India (Sebi) has taken decisive action against Omaxe and five associated entities for breaching public shareholding regulations. Omaxe and its promoters were accused of creating a deceptive public shareholding framework, involving funds used to repurchase its shares via various means. As a result, Omaxe faces a three-month market access ban, while the others have a one-year restriction, alongside a hefty fine totaling Rs 1.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
-### [Sensex rebounds a day after crash, Nifty above 23,050. Where is D-Street headed?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-a-day-after-crash-nifty-below-23050-amid-multiple-headwinds-what-lies-ahead/articleshow/134475514.cms)
-Nifty’s short-term structure has weakened significantly after the break below the previous seven-day lows and the 23,070 swing-low zone, accompanied by rising volumes, said Hitesh Tailor, Technical Research Analyst at Choice Broking Private. He sees the benchmark index finding immediate support at 22,800–23,000, while resistance is seen at 23,250–23,300.
+### [$500 billion flywheel! Macquarie lists 3 drivers for strong growth in capital market stocks, lists top picks](https://economictimes.indiatimes.com/markets/stocks/news/500-billion-flywheel-macquarie-lists-3-drivers-for-strong-growth-in-capital-market-stocks-lists-top-picks/articleshow/134480879.cms)
+Macquarie projects a robust growth trajectory for India's capital market sector between fiscal years 2026 to 2030. This optimistic outlook hinges on a notable redirection of household savings towards market-based financial products. Key growth drivers identified are financialisation, equitisation, and productisation, which together enhance investment opportunities. Consequently, brokers and exchanges are likely to see substantial advantages from an expanding investor demographic.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
+
+### [Retail investors raise stakes in 10 smallcaps; 3 turn multibaggers in 3 months](https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raise-stakes-in-10-smallcaps-3-turn-multibaggers-in-3-months/slideshow/134478529.cms)
+Retail investors increased holdings across 766 BSE smallcaps in June 2026. Several stocks subsequently delivered sharp gains, with Kabra Extrusiontechnik, Indo Rama Synthetics and PVP Ventures among the biggest performers, while retail ownership also increased across these companies.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
@@ -135,14 +140,29 @@ Shares of Meesho dropped up to 5% to Rs 221 after Nomura initiated coverage with
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
-### [Amazon plans to invest  ₹25,000 crore in India's quick-commerce sector, but can it catch up to Blinkit, Zepto and Swiggy?](https://www.livemint.com/companies/news/amazon-plans-to-invest-25-000-crore-in-indias-quick-commerce-sector-but-can-it-catch-up-to-blinkit-zepto-and-swiggy-11790254959528.html)
-Amazon plans to invest $3 billion in its India quick-commerce business by 2030, aiming to increase its market presence. Currently, Amazon holds a 6.2% market share, competing against rivals like Swiggy and Blinkit, which dominate with 77% of the sector.
+### [What are Dopamine Sites? The order is fake, the craving is real- Indian founders bet on ‘digital consumption’](https://www.livemint.com/companies/start-ups/what-are-dopamine-sites-the-order-is-fake-the-craving-is-real-indian-founders-bet-on-digital-consumption-11790328955930.html)
+Indian founders are turning food ordering into a digital experience, raising a bigger question: can the thrill of buying be separated from the purchase itself?
 
-**Source:** Mint - Pharma  **Date:** 2026-09-24
+**Source:** Mint - Pharma  **Date:** 2026-09-25
+
+### [Officer's Choice Whisky Founders Are Said To Consider ABD Sale](https://www.ndtvprofit.com/business/officers-choice-whisky-founders-are-said-to-consider-abd-sale-12097579#publisher=newsstand)
+The Chhabria family is working with an adviser and studying options including selling a stake to a strategic buyer.
+
+**Source:** NDTV Profit  **Date:** 2026-09-25
+
+### [IDBI Bank Disinvestment On Track, Govt Evaluating Financial Bids At 'Steady Pace': Sources](https://www.ndtvprofit.com/business/idbi-bank-disinvestment-on-track-govt-evaluating-financial-bids-at-steady-pace-sources-12097482#publisher=newsstand)
+The proposed stake sale comprises the Centre's 30.48% holding and LIC's 30.24% stake in the bank.
+
+**Source:** NDTV Profit  **Date:** 2026-09-25
+
+### [Tata Motors Weighs Further Price Hikes As Commodity Costs Pressure Margins](https://www.ndtvprofit.com/business/tata-motors-weighs-further-price-hikes-as-commodity-costs-pressure-margins-12097422#publisher=newsstand)
+Chandra said the company is still absorbing a significant residual part of the rise in commodity costs, while also accelerating its cost reduction efforts.
+
+**Source:** NDTV Profit  **Date:** 2026-09-25
 
 ---
 
-## 📰 Industry & Policy News (18)
+## 📰 Industry & Policy News (16)
 
 ### [Tata clash has biz families revisiting governance, control](https://www.livemint.com/companies/news/tata-sons-board-clash-family-business-control-governance-legal-structure-11790248657730.html)
 Family-business advisers and lawyers say the 17 September episode is prompting promoters to revisit their Trust and LLP structures, as they seek counsel over the possibility of a dispute with boards in future.
@@ -154,16 +174,33 @@ Tata Sons said it had sought legal advice from Sudipto Sarkar before the board m
 
 **Source:** Mint - Pharma  **Date:** 2026-09-24
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms)
+### [Market wrap: Axis Bank, Asian Paints, Max Healthcare, Infosys top gainers and losers on Nifty and Sensex on Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-axis-bank-asian-paints-max-healthcare-infosys-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134485432.cms)
+Indian equity benchmarks ended higher on Friday, with the Nifty 50 rising 0.34% and the Sensex gaining 0.43%. Axis Bank and Asian Paints led the gainers, while Max Healthcare and Infosys were among the top losers. Here’s a look at the biggest movers across the Nifty and Sensex.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
-### [Dr Reddys Share Price Live Updates: Current performance of Dr. Reddys](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-25-sep-2026/liveblog/134473706.cms)
+### [ET Alpha Wealth Summit 2.0: Structured debt and the search for higher yields](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-structured-debt-and-the-search-for-higher-yields/articleshow/134484486.cms)
+Structured debt is becoming a go-to option for high-net-worth individuals aiming for better returns and risk strategies. These investors typically review important factors, including credit quality and how cash flow is generated, before diving in. Key elements such as collateral and capital structure are essential for providing downside protection, while liquidity concerns persist due to a general lack of active secondary trading in structured debt.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
+
+### [Engineers India among 7 stocks hitting 52-week highs; shares rallied up to 25% in a month](https://economictimes.indiatimes.com/markets/stocks/news/engineers-india-among-7-stocks-hitting-52-week-highs-shares-rallied-up-to-25-in-a-month/slideshow/134484033.cms)
+Seven BSE 500 stocks, including Engineers India, Welspun Corp and Zydus Lifesciences, touched fresh 52-week highs on Friday. Here is a look at their new highs, current market prices and one-month performance.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
+
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-25-sep-2026/liveblog/134473782.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
 ### [Solara in talks to raise $20-25 million led by Faering Capital](https://www.livemint.com/companies/start-ups/solara-in-talks-to-raise-20-25-million-led-by-faering-capital-11790187257903.html)
 The Hyderabad-based D2C home and kitchen brand, which turned profitable in FY25, is seeking its first institutional funding as demand for the category grows.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-25
+
+### [Data center IPO hopefuls brave tougher market as investor scrutiny grows](https://economictimes.indiatimes.com/markets/stocks/news/data-center-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows/articleshow/134488469.cms)
+Data center operator DayOne is pushing ahead with its plans to go public as soon as November, according to three people familiar with the matter, even as higher interest rates and setbacks elsewhere in the data center ecosystem threaten to narrow
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
 
 ### [OFSS shares tumble 5% after Oracle sends 'force majeure' notice for data centre project. Are AI worries coming true?](https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-5-after-oracle-sends-force-majeure-notice-for-data-centre-project-are-ai-worries-coming-true/articleshow/134477181.cms)
 Oracle Financial Services Software (OFSS) shares tumbled over 5% after parent company Oracle issued a force majeure notice regarding a massive New Mexico AI data centre project. The development triggered financing concerns across AI infrastructure, sending OFSS stock to a nine-week low of Rs 10,332 on the NSE.
@@ -175,56 +212,31 @@ Welspun Corp shares rose after its US subsidiary secured a record $412.5 million
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
+### [Sensex rises 315 points, Nifty closes above 23,100 as market recovers some losses a day after crash. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-a-day-after-crash-nifty-below-23050-amid-multiple-headwinds-what-lies-ahead/articleshow/134475514.cms)
+On Friday, the Indian stock market made a comeback, with Sensex rising by 315 points to close at 73,896 and Nifty gaining 77 points to reach 23,140.50. Axis Bank took the lead with a notable increase of about 3%, while Trent and Infosys saw declines. Despite persistent concerns regarding inflation and global yields, the market's ability to remain above 23,000 suggests underlying strength in local support.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-25
+
 ### [PB Fintech among 4 F&amp;O stocks with a sharp rise in futures open interest](https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134474685.cms)
 Four NSE F&amp;O stocks saw notable increases in futures open interest on September 24, highlighting heightened trading activity and stronger positioning across PB Fintech, Max Financial Services, L&amp;T Finance and ICICI Lombard.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
-### [IPO GMP Today Live Updates | AceVector, Orient Cables IPOs open for subscription; check GMP and other key details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-acevector-snapdeal-orient-cables-moneyview-a-one-steals-india-grey-market-price-band-subscription-status-allotment-listing-date-news/liveblog/134474074.cms)
+### [IPO GMP Today Live Updates | Orient Cables IPOs booked nearly 2 times on strong NII push; check GMP and other key details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-acevector-snapdeal-orient-cables-moneyview-a-one-steals-india-grey-market-price-band-subscription-status-allotment-listing-date-news/liveblog/134474074.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-25
 
-### [Sachin Khandelwal quits Nuvama Group to join Emirates NBD Capital India as head of ECM business](https://www.livemint.com/companies/people/sachin-khandelwal-nuvama-group-emirates-nbd-capital-india-ecm-business-11790244468835.html)
-Five to six other professionals are also expected to join Khandelwal's team at the Dubai-based lender in the coming months,
+### [True North picks up $50-60 mn stake in IPO-bound InMobi](https://www.livemint.com/companies/true-north-50-60-mn-dollar-stake-purchase-inmobi-11790306593402.html)
+Details of the valuation were not available as the investment was blended across different entities.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-24
+**Source:** Mint - Pharma  **Date:** 2026-09-25
 
-### [Stock Market Live: Sensex Gains 380 Points From Day's Low, Nifty Atop 23,100; Axis Bank Rises 3%, M&M 2%](https://www.ndtvprofit.com/markets/stock-market-live-blog-updates-today-september-25-gift-nifty-gap-down-sensex-nifty-brent-crude-105-us-iran-war-middle-east-trump-xi-oil-12095070#publisher=newsstand)
-Stock Market Live Blog, September 25, 2026
+### [Fintechs tap AI agents to keep merchants hooked as margins shrink](https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html)
+Merchants using AI agents have seen a jump in their topline.
 
-**Source:** NDTV Profit  **Date:** 2026-09-25
+**Source:** Mint - Pharma  **Date:** 2026-09-25
 
-### ['One Plus One Needs To Become More Than Two': eClerx's Kapil Jain On M&A, Growth Strategy](https://www.ndtvprofit.com/business/eclerxs-kapil-jain-on-m-a-growth-strategy-one-plus-one-needs-to-become-more-than-two-bse-sensex-today-12096535#publisher=newsstand)
-eClerx's Kapil Jain On M&A, Growth Strategy
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [Orient Cables IPO GMP Jumps From Pre-IPO Levels As Issue Opens; Check Estimated Listing Price](https://www.ndtvprofit.com/markets/orient-cables-ipo-gmp-in-focus-ahead-of-launch-here-s-what-gmp-signals-before-sept-25-launch-12091217#publisher=newsstand)
-Orient Cables IPO is a book build issue of Rs 552 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [German Green Steel & Power IPO GMP Today: What Grey Market Signals As Issue Opens Today](https://www.ndtvprofit.com/markets/german-green-steel-and-power-ipo-gmp-today-what-grey-market-signals-as-issue-opens-today-12090802#publisher=newsstand)
-German Green Steel & Power IPO is a book build issue of Rs 303.90 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [Runwal Enterprises IPO GMP Today: What Grey Market Signals As Issue Opens Today](https://www.ndtvprofit.com/markets/runwal-enterprises-ipo-gmp-today-what-grey-market-signals-as-issue-opens-today-12090840#publisher=newsstand)
-Runwal Enterprises IPO is a book-built issue of Rs 499.83 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [Moneyview vs A-One Steels IPO GMP: Which Has Higher Listing Gain?](https://www.ndtvprofit.com/markets/ipo-gmp-moneyview-vs-a-one-steels-which-could-deliver-highest-listing-gain-12089835#publisher=newsstand)
-Investors are closely watching the IPOs for their listing performance.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [Adroit Industries vs ArMee Infotech vs Swastika Infra vs Elevate Campuses: IPO GMP, Listing Gain](https://www.ndtvprofit.com/markets/adroit-industries-vs-armee-infotech-vs-swastika-infra-vs-elevate-campuses-ipo-gmp-listing-gain-12094213#publisher=newsstand)
-IPO GMP Today: Adroit Industries, ArMee Infotech, Swastika Infra and Elevate Campuses show varied GMP-implied listing gains as bidding enters Day 3.
-
-**Source:** NDTV Profit  **Date:** 2026-09-25
-
-### [HDFC Bank To Issue ESOP Of 19 Lakh Shares To 'Employees' — Key Details Inside](https://www.ndtvprofit.com/markets/hdfc-bank-in-focus-issue-esop-of-19-lakh-shares-to-employees-q2-earnings-lender-asset-quality-12096270#publisher=newsstand)
-HDFC Bank In Focus
+### [Gold Edges Higher Even As US Treasury Yields Spike: Will MCX Rates Break Rs 1.55 Lakh Resistance?](https://www.ndtvprofit.com/markets/gold-edges-higher-even-as-us-treasury-yields-spike-will-mcx-rates-break-rs-1-55-lakh-resistance-12097778#publisher=newsstand)
+According to Kotak, the fundamental outlook for the bullion is cautiously positive medium term, but pressured near term.
 
 **Source:** NDTV Profit  **Date:** 2026-09-25
 
