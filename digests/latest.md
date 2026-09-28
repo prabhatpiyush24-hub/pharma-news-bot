@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-09-28
 
-> 51 items · 2026-09-28 10:29 UTC
+> 62 items · 2026-09-28 19:13 UTC
 
-## 💰 Results & Financials (14)
+## 💰 Results & Financials (17)
 
 ### [Trouble continues: Turtlemint, PB Fintech, other insurance stocks drop up to 38% in 3 days. What are analysts saying?](https://economictimes.indiatimes.com/markets/stocks/news/trouble-continues-turtlemint-pb-fintech-other-insurance-stocks-drop-up-to-38-in-3-days-what-are-analysts-saying/articleshow/134534271.cms)
 Insurance stocks including PB Fintech, Turtlemint, ICICI Lombard, HDFC Life and SBI Life face selling pressure as proposed IRDAI distribution reforms raise concerns over commissions, revenue and earnings.
@@ -29,10 +29,25 @@ The Multi Commodity Exchange of India is set to witness a remarkable revenue sur
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
+### [New Air India CEO gets his strategy in place](https://www.livemint.com/companies/news/new-air-india-ceo-gets-his-strategy-in-place-11790601738384.html)
+Tewolde Gebremariam said Air India needs to keep costs under check even as its looks to raise revenue. While external factors played a part, Air India cannot take the focus off financial performance, he said.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
+
 ### [How mid-sized IT firms are turning AI cost cuts into new revenue](https://www.livemint.com/companies/news/mid-sized-it-firms-ai-cost-cuts-ltm-coforge-hexaware-11790522363302.html)
 As AI automates work traditionally performed by IT services firms and software products, companies like LTM, Coforge and Hexaware are helping clients reduce those costs. The shift could create new revenue streams even as it puts pressure on traditional technology spending
 
 **Source:** Mint - Pharma  **Date:** 2026-09-28
+
+### [AI in portfolio management: How technology is reshaping the manager’s role](https://economictimes.indiatimes.com/markets/stocks/news/ai-in-portfolio-management-how-technology-is-reshaping-the-managers-role/articleshow/134540393.cms)
+Artificial intelligence is reshaping investment research and portfolio management, from screening stocks and analysing data to identifying patterns and monitoring risks. At the ET Alpha Wealth Summit 2.0, leading investment professionals will discuss AI’s growing role in decision-making, its potential to improve investment processes and the continued importance of human judgement.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [Motilal Oswal sees 4 factors boosting risk-reward after market’s sharp fall from 2024 high, lists 27 stock picks](https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-4-factors-boosting-risk-reward-after-markets-sharp-fall-from-2024-high-lists-27-stock-picks/articleshow/134539312.cms)
+Motilal Oswal Financial Services sees improving risk-reward for Indian equities as valuations cool, earnings recover and domestic liquidity remains strong. The brokerage also highlights sectoral rotation and names 27 stocks across large-, mid- and small-cap segments as top ideas.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
 
 ### [Augmont Enterprises shares rally 10% as NSE empanels company for EGR ecosystem](https://economictimes.indiatimes.com/markets/stocks/news/augmont-enterprises-shares-rally-10-as-nse-empanels-company-for-egr-ecosystem/articleshow/134534094.cms)
 Augmont Enterprises shares rose after the company and its subsidiaries were empanelled by NSE as key partners to promote Electronic Gold Receipts (EGRs). Augmont will support the creation and redemption of EGRs, helping facilitate the conversion of physical gold into EGRs and back, with the aim of boosting participation and strengthening India’s formal gold market ecosystem.
@@ -54,62 +69,126 @@ Four Nifty500 stocks featured in StockEdge’s White Marubozu scan on September 
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [Apple faces $5.7 billion hit over tech that makes iPhones ‘tap’ back - All you need to know](https://www.livemint.com/companies/news/apple-faces-5-7-billion-hit-over-tech-that-makes-iphones-tap-back-all-you-need-to-know-11790524791143.html)
-Apple faces more than $5.7 billion in damages after a US jury found it infringed two patents covering haptic tech in iPhones and Apple Watches.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-27
-
 ### [LIB Therapeutics and Sun Pharma announce manufacturing agreement for Lerodalcibep, a PCSK9 Inhibitor](https://www.expresspharma.in/lib-therapeutics-and-sun-pharma-announce-manufacturing-agreement-for-lerodalcibep-a-pcsk9-inhibitor/)
 Lerodalcibep is approved in the EU under the brand name Lyrokaul for the treatment of adult patients with hypercholesterolaemia and mixed dyslipidaemia The post LIB Therapeutics and Sun Pharma announce manufacturing agreement for Lerodalcibep, a PCSK9 Inhibitor appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-28
 
-### [Sun Pharma FY26 net profit rises 5% to ₹114,794 million - scanx.trade](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNazBaR2RnZkxMV2tUZUxyV2hVbWNyNHczMFNNM2pJQVczekVDN1JrWEVkRG9pTGhhc3NzbDQxMXBpUFh4R09uQldHakI5VmtSamdtTFVhTkJkN3pPbE5UM3hmcDNic2ZzNGlqSHk3VU9pZUJnb1h6LWpueHhHVUh6c3ZfR011bE8tNzVSSnlwMVdIbTI0ZTlabW5pLUZ4ejU4NmpKTHdmQVZfX0R2dWFhdFFUWVNwWGZrbFQ5c3ZiMm1pa1YyQ2VOdzAtUGY1c1IyU1BGZVk2UUJtMDhNWVZVb0d3?oc=5)
-Sun Pharma FY26 net profit rises 5% to ₹114,794 million &nbsp;&nbsp; scanx.trade
+### [JSW Steel Q2 Results: Date, Dividend, Share Price, Earnings Call Schedule And More](https://www.ndtvprofit.com/markets/jsw-steel-q2-results-date-dividend-share-price-earnings-call-schedule-and-more-12110673#publisher=newsstand)
+The window for trading in securities of the company by Designated Persons and their immediate relatives shall remain closed from Oct 1, 2026 to Oct 25 (both days inclusive).
 
-**Source:** GNews - Sun Pharma  **Date:** 2026-09-27
+**Source:** NDTV Profit  **Date:** 2026-09-28
 
-### [NSE Empanelment Sends Augmont Shares 10% Higher](https://www.ndtvprofit.com/markets/nse-empanelment-sends-augmont-shares-10-higher-12108255#publisher=newsstand)
-NSE partners with Augmont to simplify Electronic Gold Receipts and expand gold market participation
+### [Ola Electric Board Approves Rights Issue Of Up To Rs 1,000 Crore; Promoter To Participate](https://www.ndtvprofit.com/markets/ola-electric-board-approves-rights-issue-of-up-to-rs-1-000-crore-promoter-to-participate-12111386#publisher=newsstand)
+Aggarwal may fund his participation by pledging part of his holding, sources told PTI.
+
+**Source:** NDTV Profit  **Date:** 2026-09-28
+
+### [Mirzapur Season 4 Confirmed? Here's What Shweta Tripathi Says](https://www.ndtvprofit.com/lifestyle/mirzapur-season-4-confirmed-heres-what-shweta-tripathi-says-12111077#publisher=newsstand)
+Shweta Tripathi, best known as Golu from Mirzapur, at NDTV Yuva 2026.
 
 **Source:** NDTV Profit  **Date:** 2026-09-28
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (1)
+## 🤝 Deals, M&A & Partnerships (7)
+
+### [Clean Max Enviro bulk deal: Augment India divests stakes worth Rs 1,096 crore; Goldman Sachs, HSBC India among buyers](https://economictimes.indiatimes.com/markets/stocks/news/clean-max-enviro-bulk-deal-augment-india-divests-stakes-worth-rs-1096-crore-goldman-sachs-hsbc-india-among-buyers/articleshow/134546538.cms)
+Augment India I Holdings sold 85.03 lakh Clean Max Enviro Energy Solutions shares worth about Rs 1,096 crore through NSE bulk deals. Goldman Sachs, HSBC and ICICI Prudential Life Insurance were among the buyers, while brokerages retain positive views on CleanMax.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
 
 ### [Block deal alert! Clean Max shares in focus as Augment India likely to sell stake worth Rs 1,063 crore](https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-clean-max-shares-in-focus-as-augment-india-likely-to-sell-stake-worth-rs-1063-crore/articleshow/134530673.cms)
 Clean Max Enviro Energy Solutions will be in focus after Augment India Holdings LLC is reportedly looking to sell a 7.25% stake through a block deal worth Rs 1,062.8 crore. The stake sale comes days after Macquarie and JM Financial initiated coverage on the stock, with both brokerages highlighting strong C&amp;I renewable energy demand and long-term growth potential.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
+### [Tata Trusts moots two mergers to avoid Tata Sons listing](https://www.livemint.com/companies/news/tata-trusts-tata-sons-restructuring-ipo-listing-rbi-11790599919373.html)
+The proposed Tata Sons restructuring would involve absorbing Tata Electronics and Tata Consulting Engineers to remove the IPO overhang on the holding company.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
+
+### [4 Adani group companies settle public shareholding violations case with Sebi. Check details](https://economictimes.indiatimes.com/markets/stocks/news/4-adani-group-companies-settle-public-shareholding-violations-case-with-sebi-check-details/articleshow/134547647.cms)
+Adani Enterprises and three other companies have settled with Sebi over minimum public shareholding violations. The total settlement amount paid by the companies and directors is Rs 1.48 crore. Sebi initiated its investigation after receiving complaints in 2020 regarding non-compliance with public shareholding requirements. The proceedings were settled without admitting or denying the violations alleged in the show-cause notices. Sebi has concluded its enforcement action against the applicants p
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [Coforge appoints Akhil Kumar Gupta as chairperson](https://www.livemint.com/companies/coforge-appoints-akhil-kumar-gupta-as-chairperson-11790618685616.html)
+Gupta, who has four decades of experience as a chartered accountant, currently chairs ONE WAM and Bharti Life Insurance. He also serves on the boards of Zepto, Snapdeal, Eutelsat Communications and Lodha Developers.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
+
+### [Flipkart Deal: Galaxy S25 5G Drops Below Rs 67,000 With Bank Cashback](https://www.ndtvprofit.com/technology/flipkart-deal-galaxy-s25-5g-drops-below-rs-67-000-with-bank-cashback-12109819#publisher=newsstand)
+Samsung's Galaxy S25 5G, which launched in 2025, has dropped to an attractive price on Flipkart.
+
+**Source:** NDTV Profit  **Date:** 2026-09-28
+
+### [IRFC Backs DVC Renewable Projects With Rs 4,200-Crore Term Loan](https://www.ndtvprofit.com/business/irfc-backs-dvc-renewable-projects-with-rs-4-200-crore-term-loan-12110595#publisher=newsstand)
+The financing will cover floating, ground-mounted and rooftop solar projects.
+
+**Source:** NDTV Profit  **Date:** 2026-09-28
+
+---
+
+## 💸 Corporate Actions (1)
+
+### [Tata Aeris Brings Segment-First Features To A Rs 5.29 Lakh Sedan](https://www.ndtvprofit.com/business/tata-aeris-brings-segment-first-features-to-a-rs-5-29-lakh-sedan-12110959#publisher=newsstand)
+The Aeris is the first car in its segment with a Blind View Monitor for both outside mirrors
+
+**Source:** NDTV Profit  **Date:** 2026-09-28
+
 ---
 
 ## 🏭 Operations & Approvals (4)
+
+### [SpaceX Starship Flight 14: Why today’s launch matters for SpaceX, Starlink and Elon Musk’s Moon ambitions](https://www.livemint.com/companies/news/spacex-starship-flight-14-why-today-s-launch-matters-for-spacex-starlink-and-elon-musk-s-moon-ambitions-11790593786190.html)
+SpaceX's Starship is set to attempt its first orbital launch on Monday, deploying 23 Starlink V3 satellites. A successful launch could transition it to full operations and support broader goals, including lunar missions and AI model development, amidst heightened competition in space exploration.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
 
 ### [Who is Rehan Mansuri? Meet 18-year-old entrepreneur entering Gujarat’s  ₹1.4 lakh crore semiconductor ecosystem](https://www.livemint.com/companies/people/who-is-rehan-mansuri-the-18-year-old-entrepreneur-entering-gujarat-s-1-4-lakh-crore-semiconductor-ecosystem-11790573211152.html)
 Rehan Mansuri, 18, has launched Micronex in Sanand to manufacture semiconductor lead frames. The Ahmedabad entrepreneur plans to produce 50 crore units annually and create around 250 jobs as Gujarat expands its ₹1.4 lakh crore semiconductor ecosystem.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-09-28
 
-### [Nvidia Launches AI Containment Platform To Stop Rogue Agents](https://www.ndtvprofit.com/technology/nvidia-launches-ai-containment-platform-to-stop-rogue-agents-12108652#publisher=newsstand)
-An Nvidia spokesperson claimed this new safeguard could have thwarted a major July breach.
+### [Facebook Marketplace Mishap: Meta User Says Muse AI Gave Out His Address, Agreed To Pickup He Never Approved](https://www.ndtvprofit.com/technology/facebook-marketplace-mishap-meta-user-says-muse-ai-gave-out-his-address-and-agreed-to-a-pickup-he-never-approved-12111296#publisher=newsstand)
+A Threads user says Meta's Muse AI agent sold his keyboard on Facebook Marketplace at a lowball price, shared his address with the buyer and set up a late-night pickup, all without his approval.
 
 **Source:** NDTV Profit  **Date:** 2026-09-28
 
-### [US, China Reach Tariff Cuts Covering $60 Billion In Goods, Agriculture Included](https://www.ndtvprofit.com/world/us-china-reach-tariff-cuts-covering-60-billion-in-goods-agriculture-included-12108590#publisher=newsstand)
-US and China agree to ease tariffs on around $60 billion in goods, offering relief to exporters on both sides
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [Vivo V80 Launch: What We Know About Expected Price, Camera, Display, Battery And Other Features](https://www.ndtvprofit.com/technology/vivo-v80-launch-what-we-know-about-expected-price-camera-display-battery-and-other-features-12108405#publisher=newsstand)
-Vivo V80 is all set to launch in India on October 6
+### [Oppo Pitches F35 Series As 'Group Selfie Expert'; India Launch Set For October 5](https://www.ndtvprofit.com/technology/oppo-pitches-f35-series-as-a-group-selfie-expert-india-launch-set-for-october-5-12110684#publisher=newsstand)
+Representational
 
 **Source:** NDTV Profit  **Date:** 2026-09-28
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (16)
+
+### [Sebi drops minimum public shareholding norms violation case against Vinod Adani and 4 Adani group companies](https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-minimum-public-shareholding-norms-violation-case-against-vinod-adani-and-4-adani-group-companies/articleshow/134546792.cms)
+Sebi's investigation into Vinod Adani's control over offshore investments in Adani group companies has concluded. The regulator found insufficient evidence to support allegations of minimum public shareholding violations. Vinod Adani was not proven to have effective control over certain foreign portfolio investors. Relationships among parties involved did not demonstrate direct control or influence over investment decisions. Consequently, the case against Vinod Adani was closed due to lack of de
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [Moneyview vs Orient Cables vs A-One Steels: Which IPO could give strong listing gains and long-term growth?](https://economictimes.indiatimes.com/markets/stocks/news/moneyview-vs-orient-cables-vs-a-one-steels-which-ipo-could-give-strong-listing-gains-and-long-term-growth/articleshow/134539169.cms)
+Currently, three mainboard IPOs are capturing the interest of investors: Moneyview, Orient Cables, and A-One Steels. Each presents unique growth opportunities alongside specific valuation hurdles. They have detailed their intended uses for the capital raised through their offerings. Analysts suggest all three IPOs merit consideration for subscriptions, despite varying levels of demand in the grey market. Investors should evaluate each company individually based on their own investment preference
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [Ahead of Market: 10 things that will decide stock market action on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134546556.cms)
+Indian equities plunged on Monday as the Sensex fell 1,124 points and Nifty dropped over 360 points, wiping out nearly Rs 8 lakh crore in market value. Surging oil prices, bond yields, geopolitical tensions and rate-hike concerns drove broad-based selling.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [Market Trading Guide: Quality Power among 3 stock recommendations for Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-quality-power-among-3-stock-recommendations-for-tuesday/slideshow/134546225.cms)
+Three stocks—Elecon, Endurance Technologies and Quality Power—show positive technical setups despite broader market weakness. Analysts identify breakouts, trendline support and moving-average signals, with Tuesday trade recommendations featuring specific buying zones, stop-loss levels and upside targets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [Gold, silver plunge up to 3% as oil surge, rate-hike bets trigger sell-off. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-plunge-up-to-3-as-oil-surge-rate-hike-bets-trigger-sell-off-what-lies-ahead/articleshow/134542705.cms)
+MCX gold and silver fell sharply as higher oil prices revived inflation concerns and boosted expectations of further US Federal Reserve rate hikes. Gold breached key support levels, while rising bond yields, a firm dollar and geopolitical uncertainty pressured precious metals.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
 
 ### [Great Eastern Shipping rises 3% as Nomura retains Buy; projects up to 28%. Here's why](https://economictimes.indiatimes.com/markets/stocks/news/great-eastern-shipping-rises-3-as-nomura-retains-buy-projects-up-to-28-heres-why/articleshow/134537272.cms)
 Great Eastern Shipping shares rose nearly 3% after Nomura retained its Buy rating and set a Rs 1,965 target, implying 28% upside. The brokerage sees the company’s Rs 8,000 crore net cash position as a key advantage, allowing it to expand its fleet and capitalise on lower vessel prices during a downturn.
@@ -137,31 +216,57 @@ BSE shares fell over 2% amid a broader market decline, trading more than 30% bel
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
 ### [Why did stock market crash today? Sensex tumbles 1,124 points, Nifty below 22,800; 6 factors behind Rs 8 lakh crore rout](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-700-points-nifty-below-22950-6-key-factors-behind-rs-5-lakh-crore-rout/articleshow/134531336.cms)
-On Monday, the Indian stock market saw a major sell-off, with the Sensex and Nifty indexes plummeting due to escalating Iran-US tensions that drove up oil prices. This volatility dampened investor sentiment while bond yields reached highs not seen in years, creating additional pressure on equities. The Indian rupee depreciated against the US dollar, raising worries about currency stability as foreign investors continued liquidating their stocks.
+On Monday, the Indian stock market saw a major sell-off, with the Sensex and Nifty indexes plummeting due to escalating Iran-US tensions that drove up oil prices. This volatility dampened investor sentiment while bond yields reached highs not seen in years, creating additional pressure on equities. The rupee depreciated against the US dollar, raising worries about currency stability as foreign investors continued liquidating their stocks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [Mahindra &amp; Mahindra Share Price Live Updates: Announcement under Regulation 30 (LODR)-Credit Rating](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-updates-28-sep-2026/liveblog/134530380.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-28
+### ['Sellers may submit false declarations': Why CCPA penalised Amazon, Flipkart, JioMart for selling unregistered herbicide](https://www.livemint.com/companies/news/sellers-may-submit-false-declarations-why-ccpa-penalised-amazon-flipkart-jiomart-for-selling-unregistered-herbicide-11790607193111.html)
+India's CCPA fined Amazon, Flipkart, and JioMart for selling the unregistered 'Cyclosinone Herbicide'. The platforms were penalized for inadequate seller verification and must stop sales, conduct self-audits, and submit compliance reports within 15 days.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
+
+### [Sebi settles case against Adani Group companies over public shareholding allegations](https://www.livemint.com/companies/news/sebi-settles-case-against-adani-group-companies-public-shareholding-11790607829702.html)
+However, Sebi retains the right to restore or initiate proceedings if representations made during the settlement process are found to be untrue, or if the applicants breach undertakings
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
 
 ### [Armani may sell 15% stake to different partners, says CEO - What Giorgio Armani's will said about fashion house's future](https://www.livemint.com/companies/news/armani-may-sell-15-stake-to-different-partners-says-ceo-what-giorgio-armanis-will-said-about-fashion-houses-future-11790574698952.html)
 Italian fashion house Armani is set to sell an initial 15% stake within 18 months of founder Giorgio Armani’s death. CEO Giuseppe Marsocci said the stake could be sold to multiple partners, with LVMH, L’Oréal and EssilorLuxottica among preferred buyers.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-28
 
+### [Buy On Dips? Micron Shares Plunge 4% But There's 40% Upside Potential Projected By Baird; Check Target Price](https://www.ndtvprofit.com/markets/buy-on-dips-micron-shares-plunge-4-but-theres-a-40-upside-potential-projected-by-baird-check-target-price-12111116#publisher=newsstand)
+Representational
+
+**Source:** NDTV Profit  **Date:** 2026-09-28
+
+### [Trade Setup For Sept 29: Will 22,700 Hold? Nifty Support Weakens Under Sustained Bear Pressure](https://www.ndtvprofit.com/markets/trade-setup-for-sept-29-will-22-700-hold-nifty-support-weakens-under-sustained-bear-pressure-12111072#publisher=newsstand)
+The sharp fall comes against a backdrop of continued pressure from global markets, particularly elevated US bond yields and persistent overseas fund outflows.
+
+**Source:** NDTV Profit  **Date:** 2026-09-28
+
 ---
 
-## 📰 Industry & Policy News (24)
+## 📰 Industry & Policy News (17)
 
 ### [Fortis Healthcare shares in focus as Supreme Court allows forensic audit to proceed](https://economictimes.indiatimes.com/markets/stocks/news/fortis-healthcare-shares-in-focus-as-supreme-court-allows-forensic-audit-to-proceed/articleshow/134531075.cms)
 Fortis Healthcare shares will be in focus after the Supreme Court allowed a forensic audit of the hospital chain to proceed, while clarifying that observations made by the Delhi High Court were limited to the audit proceedings. Fortis said no liability, penalty or fine has been imposed and reiterated that it had no role in the transfer of shares by its erstwhile promoters.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-28-sep-2026/liveblog/134530475.cms)
+### [Market wrap: Infosys, Dr Reddy's Labs, Tata Motors PV, Power Grid top gainers and losers on Nifty and Sensex on Monday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-dr-reddys-labs-tata-motors-pv-power-grid-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134543014.cms)
+Indian equity markets ended sharply lower on Monday, with the Nifty falling 1.56% and the Sensex declining 1.52% as all sectoral indices closed in the red. PSU banks and realty stocks led the decline, while Dr Reddy’s Labs and Infosys were among the few gainers. India VIX surged 12.54%.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [Divis Labs Share Price Live Updates: Divis Labs Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-28-sep-2026/liveblog/134530378.cms)
+### [Havells India among 8 midcap stocks that hit 52-week lows and slipped up to 15% in a month](https://economictimes.indiatimes.com/markets/stocks/news/havells-india-among-8-midcap-stocks-that-hit-52-week-lows-and-slipped-up-to-15-in-a-month/slideshow/134543453.cms)
+The Sensex plunged 1,124 points to 72,771, triggering fresh 52-week lows in eight BSE 150 Midcap stocks. Procter &amp; Gamble Hygiene, Havells India, Bharti Hexacom, REC, SJVN, ACC, GIC and UPL recorded their lowest prices in a year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-28
+
+### [20 IPOs to open for subscription this week: GMPs signal up to 38% returns](https://economictimes.indiatimes.com/markets/stocks/news/20-ipos-to-open-for-subscription-this-week-gmps-signal-up-to-38-returns/slideshow/134542179.cms)
+Twenty IPOs are opening or closing for subscription between September 28 and 30, with GMPs indicating potential premiums of up to 38%. The lineup spans mainboard and SME issues.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
 ### [FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26](https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stake-in-12-smallcap-stocks-over-2-quarters-shares-fall-up-to-50-in-cy26/slideshow/134536118.cms)
@@ -180,14 +285,21 @@ Shah Investor's Home IPO opens for subscription on September 28, with the Rs 90.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-28-sep-2026/liveblog/134530980.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-28-sep-2026/liveblog/134530980.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [IPO GMP Today Live Updates: Moneyview IPO subscribed over 80x on Day 3 so far; GMP at 35%. Check other details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-snapdeal-orient-cables-srit-india-grey-market-price-band-subscription-status-allotment-listing-date-news-28th-january/liveblog/134530835.cms)
+### [IPO GMP Today Live Updates: Moneyview IPO subscribed over 98x on Day 3; GMP at 35%. Check other details](https://economictimes.indiatimes.com/markets/stocks/live-blog/ipo-gmp-today-live-updates-snapdeal-orient-cables-srit-india-grey-market-price-band-subscription-status-allotment-listing-date-news-28th-january/liveblog/134530835.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-28
 
-### [ITC Share Price Live Updates: ITC shares experience a downturn](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-28-sep-2026/liveblog/134530446.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-09-28
+### [Mark Zuckerberg loses nearly $20 billion in 2 days: Is Meta’s AI spending to blame?](https://www.livemint.com/companies/people/mark-zuckerberg-loses-nearly-20-billion-in-2-days-is-meta-s-ai-spending-to-blame-11790617513609.html)
+Mark Zuckerberg loses nearly $20 billion in two days as Meta shares fall amid concerns over its massive AI spending.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
+
+### [Tata Trusts proposes rejig to keep Tata Sons private, avoid IPO to comply with RBI rules — Here's what could change](https://www.livemint.com/companies/news/tata-trusts-propose-rejig-tata-sons-keep-private-no-ipo-listing-rbi-rule-what-change-merge-tess-tata-consulting-engineer-11790605492614.html)
+Tata Trusts has proposed merging Tata Sons with Tata Electronics and Tata Consulting Engineers to restructure and avoid classification as an NBFC, potentially eliminating the need for a stock market listing.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-09-28
 
 ### [Deciphering Tata Boardroom Battle: 5 imp questions on Veto, listing, Noel, Chandra, Singhvi-Salve entry answered | Excl](https://www.livemint.com/companies/deciphering-tata-boardroom-battle-5-imp-questions-on-veto-listing-noel-chandra-singhvi-salve-entry-answered-excl-11790586833310.html)
 Now, it has become even a bigger corporate matter with legal eagles as Tata Trusts retained senior counsel Abhishek Manu Singhvi, while Tata Sons is advised by Harish Salve.
@@ -204,59 +316,14 @@ Porter, Mahindra Last Mile and Rapido are exploring public-market listings as mo
 
 **Source:** Mint - Pharma  **Date:** 2026-09-28
 
-### [Meta’s Muse-fuelled rally: Stock jumps 36% in September as investors warm to its $140 billion AI bet](https://www.livemint.com/companies/news/metas-muse-fuelled-rally-stock-jumps-36-per-cent-in-september-as-investors-warm-to-its-140-billion-ai-bet-11790522579927.html)
-Meta shares are up 36% in September as its Muse AI assistant fuels investor optimism, despite soaring AI spending and rising cash-flow pressure.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-27
-
 ### [India’s pharma industry is entering AI execution phase: What comes after the pilot?](https://www.expresspharma.in/indias-pharma-industry-is-entering-ai-execution-phase-what-comes-after-the-pilot/)
 Shammi Thakur, Research Director, Vyansa Intelligence highlights that the next phase of AI adoption in Indian pharma will depend not on successful pilots alone, but on building reliable, validated and accountable systems that can deliver measurable value in real-world, regulated environments. The post India’s pharma industry is entering AI execution phase: What comes after the pilot? appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-28
 
-### [Shah Investor's Home IPO GMP Today: Check Grey Market Premium On Day 1 Of Subscription](https://www.ndtvprofit.com/markets/shah-investors-home-ipo-gmp-today-check-grey-market-premium-on-day-1-of-subscription-12102075#publisher=newsstand)
-Shah Investor's Home IPO Investor Meet
+### [ABBOTT INDIA Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster](https://news.google.com/rss/articles/CBMizwJBVV95cUxNWHQ5UVpwRDZ6cFdPTG9DVHlJSEpJVE90X2wwRUZBMXA4cE5NTWozTGxOS2hZN2d4MUY3YUdzSlYtdmJVaW5abzNmMkVkbFJFTGxZZnlra0kwQTJNLUdPMVRGZzhGNzdPc2xsM2NzY3A4dVdMVjRnMUtiRzF0cXVHN3c4S1dwcERXZjd2MkxNSzZUOFhnTUswejNxUTBCZ2RyakJZYzdYbDJKLXNWVGJ6bFBQbzF3R213Z0VjOUYzQmh0RS1kZ0tSak1GYUFpY3Jpa1NEQVU1WTFGbkU1ODZkcFk4MmJsOFVNaVliQkFtMzFOTVo2OGhKWUROVlhlMFAtOFkxU1NJRFVlVE5ubHltczhXQ01EMS1ZMGRDaDdCekJUeUdPVVdWQmx5TkhWNzBUdVluWVhtNE9HVy1iaG9zYlB5T2pwMXdfb2hkQkIzRQ?oc=5)
+ABBOTT INDIA Stock/Share price , NSE/BSE Forecast News and Live Quotes &nbsp;&nbsp; Equitymaster
 
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [Stock Market Crash Today Live: Sensex Crashes 1,090 Points, Nifty 50 Ends Below 22,800; CAS Underway](https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-brent-crude-oil-prices-today-12107070#publisher=newsstand)
-Stock Market Crash Live Updates: Sectorally, Nifty PSU Bank index was the top drag, down over 2.2%. It was followed by Private Bank, Financial Services, Realty and Auto indices.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [IPO GMP Today: Orient Cables vs German Green vs Runwal vs Acevector — Which Has the Highest Listing Gain?](https://www.ndtvprofit.com/markets/ipo-gmp-today-orient-cables-vs-german-green-vs-runwal-vs-acevector-which-has-the-highest-listing-gain-12095311#publisher=newsstand)
-IPO GMP Today
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [SRIT India IPO GMP Today: Check Grey Market Premium On Day 1 Of Subscription](https://www.ndtvprofit.com/markets/srit-india-ipo-gmp-today-check-grey-market-premium-on-day-1-of-subscription-12101729#publisher=newsstand)
-SRIT India IPO GMP stands at Rs 31, indicating an implied listing gain of 23.85%. Check latest GMP, subscription status. IPO price, dates, lot size and key details.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [IPO GMP Today: Moneyview Shows Higher Implied Listing Gain Than A-One Steels; Check Latest GMP](https://www.ndtvprofit.com/markets/ipo-gmp-today-moneyview-leads-a-one-steels-on-final-day-of-bidding-check-latest-listing-gains-12107225#publisher=newsstand)
-Investors are closely watching the two IPOs for their GMP-implied listing performance.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [Tightening The Grip: IRDAI's Course Correction On Insurance Distribution Costs](https://www.ndtvprofit.com/personal-finance/tightening-the-grip-irdais-course-correction-on-insurance-distribution-costs-12108701#publisher=newsstand)
-Private life insurers' expense ratio (total spending as a share of premium), which had fallen to 16.5% of gross premium in FY21, rose to 20.2% in FY26.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [425% Return In Three Years: PC Jewellers Achieves Debt-Free Status. A Look At Journey On Rocky Road](https://www.ndtvprofit.com/markets/425-return-in-three-years-pc-jewellers-achieves-debt-free-status-a-look-at-journey-on-rocky-road-12108501#publisher=newsstand)
-PC Jeweller shares have surged 26% in one month and have jumped nearly 73% over the past six months.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [Ujjain Tense Over Demolition Of Mosque Portion, Protesters Clash With Police; Tear Gas Fired](https://www.ndtvprofit.com/india/ujjain-tense-over-demolition-of-mosque-portion-protesters-clash-with-police-tear-gas-fired-12108369#publisher=newsstand)
-Congress MP Imran Pratapgarhi opposed the proposed demolition and urged the state government to consider public and heritage concerns.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
-
-### [BSE Stock Falls Over 2% After SEBI Mulls Forming High Level Panel To Revisit Self-Listing Rules](https://www.ndtvprofit.com/markets/bse-share-price-today-stock-falls-after-sebi-mulls-forming-high-level-panel-to-revisit-self-listing-rules-12108163#publisher=newsstand)
-BSE shares slide.
-
-**Source:** NDTV Profit  **Date:** 2026-09-28
+**Source:** GNews - India Pharma  **Date:** 2026-09-28
 
 ---
