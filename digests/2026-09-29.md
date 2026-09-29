@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-09-29
 
-> 57 items · 2026-09-29 10:23 UTC
+> 59 items · 2026-09-29 17:38 UTC
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (14)
 
 ### [Motilal Oswal sees Aster DM EBITDA rising 25% CAGR through FY28; sets Rs 910 target](https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-aster-dm-ebitda-rising-25-cagr-through-fy28-sets-rs-910-target/articleshow/134559218.cms)
 Motilal Oswal has initiated coverage on Aster DM Quality Care with a Buy rating and Rs 910 target, citing merger synergies, capacity expansion and improving operating metrics. The brokerage expects revenue, EBITDA and PAT to grow at CAGRs of 19.5%, 25% and 33%, respectively, through FY28.
@@ -19,15 +19,15 @@ The proposed merger of Tata Electronics and TCE with Tata Sons dilutes the holdi
 
 **Source:** Mint - Pharma  **Date:** 2026-09-29
 
+### [Fitch revises PRISM’s outlook to positive, cites improving leverage and stronger cash generation](https://economictimes.indiatimes.com/markets/stocks/news/fitch-revises-prisms-outlook-to-positive-cites-improving-leverage-and-stronger-cash-generation/articleshow/134565751.cms)
+Fitch Ratings has revised Oyo parent PRISM’s outlook to Positive from Stable while affirming its ‘B’ ratings, citing improving leverage, stronger cash generation and sustained revenue growth. The agency expects EBITDA leverage to fall to 3.8x by FY28 and sees potential for further deleveraging if IPO proceeds are used for debt repayment.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
 ### [Power Mech Projects shares gain 3% after securing Rs 279 crore order from Telangana Power Generation Corporation](https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-gain-3-after-securing-rs-279-crore-order-from-telangana-power-generation-corporation/articleshow/134558476.cms)
 Power Mech Projects secured a Rs 279.20 crore, three-year O&amp;M contract from Telangana Power Generation Corporation for YTPS. The order covers ash and coal handling plants across five 800 MW units. The company reported Rs 3,113 crore FY27 YTD inflows and a Rs 17,317 crore order book, supporting sustained revenue visibility and growth.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-29
-
-### [New Air India CEO gets his strategy in place](https://www.livemint.com/companies/news/new-air-india-ceo-gets-his-strategy-in-place-11790601738384.html)
-Tewolde Gebremariam said Air India needs to keep costs under check even as its looks to raise revenue. While external factors played a part, Air India cannot take the focus off financial performance, he said.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-28
 
 ### [Nifty SIP return fails to beat even bank FD over 5 years: Is this the warning sign investors can’t ignore?](https://economictimes.indiatimes.com/markets/stocks/news/nifty-sip-return-fails-to-beat-even-bank-fd-over-5-years-is-this-the-warning-sign-investors-cant-ignore/articleshow/134555510.cms)
 New insights reveal that systematic investment plans in the Nifty50 have consistently underperformed, presenting a five-year XIRR of merely 4.5%. This result places Nifty50 below the returns of traditional fixed deposits. In contrast, midcap and smallcap indices have shown impressive gains. Analysts recommend a strategy focusing on individual stock selection and earnings growth rather than relying solely on index performance, prompting a reassessment of index-based investment approaches.
@@ -36,6 +36,16 @@ New insights reveal that systematic investment plans in the Nifty50 have consist
 
 ### [Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speciality drugs](https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-aurobindo-pharma-other-stocks-in-focus-as-trump-exempts-india-from-100-tariffs-on-some-speciality-drugs/articleshow/134555109.cms)
 Indian pharma stocks, including Sun Pharma and Aurobindo Pharma, are in focus after the US exempted India and 19 other countries from 100% tariffs on certain patented specialty pharmaceuticals and ingredients. Eligible products include rare-disease drugs, gene and cell therapies, and infertility treatments. Generic medicines remain outside the Section 232 tariffs.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside](https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms)
+Centrum Broking has initiated coverage on SBI Funds Management with a Buy rating and a Rs 700 target, implying up to 34% upside. The brokerage sees SBI AMC’s extensive distribution network, strong B-30 presence, expanding retail franchise and growing non-MF businesses supporting AUM and earnings growth over the next three years.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [India can add over 100 million long-term investors by 2035: Report](https://economictimes.indiatimes.com/markets/stocks/news/india-can-add-over-100-million-long-term-investors-by-2035-report/articleshow/134562575.cms)
+According to an EY India report, India could add over 100 million long-term investors by 2035 as investing expands beyond metros and affluent households. Despite having more than 550 million active UPI users, only around 62 million people invest in mutual funds and about 50 million actively participate in equities, highlighting the large untapped investor base.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-29
 
@@ -59,29 +69,29 @@ The Indian automobile market is witnessing robust retail sales as the festive se
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-29
 
-### [Goldman Sachs sees Eternal achieving $1 billion EBITDA by FY29; raises target price](https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-sees-eternal-achieving-1-billion-ebitda-by-fy29-raises-target-price/articleshow/134554650.cms)
-Goldman Sachs maintained a Buy rating on Eternal, formerly Zomato, raising its target price by 11% to Rs 385. The brokerage foresees Eternal hitting $1 billion EBITDA by FY29, driven by Blinkit's robust growth and steady-state margin expansion alongside stabilising competitive intensity in quick commerce.
+### [Oracle Shares Spike 8% As OpenAI's Revenue Run Rate Nears $70 Billion Amid IPO Talks](https://www.ndtvprofit.com/markets/oracle-shares-spike-8-as-openais-revenue-run-rate-nears-70-billion-amid-ipo-talks-12116429#publisher=newsstand)
+Oracle has emerged as a key public-market proxy for OpenAI because of its deep infrastructure relationship with the AI company.
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-29
+**Source:** NDTV Profit  **Date:** 2026-09-29
 
 ---
 
 ## 🤝 Deals, M&A & Partnerships (6)
 
+### [Sun Pharma plans  ₹10,000 crore bond sale to refinance Organon acquisition loan: Report](https://www.livemint.com/companies/news/sun-pharma-plans-rs-10-000-crore-bond-sale-to-refinance-organon-acquisition-loan-report-11790695336859.html)
+The country's largest drugmaker by market capitalisation closed a syndication of a near-$12 billion, 18-month bridge loan earlier this year for Organon's acquisition. The syndication also included State Bank of India, the country's largest lender by assets.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-29
+
+### [KKR buys majority stake in Cisternina Logistics](https://www.livemint.com/companies/news/kkr-buys-majority-stake-in-cisternina-logistics-11790694076134.html)
+The KKR investment will support Cisternina’s proposed acquisition of Ganesh Benzoplast Ltd’s liquid storage terminal and rail business, as well as its expansion through further inorganic plans and the development of new storage infrastructure across India.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-29
+
 ### [Carlyle-backed Highway Roop acquires Chamundi Die Cast to diversify auto components platform](https://www.livemint.com/companies/news/highway-roop-chamundi-die-cast-acquisition-carlyle-group-11790666681405.html)
 The acquisition marks a strategic milestone in Highway Roop's journey towards an IPO and builds a scaled, diversified precision manufacturing platform.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-29
-
-### [Tata Trusts moots two mergers to avoid Tata Sons listing](https://www.livemint.com/companies/news/tata-trusts-tata-sons-restructuring-ipo-listing-rbi-11790599919373.html)
-The proposed Tata Sons restructuring would involve absorbing Tata Electronics and Tata Consulting Engineers to remove the IPO overhang on the holding company.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-28
-
-### [Anupam Rasayan concludes acquisition of Bliss GVS Pharma](https://www.expresspharma.in/anupam-rasayan-concludes-acquisition-of-bliss-gvs-pharma/)
-The acquisition of Bliss GVS Pharma marks the latest step in Anupam Rasayan’s broader inorganic growth strategy The post Anupam Rasayan concludes acquisition of Bliss GVS Pharma appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-29
 
 ### [Permira, TPG pick up Cloudnine stakes in $450 million deal at $1.3 billion valuation](https://www.livemint.com/companies/cloudnine-hospitals-permira-tpg-capital-450-million-deal-11790657292836.html)
 Permira and TPG Capital have acquired stakes in Cloudnine Hospitals from True North and TPG NewQuest in a $450 million secondary deal, valuing the maternity and childcare chain at about $1.3 billion.
@@ -114,12 +124,22 @@ NCC shares rose after the company received a Rs 1,076.71-crore order, excluding 
 
 ---
 
-## 🏭 Operations & Approvals (8)
+## 🏭 Operations & Approvals (7)
 
 ### [Nomura initiates coverage on Allied Blenders with Buy rating, sees up to 20% upside](https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-allied-blenders-with-buy-rating-sees-up-to-20-upside/articleshow/134557779.cms)
 Nomura has initiated coverage on Allied Blenders &amp; Distillers with a Buy rating and a target price of Rs 850, implying nearly 20% upside. The brokerage sees premiumisation, backward integration and margin expansion as key growth drivers, with EPS expected to grow at a 26% CAGR over FY26–FY29. Execution delays and slower premiumisation remain key risks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [CPP Investments invests  ₹3,000 cr in Prestige Hospitality Ventures](https://www.livemint.com/companies/cpp-investments-invests-3-000-cr-prestige-hospitality-ventures-11790701463810.html)
+Canada Pension Plan Investment Board has acquired a 27% stake in Prestige Hospitality Ventures for ₹3,000 crore, marking its first direct investment in India's hospitality sector to support expansion, following Prestige's withdrawal of its planned IPO.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-29
+
+### [Faster launches, more job cuts? New Apple CEO John Ternus pushes for sweeping changes](https://www.livemint.com/companies/news/faster-launches-more-job-cuts-new-apple-ceo-john-ternus-pushes-for-sweeping-changes-11790702200603.html)
+Apple CEO John Ternus plans to speed up product development by launching more frequently and reducing management layers. Key changes include moving product launches throughout the year.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-29
 
 ### [India's Essar Group to build largest steel plant in US: Trump says 'largest plant in America by far'](https://www.livemint.com/companies/people/indias-essar-group-to-build-largest-steel-plant-in-us-trump-says-largest-plant-in-america-by-far-11790652850128.html)
 US President Donald Trump has announced that India's Essar Group will build a $15 billion steel plant in Iowa through its subsidiary Mesabi Metallics. The facility is expected to produce 10 million tonnes of steel annually and begin production by 2030.
@@ -131,34 +151,34 @@ India's Essar Group, through US subsidiary Mesabi Metallics, plans to invest $18
 
 **Source:** Mint - Pharma  **Date:** 2026-09-29
 
-### [SpaceX Starship Flight 14: Why today’s launch matters for SpaceX, Starlink and Elon Musk’s Moon ambitions](https://www.livemint.com/companies/news/spacex-starship-flight-14-why-today-s-launch-matters-for-spacex-starlink-and-elon-musk-s-moon-ambitions-11790593786190.html)
-SpaceX's Starship is set to attempt its first orbital launch on Monday, deploying 23 Starlink V3 satellites. A successful launch could transition it to full operations and support broader goals, including lunar missions and AI model development, amidst heightened competition in space exploration.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-28
-
-### [Mercedes-Benz GLC Electric Launch: Expected Price, Features And More - What We Know](https://www.ndtvprofit.com/lifestyle/mercedes-benz-glc-electric-launch-expected-price-features-colours-what-we-know-12113486#publisher=newsstand)
-The GLC Electric can accelerate from 0 to 100 km/h in 4.3 seconds, while its top speed is rated at 210 km/h.
+### [Apple Scraps 5,000 AppleCare Layoffs Amid Broader Push For Efficiency Under Ternus](https://www.ndtvprofit.com/business/apple-scraps-5-000-applecare-layoffs-amid-broader-push-for-efficiency-under-ternus-12116169#publisher=newsstand)
+Under John Ternus, Apple is considering more frequent product launches.
 
 **Source:** NDTV Profit  **Date:** 2026-09-29
 
-### [BSNL Re 1 Freedom 2.0: Data, SMS, Calling Validity And Offer Date](https://www.ndtvprofit.com/india/bsnl-re-1-freedom-2-0-data-sms-calling-validity-and-offer-date-12113400#publisher=newsstand)
-BSNL launches unlimited calls and daily data for just Rs 1
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
-
-### [Nuvoco Vistas To Acquire 26% Stake In CleanMax SPV For 46.4 MW Rajasthan Renewable Project](https://www.ndtvprofit.com/business/nuvoco-vistas-to-acquire-26-stake-in-cleanmax-spv-for-46-4-mw-rajasthan-renewable-project-12113584#publisher=newsstand)
-Nuvoco will acquire 26% in Clean Max Ilgohp for a 46.4 MW wind-solar hybrid project, comprising 20 megawatts of wind capacity, 26.4 megawatts of solar capacity and a 2-megawatt-hour Battery Energy Storage System.
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
-
-### [Seaplane Launch Hits Turbulence: Lakshadweep Admin Withdraws Permission For SkyHop To Start Operations](https://www.ndtvprofit.com/business/seaplane-launch-hits-turbulence-lakshadweep-admin-withdraws-permission-for-skyhop-to-start-operations-12113508#publisher=newsstand)
-SkyHop In Focus
+### [iQOO 16 Launch Date Set: Expected Price, Specs, Features Ahead Of China Debut](https://www.ndtvprofit.com/technology/iqoo-16-launch-date-set-expected-price-specs-and-features-ahead-of-china-debut-12115771#publisher=newsstand)
+What to Expect From the iQOO 16 Ahead of Its China Launch
 
 **Source:** NDTV Profit  **Date:** 2026-09-29
 
 ---
 
-## 📉 Analyst & Brokerage Calls (10)
+## 📉 Analyst & Brokerage Calls (13)
+
+### [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134570219.cms)
+Nifty’s indicative price plunged 2% in two seconds during the closing auction session on monthly expiry, before recovering sharply. Analysts cited crude volatility, high US Treasury yields, FII outflows, IPO fundraising and geopolitical tensions as key market pressures.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [Nifty sees worst September series in 25 years. What does October hold?](https://economictimes.indiatimes.com/markets/stocks/news/nifty-sees-worst-september-series-in-25-years-what-does-october-hold/articleshow/134569275.cms)
+Nifty posted its worst September derivatives series in 25 years, falling 6.7% and breaching its 200-week moving average. Foreign selling, elevated crude, a weak rupee and rising bond yields pressured equities, while analysts flagged 22,600 as a crucial support level.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [Investor alert! Nifty cracks below key 200-week moving average for the first time since Covid](https://economictimes.indiatimes.com/markets/stocks/news/investor-alert-nifty-cracks-below-key-200-week-moving-average-for-the-first-time-since-covid/articleshow/134565786.cms)
+Nifty slipped below its 200-week moving average near 22,600 for the first time since the Covid crash, hitting 22,569 intraday. Analysts are watching whether the index can reclaim the key support, with 22,800 acting as immediate resistance amid sustained market pressure.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
 
 ### [D-Street stocks are breaking long-held supports as selloff deepens](https://economictimes.indiatimes.com/markets/stocks/news/d-street-stocks-are-breaking-long-held-supports-as-selloff-deepens/articleshow/134560778.cms)
 Indian equity markets are experiencing a notable decline, evidenced by the NSE Nifty 50 Index's continuous fall over seven weeks. The collective market capitalization has taken a hit of approximately $250 billion, alarming investors. Factors such as rising global bond yields, increasing oil prices, and a weakening rupee are creating a turbulent environment, prompting a significant withdrawal by foreign investors from Indian stocks.
@@ -195,24 +215,24 @@ BSE has been included in the Nifty 50 after its six-month average free-float mar
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-29
 
+### [‘Dents Lindt’s reputation’: Analyst reacts as Swiss chocolate company lowers prices for Christmas](https://www.livemint.com/companies/news/dents-lindt-s-reputation-analyst-reacts-as-swiss-chocolate-company-lowers-prices-for-christmas-11790684078653.html)
+Lindt plans to reduce chocolate prices due to weak consumer confidence and a revised sales outlook of just 0-2% growth. The CEO announced Christmas price cuts, fearing the company’s reputation may be affected by the second sales-growth guidance reduction this year.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-29
+
 ### ['Sellers may submit false declarations': Why CCPA penalised Amazon, Flipkart, JioMart for selling unregistered herbicide](https://www.livemint.com/companies/news/sellers-may-submit-false-declarations-why-ccpa-penalised-amazon-flipkart-jiomart-for-selling-unregistered-herbicide-11790607193111.html)
 India's CCPA fined Amazon, Flipkart, and JioMart for selling the unregistered 'Cyclosinone Herbicide'. The platforms were penalized for inadequate seller verification and must stop sales, conduct self-audits, and submit compliance reports within 15 days.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-28
 
-### [Adani Group firms settle Sebi cases over public shareholding allegations](https://www.livemint.com/companies/news/sebi-settles-case-against-adani-group-companies-public-shareholding-11790607829702.html)
-However, Sebi retains the right to restore or initiate proceedings if representations made during the settlement process are found to be untrue, or if the applicants breach undertakings
-
-**Source:** Mint - Pharma  **Date:** 2026-09-28
-
-### [Buy, Sell Or Hold: Canara Bank, SBI, Cochin Shipyard, Manipal Health, Bank of Maharashtra, CG Power — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-canara-bank-sbi-cochin-shipyard-manipal-health-bank-of-maharashtra-cg-power-ask-profit-12062895#publisher=newsstand)
+### [Buy, Sell Or Hold: Azad Engineering, Ather Energy, PB Fintech, TARIL, Knowledge Marine — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-azad-engineering-ather-energy-pb-fintech-taril-knowledge-marine-ask-profit-12115827#publisher=newsstand)
 Buy Sell Hold
 
 **Source:** NDTV Profit  **Date:** 2026-09-29
 
 ---
 
-## 📰 Industry & Policy News (19)
+## 📰 Industry & Policy News (17)
 
 ### [J B Ecotex files DRHP for Rs 400 crore IPO; OFS of 1.29 crore shares](https://economictimes.indiatimes.com/markets/stocks/news/j-b-ecotex-files-drhp-for-rs-400-crore-ipo-ofs-of-1-29-crore-shares/articleshow/134561094.cms)
 Surat-based J B Ecotex Ltd has filed its DRHP with SEBI to raise funds through an IPO. The proposed issue comprises a fresh issue of up to Rs 400 crore and an OFS of up to 1.295 crore shares by promoters. The company may also raise up to Rs 80 crore through a Pre-IPO Placement, which, if completed, will be deducted from the fresh issue size.
@@ -224,7 +244,30 @@ The stake held by Amit Banerji, who died 19 months ago, has become the subject o
 
 **Source:** Mint - Pharma  **Date:** 2026-09-29
 
-### [Divis Labs Share Price Live Updates: Divis Labs Current Price Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-29-sep-2026/liveblog/134555037.cms)
+### [Medico Remedies among 5 Healthcare stocks hitting 52-week low; slipped up to 48% in a month](https://economictimes.indiatimes.com/markets/stocks/news/medico-remedies-among-5-healthcare-stocks-hitting-52-week-low-slipped-up-to-48-in-a-month/slideshow/134565970.cms)
+The Sensex fell 242 points to 72,529 as five BSE Healthcare Index stocks touched fresh 52-week lows. Medico Remedies, Pfizer, AstraZeneca Pharma India, Sanofi Consumer Healthcare India and Eris Lifesciences recorded their lowest prices in a year.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-29-sep-2026/liveblog/134555037.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [Market Trading Guide: Adani Ports, Rashi Peripherals among 6 stock recommendations for Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-ports-rashi-peripherals-among-6-stock-recommendations-for-wednesday/slideshow/134569608.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [Market wrap: Adani Enterprises, Adani Ports, Titan Company, Wipro top gainers and losers on Nifty and Sensex on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-enterprises-adani-ports-titan-company-wipro-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134565034.cms)
+Indian equities extended their decline on Tuesday, with Nifty and Sensex hitting fresh six-month lows. Broader markets also weakened, while Realty, Consumer Durables and Chemicals led sectoral losses. Bearish market breadth persisted despite gains in Metals and Pharma indices.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [Cupid shares end 10% higher ahead of Nifty Smallcap 250 inclusion tomorrow. How much inflows can it see?](https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-end-10-higher-ahead-of-nifty-smallcap-250-inclusion-tomorrow-how-much-inflows-can-it-see/articleshow/134564560.cms)
+Cupid shares jumped 10% to Rs 291 after the company’s inclusion in the Nifty Smallcap 250 index, effective September 30. The stock has surged 250% in six months, while strong June-quarter growth and raised FY27 guidance strengthen its growth outlook.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-29
+
+### [CAS chaos: Nifty’s indicative price drops 2% in 2 seconds, later recovers on monthly F&amp;O expiry day](https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-2-in-2-seconds-later-recovers-on-monthly-fo-expiry-day/articleshow/134563164.cms)
+Nifty's indicative price sharply dropped by 2% during the closing auction session on monthly expiry day. The index fell from 22,684 to 22,249 within two seconds at 3:20:01. This sudden decline was followed by a rapid recovery, and it closed above the pre-CAS level. Typically, monthly expiry days bring heightened market volatility, contributing to such fluctuations. Overall, Nifty lost 64 points or 0.28% on that Tuesday.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-29
 
 ### [Azad Engineering shares jump 10% as company expands GE Vernova's manufacturing footprint](https://economictimes.indiatimes.com/markets/stocks/news/azad-engineering-shares-jump-10-as-company-expands-ge-vernovas-manufacturing-footprint/articleshow/134560080.cms)
@@ -271,40 +314,5 @@ Rapid advances by global AI companies can quickly make a startup’s product or 
 Mark Zuckerberg loses nearly $20 billion in two days as Meta shares fall amid concerns over its massive AI spending.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-28
-
-### [Tata Trusts proposes rejig to keep Tata Sons private, avoid IPO to comply with RBI rules — Here's what could change](https://www.livemint.com/companies/news/tata-trusts-propose-rejig-tata-sons-keep-private-no-ipo-listing-rbi-rule-what-change-merge-tess-tata-consulting-engineer-11790605492614.html)
-Tata Trusts has proposed merging Tata Sons with Tata Electronics and Tata Consulting Engineers to restructure and avoid classification as an NBFC, potentially eliminating the need for a stock market listing.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-09-28
-
-### [OPPI collaborates with NIPER Hajipur to advance research excellence](https://www.expresspharma.in/oppi-collaborates-with-niper-hajipur-to-advance-research-excellence/)
-The collaboration aims to strengthen industry-academia collaboration to drive translational research and innovation The post OPPI collaborates with NIPER Hajipur to advance research excellence appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-29
-
-### [Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness](https://www.ndtvprofit.com/markets/dr-reddys-share-price-in-focus-stock-outperforms-peers-as-nifty-pharma-bucks-broader-market-weakness-12113208#publisher=newsstand)
-Dr. Reddy's top gainer on Nifty.
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
-
-### [Stock Market Live: Sensex Slides 400 Points, Nifty 50 Near 22,650; Consumer Durables, IT Shares Top Drag](https://www.ndtvprofit.com/markets/stock-market-live-updates-today-september-29-gift-nifty-flat-sensex-today-nifty50-varmora-granito-ipo-listing-us-iran-war-brent-crude-oil-12112113#publisher=newsstand)
-Stock Market Live Blog, September 29, 2026
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
-
-### [Realty Stocks Rally Builds Up: What Lies Ahead As Housing Demand Stays Strong](https://www.ndtvprofit.com/markets/realty-stocks-rally-builds-up-what-lies-ahead-as-housing-demand-stays-strong-12113485#publisher=newsstand)
-Lodha Developers shares have emerged as the top performer among Nifty Realty constituents, gaining around 70% in FY27.
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
-
-### [IPO GMP Today: SRIT India vs Shah Investor's Home - Which Has the Highest Listing Gain?](https://www.ndtvprofit.com/markets/ipo-gmp-today-srit-india-vs-shah-investors-home-which-has-the-highest-listing-gain-12112577#publisher=newsstand)
-Both IPOs will close for bids on Sept. 30.
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
-
-### [IPO GMP Today: Orient Cables vs German Green vs Acevector vs Runwal — Which Has the Highest Listing Gain?](https://www.ndtvprofit.com/markets/ipo-gmp-today-orient-cables-vs-german-green-vs-acevector-vs-runwal-which-has-the-highest-listing-gain-12112529#publisher=newsstand)
-IPO GMP Today: Orient Cables, German Green, Acevector and Runwal Enterprises are set to close today. Check GMP, implied listing gains and key details.
-
-**Source:** NDTV Profit  **Date:** 2026-09-29
 
 ---
