@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-09-30
 
-> 63 items · 2026-09-30 10:15 UTC
+> 74 items · 2026-09-30 17:37 UTC
 
-## 💰 Results & Financials (9)
+## 💰 Results & Financials (14)
 
 ### [Morgan Stanley raises Lenskart target price to Rs 718; bull case implies 41% upside. Here’s why](https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-raises-lenskart-target-price-to-rs-718-bull-case-implies-41-upside-heres-why/articleshow/134580048.cms)
 Lenskart Solutions reported a 182.3% YoY rise in Q1 FY27 net profit to Rs 228 crore, while revenue grew 33.6% to Rs 2,214 crore. EBITDA margin improved to 21.7%, with growth across domestic and international markets. The company also reported strong demand for both affordable and premium eyewear, highlighting the scaling potential of its international business.
@@ -14,8 +14,28 @@ Cupid shares surged 7% after entering the Nifty Smallcap 250 index, extending ga
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
+### [From cigarettes to protein bars: ITC's  ₹900 cr Yoga Bar bet as FMCG giant taps India's health-food boom](https://www.livemint.com/companies/news/from-cigarettes-to-protein-bars-itcs-900-cr-yoga-bar-bet-as-fmcg-giant-taps-indias-health-food-boom-11790760872577.html)
+ITC has acquired the remaining 52.5% stake in Sproutlife Foods for ₹645 crore, bringing its total investment to around ₹900 crore. The move aligns with ITC's strategy to enhance its FMCG portfolio, as Sproutlife's revenue reached ₹452 crore in FY26.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-30
+
+### [Goldiam’s Origem targets  ₹600-800 crore in revenue over five years](https://www.livemint.com/companies/news/goldiams-origem-targets-600-800-crore-in-revenue-over-five-years-11790746488496.html)
+Over the next four to five years, Goldiam aims to scale B2B revenue to ₹1,500-2,000 crore, alongside Origem’s growth, building towards a combined business of about ₹2,500 crore.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-30
+
 ### [MTAR Tech among 4 stocks showing White Marubozu pattern](https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-among-4-stocks-showing-white-marubozu-pattern/slideshow/134580303.cms)
 Four Nifty 500 stocks, including MTAR Technologies, Mankind Pharma, CMPDI, and PTC Industries, formed a White Marubozu bullish candlestick pattern on September 29. Technical data from StockEdge indicates strong upward momentum across these counters, as closing prices touched session highs, signaling sustained buying interest among market traders.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [ET Alpha Wealth Summit 2.0: Why next market cycle may need a new playbook](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-the-next-market-cycle-may-need-a-new-playbook/articleshow/134592887.cms)
+Market cycles can reshape sector leadership, earnings expectations and valuations. As investors navigate changing interest rates, geopolitical shifts and the rise of artificial intelligence, business quality and valuations remain key. Veteran investor Prashant Jain will share lessons from three decades of market cycles at the ET Alpha Wealth Summit 2.0.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [Macquarie sees strong earnings recovery for banks, picks 5 stocks to outperform](https://economictimes.indiatimes.com/markets/stocks/news/macquarie-sees-strong-earnings-recovery-for-banks-picks-5-stocks-to-outperform/articleshow/134593479.cms)
+Macquarie expects Indian banks to deliver 18% EPS growth in FY28, supported by higher margins, stronger loan demand, easing liquidity pressures and stable asset quality. The brokerage upgraded Bank of Baroda, Kotak Mahindra Bank and select financial stocks.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
@@ -44,14 +64,29 @@ Former PATH regional head to lead Social Alpha’s next phase of innovation and 
 
 **Source:** Mint - Pharma  **Date:** 2026-09-29
 
-### [Swinging Out Of Red: Rays Of Belief Bets On US Arbitrage, Rapid India Expansion After Q1 EBITDA Leaps 10x](https://www.ndtvprofit.com/markets/rays-of-belief-swing-out-of-red-bets-on-us-arbitrage-rapid-india-expansions-after-q1-ebitda-leaps-10x-profit-at-rs-3-crore-12118927#publisher=newsstand)
-Nitin Bindlish, Founder and Managing Director of Rays of Belief
+### [Smartworks Plans Rs 600 Crore Annual Expansion As Contracted Revenue Nears Rs 6,000 Crore](https://www.ndtvprofit.com/business/smartworks-plans-rs-600-crore-annual-expansion-as-contracted-revenue-nears-rs-6-000-crore-12121308#publisher=newsstand)
+Smartworks To Invest Rs 600 Crore Annually To Expand Managed Offices
+
+**Source:** NDTV Profit  **Date:** 2026-09-30
+
+### [Will Other IT Majors Follow? Tech Mahindra Set To Consider First Bonus Issue Since 2015](https://www.ndtvprofit.com/markets/will-other-it-majors-follow-tech-mahindra-set-to-consider-first-bonus-issue-since-2015-12121621#publisher=newsstand)
+The proposed bonus issue will be closely watched by investors as the company enters the Q2 earnings season.
 
 **Source:** NDTV Profit  **Date:** 2026-09-30
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (10)
+## 🤝 Deals, M&A & Partnerships (13)
+
+### [Avalon Tech block deal: Promoters divest 6% stake worth Rs 871 crore](https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-block-deal-promoters-divest-6-stake-worth-rs-871-crore/articleshow/134598495.cms)
+Avalon Technologies saw an Rs 870.6 crore bulk deal as three promoter entities sold 40.08 lakh shares, representing 6% equity. Kotak Mahindra Mutual Fund bought 24.02 lakh shares, while Nomura retained its Buy rating and raised its target price.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore](https://economictimes.indiatimes.com/markets/stocks/news/promoters-dilute-6-stake-in-avalon-technologies-for-rs-871-crore/articleshow/134597842.cms)
+Avalon Technologies saw three of its promoter entities divest a collective 6% stake for a substantial Rs 871 crore via bulk deals, bringing their ownership down from 44.39% to 38.4%. In this strategic move, Kotak Mahindra Mutual Fund bought 24.01 lakh shares priced around Rs 2,171. The deal was struck with share prices fluctuating between Rs 2,171.03 and Rs 2,173.35, while Avalon Technologies closed slightly lower at Rs 2,294.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
 
 ### [Axiscades Technologies rises 5% as Sunil Singhania's Abakkus buys 3.03% stake](https://economictimes.indiatimes.com/markets/stocks/news/axiscades-technologies-rises-5-as-sunil-singhanias-abakkus-buys-3-03-stake/articleshow/134584833.cms)
 Axiscades Technologies shares rose on Wednesday after Abakkus Asset Manager bought a 3.03% stake for around Rs 235 crore through a block deal. Kotak Mahindra Mutual Fund also picked up a 4.89% stake. Promoter Jupiter Capital sold a 10.69% stake for Rs 829.72 crore in the transaction.
@@ -62,11 +97,6 @@ Axiscades Technologies shares rose on Wednesday after Abakkus Asset Manager boug
 Avalon Technologies shares sharply on Wednesday after an Rs 883 crore block deal involving 6.06% of the company’s equity. Three promoter entities were reported to be the likely sellers. The transaction is estimated to be worth between Rs 861.9 crore and Rs 922 crore.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
-
-### [Sun Pharma plans  ₹10,000 crore bond sale to refinance Organon acquisition loan: Report](https://www.livemint.com/companies/news/sun-pharma-plans-rs-10-000-crore-bond-sale-to-refinance-organon-acquisition-loan-report-11790695336859.html)
-The country's largest drugmaker by market capitalisation closed a syndication of a near-$12 billion, 18-month bridge loan earlier this year for Organon's acquisition. The syndication also included State Bank of India, the country's largest lender by assets.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-29
 
 ### [Tata Sons merger proposal faces questions from Tata Trusts trustees: Report](https://www.livemint.com/companies/news/tata-sons-merger-proposal-faces-questions-from-tata-trusts-trustees-report-11790752220173.html)
 Trustees of Tata Trusts are questioning a proposed merger involving Tata Sons that could prevent a public listing. They claim no board resolution has approved the merger, and the Sir Ratan Tata Trust is barred from meetings by the Charity Commissioner amid regulatory concerns.
@@ -83,10 +113,15 @@ Paramount is seeking to raise $32 billion from a financing package that includes
 
 **Source:** Mint - Pharma  **Date:** 2026-09-30
 
-### [KKR buys majority stake in Cisternina Logistics](https://www.livemint.com/companies/news/kkr-buys-majority-stake-in-cisternina-logistics-11790694076134.html)
-The KKR investment will support Cisternina’s proposed acquisition of Ganesh Benzoplast Ltd’s liquid storage terminal and rail business, as well as its expansion through further inorganic plans and the development of new storage infrastructure across India.
+### [ASK expands asset-management business with SageOne buy](https://www.livemint.com/companies/news/ask-expands-asset-management-business-with-sageone-buy-11790772405053.html)
+Though the companies did not disclose the transaction's financial details, the deal size is likely in the range of ₹2,000 crore (approximately $200 million).
 
-**Source:** Mint - Pharma  **Date:** 2026-09-29
+**Source:** Mint - Pharma  **Date:** 2026-09-30
+
+### [Chandra, Venu didn't inform Tata Sons board of a second family firm deal](https://www.livemint.com/companies/natarajan-chandrasekaran-venu-srinivasan-family-links-tata-sons-tvs-group-11790770167917.html)
+The Karnataka government has allotted land for a ₹330-crore project proposed by Hanno One, a company owned by the family of Tata Sons chairman N Chandrasekaran. The project had business relations with the Venu Srinivasan-led automaker.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-30
 
 ### [GA-Renova Hospitals may lead race to buy American Oncology Institute](https://www.livemint.com/companies/ga-renova-hospitals-general-atlantic-american-oncology-institute-aoi-acquisition-11790740064426.html)
 A consortium of General Atlantic and Renova Hospitals is nearing a deal to acquire Siemens Healthineers’ Indian cancer-care network, potentially valuing American Oncology Institute at ₹1,200-1,500 crore.
@@ -98,8 +133,13 @@ World Labs’ sale to Advanced Micro Devices Inc. caps a rapid ascent for the tw
 
 **Source:** Mint - Pharma  **Date:** 2026-09-29
 
-### [Meesaya Murukku 2 Box Office Collection Day 5: Hiphop Tamizha Starrer Slips Further, Earns This Amount](https://www.ndtvprofit.com/business/meesaya-murukku-2-box-office-collection-day-5-hiphop-tamizha-starrer-slips-further-check-tuesday-earnings-12118631#publisher=newsstand)
-*Meesaya Murukku 2* earns Rs 2.35 crore on Day 5, taking its India net collection to Rs 19.35 crore.
+### [Biodeal Pharmaceuticals acquires Biological E facility, expands into sterile injectables](https://www.expresspharma.in/biodeal-pharmaceuticals-acquires-biological-e-facility-expands-into-sterile-injectables/)
+The manufacturing facility adds 135 million-unit annual capacity, with Carbapenem line now operational and validated under Biodeal’s ownership The post Biodeal Pharmaceuticals acquires Biological E facility, expands into sterile injectables appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-30
+
+### [iPhone Deals: Users Can Get iPhone 17 Pro For 94,490, Pro Max For 1,07,990. Here's How](https://www.ndtvprofit.com/technology/iphone-deals-users-can-get-iphone-17-pro-for-94-490-pro-max-for-1-07-990-heres-how-12121374#publisher=newsstand)
+iPhone 17 Pro is available at an effective Rs 94,490 at Croma with cashback and exchange offers.
 
 **Source:** NDTV Profit  **Date:** 2026-09-30
 
@@ -107,14 +147,19 @@ World Labs’ sale to Advanced Micro Devices Inc. caps a rapid ascent for the tw
 
 ## 💸 Corporate Actions (1)
 
-### [Akums receives DCGI approval for Colchicine 0.5 mg tablets](https://www.expresspharma.in/akums-receives-dcgi-approval-for-colchicine-0-5-mg-tablets/)
-First-time-in-India approval strengthens Akums’ presence in the growing cardiovascular therapeutics segment The post Akums receives DCGI approval for Colchicine 0.5 mg tablets appeared first on Express Pharma .
+### [Transport Corp announces key details for Rs 150 crore share buyback plan](https://economictimes.indiatimes.com/markets/stocks/news/transport-corp-announces-key-details-for-rs-150-crore-share-buyback-plan/articleshow/134595850.cms)
+Transport Corporation of India will buy back up to 15.63 lakh shares for Rs 150 crore at Rs 960 each. The tender offer has October 9, 2026 as its record date, with 15% reserved for eligible small shareholders.
 
-**Source:** Express Pharma  **Date:** 2026-09-29
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
 
 ---
 
 ## 🏭 Operations & Approvals (8)
+
+### [Nithin Kamath reveals Zerodha's leadership secret: Why the broker rarely hires outsiders for top jobs](https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-reveals-zerodhas-leadership-secret-why-the-broker-rarely-hires-outsiders-for-top-jobs/articleshow/134596089.cms)
+Zerodha founder Nithin Kamath says nearly all of the brokerage’s leaders have risen internally, with many joining early in their careers. He also discussed Zerodha’s long-term approach to social impact, questioning whether mandatory CSR spending delivers meaningful outcomes.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
 
 ### [MRPL shares tumble 5% after explosion at Mangaluru plant, thick smoke seen from refinery unit](https://economictimes.indiatimes.com/markets/stocks/news/mrpl-shares-tumble-5-after-explosion-at-mangaluru-plant-thick-smoke-seen-from-refinery-unit/articleshow/134589058.cms)
 MRPL shares fell over 5% after an explosion was reported at its Mangaluru refinery, with thick smoke seen emerging from the facility. Fire brigades and ambulances rushed to the site, while the cause remained unknown.
@@ -131,34 +176,54 @@ Power Mech Projects shares gained after securing a Rs 549.37-crore O&amp;M order
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
+### [Air France-KLM says it won't split long-haul operations between Mumbai, Navi Mumbai airports](https://www.livemint.com/companies/news/air-france-klm-says-it-wont-split-long-haul-operations-between-mumbai-navi-mumbai-airports-11790771660912.html)
+The stance deepens an ongoing stand-off between Adani Airport and airlines, as the country’s second-largest airport operator prepares to redevelop Mumbai’s existing airport and seeks to redistribute capacity.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-30
+
+### [DoorDash, which inspired Swiggy-Zomato, comes to India; looks to create 3,000 jobs](https://www.livemint.com/companies/news/doordash-which-inspired-swiggy-zomato-comes-to-india-looks-to-create-3-000-jobs-11790763807628.html)
+DoorDash launched its first Indian office in Hyderabad, starting with 500 employees and planning to grow to over 3,000.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-09-30
+
 ### [Who is Anjali Sardana? How 23-year-old built Pronto into a  ₹2,000 crore startup](https://www.livemint.com/companies/people/who-is-anjali-sardana-how-the-23-year-old-built-pronto-into-a-2-000-crore-startup-11790755161209.html)
 Anjali Sardana launched Pronto in April 2025 to bring technology and structure to India’s informal domestic-services market. Within months, the startup scaled from 170 daily bookings in Gurugram to more than 18,000 and reached a reported valuation of around $202 million.
 
 **Source:** Mint - Pharma  **Date:** 2026-09-30
 
-### [CPP Investments invests  ₹3,000 cr in Prestige Hospitality Ventures](https://www.livemint.com/companies/cpp-investments-invests-3-000-cr-prestige-hospitality-ventures-11790701463810.html)
-Canada Pension Plan Investment Board has acquired a 27% stake in Prestige Hospitality Ventures for ₹3,000 crore, marking its first direct investment in India's hospitality sector to support expansion, following Prestige's withdrawal of its planned IPO.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-29
-
-### [Faster launches, more job cuts? New Apple CEO John Ternus pushes for sweeping changes](https://www.livemint.com/companies/news/faster-launches-more-job-cuts-new-apple-ceo-john-ternus-pushes-for-sweeping-changes-11790702200603.html)
-Apple CEO John Ternus plans to speed up product development by launching more frequently and reducing management layers. Key changes include moving product launches throughout the year.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-29
-
-### [Expanding innovative portfolio may drive gains for Sun Pharma stock - Business Standard](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONjNsVzhJc3g0QjkzcUhnalA0TmprWVE2U3dMRDcyOHpXSktGXzVBSzVRallfVTRyZW8zSlpwazctNTZZQzZtY0gybHd6cU9zU0ZNOWR5UEJnd3Y1SFpyOEZ2ekJyS29LVkZITFByQ1o5LXBoTW1rdndwU1d1N2toaHdyWFJOWDVIb2ppWlJ0SUZmWHlHMlN6VWQ1UFBEN0Q1VF9WTmcxUi1YMW5SZlk0eV9uYm1RSnZNck5ERDRZWm0tM0VRX2RsQkJsM09RM3Jma25RcNIB1AFBVV95cUxONjNsVzhJc3g0QjkzcUhnalA0TmprWVE2U3dMRDcyOHpXSktGXzVBSzVRallfVTRyZW8zSlpwazctNTZZQzZtY0gybHd6cU9zU0ZNOWR5UEJnd3Y1SFpyOEZ2ekJyS29LVkZITFByQ1o5LXBoTW1rdndwU1d1N2toaHdyWFJOWDVIb2ppWlJ0SUZmWHlHMlN6VWQ1UFBEN0Q1VF9WTmcxUi1YMW5SZlk0eV9uYm1RSnZNck5ERDRZWm0tM0VRX2RsQkJsM09RM3Jma25RcA?oc=5)
-Expanding innovative portfolio may drive gains for Sun Pharma stock &nbsp;&nbsp; Business Standard
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-09-29
-
-### [EIH Stock Rally Ahead? Axis Capital Flags 12-Year Low Valuation, Reviving Pipeline — Check Target Price](https://www.ndtvprofit.com/markets/eih-stock-rally-ahead-axis-capital-flags-12-year-low-valuation-reviving-pipeline-check-target-price-12118977#publisher=newsstand)
-After a prolonged period of limited expansion, Axis Capital expects total room additions to grow at a 9% CAGR between FY26 and FY31, broadly in line with peers.
+### [US FTC Launches Sweeping Probe Into OpenAI, Anthropic, Other AI Labs To Assess Tech Dangers](https://www.ndtvprofit.com/business/us-ftc-launches-sweeping-probe-into-openai-anthropic-other-ai-labs-to-assess-tech-dangers-12121283#publisher=newsstand)
+The probe could give a closer look at how leading AI companies manage potential risks.
 
 **Source:** NDTV Profit  **Date:** 2026-09-30
 
 ---
 
-## 📉 Analyst & Brokerage Calls (12)
+## 📉 Analyst & Brokerage Calls (17)
+
+### [Market wrap: Kotak Mahindra Bank, InterGlobe, Apollo Hospital, Max Healthcare top gainers and losers on Nifty and Sensex on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-mahindra-bank-interglobe-apollo-hospital-max-healthcare-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134593289.cms)
+Indian equities extended their decline on Wednesday, with Nifty slipping below 22,650 as selling pressure persisted at higher levels. Healthcare stocks led the losses, while banks and realty stocks outperformed. Kotak Mahindra Bank, InterGlobe and ICICI Bank were among the top gainers, while Apollo Hospitals and Max Healthcare led the decliners.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [Ahead of Market: 10 things that will decide stock market action on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms)
+Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highlighted crude prices, inflation and monetary policy uncertainty.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [FII selling worsens; foreign investors pull out Rs 26,000 crore from Indian equities in three days](https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms)
+Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September’s market correction. High crude prices, elevated US bond yields and a weaker rupee pressured equities, while analysts said selective opportunities are emerging across largecaps.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [Market Trading Guide: JM Financial, IDFC First Bank among 5 stock recommendations for Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jm-financial-idfc-first-bank-among-5-stock-recommendations-for-thursday/slideshow/134598185.cms)
+Analysts recommend five stocks for Thursday—JM Financial, IDFC First Bank, Clean Science, City Union Bank and BEML—citing technical signals and support levels. Cautious sentiment persists amid higher oil prices, elevated bond yields, inflation concerns and uncertainty over global monetary policy.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
+
+### [Tata Group stock! BofA turns bullish on Trent, initiates coverage with Buy, pegs 17% upside](https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stock-bofa-turns-bullish-on-trent-initiates-coverage-with-buy-pegs-17-upside/articleshow/134595513.cms)
+BofA Securities initiated coverage on Trent with a Buy rating and Rs 3,075 price target, citing its differentiated retail model, Zudio and Westside growth, integrated technology, supply chain capabilities and long-term market share opportunities.
+
+**Source:** Economic Times - Markets  **Date:** 2026-09-30
 
 ### [Diwali stock picks: Urban Company among 5 stock ideas from Ambareesh Baliga for up to 38% upside](https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-urban-company-among-5-stock-ideas-from-ambareesh-baliga-for-up-to-38-upside/slideshow/134589994.cms)
 Baliga has set a target price of Rs 3,420 for Endurance Technologies, compared with its current market price of Rs 2,688, implying an upside of nearly 27%.
@@ -195,6 +260,11 @@ On their debut in the Nifty 50 index, BSE shares saw a significant decline of ab
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
+### [Cremica Foods buys back Kroll stake, plans IPO at  ₹2,000 crore valuation](https://www.livemint.com/companies/news/cremica-foods-ipo-mrs-bectors-food-specialities-kroll-fmcg-industry-india-11790758658253.html)
+Cremica Foods repurchased 35% from Kroll, setting the stage for a public listing next year valued at ₹1,500-2,000 crore. Now largely family-owned, the company expects ₹450 crore in sales this fiscal year.
+
+**Source:** Mint - Pharma  **Date:** 2026-09-30
+
 ### [Why the Mistrys want to unlock their family silver from Tata Sons](https://www.livemint.com/companies/news/sp-group-tata-sons-stake-listing-11790742711748.html)
 &amp;nbsp;The SP group’s Mistrys own 18.37% of the Tata group holding company, a fortune that has been difficult to monetise. Now debt, family history and a contentious listing have put that prized stake at the centre of a reckoning.
 
@@ -210,32 +280,33 @@ The proposed Tata Sons restructuring, which will see the holding company absorb 
 
 **Source:** Mint - Pharma  **Date:** 2026-09-30
 
-### [‘Dents Lindt’s reputation’: Analyst reacts as Swiss chocolate company lowers prices for Christmas](https://www.livemint.com/companies/news/dents-lindt-s-reputation-analyst-reacts-as-swiss-chocolate-company-lowers-prices-for-christmas-11790684078653.html)
-Lindt plans to reduce chocolate prices due to weak consumer confidence and a revised sales outlook of just 0-2% growth. The CEO announced Christmas price cuts, fearing the company’s reputation may be affected by the second sales-growth guidance reduction this year.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-29
-
-### [Stock Market Today Live: Sensex Falls 600 Points From Day's High, Nifty Near 22,600; Pharma, Metals Drag](https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-brent-crude-oil-prices-today-12117467#publisher=newsstand)
-Stock Market Today Live Updates: Analysts believe the market bias is cautiously positive, but the undertone stays subdued while the Nifty 50 trades below 22,800. The immediate support for the index sits at 22,500, while a break would expose the 22,200 level.
+### [Moderna Shares Plummet 8% As Citi Bear Call Triggers Selloff](https://www.ndtvprofit.com/markets/moderna-shares-plummet-8-as-citi-bear-call-triggers-selloff-12121426#publisher=newsstand)
+The downgrade also carries significance because Moderna had previously attracted only two Sell ratings among roughly two dozen analysts covering the stock.
 
 **Source:** NDTV Profit  **Date:** 2026-09-30
 
 ---
 
-## 📰 Industry & Policy News (23)
+## 📰 Industry & Policy News (21)
 
 ### [Hospital stocks fall up to 6%: Apollo, Fortis, KIMS tumble as SC questions drug mark-ups](https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-fall-up-to-6-apollo-fortis-kims-tumble-as-sc-questions-drug-mark-ups/articleshow/134589671.cms)
 Hospital stocks came under pressure after the Supreme Court raised concerns over steep mark-ups on medicines sold through corporate hospitals.
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
-### [Divis Labs Share Price Live Updates: Divis Labs Daily Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-30-sep-2026/liveblog/134579814.cms)
+### [PB Fintech, Wipro among  8 stocks that hit 52-week low and slipped up to 45% in a month](https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-wipro-among-8-stocks-that-hit-52-week-low-and-slipped-up-to-45-in-a-month/slideshow/134596451.cms)
+Eight BSE 100 stocks hit fresh 52-week lows as the Sensex fell 49 points to 72,480. PB Fintech, Havells India, Wipro, Britannia Industries, Tata Consumer Products, Godrej Consumer Products, Hindustan Unilever and ONGC recorded new annual lows.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Market Position Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-30-sep-2026/liveblog/134579503.cms)
+### [GIFT City eyes direct listings without IPO to deepen equity market, says IFSCA's Pradeep Ramakrishnan](https://economictimes.indiatimes.com/markets/stocks/news/gift-city-eyes-direct-listings-without-ipo-to-deepen-equity-market-says-ifscas-pradeep-ramakrishnan/articleshow/134593611.cms)
+IFSCA plans to introduce a direct-listing framework at GIFT City within months, allowing companies to list shares without traditional IPOs. The move aims to deepen GIFT IFSC’s equity market, complementing its growing bond, overseas investment and sustainable finance ecosystem.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Market Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-30-sep-2026/liveblog/134579344.cms)
+### [Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-49-points-nifty-ends-below-22650-as-market-continues-to-bleed-what-lies-ahead/articleshow/134590388.cms)
+The Indian stock market saw further declines as the Sensex dipped nearly 49 points while the Nifty sank around 96 points by session's end. Rising bond yields spooked investors, dampening market sentiment. Yet, the Nifty Midcap 100 and Smallcap 100 managed to rise by 0.3%, showcasing a surprising resilience in the broader market despite the downturn in leading indices.
+
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
 ### [Can NSE shares trade on its own platform? Sebi chief says no panel considering self-trading in exchange shares](https://economictimes.indiatimes.com/markets/stocks/news/can-nse-shares-trade-on-its-own-platform-sebi-chief-says-no-panel-considering-self-trading-in-exchange-shares/articleshow/134586236.cms)
@@ -258,7 +329,7 @@ Indian shares traded mixed as easing oil prices supported sentiment, while surgi
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv ends the trading session at Rs 1727.9](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134581429.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134581429.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
 ### [5 SME IPOs to list today: Liqvd Digital, Unitec Fibres among most subscribed issues](https://economictimes.indiatimes.com/markets/stocks/news/5-sme-ipos-to-list-today-liqvd-digital-unitec-fibres-among-most-subscribed-issues/articleshow/134580847.cms)
@@ -266,10 +337,10 @@ On September 30, investors will witness the debut of five small and medium-sized
 
 **Source:** Economic Times - Markets  **Date:** 2026-09-30
 
-### [FIIs dump telecom for 8th straight month, outflows cross Rs 32,000 crore. Are stocks set for rebound?](https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-telecom-for-8th-straight-month-outflows-cross-rs-32000-crore-are-stocks-set-for-rebound/articleshow/134578716.cms)
-Foreign portfolio investors have dumped Indian telecom stocks for the eighth consecutive month, pulling out over Rs 32,000 crore in CY26. Heavy 5G capex, delayed tariff hikes, and legal dues weigh on cash flows, leaving market participants questioning if a stock rebound is near.
+### [‘We weren't ready’: Inside Adam Neumann’s honest admission on WeWork’s failed IPO after $47 billion valuation](https://www.livemint.com/companies/news/we-werent-ready-inside-adam-neumann-s-honest-admission-on-wework-s-failed-ipo-after-47-billion-valuation-11790770421462.html)
+WeWork co-founder Adam Neumann reflected on the company's rushed IPO attempt in 2019. He acknowledged a shift from its original community-building mission to a profit focus, leading to significant losses and corporate governance issues. Neumann resigned as CEO after the company withdrew IPO plans.
 
-**Source:** Economic Times - Markets  **Date:** 2026-09-30
+**Source:** Mint - Pharma  **Date:** 2026-09-30
 
 ### [OpenAI to seek $30 billion in fresh funding at a valuation of $1.4 trillion amid growing AI risks debate](https://www.livemint.com/companies/news/openai-to-seek-30-billion-in-fresh-funding-at-a-valuation-of-1-4-trillion-amid-growing-ai-risks-debate-11790743363349.html)
 OpenAI is seeking $30 billion in fresh funding at a valuation of about $1.4 trillion as it delays its IPO plans. The move comes amid growing competition with Anthropic and increasing scrutiny over AI safety risks.
@@ -301,33 +372,23 @@ Jeevan Kasara, Chairman of the Board, STERIS Healthcare, believes India’s next
 
 **Source:** Express Pharma  **Date:** 2026-09-30
 
+### [Beyond three validation batches: Building a lifecycle approach for Indian OSD manufacturing](https://www.expresspharma.in/beyond-three-validation-batches-building-a-lifecycle-approach-for-indian-osd-manufacturing/)
+Sri Harsha Chakrapani, Pharmaceutical Process Engineer and Independent Researcher highlights the need for pharma manufacturers to move from batch-based validation to a lifecycle approach, with continued process verification, risk-based monitoring and ongoing process control throughout commercial manufacturing. The post Beyond three validation batches: Building a lifecycle approach for Indian OSD manufacturing appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-09-30
+
 ### [Linux secures USD 70mn strategic investment from ChrysCapital and Tata Capital Healthcare Fund](https://www.expresspharma.in/linux-secures-usd-70mn-strategic-investment-from-chryscapital-and-tata-capital-healthcare-fund/)
 Linux is a specialty-focused domestic formulations platform with a portfolio of over 125 brands spanning ~400 SKUs. The post Linux secures USD 70mn strategic investment from ChrysCapital and Tata Capital Healthcare Fund appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-09-30
 
-### [Sun TV Share Price On A September Sprint: Up Over 30% In A Month, What's Fueling The Rally?](https://www.ndtvprofit.com/markets/sun-tv-share-price-on-a-september-sprint-up-over-30-in-a-month-whats-fueling-the-rally-12118351#publisher=newsstand)
-Sun TV has a market capitalisation of around Rs 21,000 crore, making the valuation of its cricket and core television businesses an important part of how investors assess the stock.
+### [Aurobindo's CuraTeQ Biologics Reports Positive Phase 3 Results for Omalizumab Biosimilar - scanx.trade](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmg3UGNPRUNfV0lRVVFlSXRVTi12MUhtT0l5MlVNT1NmNUl6SVNSSXc4d0hYSG82eVY1d0VyZjlBb1pRc2RaVnl4UEM2aWdGNmRxVzZadFlEWDJWU3dQcm5EQVIwRWhaOE9hYUJQeWM1MFpmeGdtR2duMWVveDlwcWp2RzhjWEQwRXBjZDROVlZiNGduTFJlbXdPU2w2bUNmLWdma1ctTnV1X04xTWpfSHlaZG5CVk1IVGtwOWdoQlYxby1KejZ6dnJhX2hoTDRCa0ZvaFRB?oc=5)
+Aurobindo's CuraTeQ Biologics Reports Positive Phase 3 Results for Omalizumab Biosimilar &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-09-30
+**Source:** GNews - Aurobindo  **Date:** 2026-09-29
 
-### [BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50](https://www.ndtvprofit.com/markets/bse-share-price-falls-nearly-4-despite-inclusion-in-nifty-50-12119145#publisher=newsstand)
-BSE share price has been consolidating within the Rs 3,0753,308 range since mid-September.
-
-**Source:** NDTV Profit  **Date:** 2026-09-30
-
-### [Drishyam 3: The Conclusion Advance Booking Sees Strong Response, Crosses Rs 25.5-Crore Gross](https://www.ndtvprofit.com/business/drishyam-3-the-conclusion-advance-booking-sees-strong-response-crosses-rs-25-50-crore-gross-12119013#publisher=newsstand)
-The third film, Drishyam: The Conclusion, brings back Ajay Devgn as Vijay Salgaonkar, who has managed to protect his family from the law in the first two instalments.
-
-**Source:** NDTV Profit  **Date:** 2026-09-30
-
-### [If You Invested In Wipro 26 Years Ago, You'd Be Sitting On A Loss. Here's Why](https://www.ndtvprofit.com/markets/if-you-invested-in-wipro-26-years-ago-youd-be-sitting-on-a-loss-heres-why-12118724#publisher=newsstand)
-BSE has replaced Wipro in the country's front-line stock index - Nifty 50.
-
-**Source:** NDTV Profit  **Date:** 2026-09-30
-
-### [Asian Games 2026: Kapil Pokhariya Settles For Bronze After Uzbek Boxer Defeat](https://www.ndtvprofit.com/sports/asian-games-2026-kapil-pokhariya-settles-for-bronze-after-uzbek-boxer-defeat-12118908#publisher=newsstand)
-Kapil's bronze came on a day when Priya Ghanghas also secured a boxing bronze for India.
+### [OpenAI Unveils Always-On 'Dots' Agents, Cheaper GPT-6.1 Sol Model At DevDay 2026](https://www.ndtvprofit.com/technology/openai-unveils-always-on-dots-agents-cheaper-gpt-6-1-sol-model-at-devday-2026-12121669#publisher=newsstand)
+OpenAI said dots can connect to over 4,000 apps through its plugin ecosystem, learn a user's preferences from feedback over time, and carry out research in the background using read-only access to connected apps.
 
 **Source:** NDTV Profit  **Date:** 2026-09-30
 
