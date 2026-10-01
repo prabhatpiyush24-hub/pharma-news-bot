@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-10-01
 
-> 65 items · 2026-10-01 10:41 UTC
+> 60 items · 2026-10-01 18:00 UTC
 
-## 💰 Results & Financials (18)
+## 💰 Results & Financials (16)
 
 ### [Cupid shares hit fresh 52-week high as firm raises FY27 revenue, profit guidance again; multibagger stock skyrockets 617% in a year](https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-hit-fresh-52-week-high-as-firm-raises-fy27-revenue-profit-guidance-again-multibagger-stock-skyrockets-617-in-a-year/articleshow/134607835.cms)
 Cupid shares hit a 52-week high after raising its FY27 guidance for the second time in two weeks, targeting Rs 800 crore revenue and Rs 250 crore net profit. Driven by strong domestic and international demand, the multibagger stock has surged 617% over the past year.
@@ -23,16 +23,6 @@ Jefferies has maintained a Buy rating on six hospital stocks, including Apollo H
 Jefferies indicates a modest growth outlook for IT companies in Q2 FY27, primarily fueled by acquisitions. Large IT firms are predicted to struggle, anticipating a mere 0.5% QoQ growth. Stocks such as TCS, Wipro, and HCL Tech are rated as underperforming with significant downside risks. In contrast, Infosys holds a steady hold rating with minimal upside, while mid-sized firms are expected to excel compared to their larger counterparts.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
-
-### [From cigarettes to protein bars: ITC's  ₹900 cr Yoga Bar bet as FMCG giant taps India's health-food boom](https://www.livemint.com/companies/news/from-cigarettes-to-protein-bars-itcs-900-cr-yoga-bar-bet-as-fmcg-giant-taps-indias-health-food-boom-11790760872577.html)
-ITC has acquired the remaining 52.5% stake in Sproutlife Foods for ₹645 crore, bringing its total investment to around ₹900 crore. The move aligns with ITC's strategy to enhance its FMCG portfolio, as Sproutlife's revenue reached ₹452 crore in FY26.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
-
-### [Goldiam’s Origem targets  ₹600-800 crore in revenue over five years](https://www.livemint.com/companies/news/goldiams-origem-targets-600-800-crore-in-revenue-over-five-years-11790746488496.html)
-Over the next four to five years, Goldiam aims to scale B2B revenue to ₹1,500-2,000 crore, alongside Origem’s growth, building towards a combined business of about ₹2,500 crore.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
 
 ### [Fortis, Apollo, other hospital stocks slump up to 10% in 2 days after SC questions steep markups. Buying opportunity?](https://economictimes.indiatimes.com/markets/stocks/news/fortis-apollo-other-hospital-stocks-slump-up-to-10-in-2-days-after-sc-questions-steep-markups-buying-opportunity/articleshow/134608717.cms)
 Hospital stocks extended losses for a second session after the Supreme Court questioned steep markups on cancer drugs and raised concerns over hospitals requiring patients to buy medicines from their own or designated pharmacies.
@@ -84,19 +74,24 @@ On September 30, three Nifty500 stocks gained over 5% and appeared on StockEdge�
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
 
+### [Accenture expects higher AI spending by clients as token costs fall](https://www.livemint.com/companies/accenture-expects-higher-ai-spending-by-clients-as-token-costs-fall-tcs-infosys-hcl-wipro-11790863191226.html)
+Accenture's earnings cheered investors, with the company’s shares rising 22% on the New York Stock Exchange. Shares of Infosys and Wipro followed as well, gaining 9% and 8%.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-01
+
 ### [Acrotech Biopharma launches ADQUEY in US to establish dermatology business](https://www.expresspharma.in/acrotech-biopharma-launches-adquey-in-us-to-establish-dermatology-business/)
 Dedicated Acrotech dermatology division established to support healthcare professionals and facilitate patient access The post Acrotech Biopharma launches ADQUEY in US to establish dermatology business appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-01
 
-### [Baththa Box Office Collection Day 1: Vijay Sethupathi-Starrer Opens On A Positive Note](https://www.ndtvprofit.com/lifestyle/baththa-box-office-collection-day-1-vijay-sethupathi-starrer-opens-on-a-positive-note-12124193#publisher=newsstand)
-Baththa was released in theatres on October 1, 2026.
-
-**Source:** NDTV Profit  **Date:** 2026-10-01
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (10)
+## 🤝 Deals, M&A & Partnerships (9)
+
+### [RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%](https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms)
+The Reserve Bank of India (RBI) on Thursday finalised its July proposal to simplify bank shareholding rules, allowing eligible mutual funds, insurance companies and pension funds to seek one-time approval for subsequent acquisitions of major shareholding of up to 10 per cent in the same bank.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-01
 
 ### ['If you don't know Ynon yet…': How Paramount's David Ellison introduced new co-CEO to employees, report reveals 'memo'](https://www.livemint.com/companies/people/if-you-dont-know-ynon-yet-how-paramounts-david-ellison-introduced-new-co-ceo-to-employees-report-reveals-memo-11790846061301.html)
 Paramount Skydance's David Ellison said that former Mattel Inc. chief Ynon Kreiz will be co-CEO of the combined companies after completing the pending $110 billion acquisition of Warner Bros. Discovery Inc.
@@ -128,73 +123,63 @@ The deal gives SUJÁN a foothold in Zambia’s Lower Zambezi National Park, a bi
 
 **Source:** Mint - Pharma  **Date:** 2026-09-30
 
-### [Scotch whisky gets cheaper? Johnnie Walker, J&amp;B prices fall 10-15% after India-UK trade agreement, says report](https://www.livemint.com/companies/news/scotch-whisky-gets-cheaper-johnnie-walker-j-b-prices-fall-10-15-after-india-uk-trade-agreement-says-report-11790787929321.html)
-Scotch whisky prices in India have reportedly fallen 10-15% after the India-UK trade deal cut tariffs on British whisky. Johnnie Walker Black Label and J&amp;amp;B are among brands seeing price cuts in key states, as per the report.
+### ['Xbox Not For Sale': CEO Asha Sharma Denies Divestment Reports](https://www.ndtvprofit.com/business/xbox-is-not-for-sale-ceo-asha-sharma-denies-divestment-reports-12126209#publisher=newsstand)
+Asha Sharma
 
-**Source:** Mint - Pharma  **Date:** 2026-09-30
+**Source:** NDTV Profit  **Date:** 2026-10-01
 
-### [ASK expands asset-management business with SageOne buy](https://www.livemint.com/companies/news/ask-expands-asset-management-business-with-sageone-buy-11790772405053.html)
-Though the companies did not disclose the transaction's financial details, the deal size is likely in the range of ₹2,000 crore (approximately $200 million).
+### [ISL Gets New Title Sponsor, League Renamed MG Indian Super League](https://www.ndtvprofit.com/sports/football-isl-gets-new-title-sponsor-league-renamed-mg-indian-super-league-12126465#publisher=newsstand)
+The ISL has been without a title sponsor for the last three seasons, making the partnership withMG Motor India a significant development ahead of the 2026-27 campaign.
 
-**Source:** Mint - Pharma  **Date:** 2026-09-30
-
-### [Chandra, Venu didn't inform Tata Sons board of a second family firm deal](https://www.livemint.com/companies/natarajan-chandrasekaran-venu-srinivasan-family-links-tata-sons-tvs-group-11790770167917.html)
-The Karnataka government has allotted land for a ₹330-crore project proposed by Hanno One, a company owned by the family of Tata Sons chairman N Chandrasekaran. The project had business relations with the Venu Srinivasan-led automaker.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
-
-### [Biodeal Pharmaceuticals acquires Biological E facility, expands into sterile injectables](https://www.expresspharma.in/biodeal-pharmaceuticals-acquires-biological-e-facility-expands-into-sterile-injectables/)
-The manufacturing facility adds 135 million-unit annual capacity, with Carbapenem line now operational and validated under Biodeal’s ownership The post Biodeal Pharmaceuticals acquires Biological E facility, expands into sterile injectables appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-30
+**Source:** NDTV Profit  **Date:** 2026-10-01
 
 ---
 
-## 🏭 Operations & Approvals (8)
+## 🏭 Operations & Approvals (7)
+
+### [Sebi revamps Document Number Verification System, adds subject matter as mandatory field](https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-document-number-verification-system-adds-subject-matter-as-mandatory-field/articleshow/134621918.cms)
+Sebi has revamped its Document Number Verification System, making a letter’s subject matter mandatory for authentication. The upgraded system aligns with Sebi’s E-Office format and lets recipients verify physical letters, notices and show-cause notices issued by the regulator.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-01
 
 ### [Bajaj Auto shares crash 9%, M&amp;M hits 52-week low after September auto sales data. What went wrong?](https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-shares-tumble-6-mm-hits-52-week-low-after-september-auto-sales-data-what-went-wrong/articleshow/134608557.cms)
 Shares of Bajaj Auto and Mahindra &amp; Mahindra (M&amp;M) came under pressure after their September auto sales data, with Bajaj Auto falling nearly 9% and M&amp;M hitting a fresh 52-week low. Bajaj Auto reported a 12% decline in domestic two-wheeler sales, although a 34% jump in exports lifted overall two-wheeler sales by 5% year-on-year to 4.51 lakh units.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
 
+### [Anup Bagchi takes charge as HDFC Bank MD and CEO: Tracing the banking veteran’s career and achievements at ICICI](https://www.livemint.com/companies/people/anup-bagchi-takes-charge-as-hdfc-bank-md-and-ceo-tracing-the-banking-veteran-s-career-and-achievements-at-icici-11790865098320.html)
+Anup Bagchi has been appointed as HDFC Bank's MD and CEO after RBI approval. He faces challenges in increasing core income and reducing product mis-selling. Previously, he was CEO of ICICI Prudential Life Insurance and has extensive experience with the ICICI Group since 1992.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-01
+
 ### [Ravi, Shashi, Rewant Ruia net worth: Meet Essar family behind Trump’s ‘largest’ steel plant that has Russia link](https://www.livemint.com/companies/people/ravi-shashi-rewant-ruia-net-worth-meet-essar-family-behind-trump-s-largest-steel-plant-that-has-russia-link-11790834185711.html)
 At the White House on Wednesday, Essar Group co-founder Ravi Ruia announced an $18 billion investment to build America’s largest steel plant in Iowa.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-01
-
-### [From  ₹10 crore seed funding to 17x sales growth: How a 16-year-old founder sold 1 unit every 2 minutes | Startup story](https://www.livemint.com/companies/start-ups/from-10-crore-seed-funding-to-17x-sales-growth-how-16-year-old-founder-sold-1-unit-every-2-minutes-startup-story-11790786080726.html)
-SAMMMM is a growing self-care brand, targeting Gen Z and Gen Alpha consumers. Launched in 2005, it was co-founded by a father-daughter duo.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
-
-### [Air France-KLM says it won't split long-haul operations between Mumbai, Navi Mumbai airports](https://www.livemint.com/companies/news/air-france-klm-says-it-wont-split-long-haul-operations-between-mumbai-navi-mumbai-airports-11790771660912.html)
-The stance deepens an ongoing stand-off between Adani Airport and airlines, as the country’s second-largest airport operator prepares to redevelop Mumbai’s existing airport and seeks to redistribute capacity.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
 
 ### [When the lab talks to the plant](https://www.expresspharma.in/when-the-lab-talks-to-the-plant/)
 Lab informatics is changing how pharma companies transfer knowledge, control quality and move from development to commercial manufacturing, writes Swati Rana The post When the lab talks to the plant appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-01
 
-### [A Tailor-Made Opportunity? India's Apparel Stocks Get A China+1 Boost — Here's Who Benefits From The Export Win](https://www.ndtvprofit.com/markets/gokaldas-pearl-global-kpr-mill-is-india-finally-winning-the-china-1-apparel-shift-which-stocks-stand-to-benefit-12123663#publisher=newsstand)
-The combined export share of Bangladesh and Vietnam rose from around 7% to more than 13% in 2025, highlighting the scale of the opportunity India has struggled to capture.
+### [Huawei Unveils Mate 90 Series, Leans On Homegrown Chip Tech Amid US Curbs](https://www.ndtvprofit.com/technology/huawei-unveils-mate-90-series-leans-on-homegrown-chip-tech-amid-us-curbs-12126530#publisher=newsstand)
+Huawei Mate 90 launched with Kirin 9050 Pro chips and HarmonyOS 7 amid US chip curbs.
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
-### [Marcellus Promises Niche Products Over 'Plain Vanilla' After Final SEBI Nod For Mutual Fund](https://www.ndtvprofit.com/markets/saurabh-mukherjea-pramod-gubbi-exclusive-marcellus-to-go-for-niche-mutual-fund-products-12124455#publisher=newsstand)
-Marcellus Investment Managers Gets SEBI Nod To Launch Mutual Fund
-
-**Source:** NDTV Profit  **Date:** 2026-10-01
-
-### [Vivo V80 Launch: Expected Price, Camera, Battery, Display, Specifications And Other Key Details](https://www.ndtvprofit.com/technology/vivo-v80-launch-expected-price-camera-battery-display-specifications-and-other-key-details-12124092#publisher=newsstand)
-The smartphone runs OriginOS 7 based on Android 17.
+### [IPO Bound: Carlsberg India Gets SEBI Approval Months After Confidential Filing](https://www.ndtvprofit.com/markets/ipo-bound-carlsberg-india-gets-sebi-approval-months-after-confidential-filing-12126818#publisher=newsstand)
+Carlsberg India Gets SEBI Approval Months After Confidential Filing
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
 ---
 
-## 📉 Analyst & Brokerage Calls (11)
+## 📉 Analyst & Brokerage Calls (10)
+
+### [US 10-year yield at 24-year high rattles Nifty, rupee and bond markets. Why is India hit hard?](https://economictimes.indiatimes.com/markets/stocks/news/us-10-year-yield-at-24-year-high-rattles-nifty-rupee-and-bond-markets-why-is-india-hit-hard/articleshow/134613973.cms)
+The US 10-year Treasury yield surged to a 24-year high, triggering a global bond sell-off and pressuring Indian equities, bonds and the rupee. Higher US borrowing costs are raising concerns over FII outflows, currency weakness, imported inflation and RBI policy. Rising crude prices are adding to the pressure on Indian markets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-01
 
 ### [8 weeks, 2,149 points gone: Nifty’s longest losing streak in 25 years raises bear market fears](https://economictimes.indiatimes.com/markets/stocks/news/8-weeks-2000-points-gone-niftys-longest-losing-streak-in-25-years-raises-bear-market-fears/articleshow/134612838.cms)
 The Nifty’s record losing streak has deepened as foreign investor outflows, elevated US bond yields, and geopolitical tensions weigh on sentiment. Analysts say markets remain sensitive to developments in the US-Iran conflict and crude prices, despite resilient domestic growth. Technicals point to a weak near-term outlook.
@@ -231,23 +216,13 @@ Apple aims to sell 6 million iPhone Duo units this year, priced at $1,999. Its s
 
 **Source:** Mint - Pharma  **Date:** 2026-09-30
 
-### [Cremica Foods buys back Kroll stake, plans IPO at  ₹2,000 crore valuation](https://www.livemint.com/companies/news/cremica-foods-ipo-mrs-bectors-food-specialities-kroll-fmcg-industry-india-11790758658253.html)
-Cremica Foods repurchased 35% from Kroll, setting the stage for a public listing next year valued at ₹1,500-2,000 crore. Now largely family-owned, the company expects ₹450 crore in sales this fiscal year.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
-
-### [Stock Market Crash LIVE: Sensex Drops Over 470 Points, Nifty 50 Below 22,500; CAS Underway](https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-brent-crude-oil-prices-today-12122884#publisher=newsstand)
-Analysts believe that the strength in the US bond yields and expectations of further weakness in the Indian large-caps might be the reason for inconsistent FII activity. With D-Street closed tomorrow, today's session will see cautious positioning ahead of the extended break, as per experts.
+### [MCX Gold Faces Rs 1.5 Lakh Resistance After Yield Spike: Key Buy And Sell Levels To Watch](https://www.ndtvprofit.com/markets/mcx-gold-faces-rs-1-5-lakh-resistance-after-yield-spike-key-buy-and-sell-levels-to-watch-12126925#publisher=newsstand)
+MCX gold October futures contract jumped 1.02% to Rs 1,47,649 per 10 grams, while MCX silver December futures contract surged 0.94% to Rs 2,25,804 per kg.
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
-### [Nifty Plunges Into Negative Territory For FY27, Down 15% Year-To-Date](https://www.ndtvprofit.com/markets/nifty-plunges-into-negative-territory-for-fy27-down-15-year-to-date-12124715#publisher=newsstand)
-The ongoing selloff has also put the Nifty on track for its eighth consecutive weekly decline, a rare streak that has occurred only a handful of times in the benchmark's history.
-
-**Source:** NDTV Profit  **Date:** 2026-10-01
-
-### [10-Year US Treasury Yield Hits 24-Year High As Global Bond Sell-Off Accelerates](https://www.ndtvprofit.com/markets/10-year-us-treasury-yield-hits-24-year-high-as-global-bond-sell-off-accelerates-12124653#publisher=newsstand)
-The yield on the 10-year Treasury yield climbed as much as six basis points to 5.34% on Thursday, crossing its 2007 peak.
+### [FPI Exodus Worsens: Fresh Rs 9,484 Crore Selloff Takes Four-Day Total To Nearly Rs 35,000 Crore](https://www.ndtvprofit.com/markets/fpi-exodus-worsens-fresh-rs-9-484-crore-selloff-takes-four-day-total-to-nearly-rs-35-000-crore-12126857#publisher=newsstand)
+On the other hand, domestic institutional investors have continued to provide a significant counterweight to the foreign selling.
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
@@ -255,13 +230,25 @@ The yield on the 10-year Treasury yield climbed as much as six basis points to 5
 
 ## 📰 Industry & Policy News (18)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Market Position](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-01-oct-2026/liveblog/134607252.cms)
+### [Kotak warns small and midcap euphoria may turn sour as investors chase quick returns](https://economictimes.indiatimes.com/markets/stocks/news/kotak-warns-small-and-midcap-euphoria-may-turn-sour-as-investors-chase-quick-returns/articleshow/134615987.cms)
+India’s stock market shows a sharp divide, with investors favouring small and midcaps despite stretched valuations while overlooking relatively attractive largecaps. Kotak Institutional Equities says price momentum and popular growth narratives are driving sentiment more than underlying value and fundamentals.
+
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Stock Update: Decline Observed](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-01-oct-2026/liveblog/134607245.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-01-oct-2026/liveblog/134607252.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Market Price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-01-oct-2026/liveblog/134606964.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-01-oct-2026/liveblog/134607245.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-01
+
+### [Bharat Dynamics among 5 capital goods stocks that hit 52-week lows and slipped up to 17% in a month](https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-capital-goods-stocks-that-hit-52-week-lows-and-slipped-up-to-17-in-a-month/slideshow/134619866.cms)
+Five capital goods stocks hit fresh 52-week lows as Sensex tumbles
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-01
+
+### [Market wrap: Infosys, HDFC Bank, Bajaj Auto, Maruti Suzuki among top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-hdfc-bank-bajaj-auto-maruti-suzuki-among-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134617786.cms)
+Indian equities extended their decline as elevated crude oil prices and multi-year high bond yields intensified concerns over the 2026–27 economic outlook. Nifty fell 0.88% and Sensex 0.79%, while broader markets weakened and India VIX climbed sharply.
+
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
 
 ### [Stock Market Holiday: Are BSE, NSE open or closed for Gandhi Jayanti tomorrow? Check upcoming market holidays](https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-are-bse-nse-open-or-closed-for-gandhi-jayanti-tomorrow-check-upcoming-market-holidays/articleshow/134613448.cms)
@@ -289,8 +276,10 @@ The government’s Rs 1.86 lakh crore PM DHARA scheme is expected to boost renew
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-01
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv closes at Rs 1730.0 with minimal change](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-01-oct-2026/liveblog/134606966.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-10-01
+### [Airtel Money targets $7 billion valuation, plans $703 million London IPO](https://www.livemint.com/companies/news/airtel-money-targets-7-billion-valuation-plans-703-million-london-ipo-11790855854063.html)
+London's stock market has shrunk over the past decade as companies have sought higher valuations elsewhere, prompting Britain to simplify listing rules in an effort to attract more issuers.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-01
 
 ### [Flydubai: 5 key facts about the UAE-based airline after Indian pilot Smit Machchhar foils alleged mid-air hijack attempt](https://www.livemint.com/companies/news/flydubai-5-key-facts-about-the-uae-based-airline-after-indian-pilot-smit-machchhar-foils-alleged-mid-air-hijack-attempt-11790835171699.html)
 Flydubai's Dubai-Tel Aviv flight faced a mid-air incident when Indian Captain Smit Machchhar was stabbed by the co-pilot. The flight descended rapidly to land safely in Tabuk.&amp;nbsp;
@@ -307,33 +296,23 @@ A new wave of mid-tier consulting firms, founded by former Big Four partners, is
 
 **Source:** Mint - Pharma  **Date:** 2026-10-01
 
-### [‘We weren't ready’: Inside Adam Neumann’s honest admission on WeWork’s failed IPO after $47 billion valuation](https://www.livemint.com/companies/news/we-werent-ready-inside-adam-neumann-s-honest-admission-on-wework-s-failed-ipo-after-47-billion-valuation-11790770421462.html)
-WeWork co-founder Adam Neumann reflected on the company's rushed IPO attempt in 2019. He acknowledged a shift from its original community-building mission to a profit focus, leading to significant losses and corporate governance issues. Neumann resigned as CEO after the company withdrew IPO plans.
-
-**Source:** Mint - Pharma  **Date:** 2026-09-30
-
 ### [9th Edition PURIFY26 – Chromatography Purification Conclave for thought provoking leadership](https://www.expresspharma.in/9th-edition-purify26-chromatography-purification-conclave-for-thought-provoking-leadership/)
 In addition to deep technical sessions, the conclave serves as a primary networking hub in India for Heads of analytical and research, scale-up, production, kilo labs, supply chain, policy makers, and academic leaders. The post 9th Edition PURIFY26 – Chromatography Purification Conclave for thought provoking leadership appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-01
 
-### [Beyond three validation batches: Building a lifecycle approach for Indian OSD manufacturing](https://www.expresspharma.in/beyond-three-validation-batches-building-a-lifecycle-approach-for-indian-osd-manufacturing/)
-Sri Harsha Chakrapani, Pharmaceutical Process Engineer and Independent Researcher highlights the need for pharma manufacturers to move from batch-based validation to a lifecycle approach, with continued process verification, risk-based monitoring and ongoing process control throughout commercial manufacturing. The post Beyond three validation batches: Building a lifecycle approach for Indian OSD manufacturing appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-09-30
-
-### [Asian Games 2026: Ganesh Mani Ratnam Wins Bronze In Individual Compound Archery](https://www.ndtvprofit.com/sports/asian-games-2026-ganesh-mani-ratnam-wins-bronze-in-individual-compound-archery-12123982#publisher=newsstand)
-The 20-year-old defeated Vietnam’s Cong Duc Dang 149-144 to win India’s first individual medal in compound archery at the ongoing Asian Games.
+### [23% Indians Believe Social Media Is 'Bad' For Democracy; Lower Than Global Average: Pew Survey](https://www.ndtvprofit.com/india/23-indians-believe-social-media-is-bad-for-democracy-lower-than-global-average-pew-survey-12126759#publisher=newsstand)
+About 51% of Indian respondents said social media has increased political divisions.
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
-### [Over Rs 10,00,00,00,00,000 Wiped Out! Sensex Crashes 1,000 Points, Nifty 50 Slips Below 22,300](https://www.ndtvprofit.com/markets/stock-market-crash-today-bse-sensex-today-nse-nifty-50-investors-market-capitalisation-lose-lakh-crore-top-gainers-losers-advance-decline-12124184#publisher=newsstand)
-Stock Market Crash
+### [Gandhi Jayanti 2026: Is October 2 A National Holiday? Check What Is Open And What Is Closed](https://www.ndtvprofit.com/india/gandhi-jayanti-2026-is-october-2-a-national-holiday-check-what-is-closed-12123637#publisher=newsstand)
+The country will observe the 157th birth anniversary of Mahatma Gandhi this year.
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
-### [Three Reasons Why Market is Crashing: Nifty Plunges Below 22,300, Sensex Down 1000 Points](https://www.ndtvprofit.com/markets/three-reasons-why-market-is-crashing-nifty-plunges-below-22-360-sensex-down-750-points-12124074#publisher=newsstand)
-Barring IT, all sectoral indices are in the red, with Auto and Media leading the losses, trading 3.87% and 2.89% lower respectively.
+### [Accenture Results Spark IT Sector Rally; Cognizant, Salesforce, IBM Surge Up To 12%](https://www.ndtvprofit.com/markets/accenture-results-spark-it-sector-rally-cognizant-salesforce-ibm-surge-up-to-12-12126224#publisher=newsstand)
+Accenture shares surged 22% after reportING stronger-than-expected fourth-quarter results and provided a positive outlook for fiscal 2027.
 
 **Source:** NDTV Profit  **Date:** 2026-10-01
 
