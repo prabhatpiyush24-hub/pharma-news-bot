@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-10-02
 
-> 33 items · 2026-10-02 10:17 UTC
+> 28 items · 2026-10-02 17:26 UTC
 
-## 💰 Results & Financials (10)
+## 💰 Results & Financials (7)
+
+### [Reliance's Andhra Pradesh massive CBG push could create 3 lakh jobs and  ₹60,000 crore in state revenue](https://www.livemint.com/companies/reliances-andhra-pradesh-massive-cbg-push-could-create-3-lakh-jobs-and-60-000-crore-in-state-revenue-11790950600765.html)
+Reliance will invest ₹1 lakh crore in Andhra Pradesh to set up CBG plants, create 3 lakh jobs and boost clean energy and agriculture.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-02
 
 ### [Gurugram coffee startup crosses  ₹1 crore in first-month revenue, plans 100+ stores by 2027](https://www.livemint.com/companies/start-ups/gurugram-coffee-startup-crosses-rs-1-crore-in-first-month-revenue-plans-100-stores-by-2027-11790876163198.html)
 Gurugram-based coffee startup, SORRY SUGAR, offers monk fruit-sweetened premixes and beverages. Currently, it has three offline stores across Delhi and Gurgaon with online presence.
@@ -29,28 +34,8 @@ EaseMyTrip founder and chairman Nishant Pitti said 'the past few days have hurt 
 
 **Source:** Mint - Pharma  **Date:** 2026-10-02
 
-### [Accenture expects higher AI spending by clients as token costs fall](https://www.livemint.com/companies/accenture-expects-higher-ai-spending-by-clients-as-token-costs-fall-tcs-infosys-hcl-wipro-11790863191226.html)
-Accenture's earnings cheered investors, with the company’s shares rising 22% on the New York Stock Exchange. Shares of Infosys and Wipro followed as well, gaining 9% and 8%.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-01
-
-### [Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth - scanx.trade](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRy1XTU4tYUFkT3pLVmlPZV9nVDFJSS1wcEw5S0FmOG5BWXdoT184SFdHZThmOHNscm54eERYU29sNkgyZ1FpSUhTc0xXX3NfRmFJRmVXakotT3Nrb3liSGhjS21MQlpzM0lrT3FkWldUeENoUUhUTXN6SXg1RW8zSkVOekltdnZvdEUyUUJMWVdqS0xaZ0RRWDJrVWRqbTZfbTkzemhrUmVKY3BNSVRvN05HNi1xUHNBSXgwYkNR?oc=5)
-Divi's Laboratories posts 65% PAT surge in Q1FY27 on strong revenue growth &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - Divi's  **Date:** 2026-10-01
-
-### [The Paradise Box Office Collection Day 8: Nani-Starrer Holds Steady Despite Minor Dip, Check Thursday Earnings](https://www.ndtvprofit.com/lifestyle/the-paradise-box-office-collection-day-8-nani-starrer-holds-steady-despite-minor-dip-check-thursday-earnings-12129046#publisher=newsstand)
-The Paradise is a Telugu period action drama directed by Srikanth Odela and produced by Sudhakar Cherukuri and Ishan Saksena.
-
-**Source:** NDTV Profit  **Date:** 2026-10-02
-
-### [Baththa Box Office Collection Day 1: Vijay Sethupathi-Starrer Sees A Modest Opening](https://www.ndtvprofit.com/lifestyle/baththa-box-office-collection-day-1-vijay-sethupathi-starrer-sees-a-modest-opening-check-thursday-earnings-12128981#publisher=newsstand)
-Baththa is a Tamil action comedy-drama set in 1986 Madras. The story follows Baththa (Vijay Sethupathi), a feared local gangster who has become distant from his family because of his violent life.
-
-**Source:** NDTV Profit  **Date:** 2026-10-02
-
-### [Why Is Accenture Betting On Palantir's Forward-Deployed Engineer Model?](https://www.ndtvprofit.com/markets/accenture-q4-earnings-global-markets-us-betting-on-palantirs-forward-deployed-engineer-model-technology-news-12128913#publisher=newsstand)
-Accenture In Focus Post Earnings
+### [Buy, Sell Or Hold: Eicher Motors, Mahindra, Pine Labs, Belrise Industries, Data Patterns, Crompton Greaves — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-eicher-motors-mahindra-pine-labs-belrise-industries-data-patterns-crompton-greaves-ask-profit-12122048#publisher=newsstand)
+Buy Sell Hold
 
 **Source:** NDTV Profit  **Date:** 2026-10-02
 
@@ -58,10 +43,10 @@ Accenture In Focus Post Earnings
 
 ## 🤝 Deals, M&A & Partnerships (5)
 
-### [RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%](https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms)
-The Reserve Bank of India (RBI) on Thursday finalised its July proposal to simplify bank shareholding rules, allowing eligible mutual funds, insurance companies and pension funds to seek one-time approval for subsequent acquisitions of major shareholding of up to 10 per cent in the same bank.
+### [David Ellison reveals new name for Paramount-Warner Bros. Discovery company: Skydance](https://www.livemint.com/companies/david-ellison-reveals-new-name-for-paramount-warner-bros-discovery-company-skydance-11790946632501.html)
+The announcement comes less than two weeks after Paramount settled an antitrust lawsuit with a group of state attorneys general that sought to block the $110 billion merger.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-01
+**Source:** Mint - Pharma  **Date:** 2026-10-02
 
 ### [Jyothy Labs has cash to buy growth. Why it isn’t rushing](https://www.livemint.com/companies/news/jyothy-labs-cash-acquisitions-pril-henkel-exo-strategy-11790911589638.html)
 With ₹997 crore in cash and no debt, Jyothy Labs could use acquisitions to rebuild its portfolio after Henkel ended its Pril and Fa licensing deal. Instead, it is betting on new products and existing brands.
@@ -78,8 +63,8 @@ Boeing's white-collar workers ratified a new contract, avoiding a labor disrupti
 
 **Source:** Mint - Pharma  **Date:** 2026-10-02
 
-### ['Raise Now, Keep Cash': Nikhil Kamath Says '100%' To Startup Funding Advice](https://www.ndtvprofit.com/business/raise-now-keep-cash-nikhil-kamath-says-100-to-startup-funding-advice-12129305#publisher=newsstand)
-Kamath's reply, a '100' emoji, signals full agreement.
+### [US Energy Push: Trump Says South Korea Deal Includes $8.4 Billion Oil Project](https://www.ndtvprofit.com/world/us-energy-push-trump-says-south-korea-deal-includes-8-4-billion-oil-project-12131002#publisher=newsstand)
+Donald Trump says South Korea deal includes $8.4 billion for US oil recovery project.
 
 **Source:** NDTV Profit  **Date:** 2026-10-02
 
@@ -94,26 +79,21 @@ Bajaj Finance plans to raise up to Rs 17,500 crore through a Rs 11,700-crore QIP
 
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (1)
 
-### [Sebi revamps Document Number Verification System, adds subject matter as mandatory field](https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-document-number-verification-system-adds-subject-matter-as-mandatory-field/articleshow/134621918.cms)
-Sebi has revamped its Document Number Verification System, making a letter’s subject matter mandatory for authentication. The upgraded system aligns with Sebi’s E-Office format and lets recipients verify physical letters, notices and show-cause notices issued by the regulator.
+### [From cars to mining trucks — BEML’s 60-ton electric mining truck marks India’s EV shift into heavy industry](https://www.livemint.com/companies/news/from-cars-to-mining-trucks-beml-s-60-ton-electric-mining-truck-marks-india-s-ev-shift-into-heavy-industry-11790952550374.html)
+The launch marks the company’s latest move to bring electric mobility technology to heavy-duty industrial applications traditionally dominated by diesel-powered equipment.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-01
-
-### [Anup Bagchi takes charge as HDFC Bank MD and CEO: Tracing the banking veteran’s career and achievements at ICICI](https://www.livemint.com/companies/people/anup-bagchi-takes-charge-as-hdfc-bank-md-and-ceo-tracing-the-banking-veteran-s-career-and-achievements-at-icici-11790865098320.html)
-Anup Bagchi has been appointed as HDFC Bank's MD and CEO after RBI approval. He faces challenges in increasing core income and reducing product mis-selling. Previously, he was CEO of ICICI Prudential Life Insurance and has extensive experience with the ICICI Group since 1992.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-01
-
-### [Election Commission Orders Drive To Enrol Left-Out, Young Voters After SIR](https://www.ndtvprofit.com/india/election-commission-of-india-orders-drive-to-enrol-left-out-young-voters-after-sir-12129036#publisher=newsstand)
-Election Commission Launches Special Drive To Enrol Left Out And Young Voters
-
-**Source:** NDTV Profit  **Date:** 2026-10-02
+**Source:** Mint - Pharma  **Date:** 2026-10-02
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (7)
+
+### [FPIs turn net sellers, pull out Rs 35,860 cr in Sep](https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-sellers-pull-out-rs-35860-cr-in-sep/articleshow/134637791.cms)
+In September, foreign portfolio investors shed a staggering Rs 35,860 crore from Indian equities, driven by global uncertainties and rising US interest rates. This selling trend persisted into October with an outflow of Rs 9,232 crore. This selling follows significant investments of Rs 49,830 crore made in July and August.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-02
 
 ### [Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than elevated oil prices](https://economictimes.indiatimes.com/markets/stocks/news/market-crash-wipes-out-rs-26-lakh-cr-in-8-weeks-why-soaring-bond-yields-may-hurt-sensex-nifty-more-than-elevated-oil-prices/articleshow/134632014.cms)
 The Sensex and Nifty have fallen for eight straight weeks, wiping out more than Rs 26 lakh crore in market capitalisation. While elevated oil prices have pressured equities, soaring bond yields, foreign outflows, a stronger dollar and tighter liquidity are adding to the selling pressure and weighing on investor sentiment.
@@ -130,6 +110,11 @@ Indian stock markets will remain closed on October 2 for Gandhi Jayanti, with tr
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-02
 
+### [SBI leads demand, snaps up 40% of Reliance Industries’  ₹13,000 crore bond issue](https://www.livemint.com/companies/news/sbi-leads-demand-snaps-up-40-of-reliance-industries-13-000-crore-bond-issue-11790945274699.html)
+The state-run bank is estimated to have bought bonds worth nearly 50 billion rupees, or about 40% of the offering, they said. The bonds were rated ‘AAA’ by rating agencies Crisil and CareEdge, and carried an annual coupon of 7.90%.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-02
+
 ### [JSW beats Tata, Ashok Leyland to corner over 1k electric bus mega govt order](https://www.livemint.com/companies/news/jsw-motor-electric-bus-tender-pm-e-bus-sewa-11790857845133.html)
 The order gives JSW a sizeable foothold in a market dominated by established bus makers and newer players such as Eka Mobility and PMI Electro Mobility.
 
@@ -140,53 +125,43 @@ Dana Walden, the president and chief creative officer of Walt Disney Co., said s
 
 **Source:** Mint - Pharma  **Date:** 2026-10-01
 
-### [The Vvaan - Force of the Forrest Box Office Collection Day 7: Sidharth Malhotra-Starrer Holds Steady](https://www.ndtvprofit.com/lifestyle/vvan-force-of-the-forrest-box-office-collection-day-7-sidharth-malhotra-starrer-holds-steady-check-thursday-earnings-12129157#publisher=newsstand)
-The Vvaan: Force of the Forrest is a Hindi fantasy thriller directed by Deepak Kumar Mishra, who makes his feature film debut with the movie.
-
-**Source:** NDTV Profit  **Date:** 2026-10-02
-
-### [Hanuman Ansh Box Office Collection Day 56: Neem Karoli Baba Biopic Holds Strong With 31.8% Jump](https://www.ndtvprofit.com/lifestyle/hanuman-ansh-box-office-collection-day-56-neem-karoli-baba-biopic-holds-strong-with-31-8-jump-check-thursday-earnings-12129258#publisher=newsstand)
-Hanuman Ansh is a Hindi religious drama based on the life and teachings of Neem Karoli Baba.
-
-**Source:** NDTV Profit  **Date:** 2026-10-02
-
-### [Stocks To Buy Or Sell: Nagaraj Shetti Of HDFC Securities Picks These Two Shares For Short-Term](https://www.ndtvprofit.com/markets/stocks-to-buy-or-sell-nagaraj-shetti-of-hdfc-securities-picks-these-two-shares-for-short-term-12129075#publisher=newsstand)
-This week's bearish trend has resulted in a record 8 weeks of consecutive declines in trot that was repeated after two decades, as per weekly timeframe chart.
-
-**Source:** NDTV Profit  **Date:** 2026-10-02
-
 ---
 
-## 📰 Industry & Policy News (6)
-
-### [Kotak warns small and midcap euphoria may turn sour as investors chase quick returns](https://economictimes.indiatimes.com/markets/stocks/news/kotak-warns-small-and-midcap-euphoria-may-turn-sour-as-investors-chase-quick-returns/articleshow/134615987.cms)
-India’s stock market shows a sharp divide, with investors favouring small and midcaps despite stretched valuations while overlooking relatively attractive largecaps. Kotak Institutional Equities says price momentum and popular growth narratives are driving sentiment more than underlying value and fundamentals.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-01
+## 📰 Industry & Policy News (7)
 
 ### [ET Alpha Wealth Summit 2.0: Decoding the new investment landscape and shift in smart money](https://economictimes.indiatimes.com/markets/stocks/news/the-macro-manifesto-decoding-the-new-world-order-re-routing-of-smart-money/articleshow/134635592.cms)
 Transformations in the global economy are reshaping how investors allocate capital and devise strategies. Geopolitical conflicts and tech rivalries are challenging conventional wisdom, leading to heightened interest in markets such as India, Southeast Asia, and the Gulf states. Strategic investments in infrastructure and commodities have gained importance. The upcoming ET Alpha Wealth Summit aims to delve into these transformative investment trends.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-02
 
-### [Bharat Dynamics among 5 capital goods stocks that hit 52-week lows and slipped up to 17% in a month](https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-capital-goods-stocks-that-hit-52-week-lows-and-slipped-up-to-17-in-a-month/slideshow/134619866.cms)
-Five capital goods stocks hit fresh 52-week lows as Sensex tumbles
+### [Anthropic warns government views of its AI could affect business ahead of IPO](https://www.livemint.com/companies/news/anthropic-warns-government-views-of-its-ai-could-affect-business-ahead-of-ipo-11790952178018.html)
+Anthropic has warned that government attitudes towards the company and its AI technology could hurt its business, including relationships with customers and partners, as it prepares for a potential IPO that could value it at $2 trillion.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-01
-
-### [Market wrap: Infosys, HDFC Bank, Bajaj Auto, Maruti Suzuki among top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-hdfc-bank-bajaj-auto-maruti-suzuki-among-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134617786.cms)
-Indian equities extended their decline as elevated crude oil prices and multi-year high bond yields intensified concerns over the 2026–27 economic outlook. Nifty fell 0.88% and Sensex 0.79%, while broader markets weakened and India VIX climbed sharply.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-01
+**Source:** Mint - Pharma  **Date:** 2026-10-02
 
 ### [Anthropic IPO may come in November | Why its $2 trillion valuation is raising eyebrows](https://www.livemint.com/companies/news/anthropic-ipo-may-come-in-november-why-its-2-trillion-valuation-is-raising-eyebrows-11790902031997.html)
 Anthropic PBC, the AI company behind Claude, may start marketing its IPO the week of 9 November, aiming for a public debut by year-end. Investors estimate its valuation could reach between $1.8 trillion and $2 trillion, despite the company being unprofitable.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-02
 
-### [Airtel Money targets $7 billion valuation, plans $703 million London IPO](https://www.livemint.com/companies/news/airtel-money-targets-7-billion-valuation-plans-703-million-london-ipo-11790855854063.html)
-London's stock market has shrunk over the past decade as companies have sought higher valuations elsewhere, prompting Britain to simplify listing rules in an effort to attract more issuers.
+### [Cipla Disappointed By Maharashtra FDA Action, Says Pune Warehouse Complies With Protocols](https://www.ndtvprofit.com/india/cipla-disappointed-by-maharashtra-fda-action-says-pune-warehouse-complies-with-protocols-12131408#publisher=newsstand)
+Cipla calls Maharashtra FDA action disappointing after Pune warehouse licence cancellation.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-01
+**Source:** NDTV Profit  **Date:** 2026-10-02
+
+### [Maharashtra FDA Cancels Cipla Pune Warehouse Drug Licences Over Violations](https://www.ndtvprofit.com/india/maharashtra-fda-cancels-cipla-pune-warehouse-drug-licences-over-violations-12130649#publisher=newsstand)
+Maharashtra FDA cancels Cipla Pune warehouse licences over Reactin Plus and other violations.
+
+**Source:** NDTV Profit  **Date:** 2026-10-02
+
+### [RBI Rate Hike Ahead? SBI Research Flags Inflation, Rupee Risks For October MPC](https://www.ndtvprofit.com/business/rbi-rate-hike-ahead-sbi-research-flags-inflation-rupee-risks-for-october-mpc-12131405#publisher=newsstand)
+SBI Research expects RBI to consider a rate hike at its October MPC meeting.
+
+**Source:** NDTV Profit  **Date:** 2026-10-02
+
+### [Nvidia Hits First Record Since May As Value Nears $6 Trillion](https://www.ndtvprofit.com/markets/nvidia-hits-first-record-since-may-as-value-nears-6-trillion-12130870#publisher=newsstand)
+Shares of the world's most valuable public company gained 2.9% on Friday, extending a nearly 25% rally from a late July low when fears surrounding the outlook for artificial intelligence pressured the stock.
+
+**Source:** NDTV Profit  **Date:** 2026-10-02
 
 ---
