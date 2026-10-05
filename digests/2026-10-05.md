@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-10-05
 
-> 56 items · 2026-10-05 11:08 UTC
+> 61 items · 2026-10-05 20:17 UTC
 
-## 💰 Results & Financials (15)
+## 💰 Results & Financials (19)
+
+### [Vedanta dividend countdown: Anil Agarwal-led company to consider first FY27 payout on October 8](https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-dividend-countdown-anil-agarwal-led-company-to-consider-first-fy27-payout-on-october-8/articleshow/134711376.cms)
+Vedanta will consider its first interim dividend for FY27 at a board meeting on October 8, 2026. The company has set October 14 as the record date. The dividend proposal follows strong Q2 production, including record Zinc India refined metal output.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
 
 ### [Indian IT’s Q2 earnings dilemma deepens: More deals but weaker growth and falling pricing power](https://economictimes.indiatimes.com/markets/stocks/earnings/indian-its-q2-earnings-dilemma-deepens-more-deals-but-weaker-growth-and-falling-pricing-power/articleshow/134685622.cms)
 As Indian IT firms gear up for their Q2 earnings report, the landscape appears mixed. Strong deal activity persists, yet clients are pushing for higher efficiency, leading to a notable decline in revenue growth. Large IT companies may witness their weakest growth in three years, primarily due to acquisitions rather than organic expansion. Infosys is under a microscope for possible downward adjustments to its revenue guidance.
@@ -11,6 +16,16 @@ As Indian IT firms gear up for their Q2 earnings report, the landscape appears m
 
 ### [ESDS Software shares hit 5% lower circuit, crash nearly 30% in 6 sessions. What's behind the selloff?](https://economictimes.indiatimes.com/markets/stocks/news/esds-software-shares-hit-5-lower-circuit-crash-nearly-30-in-6-sessions-whats-behind-the-selloff/articleshow/134688677.cms)
 ESDS Software shares hit the 5% lower circuit on Monday, extending their losing streak to six sessions and taking the decline to nearly 30%. The selloff follows the expiry of a one-month shareholder lock-in, while weaker sequential Q1 revenue and profit have also raised concerns over the stock’s stretched valuation.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
+### [Marico raises stake in Plix parent to 84.09%; Q2 revenue expected to grow in double digits](https://economictimes.indiatimes.com/markets/stocks/news/marico-raises-stake-in-plix-parent-to-84-09-q2-revenue-expected-to-grow-in-double-digits/articleshow/134711889.cms)
+Marico has raised its stake in Satiya Nutraceuticals, owner of The Plant Fix–Plix, to 84.09% after acquiring an additional 24.09% for Rs 1,012.03 crore. The company also reported strong Q2 momentum and expects double-digit revenue growth and mid-twenties operating profit growth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
+### [Trent’s Q2 revenue rises 23% YoY to Rs 5,788 crore; Zudio crosses 1,000-store milestone](https://economictimes.indiatimes.com/markets/stocks/news/trents-q2-revenue-rises-23-yoy-to-rs-5788-crore-zudio-crosses-1000-store-milestone/articleshow/134707814.cms)
+Tata Group retailer Trent reported 23% year-on-year growth in standalone revenue to Rs 5,788 crore in Q2FY27, while H1 revenue rose 21% to Rs 11,454 crore. The company crossed 1,000 Zudio stores and operated 1,342 stores across brands by September.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
 
@@ -39,6 +54,11 @@ Indian IT stocks including TCS and Infosys are in focus following Accenture's st
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
 
+### [Ahead of Market: 10 things that will decide stock market action on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134711920.cms)
+Indian equities rebounded on Monday after eight consecutive weekly losses, with Sensex rising 473 points and Nifty gaining 134 points. Softer US jobs data and lower crude prices supported sentiment, though analysts flagged bond yields, currency risks, RBI policy and earnings uncertainty.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
 ### [Q2 business update impact: PNB, Bank of Baroda, AU Small Finance Bank shares jump up to 4%. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/q2-business-update-impact-pnb-bank-of-baroda-au-small-finance-bank-shares-jump-up-to-4-what-lies-ahead/articleshow/134691858.cms)
 Shares of Punjab National Bank, Bank of Baroda and AU Small Finance Bank rose up to 4% after strong Q2 business updates. Deposits and advances recorded robust year-on-year growth across the lenders, boosting investor sentiment. Analysts expect loan growth momentum to continue, though near-term margins could remain under pressure amid surplus liquidity.
 
@@ -64,24 +84,24 @@ On October 1, three stocks valued above Rs 10,000 crore appeared on StockEdge’
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
 
-### [Raymond Realty Q2 Pre-Sales Jump 98% To Rs 902 Crore, On Track For FY27 Guidance](https://www.ndtvprofit.com/markets/raymond-realty-q2-pre-sales-jump-98-to-rs-902-crore-on-track-for-fy27-guidance-12139941#publisher=newsstand)
-Raymond Realty plans to accelerate its growth over the next two quarters with a pipeline of Mumbai Metropolitan Region launches having a cumulative gross development value of more than Rs 4,100 crore.
+### [Huawei, Qualcomm sign multi-year patent deal covering 5G, AI and computing](https://www.livemint.com/companies/news/huawei-qualcomm-sign-multi-year-patent-deal-covering-5g-ai-and-computing-11791217773325.html)
+Huawei and Qualcomm sign a multi-year patent deal covering 5G, AI, computing and networking, with Huawei's licensing value set to exceed $6.9 billion.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-05
+
+### [Madhuri Dixit Turns Quiz Show Host With Kon Honaar Crorepati — Check Premiere Date, Time, Streaming Details](https://www.ndtvprofit.com/lifestyle/madhuri-dixit-turns-quiz-show-host-with-kon-honaar-crorepati-check-premiere-date-time-and-streaming-details-12142761#publisher=newsstand)
+Madhuri Dixit
 
 **Source:** NDTV Profit  **Date:** 2026-10-05
 
-### [From Coforge To Sagility: PL Capital's Preferred IT Picks Ahead Of A Challenging Q2 Results; Full List Inside](https://www.ndtvprofit.com/markets/it-q2-earnings-preview-from-coforge-to-sagility-pl-capitals-preferred-it-picks-ahead-of-a-challenging-q2-results-12139823#publisher=newsstand)
-Despite the sharp decline, PL Capital remains constructively positive on the IT sector, although it expects performance to remain differentiated across segments.
-
-**Source:** NDTV Profit  **Date:** 2026-10-05
-
-### [Central Bank of India Q2 Update: Total Deposits Rise 14%, Advances Outpace With 29.8% Growth](https://www.ndtvprofit.com/markets/central-bank-of-india-q2-update-total-deposits-rise-14-advances-outpace-with-29-8-growth-12139717#publisher=newsstand)
-Central Bank of India's shares have been under pressure over a prolonged period.
+### [Federal Crypto Oversight: US CFTC Proposes New Framework For Leveraged Trading](https://www.ndtvprofit.com/markets/federal-crypto-oversight-us-cftc-proposes-new-framework-for-leveraged-trading-12142746#publisher=newsstand)
+The Commodity Futures Trading Commission's proposed rules would effectively allow US virtual currency exchanges to adopt a federal regulatory regime to operate money transfer companies, rather than relying primarily on a patchwork of state licenses
 
 **Source:** NDTV Profit  **Date:** 2026-10-05
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (8)
+## 🤝 Deals, M&A & Partnerships (11)
 
 ### [Nifty’s ailing warhorse HDFC Bank gets an all-rounder CEO. Can Anup Bagchi make the elephant dance?](https://economictimes.indiatimes.com/markets/stocks/news/niftys-ailing-warhorse-hdfc-bank-gets-an-all-rounder-ceo-can-anup-bagchi-make-the-elephant-dance/articleshow/134687302.cms)
 Anup Bagchi takes charge as HDFC Bank’s new CEO at a critical juncture, with the lender seeking to revive deposit and loan growth, improve margins and unlock HDFC Ltd merger synergies. With the stock 29% below its peak, investors will closely watch whether Bagchi can restore growth and confidence.
@@ -98,8 +118,18 @@ Accenture’s capital-allocation decisions matter to Indian IT services firms, w
 
 **Source:** Mint - Pharma  **Date:** 2026-10-05
 
+### [SEBI chairman warns investors against anonymous tips, finfluencers; launches Project Jagrook](https://economictimes.indiatimes.com/markets/stocks/news/sebi-chairman-warns-investors-against-anonymous-tips-finfluencers-launches-project-jagrook/articleshow/134707877.cms)
+Tuhin Kanta Pandey, Chairman of the Securities and Exchange Board of India, has inaugurated Project Jagrook, which aims to boost investor education and awareness. This initiative addresses the stark difference between market understanding and actual involvement, with only 9.5 percent of the 63 percent of households aware of securities products actively engaged.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
+### [Cognizant targets mid-sized firms as AI pressures big outsourcing deals](https://www.livemint.com/companies/news/cognizant-targets-mid-sized-firms-as-ai-pressures-big-outsourcing-deals-11791208286115.html)
+Cognizant Activate follows similar moves by Accenture and HCLTech as the tech-services giants seek new growth beyond their traditional large-enterprise contracts.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-05
+
 ### [Vedanta faces  ₹5,600 crore demand from Odisha Mining after high court setback](https://www.livemint.com/companies/news/vedanta-aluminium-demand-odisha-mining-corp-orissa-high-court-bauxite-price-india-11791179324496.html)
-Odisha Mining Corp has issued a demand and intimation letter to Vedanta Aluminium, with the amount payable by 31 October 2026
+Odisha Mining Corp has issued a demand and intimation letter to Vedanta Ltd, with the amount payable by 31 October 2026
 
 **Source:** Mint - Pharma  **Date:** 2026-10-05
 
@@ -108,24 +138,43 @@ Greenko-backed AM Intelligence has committed $4 billion to buy 20,000 Nvidia Ver
 
 **Source:** Mint - Pharma  **Date:** 2026-10-05
 
-### [IndiaTech seeks rethink of turnover-linked gig worker social security levy](https://www.livemint.com/companies/indiatech-seeks-rethink-of-turnover-linked-gig-worker-social-security-levy-11791099731540.html)
-Under the Code on Social Security, 2020, aggregators are required to contribute 1-2% of annual turnover towards social security for gig and platform workers, subject to a cap of 5% of the amount paid or payable to such workers.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-04
-
 ### [We aim to be a truly integrated partner across modalities](https://www.expresspharma.in/we-aim-to-be-a-truly-integrated-partner-across-modalities/)
 India’s CRDMO sector is gaining importance as global pharma seeks resilient, cost-efficient supply chains. Akhil Ravi, CEO, Aurigene Pharmaceutical Services, discusses the company’s capabilities across small molecules, peptides, biologics and sterile injectables, its global manufacturing partnerships, and the challenges of scaling, quality, regulation and talent. In an exclusive interview with Sanjiv Das. The post We aim to be a truly integrated partner across modalities appeared first on Expres
 
 **Source:** Express Pharma  **Date:** 2026-10-05
 
-### [Honda Elevate Facelift Launch: Expected Price, Colours, Features, Design Change And More](https://www.ndtvprofit.com/lifestyle/honda-elevate-facelift-launch-expected-price-colours-features-design-change-and-more-12139661#publisher=newsstand)
-Honda has opened pre-launch bookings for the updated Elevate for a Rs 21,000 token amountthrough authorised dealerships.
+### [Marico Acquires 24% Stake In Satiya Nutraceuticals For Rs 1,012 Crore](https://www.ndtvprofit.com/business/marico-acquires-24-stake-in-satiya-nutraceuticals-for-rs-1-012-crore-12142460#publisher=newsstand)
+The acquisition strengthens Marico’s exposure to health, wellness and personal care.
+
+**Source:** NDTV Profit  **Date:** 2026-10-05
+
+### [Amazon Sale Deals: Samsung Galaxy S25 Ultra To Sell For Rs 84,999; Check EMI Options](https://www.ndtvprofit.com/technology/planning-to-buy-galaxy-s25-ultra-amazon-sale-slashes-the-price-by-up-to-rs-45-000-12142043#publisher=newsstand)
+Samsung's top-end Galaxy S25 Ultra is about to get more affordable for buyers in India
+
+**Source:** NDTV Profit  **Date:** 2026-10-05
+
+### [Jailer 2 Trailer Out: Rajinikanth Back As Tiger Muthuvel Pandian With Action, Humour And More](https://www.ndtvprofit.com/lifestyle/jailer-2-trailer-out-rajinikanth-is-back-as-tiger-muthuvel-pandian-with-action-humour-and-more-12142541#publisher=newsstand)
+Rajinikanth as Tiger Muthuvel Pandian, SJ Suryah as Bodhi Kalpak and Vidya Balan as Kantha Kalpak in Jailer 2.
 
 **Source:** NDTV Profit  **Date:** 2026-10-05
 
 ---
 
-## 🏭 Operations & Approvals (10)
+## 💸 Corporate Actions (1)
+
+### [Zerodha founders Nithin, Nikhil Kamath pick up 6.72% stake in Viceroy Hotels](https://economictimes.indiatimes.com/markets/stocks/news/zerodha-founders-nithin-nikhil-kamath-pick-up-6-72-stake-in-viceroy-hotels/articleshow/134709141.cms)
+Zerodha founders Nithin and Nikhil Kamath have acquired a 6.72% stake in Viceroy Hotels through Kamath Associates and Nksquared. The investment comes as the hotel company recovers after insolvency resolution, expands its portfolio and seeks capital through a Rs 105-crore rights issue.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
+---
+
+## 🏭 Operations & Approvals (6)
+
+### [Sebi launches awareness campaign to help investors in informed decision making](https://economictimes.indiatimes.com/markets/stocks/news/sebi-launches-awareness-campaign-to-help-investors-in-informed-decision-making/articleshow/134708313.cms)
+Sebi has launched the ‘Samajh Se Investing Simple’ campaign under Project Jagrook to simplify investing, promote informed decisions and prevent financial fraud. It also introduced MUST to boost financial literacy among students and announced an official WhatsApp channel for investor awareness.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
 
 ### [Vietnams Masan High-Tech seeks approval for 5% private placement to fund tungsten expansion](https://www.livemint.com/companies/vietnams-masan-high-tech-seeks-approval-for-5-private-placement-to-fund-tungsten-expansion-11791181821471.html)
 MASAN-STAKE/:Vietnam's Masan High-Tech seeks approval for 5% private placement to fund tungsten expansion
@@ -142,16 +191,6 @@ The outcome could shape how compensation is determined in future air-crash cases
 
 **Source:** Mint - Pharma  **Date:** 2026-10-05
 
-### [Cinepolis adds four more screens in Faridabad as its big-screen expansion continues across Delhi-NCR](https://www.livemint.com/companies/news/cinepolis-adds-four-more-screens-in-faridabad-as-its-big-screen-expansion-continues-across-delhincr-11791122362351.html)
-Cinepolis India has opened a four-screen multiplex at Amolik’s City Life Mall in Faridabad, taking its presence in the city to eight screens as it expands across Delhi-NCR with a focus on growing urban catchments.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-04
-
-### [Haldia Petrochemicals-arm Adperma plans public listing, downstream expansion, says MD Navanit Narayan](https://www.livemint.com/companies/haldia-petrochemicals-arm-adperma-plans-public-listing-downstream-expansion-says-md-navanit-narayan-11791107995535.html)
-Haldia Petrochemicals subsidiary Adperma is considering an initial public offering to fund its expansion into specialty chemicals and advanced polymers.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-04
-
 ### [Kusum Healthcare facility in Ukraine hit by drone attack](https://www.expresspharma.in/kusum-healthcare-facility-in-ukraine-hit-by-drone-attack/)
 Kusum Healthcare says its manufacturing facility in Sumy, Ukraine, was hit by a Russian drone attack, with one employee confirmed dead and several others injured. The post Kusum Healthcare facility in Ukraine hit by drone attack appeared first on Express Pharma .
 
@@ -162,24 +201,9 @@ Fixderma has grown from its 2010 launch into a company exporting to over 35 coun
 
 **Source:** Express Pharma  **Date:** 2026-10-05
 
-### [Global Oil Supply Buffer Running Scarily Thin,' Aramco CEO Says](https://www.ndtvprofit.com/economy/global-oil-supply-buffer-running-scarily-thin-aramco-ceo-says-12140401#publisher=newsstand)
-Gulf producers are working to ramp up production and exports and have succeeded in boosting crude flows to near pre-war levels.
-
-**Source:** NDTV Profit  **Date:** 2026-10-05
-
-### [Oppo F35 5G, Oppo F35 Pro 5G Launched: Price, Features, Battery, Display, Colours And More](https://www.ndtvprofit.com/technology/oppo-f35-5g-oppo-f35-pro-5g-launched-price-features-battery-display-colours-and-more-12140039#publisher=newsstand)
-The Oppo F35 Pro 5G and Oppo F35 5G are dual-SIM smartphones that run on ColorOS 16.5, based on Android 16.
-
-**Source:** NDTV Profit  **Date:** 2026-10-05
-
-### [Lord's Mark Industries Advances UK & Allied Countries Expansion With MHRA Registration For IVD Portfolio](https://www.ndtvprofit.com/business/lords-mark-industries-advances-uk-allied-countries-expansion-with-mhra-registration-for-ivd-portfolio-12140126#publisher=newsstand)
-This latest development strengthens Lord's Mark Industries' ongoing internationalisation strategy and its ambition to take Indian-developed healthcare products and capabilities into global markets.
-
-**Source:** NDTV Profit  **Date:** 2026-10-05
-
 ---
 
-## 📉 Analyst & Brokerage Calls (11)
+## 📉 Analyst & Brokerage Calls (9)
 
 ### [CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction](https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-eases-jefferies-names-top-stock-picks-as-options-volumes-recover-ipos-and-commodities-gain-traction/articleshow/134692619.cms)
 Jefferies sees signs of recovery in India’s derivatives market as options volumes rebound after the disruption caused by the closing auction session (CAS). BSE’s cash-market share also rose, while MCX benefited from stronger energy options activity. The brokerage expects Groww to benefit from improving orders, higher MTF volumes and commodity trading, and named Groww, MCX, KFIN and Nuvama as top picks
@@ -211,41 +235,41 @@ Intesa Sanpaolo said its sweetened offer for Banca Monte dei Paschi di Siena has
 
 **Source:** Mint - Pharma  **Date:** 2026-10-04
 
-### [DLF sells out maiden senior living project Aureva in Gurugram for  ₹1,985 cr](https://www.livemint.com/companies/dlf-sells-out-maiden-senior-living-project-aureva-in-gurugram-for-rs-1985-crore-11791098745562.html)
-Average ticket size of an apartment at The Aureva is ₹11.5 crore, at ₹28,000 per sq ft. Each residence is complemented by three parking spaces and access to a suite of wellness, recreational, and lifestyle amenities.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-04
-
-### [Angel One is shrinking. But what is it building?](https://www.livemint.com/companies/angel-one-super-app-business-transformation-11791107429829.html)
-For over 30 years, Angel One has adapted to a changing brokerage landscape. Now, regulatory pressure and intensifying competition are forcing another reset. Where does Angel One go from here?
-
-**Source:** Mint - Pharma  **Date:** 2026-10-04
-
-### [Buy, Sell Or Hold: HDFC Bank, Sun Pharma, Rallis India, Trent | Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-hdfc-bank-sun-pharma-rallis-india-trent-ask-profit-12139876#publisher=newsstand)
-Should you buy, sell or hold?
-
-**Source:** NDTV Profit  **Date:** 2026-10-05
-
 ### [Buy, Sell Or Hold: HDFC Bank, Sun Pharma, Rallis India, Trent | Ask Profit - NDTV Profit](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMV9fX0ZoN2sxdGhsWjUwamdGQktxdzhNTll4MGNaWVBKdnBFV3djVlpwYVJpdHljdnhnaWRhOGtGS3o3alFTckdNcVBhTTFWWEJ0R0tNSVR0MDI4S3prX25hUVdrWVVObEk1Q2FwVXhoa0d2ZUV4QXBBcHRJWFZ2UkVTRDhzbHVkTmluSXNZWUMydUh6dE90UWVoaUY2cVMzNlVxSlRCVTAxNXZGMGRycNIBuAFBVV95cUxQR0VXc2lxdWhIX2Fucko0NVBSYmdGUy16ZmF6MXZ2YWVONWd0dUhPYnZPVFVwU0d6d3VNbTQwT3FpT19EZ3BOUGFEZHFjdmFYS0tER1RIRDNqbnNyM2YtX2o0U1hnUE9HS2M1Q3JtanJtTFYxWEJoYW0yeVRqeXV2ZDl6MXk1cEV1bmMtb0FWanZVbTZkazM4WFBvWFJ2aXJXTlhxbGM5ODZCZ2Z2NTUwbW5aR3B5cUp0?oc=5)
 Buy, Sell Or Hold: HDFC Bank, Sun Pharma, Rallis India, Trent | Ask Profit &nbsp;&nbsp; NDTV Profit
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-10-05
 
-### [Nifty Target Slashed To 24,000 As India-US Yield Spread Hits 22-Year Low: Nomura Bets On IT, Banks](https://www.ndtvprofit.com/markets/nifty-target-slashed-to-24-000-as-india-us-yield-spread-shrinks-to-22-year-low-nomura-bets-on-it-banks-12139816#publisher=newsstand)
-Market analysts believe the Nifty 50 benchmark is now in the close vicinity of a horizontal support region that is formed by 21,743 and 22,182
+### [Taking Career Break? Your EPF May Keep Earning Interest But There's A Tax Catch](https://www.ndtvprofit.com/personal-finance/taking-a-career-break-your-epf-may-keep-earning-interest-but-there-is-a-tax-catch-12139855#publisher=newsstand)
+If you have completed five years of continuous service, your accumulated EPF balance can generally qualify for tax exemption. But this may not hold true to interest earned.
+
+**Source:** NDTV Profit  **Date:** 2026-10-05
+
+### [Buy, Sell Or Hold: Canara Bank, NTPC, Suzlon Energy, BHEL, HDFC Bank And Godrej Consumer — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-canara-bank-ntpc-suzlon-energy-bhel-hdfc-bank-and-godrej-consumer-ask-profit-12142661#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
 
 **Source:** NDTV Profit  **Date:** 2026-10-05
 
 ---
 
-## 📰 Industry & Policy News (12)
+## 📰 Industry & Policy News (15)
 
 ### [ET Alpha Wealth Summit 2.0: How portfolio management is evolving with AI](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-how-portfolio-management-is-evolving-with-ai/articleshow/134696486.cms)
 The ET Alpha Wealth Summit 2.0 is scheduled for October 8, 2026, in Mumbai. This event will gather various investment professionals including high-net-worth individuals and family offices. Some of the discussions will focus on the implications of AI for portfolio management and investment allocation. Expert sessions will explore the balance between human judgement and AI in making investment decisions.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
 
-### [FIIs, retail investors raise stakes in 10 stocks, stocks rally up to 35% in 3 months](https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-stocks-stocks-rally-up-to-35-in-3-months/slideshow/134695032.cms)
+### [Hindustan Unilever, PB Fintech among 7 stocks that hit 52-week lows and slipped up to 47% in a month](https://economictimes.indiatimes.com/markets/stocks/news/hindustan-unilever-pb-fintech-among-7-stocks-that-hit-52-week-lows-and-slipped-up-to-47-in-a-month/slideshow/134705609.cms)
+The Sensex fell 49 points to 72,480 on Wednesday as several BSE 100 stocks hit fresh 52-week lows. PB Fintech, Hindustan Unilever, Britannia Industries, Tata Consumer Products, Godrej Consumer Products, Bharat Electronics and Indian Oil were among them.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
+### [Market wrap:  ITC, BSE, HCL Tech, Asian Paints top gainers and losers on Nifty and Sensex on Monday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-itc-bse-hcl-tech-asian-paints-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134705072.cms)
+Indian equity markets rebounded on Monday, with the Nifty and Sensex rising 0.60% and 0.66%, respectively. ITC led the gainers, while HCL Tech and Asian Paints fell sharply. FMCG and consumer durables outperformed, but healthcare and pharma stocks declined as investors assessed global rate and crude oil cues.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-05
+
+### [FIIs, retail investors raise stakes in 10 stocks, shares rally up to 35% in 3 months](https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-stocks-stocks-rally-up-to-35-in-3-months/slideshow/134695032.cms)
 Nearly 78 BSE 500 stocks saw both FII and retail ownership rise in June 2026. Ten stocks gained 10%-35% over three months, led by Lenskart Solutions.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
@@ -270,14 +294,26 @@ German Green Steel made a modest stock market debut, listing at a 3% premium to 
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
 
-### [SBI Life Share Price Live Updates: SBI Life's shares close at Rs 1717.0](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-today-live-updates-05-oct-2026/liveblog/134684782.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-05-oct-2026/liveblog/134684674.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-10-05
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's stock price edges up](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-05-oct-2026/liveblog/134684674.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-10-05
+### [Who is Jacob Coxon? Former Anthropic researcher to testify at New York City AI hearing today](https://www.livemint.com/companies/people/who-is-jacob-coxon-former-anthropic-researcher-to-testify-at-new-york-city-ai-hearing-today-11791198345082.html)
+Last month, Jacob Coxon quit Anthropic, issuing warnings that the ‘people building AI earnestly believe that it could kill us all by the end of the decade’. He also accused his former employer OpenAI of ‘gambling with our lives.’
+
+**Source:** Mint - Pharma  **Date:** 2026-10-05
+
+### [How homegrown D2C challengers are forcing L’Oréal to rewrite its India playbook](https://www.livemint.com/companies/news/loreal-india-market-share-luxury-beauty-acquisitions-11791195090362.html)
+Stagnant growth in India has cornered L’Oréal into a bold reset. From unleashing prestige icons to acquiring nimble homegrown brands, the French beauty titan is rewriting its playbook to conquer the country’s ingredient-obsessed, luxury-chasing consumers.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-05
 
 ### [Sun Pharma presents LEQSELVI long-term data at EADV Congress 2026](https://www.expresspharma.in/sun-pharma-presents-leqselvi-long-term-data-at-eadv-congress-2026/)
 Sun Pharma will present seven LEQSELVI presentations at the EADV Congress 2026, including long-term safety and efficacy data in adults with severe alopecia areata The post Sun Pharma presents LEQSELVI long-term data at EADV Congress 2026 appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-10-05
+
+### [Getting glutathione into the blood is not the same as getting glutathione into the cell](https://www.expresspharma.in/getting-glutathione-into-the-blood-is-not-the-same-as-getting-glutathione-into-the-cell/)
+Skin Beyond Borders announced its audited skincare marketplace in August. What industry gap are you trying to address? My experience in the industry spans around 20 years. I formally started working in dermatology in 2009, although before that I was in formulation development and clinical research. In 2009 I started Adroit Digital Ideas, a medical [&#8230;] The post Getting glutathione into the blood is not the same as getting glutathione into the cell appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-05
 
@@ -286,13 +322,8 @@ Serum Institute of India’s CERVAVAC, the country’s first indigenously develo
 
 **Source:** Express Pharma  **Date:** 2026-10-05
 
-### [Stock Market Today Highlights: Sensex Rallies 472 Points, Nifty 50 Settles Above 22,550; FMCG, Banks Lead](https://www.ndtvprofit.com/markets/stock-market-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-houthi-attacks-brent-crude-oil-prices-today-12138866#publisher=newsstand)
-Broader markets also ended higher, with the Nifty Smallcap 100 and the Nifty Midcap 100 indices gaining over half a percent each.
-
-**Source:** NDTV Profit  **Date:** 2026-10-05
-
-### [SC Issues Notice To Election Commission, Centre On Plea Seeking CEC Suspension Over SIR](https://www.ndtvprofit.com/india/sc-issues-notice-to-election-commission-centre-on-plea-seeking-cec-suspension-over-sir-12140094#publisher=newsstand)
-SC seeks responses from EC and centre
+### [Redditor Lists 5 'Worst' Financial Mistakes; Urges Other To Learn From Them](https://www.ndtvprofit.com/personal-finance/redditor-lists-5-worst-financial-mistakes-urges-other-to-learn-from-them-12140262#publisher=newsstand)
+The post has fetched nearly 600 upvotes and hundreds of re-shares.
 
 **Source:** NDTV Profit  **Date:** 2026-10-05
 
