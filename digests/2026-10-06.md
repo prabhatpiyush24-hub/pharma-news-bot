@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-10-06
 
-> 55 items · 2026-10-06 10:59 UTC
+> 58 items · 2026-10-06 17:55 UTC
 
-## 💰 Results & Financials (16)
+## 💰 Results & Financials (19)
 
 ### [Newly-listed Steamhouse India shares hit 10% circuit after Q1 net profit rises 80% to Rs 18 crore](https://economictimes.indiatimes.com/markets/stocks/news/newly-listed-steamhouse-india-shares-hit-10-circuit-after-q1-net-profit-rises-80-to-rs-18-crore/articleshow/134724996.cms)
 Newly-listed Steamhouse India shares hit the 10% upper circuit after the company reported an 80.25% year-on-year rise in Q1 FY27 net profit to Rs 18 crore. Revenue from operations rose 13.35% to Rs 129 crore, while margins improved 700 basis points to 24.05% during the quarter.
@@ -24,13 +24,43 @@ Orient Cables' shares faced a notable drop of 10% soon after a promising IPO lau
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
-### [Trent shares hit 10% upper circuit after Q2 revenue rises 23% YoY to Rs 5,788 crore. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/trent-in-focus-after-q2-revenue-rises-23-to-rs-5788-crore-buy-sell-or-hold-the-stock/articleshow/134721903.cms)
-Tata Group retail arm Trent reported a 23% year-on-year surge in Q2FY27 standalone revenue to Rs 5,788 crore, supported by strong growth across Zudio and Westside formats. Global brokerage BofA Securities has initiated coverage on the stock with a Buy rating and a target price of Rs 3,075.
+### [AWL Agri Business shares climb 4% as Q2 revenue rises 24% YoY,  Food &amp; FMCG posts record quarterly revenue](https://economictimes.indiatimes.com/markets/stocks/news/awl-agri-business-shares-climb-4-as-q2-revenue-rises-24-yoy-food-fmcg-posts-record-quarterly-revenue/articleshow/134725098.cms)
+AWL Agri Business shares rose nearly 4% after Q2 revenue grew 24% year-on-year, driven by strong performance in Food &amp; FMCG and Industry Essentials. Food &amp; FMCG revenue jumped 33%, surpassing Rs 2,000 crore. Pulses, exports, e-commerce and specialty chemicals also recorded robust growth, while edible oils posted steady volume gains.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Rs 17,540 crore added to Trent mcap, but Citi stays bearish. Why Morgan Stanley disagrees](https://economictimes.indiatimes.com/markets/stocks/news/rs-17540-crore-added-to-trent-mcap-but-citi-stays-bearish-why-morgan-stanley-disagrees/articleshow/134724707.cms)
+Trent shares surged 13% after the Tata Group retailer reported strong Q2 revenue growth and crossed the 1,000-store milestone for Zudio. Morgan Stanley and HSBC remain bullish, while Citi stays cautious over margins, competition and revenue per square foot.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Rentomojo shares rally 6% after Q1 revenue rises 51%, normalised PAT grows 72% YoY](https://economictimes.indiatimes.com/markets/stocks/news/rentomojo-shares-rally-6-after-q1-revenue-rises-51-normalised-pat-grows-72-yoy/articleshow/134723524.cms)
+Rentomojo shares rallied after the company's first earnings report since its listing last month, which showed revenue up 50% year-on-year to Rs 126 crore in Q1 FY27. EBITDA rose to Rs 51 crore from Rs 34 crore, with margins st
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
 ### [Meesho shares jump 6% as content commerce NMV grows 152% in Q2. Buy, sell or hold the stock?](https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-jump-6-as-content-commerce-nmv-grows-152-in-q2-buy-sell-or-hold-the-stock/articleshow/134728099.cms)
 Meesho shares rose after strong growth in its Content Commerce business, with NMV increasing 152% year-on-year. Brokerages remain divided, with UBS and Jefferies positive on the stock, while Nomura has a Reduce call.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134744628.cms)
+Indian equities extended their rebound for a second session, with Sensex rising 685 points and Nifty gaining over 220 points. Falling crude prices, strong Q2 business updates and positive global cues lifted investor sentiment, adding nearly Rs 5 lakh crore to BSE market capitalisation.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Honasa Consumer shares jump 7% as Q2 operating update points to strong growth](https://economictimes.indiatimes.com/markets/stocks/news/honasa-consumer-shares-jump-7-as-q2-operating-update-points-to-strong-growth/articleshow/134744378.cms)
+Honasa Consumer shares rallied after the company projected strong Q2 FY27 operating performance, with net sales growth expected in the early thirties, improving margins and continued traction across brands and offline channels.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Investor awareness key to long-term wealth creation, technology double-edged sword: ANMI President Kamlesh Shroff](https://economictimes.indiatimes.com/markets/stocks/news/investor-awareness-key-to-long-term-wealth-creation-technology-double-edged-sword-anmi-president-kamlesh-shroff/articleshow/134742397.cms)
+Investor education in India is vital for effective market participation and wealth accumulation. The trend of younger investors signifies a promising advantage for early market entry. Nonetheless, the escalating prevalence of online financial scams threatens investor assets. SEBI highlights capital protection through regulated investment pathways and stresses the necessity for investors to cautiously validate the legitimacy of entities before making fund transfers, thereby mitigating scam risks.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Reliance Industries shares gain 3% as JIO IPO inches closer; Jefferies increases weight in conglomerate](https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-gain-3-as-jio-ipo-inches-closer-jefferies-increases-weight-in-conglomerate/articleshow/134738865.cms)
+Reliance Industries is preparing for the IPO of Jio Platforms scheduled to launch on October 21. The valuation of Jio Platforms is reported at Rs 11 lakh crore, making it highly anticipated. The public issue is expected to attract significant attention as it opens for subscription. Jefferies has raised its weight on Reliance Industries due to attractive valuations amid improving conditions.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
@@ -54,8 +84,8 @@ The Reserve Bank of India is expected to announce a 25-basis point rate hike in 
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
-### [Honasa Consumer shares jump 7% as Q2 operating update points to strong growth](https://economictimes.indiatimes.com/markets/stocks/news/honasa-consumer-shares-jump-7-as-q2-operating-update-points-to-strong-growth/articleshow/134723369.cms)
-Honasa Consumer shares rallied after the company projected strong Q2 FY27 operating performance, with net sales growth expected in the early thirties, improving margins and continued traction across brands and offline channels.
+### [Covid-era bargains in largecaps, bull market valuations in smallcaps: Where is the real opportunity in stocks?](https://economictimes.indiatimes.com/markets/stocks/news/covid-era-bargains-in-largecaps-bull-market-valuations-in-smallcaps-where-is-the-real-opportunity-in-stocks/articleshow/134722792.cms)
+Indian equities are split sharply between largecaps and smaller stocks. The Nifty is down 14% in 2026, while midcaps have fallen just 2%, smallcaps have gained 8% and microcaps 15%. Record FPI selling of ₹2.8 lakh crore has hit largecaps hardest, making beaten-down largecaps look relatively attractive while elevated smallcap valuations leave little room for earnings disappointment.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
@@ -64,34 +94,24 @@ Kotak Mahindra Bank's net advances increased 25% year-on-year to Rs 5.77 lakh cr
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
-### [Netweb Technologies among 3 stocks showing White Marubozu Pattern](https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/134721898.cms)
-Three Nifty500 stocks gained over 5% on October 5 and featured on StockEdge’s White Marubozu bullish scanner, signalling strong upward price momentum during the session.
+### [Axis Bank shares in focus after Q2 biz update shows 23% rise in gross advances to Rs 13.8 lakh crore](https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-biz-update-shows-23-rise-in-gross-advances-to-rs-13-8-lakh-crore/articleshow/134722331.cms)
+Axis Bank reported a 22.7% YoY rise in gross advances to Rs 13.846 lakh crore in Q2, while total deposits grew 20.7% to Rs 14.521 lakh crore. The bank also disclosed FCNR(B) deposit mobilisation and a senior management resignation.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
-### [Huawei, Qualcomm sign multi-year patent deal covering 5G, AI and computing](https://www.livemint.com/companies/news/huawei-qualcomm-sign-multi-year-patent-deal-covering-5g-ai-and-computing-11791217773325.html)
-Huawei and Qualcomm sign a multi-year patent deal covering 5G, AI, computing and networking, with Huawei's licensing value set to exceed $6.9 billion.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-05
-
-### [JPMorgan Bets On Marico As Q2 Momentum Spurs Upgrade Hopes](https://www.ndtvprofit.com/business/marico-q2-update-jpmorgan-maintains-overweight-rating-sees-16-upside-on-strong-domestic-and-international-growth-12145317#publisher=newsstand)
-JPMorgan maintains 'OW' on parachute maker Marico.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [Baththa Box Office Collection Day 5: Vijay Sethupathi Starrer Sees Sharp Monday Drop](https://www.ndtvprofit.com/business/baththa-box-office-collection-day-5-vijay-sethupathi-starrer-sees-sharp-monday-drop-check-monday-earnings-12145050#publisher=newsstand)
-'Baththa' is a Tamil action comedy-drama set in 1986 Madras.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (5)
 
 ### [Vedanta shares jump 3% as firm fixes record date for first dividend after demerger. What to expect?](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-3-as-firm-fixes-record-date-for-first-dividend-after-demerger-what-to-expect/articleshow/134723226.cms)
 Vedanta shares rose over 3% after the company set October 14 as the record date for its first FY27 interim dividend, subject to board approval on October 8. The payout will be the first since Vedanta’s demerger into five entities. Analysts expect dividends to remain strong but potentially become more volatile and commodity-sensitive.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Paramount Skydance completes $110 billion Warner Bros Discovery deal: David Ellison takes control of new Hollywood giant](https://www.livemint.com/companies/news/paramount-skydance-completes-110-billion-warner-bros-discovery-deal-david-ellison-takes-control-of-new-hollywood-giant-11791291245408.html)
+The Warner Bros Discovery acquisition now gives CEO Ellison control over an entertainment portfolio that includes some of the world's most valuable film, television and streaming properties.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-06
 
 ### [Defence manufacturing startup Sanlayan in talks to raise $35-40 million at $200 million valuation](https://www.livemint.com/companies/sanlayan-fundraise-defence-manufacturing-startup-11790839385837.html)
 Defence electronics maker Sanlayan has begun raising $35-40 million at a targeted valuation of $150-200 million, with the fresh capital likely to fund acquisitions and R&amp;amp;D.
@@ -103,24 +123,23 @@ Adani Power shares gained 2% after the company signed a pact with Bhutan’s Dru
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
-### [Cognizant targets mid-sized firms as AI pressures big outsourcing deals](https://www.livemint.com/companies/news/cognizant-targets-mid-sized-firms-as-ai-pressures-big-outsourcing-deals-11791208286115.html)
-Cognizant Activate follows similar moves by Accenture and HCLTech as the tech-services giants seek new growth beyond their traditional large-enterprise contracts.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-05
-
-### [Marico Acquires Additional 24% Stake In Satiya Nutraceuticals For Rs 1,012 Crore](https://www.ndtvprofit.com/business/marico-acquires-24-stake-in-satiya-nutraceuticals-for-rs-1-012-crore-12142460#publisher=newsstand)
-The acquisition strengthens Marico’s exposure to health, wellness and personal care.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [Inox Clean Energy IPO Update: SEBI Puts Rs 10,000 Crore-Public Issue On Hold](https://www.ndtvprofit.com/markets/inox-clean-energy-ipo-update-sebi-halts-draft-papers-observation-process-for-rs-10-000-crore-inox-clean-energy-public-issue-12145327#publisher=newsstand)
-Inox Clean Energy plans to deploy Rs 6,000 crore from the net fresh issue proceeds towards repayment or reduction of its debt. The balance amount will be used for general corporate purposes.
+### [JPMorgan Taps Veteran Dealmaker Rob Sweeney To Bolster Global Investment Banking Push](https://www.ndtvprofit.com/business/jpmorgan-taps-veteran-dealmaker-rob-sweeney-to-bolster-global-investment-banking-push-12147766#publisher=newsstand)
+The hiring comes as banks jockey for market share in a dealmaking recovery after several muted years for mergers and equity issuance.
 
 **Source:** NDTV Profit  **Date:** 2026-10-06
 
 ---
 
-## 🏭 Operations & Approvals (7)
+## 💸 Corporate Actions (1)
+
+### [Persistent Systems EGM Verdict: Shareholders Approve Plan To Raise Up To Rs 11,800 Crore](https://www.ndtvprofit.com/markets/persistent-systems-egm-verdict-shareholders-approve-plan-to-raise-up-to-rs-11-800-crore-12148030#publisher=newsstand)
+The approval comes after the IT services company's board in September approved plans to raise funds through debt and equity-linked instruments, potentially paving the way for a sizeable capital raise.
+
+**Source:** NDTV Profit  **Date:** 2026-10-06
+
+---
+
+## 🏭 Operations & Approvals (4)
 
 ### [Deeptech gets a policy voice backed by founders, VCs](https://www.livemint.com/companies/start-ups/deeptech-startups-deepverse-policy-platform-11791252533117.html)
 Launched by the Startup Policy Forum, DeepVerse is backed by prominent startups like Skyroot Aerospace and Ather Energy, alongside venture capital firms Accel, Lightspeed, and Speciale Invest.
@@ -142,24 +161,19 @@ Glenmark’s Adapalene Gel USP, 0.1% can be compared to the active ingredient of
 
 **Source:** Express Pharma  **Date:** 2026-10-06
 
-### [Defence Boost: MoD Signs Contract With BrahMos Aerospace For Fire Control System And Launchers For Indian Navy](https://www.ndtvprofit.com/india/defence-boost-mod-signs-contract-with-brahmos-aerospace-for-fire-control-system-and-launchers-for-indian-navy-12145242#publisher=newsstand)
-The ministry said the contract carries a minimum of 68% indigenous content.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [Vivo X Fold 6 Launched At Rs 2,19,999; Booking Starts Today, Sale On October 13](https://www.ndtvprofit.com/technology/vivo-x-fold-6-launched-at-rs-2-19-999-booking-starts-today-sale-on-october-13-12145014#publisher=newsstand)
-Vivo X Fold 6 is priced at Rs 2,19,999 for the sole 12GB+512GB model
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [Vivo V80 Launched: Price, Variants Features, Display, Camera, Battery And More](https://www.ndtvprofit.com/technology/vivo-v80-launched-price-variants-features-display-camera-battery-and-more-12144669#publisher=newsstand)
-Vivo V80 launched in India with ZEISS cameras, Android 17, a high-refresh-rate display and a large battery
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
 ---
 
-## 📉 Analyst & Brokerage Calls (9)
+## 📉 Analyst & Brokerage Calls (14)
+
+### [Festive season bets: Analysts see upside in Lenskart, Arvind, Varun Beverages and 3 other stocks](https://economictimes.indiatimes.com/markets/stocks/news/festive-season-bets-analysts-see-upside-in-lenskart-arvind-varun-beverages-and-3-other-stocks/slideshow/134725734.cms)
+As the festive season approaches, savvy investors should keep an eye on six promising stocks that analysts highlight. Notable mentions include Lenskart, Arvind, and Varun Beverages, which present notable potential for growth. Furthermore, OMNI, IT BeES, and Sudarshan Chemical Industries are also on the watchlist. Detailed target prices and recommended buy ranges are available. Conduct your thorough research before diving into the market.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Last line of defence! How 7 Nifty stocks survived the market’s two-month bloodbath](https://economictimes.indiatimes.com/markets/stocks/news/last-line-of-defence-how-7-nifty-stocks-survived-the-markets-two-month-bloodbath/articleshow/134722719.cms)
+In an unprecedented downturn, the Nifty has faced its longest losing streak in 25 years, sliding for over eight weeks as foreign investors withdrew significant funds from Indian equities. Despite this market decline in September, seven stocks, led by Kotak Mahindra Bank and Dr Reddy's Laboratories, demonstrated resilience. Particularly, Kotak Mahindra Bank's performance is linked to robust analyst endorsements and optimism surrounding the banking sector's recovery.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
 
 ### [Motilal Oswal initiates coverage on Molbio Diagnostics stock with Buy, sees 21% upside. Here's why](https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-initiates-coverage-on-molbio-diagnostics-stock-with-buy-sees-21-upside-heres-why/articleshow/134729418.cms)
 Motilal Oswal initiated coverage on Molbio Diagnostics with a Buy rating and ₹1,800 target, implying 21% upside. The brokerage sees strong growth potential from decentralised molecular diagnostics, led by Molbio’s Truenat platform, which has 12,500+ devices across 90+ countries and 43 assays for 30 diseases.
@@ -173,6 +187,11 @@ Mutual funds increased holdings in 64 Nifty Microcap 250 companies for two conse
 
 ### [Banks vs NBFCs: Which stocks could benefit as RBI eyes rate hike for first time in 3 years?](https://economictimes.indiatimes.com/markets/stocks/news/banks-vs-nbfcs-which-stocks-could-benefit-as-rbi-set-to-hike-rates-for-the-first-time-in-3-years/articleshow/134726852.cms)
 The RBI’s expected first rate hike in three years could have a mixed impact on banks and NBFCs. While higher funding costs may pressure NBFC margins, lenders with floating-rate assets and strong liquidity could benefit. Brokerages favour HDFC Bank, ICICI Bank, Kotak Mahindra Bank, Bajaj Finance and Tata Capital.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [NSE shares wipe off Rs 41,000 crore after listing day pop as stock slips below IPO price. Why are analysts still bullish?](https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-wipe-off-rs-41000-crore-after-listing-day-pop-as-stock-slips-below-ipo-price-why-are-analysts-still-bullish/articleshow/134725274.cms)
+NSE shares have slipped below their IPO price after a brief listing-day rally, wiping out nearly Rs 41,000 crore from the exchange’s peak market value. Despite the decline, analysts remain bullish, citing NSE’s dominant market position, strong profitability, cash generation and India’s long-term capital-market growth potential.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
@@ -191,26 +210,51 @@ The Indian equity markets are currently under strain from a variety of economic 
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
+### [PhysicsWallah exits student lending, sells  ₹96 crore loan book to Auxilo](https://www.livemint.com/companies/news/physicswallah-exits-student-lending-sells-rs-96-crore-loan-book-to-auxilo-11791306975721.html)
+PhysicsWallah exits direct student lending as FinZ Finance sells its ₹95.79 crore loan book to education-focused NBFC Auxilo Finserve.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-06
+
+### [NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises](https://www.livemint.com/companies/ntpc-to-buy-10-million-tonnes-of-coal-from-commercial-mines-in-h2-fy27-as-power-demand-rises-11791300287123.html)
+The state-run power generator is tapping commercial miners to meet a projected 300 MT coal requirement in FY27 as rising heat fuels electricity demand.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-06
+
+### [Campa, PepsiCo and Monster win Delhi court relief against FSSAI 'energy drink' label ban](https://www.livemint.com/companies/news/campa-v-fssai-reliance-wins-delhi-court-relief-against-energy-drink-label-ban-11791279066471.html)
+Delhi court on Tuesday put on hold the food regulator's order to stop Campa, PepsiCo and Monster Beverage from using the ‘energy drink’ label on their cans, according to a lawyer present at the hearing.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-06
+
 ### [Noel, three SDTT trustees slam Venu, Vijay over listing ‘epiphanies’, accuse them of breaching fiduciary duties](https://www.livemint.com/companies/tata-trusts-vs-venu-srinivasan-vijay-singh-tata-sons-listing-11791209202245.html)
 The letter, which bares the deep rift at the heart of Tata Trusts, also signals the balance of power in SDTT, with four trustees ranged against two. SDTT is the largest shareholder of Tata Sons, owning 27.98% in the holding company of India's largest conglomerate.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-06
 
-### [Digger Box Office Collection Day 4: Tom Cruise Starrer Struggles To Hold Ground After Weekend](https://www.ndtvprofit.com/business/digger-box-office-collection-day-4-tom-cruise-starrer-sees-big-monday-drop-after-weekend-struggles-to-hold-ground-12145290#publisher=newsstand)
-Digger Stars Tom Cruise And Riz Ahmed; Alejandro G. Iñárritu Directs The Film
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [Stock Market Today LIVE: Sensex Near Day's High, Nifty 50 Holds 22,700; CAS In Focus](https://www.ndtvprofit.com/markets/stock-market-today-live-sensex-today-gift-nifty-hints-positive-start-for-nifty-50-12143564#publisher=newsstand)
-Broader markets also supported the rally, as the Nifty Smallcap 100 index surged 1%, and the Nifty Midcap 100 index gained over half a percent.
+### [Trade Setup For Oct. 7: Nifty Finds Hurdle At 22,930 To Extend Pullback Rally Amid Easing Crude Oil Prices](https://www.ndtvprofit.com/markets/trade-setup-for-oct-7-nifty-finds-hurdle-at-22-930-to-extend-pullback-rally-amid-easing-crude-oil-prices-12147674#publisher=newsstand)
+However, analysts believe the index is approaching a key resistance zone, with the outcome of the Reserve Bank of India's policy decision likely to determine whether the recent rebound can develop into a broader recovery.
 
 **Source:** NDTV Profit  **Date:** 2026-10-06
 
 ---
 
-## 📰 Industry & Policy News (17)
+## 📰 Industry & Policy News (15)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddy's Laboratories ends trading at Rs 1207.5](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-06-oct-2026/liveblog/134721878.cms)
+### [Market Trading Guide: Motilal Oswal among 4 stock recommendations for Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-motilal-oswal-among-4-stock-recommendations-for-wednesday/slideshow/134744371.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [ET Alpha Wealth Summit 2.0: Where is smart money moving amid global market churn?](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-where-is-smart-money-moving-amid-global-market-churn/articleshow/134739429.cms)
+As global capital shifts amid rising bond yields, changing valuations and new investment themes, investors are asking where the next opportunities could emerge. At ET Alpha Wealth Summit 2.0, two back-to-back sessions will explore where long-term capital is moving and how family offices and institutions are putting money to work across private credit, venture debt, co-investments and alternative strategies.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [HFCL among 4 stocks hitting 52-week highs; rallied up to 15% in a month](https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-4-stocks-hitting-52-week-highs-rallied-up-to-15-in-a-month/slideshow/134740315.cms)
+HFCL, Aether Industries, Aditya Infotech and BHEL hit fresh 52-week highs, with the four stocks gaining up to 14% over the past month.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-bse-coal-india-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134739696.cms)
+Franklin India Small Cap Fund crossed Rs 14,000 crore in AUM, while a Rs 10,000 monthly SIP grew to nearly Rs 1.94 crore over 20 years. The fund has outperformed its benchmark over 15 years, highlighting long-term compounding and disciplined investing.
+
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
 ### [CAS U-turn ahead? BSE, Groww, NSE, other capital market stocks jump up to 4% amid buzz around Sebi tweaking F&amp;O settlement rules](https://economictimes.indiatimes.com/markets/stocks/news/cas-u-turn-ahead-bse-groww-nse-other-capital-market-stocks-jump-up-to-4-amid-buzz-around-sebi-tweaking-fo-settlement-rules/articleshow/134725833.cms)
@@ -220,6 +264,16 @@ Capital market stocks rallied after a Reuters report said Sebi may partly revers
 
 ### [Viceroy Hotels shares rise 2% as Zerodha founders Nithin, Nikhil Kamath pick 6.72% stake](https://economictimes.indiatimes.com/markets/stocks/news/viceroy-hotels-shares-rise-2-as-zerodha-founders-nithin-nikhil-kamath-pick-6-72-stake/articleshow/134725913.cms)
 Viceroy Hotels shares witnessed an uptick on Tuesday after Zerodha founders Nithin and Nikhil Kamath acquired a 6.72% stake in the company during the September quarter. The hotel operator, which emerged from insolvency in 2024, is expanding its portfolio in Hyderabad and has plans to acquire SLN Terminus Hotels and Resorts.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [From Rs 0 to GIFT: How TPFM is lowering the entry barrier for fund managers](https://economictimes.indiatimes.com/markets/stocks/news/from-rs-0-to-gift-how-tpfm-is-lowering-the-entry-barrier-for-fund-managers/articleshow/134724046.cms)
+Third-Party Fund Management Services under IFSCA regulations are transforming market entry into GIFT IFSC. By allowing emerging managers to utilize existing Fund Management Entities, TPFM lowers fixed infrastructure costs, shifting focus from building platforms upfront to raising fund capital and accessing established regulatory framework capabilities efficiently.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-06
+
+### [Acme Universal Safezone 9 debuts 42% premium on BSE SME; Pind Hospitality opens at 20% discount. Check details](https://economictimes.indiatimes.com/markets/stocks/news/acme-universal-safezone-9-debuts-42-premium-on-bse-sme-pind-hospitality-opens-at-20-discount-check-details/articleshow/134723670.cms)
+Three SME IPOs — Pind Hospitality, Acme Universal Safezone 9 and Shivchem Agro — made their debut on the BSE SME platform on October 6. Together, the companies raised nearly Rs 68 crore through their IPOs, with subscription levels ranging from 2.20 times to 23.41 times.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-06
 
@@ -248,48 +302,13 @@ San Diego County has filed a lawsuit against mobile advertising technology compa
 
 **Source:** Mint - Pharma  **Date:** 2026-10-05
 
-### [Who is Jacob Coxon? Former Anthropic researcher to testify at New York City AI hearing today](https://www.livemint.com/companies/people/who-is-jacob-coxon-former-anthropic-researcher-to-testify-at-new-york-city-ai-hearing-today-11791198345082.html)
-Last month, Jacob Coxon quit Anthropic, issuing warnings that the ‘people building AI earnestly believe that it could kill us all by the end of the decade’. He also accused his former employer OpenAI of ‘gambling with our lives.’
-
-**Source:** Mint - Pharma  **Date:** 2026-10-05
-
-### [How homegrown D2C challengers are forcing L’Oréal to rewrite its India playbook](https://www.livemint.com/companies/news/loreal-india-market-share-luxury-beauty-acquisitions-11791195090362.html)
-Stagnant growth in India has cornered L’Oréal into a bold reset. From unleashing prestige icons to acquiring nimble homegrown brands, the French beauty titan is rewriting its playbook to conquer the country’s ingredient-obsessed, luxury-chasing consumers.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-05
-
-### [Getting glutathione into the blood is not the same as getting glutathione into the cell](https://www.expresspharma.in/getting-glutathione-into-the-blood-is-not-the-same-as-getting-glutathione-into-the-cell/)
-Skin Beyond Borders announced its audited skincare marketplace in August. What industry gap are you trying to address? My experience in the industry spans around 20 years. I formally started working in dermatology in 2009, although before that I was in formulation development and clinical research. In 2009 I started Adroit Digital Ideas, a medical [&#8230;] The post Getting glutathione into the blood is not the same as getting glutathione into the cell appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-10-05
-
 ### [3 Pharma Stocks With a Strong Future Roadmap: Sun Pharmaceutical Industries, Cipla and Dr. Reddy's Laboratories - Univest](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqN1lRTjRweGRBY2RJcGlVWXNxV3d3VU5aXzZ0QVBWa1YySnNmclNHVTVHSWZTZ3pGa284RFM3cVRza21xTG1UTklyS2R5Z0g5WFZvRWFMaWFlR0hoSjU3RDZ3MA?oc=5)
 3 Pharma Stocks With a Strong Future Roadmap: Sun Pharmaceutical Industries, Cipla and Dr. Reddy's Laboratories &nbsp;&nbsp; Univest
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-10-06
 
-### [Sun Pharma presents LEQSELVI data and Geojit targets Sun Pharma stock at INR 2,070 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEo4ajNfWW1xSmF2cjNNVzVndzhhWU9jX3JXZXFUcEo4SlFqLUZHM2hWOEtRNTQ5bkxvbUJMaVFLREZfUmRjd2ZiTWJtZ3IwRnN6SnFzS0VVUWVCVWNCSXNGeVdxdXNhMkN6ekZXV2ROU1RDUUxISW9WZDIya3IyTjRMcEtoVHNkbjQ4MTBUV29CdUlENUVkTDlOR2VHQmVZNWJ2WTZEUWs4WlRrRk1YMkFwRTIzUzJSdWd5TjdoQ3BpWEg1NE1Sb05PVQ?oc=5)
-Sun Pharma presents LEQSELVI data and Geojit targets Sun Pharma stock at INR 2,070 &nbsp;&nbsp; AD HOC NEWS
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-10-05
-
-### [Sensex, Nifty Rally Decoded: Three Big Reasons Fueling The Pre-RBI Policy Upswing](https://www.ndtvprofit.com/markets/sensex-nifty-rally-decoded-three-big-reasons-fueling-the-pre-rbi-policy-upswing-12145334#publisher=newsstand)
-The Sensex gained more than 508 points, or 0.70%, to around 72,896, while the Nifty 50 held above the 22,700 mark.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [Learn Hindi Or Leave The Job: Zomato Warehouse Supervisor Tells Staff In Bengaluru, Later Apologises In Kannada](https://www.ndtvprofit.com/india/learn-hindi-or-leave-the-job-zomato-warehouse-supervisor-tells-staff-in-bengaluru-later-apologises-in-kannada-12145321#publisher=newsstand)
-Police reportedly took Ashok into custody briefly to calm the tense situation.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [F&O Pricing Dilemma: Market Voices Warn Against Pulling Traders Away From CAS Screens](https://www.ndtvprofit.com/markets/f-o-pricing-dilemma-market-voices-warn-against-pulling-traders-away-from-cas-screens-12144891#publisher=newsstand)
-SEBI has received over 20,000 responses to its consultation paper on reviewing CAS mechanism.
-
-**Source:** NDTV Profit  **Date:** 2026-10-06
-
-### [IPL 2027: Sourav Ganguly Appointed Head Coach Of Delhi Capitals](https://www.ndtvprofit.com/sports/ipl-2027-sourav-ganguly-appointed-head-coach-of-delhi-capitals-12144850#publisher=newsstand)
-Sourav Ganguly has been appointed head coach of Delhi Capitals for the 2027 IPL season, continuing his long association with the franchise since 2019.
+### [Tu Hai Meri Kiran Trailer: Sonakshi Sinha-Zaheer Iqbal Twisted Love Story Blurs Line Between Love, Obsession](https://www.ndtvprofit.com/lifestyle/tu-hai-meri-kiran-trailer-sonakshi-sinha-zaheer-iqbals-twisted-love-story-blurs-line-between-love-and-obsession-12147768#publisher=newsstand)
+Tu Hai Meri Kiran stars Sonakshi Sinha and Zaheer Iqbal in lead roles and is directed by Karan Rawal.
 
 **Source:** NDTV Profit  **Date:** 2026-10-06
 
