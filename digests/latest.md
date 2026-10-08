@@ -1,13 +1,23 @@
 # 🏥 India Pharma Investor Digest — 2026-10-08
 
-> 72 items · 2026-10-08 11:07 UTC
+> 66 items · 2026-10-08 18:25 UTC
 
-## 💰 Results & Financials (25)
+## 💰 Results & Financials (22)
 
-### [TCS Q2 results: Profit rises 15% YoY to Rs 13,884 crore; co declares dividend at Rs 12 per share](https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-profit-rises-15-yoy-to-rs-13884-crore-co-declares-rs-12-dividend/articleshow/134787000.cms)
-TCS Q2 Results: IT services major Tata Consultancy Services (TCS) on Thursday reported 15% year-on-year (YoY) growth in its consolidated net profit at Rs 13,884 crore for the second quarter.
+### [TCS dividend! IT giant declares second interim dividend of Rs 12 per share for FY27](https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-dividend-it-giant-declares-second-interim-dividend-of-rs-12-per-share-for-fy27/articleshow/134788293.cms)
+TCS announced a second interim dividend of Rs 12 per share for FY27 after reporting a 15% rise in Q2 net profit to Rs 13,884 crore. Revenue grew 11% to Rs 73,188 crore, while operating margin stood at 24%.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
+
+### [TCS Q2 results: Profit rises 15% YoY to Rs 13,884 crore; co declares dividend at Rs 12 per share](https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-profit-rises-15-yoy-to-rs-13884-crore-co-declares-rs-12-dividend/articleshow/134787000.cms)
+TCS Q2 Results 2026: IT services major Tata Consultancy Services (TCS) reported 15% year-on-year (YoY) growth in its consolidated net profit at Rs 13,884 crore for the second quarter. Also the company has declared a second interim dividend of Rs 12 per share for the financial year 2026-27.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-08
+
+### [TCS Q2 Results: Net profit up 11% as AI deal flow slowly picks up](https://www.livemint.com/companies/company-results/tcs-q2-results-2026-27-ai-deals-revenue-profit-11791471403757.html)
+TCS Q2 Results 2026-27: Net profit of India's largest IT services firm rose 15% to ₹13,884 crore, on the back of revenue that increased 11% to ₹73,188 crore.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-08
 
 ### [TCS, Infosys, HCL Tech, other IT stocks jump up to 3% despite weak market sentiment. What to expect as Q2 earnings season begins?](https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-hcl-tech-other-it-stocks-jump-up-to-3-despite-weak-market-sentiment-what-to-expect-as-q2-earnings-season-begins/articleshow/134781427.cms)
 IT stocks rose on Thursday as investors turned their attention to TCS, which is set to kick off the Q2 earnings season. Analysts expect modest sequential revenue growth, while a favourable base and margin support could aid year-on-year growth. Currency tailwinds may also support margins across Indian IT services companies.
@@ -22,6 +32,11 @@ Jubilant FoodWorks reported 11.9% YoY growth in consolidated Q2FY27 revenue to R
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
+### [TCS posts slowest quarterly growth in three years as demand stays muted](https://www.livemint.com/companies/tcs-q2-results-2026-27-review-11791471718004.html)
+TCS reported 0.2% sequential revenue growth in the July–September quarter, beating analyst expectations but marking its slowest second-quarter growth in three years.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-10-08
+
 ### [Citi’s India IB revenue nearly doubles as bank raises $16 billion for clients, shows data](https://economictimes.indiatimes.com/markets/stocks/news/citis-india-ib-revenue-nearly-doubles-as-bank-raises-16-billion-for-clients-shows-data/articleshow/134787008.cms)
 Citi’s India investment banking revenue nearly doubled to $52 million, making it the country’s top-ranked investment bank. The lender helped Indian companies raise nearly $16 billion and advised on $36 billion of M&amp;A, driven by overseas expansion and technology-sector activity.
 
@@ -32,28 +47,18 @@ Senco Gold shares rose after the jewellery retailer reported a strong Q2FY27 bus
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
+### [TCS Q2 results 2026: Important announcements from IT giant on Porsche AG partnership, AI Capability Center from Best Buy](https://www.livemint.com/companies/news/tcs-q2-results-2026-important-announcements-from-it-giant-on-porsche-ag-partnership-ai-capability-center-from-best-buy-11791458483525.html)
+TCS announced a five-year partnership with Porsche, including an AI Mobility Centre of Excellence and MHP acquisition. It will also transition Best Buy’s India GCC into an AI Capability Center, expanding its AI-led business.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-08
+
 ### [RBI rate hike done. Now what’s ahead for bank stocks? Jefferies, other brokerages weigh in](https://economictimes.indiatimes.com/markets/stocks/news/rbi-rate-hike-done-now-whats-ahead-for-bank-stocks-jefferies-other-analysts-weigh-in/articleshow/134780310.cms)
 RBI’s first rate hike in nearly four years has put the spotlight on banking stocks, with analysts divided on the near-term impact on margins. Jefferies sees large private banks such as ICICI Bank and Kotak Mahindra Bank as key beneficiaries, while Q2 earnings could offer clues on the sector’s outlook.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
-### [Q2 Results Live Updates: TCS Declares Rs 12 Interim Dividend; Profit, Revenue Meet Estimates](https://www.ndtvprofit.com/markets/q2-results-live-updates-today-october-8-tcs-earnings-today-gm-breweries-dividend-track-q2-fy27-results-live-12154029#publisher=newsstand)
-Q2 Results Live Market Blog
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [TCS Q2 Results Live: Net Profit Rises 4% To Rs 13,884 Crore, Dividend Declared](https://www.ndtvprofit.com/markets/tcs-q2-results-live-updates-today-revenue-profit-dividend-share-price-management-commentary-share-price-markets-12154136#publisher=newsstand)
-TCS Q2 results Live updates.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [TCS Q2 Results: Profit, Revenue Meet Estimates; Dividend Declared](https://www.ndtvprofit.com/markets/tcs-q2-results-profit-revenue-meet-estimates-dividend-declared-12156040#publisher=newsstand)
-They have also declared a dividend of Rs 12 per share.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
 ### [Inside 11-quarter high earnings pomp, 46 companies may wipe out up to 84% of their Q2 profits](https://economictimes.indiatimes.com/markets/stocks/news/inside-11-quarter-high-earnings-pomp-46-companies-may-wipe-out-up-to-84-of-their-q2-profits/articleshow/134785476.cms)
-At least 46 companies are expected to report double-digit profit declines in Q2, despite Motilal Oswal projecting 22% earnings growth for its coverage universe. Autos, cement, healthcare, consumer and capital goods are among sectors facing pressure, highlighting the uneven nature of the September-quarter earnings recovery.
+At least 46 companies are expected to report double-digit profit declines in Q2, despite Motilal Oswal projecting 22% earnings growth for its coverage universe. Autos, cement, healthcare, consumer and cap goods are among sectors facing pressure, highlighting the uneven nature of the September-quarter earnings recovery.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
@@ -77,69 +82,49 @@ The pattern is represented by a long white (or green) candlestick with no upper 
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
-### [Dario Amodei earned $18 million as Anthropic CEO in 2025; how much did other AI leaders take home?](https://www.livemint.com/companies/people/dario-amodei-earned-18-million-as-anthropic-ceo-in-2025-how-much-did-other-ai-leaders-take-home-11791382924953.html)
-Dario Amodei, CEO of Anthropic, earned $18 million in 2025, ranking him among major tech executives. His compensation primarily comes from stock, not salary. Both he and his sister Daniela had their salaries doubled to $1.4 million, with significant earnings linked to stock options.
+### [TCS Q2 results 2026: Top 13 highlights from Sept quarter - Google Gemini, Honeywell Tech, Aareal Bank, Vodafone and more](https://www.livemint.com/companies/news/tcs-q2-results-2026-top-13-highlights-from-sept-quarter-google-gemini-honeywell-tech-aareal-bank-vodafone-and-more-11791463662224.html)
+TCS announced 13 key initiatives in Q2, including partnerships with Porsche, Best Buy, Honeywell, Aareal Bank and Vodafone. It also launched Google Gemini centres, AI labs, an agentic AI platform for drug development and custom SoC design services.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-07
+**Source:** Mint - Pharma  **Date:** 2026-10-08
 
-### [TCS Q2 Results: IT Giant Declares Rs 12 Interim Dividend, Check Record Date](https://www.ndtvprofit.com/markets/tcs-q2-results-it-giant-declares-rs-12-interim-dividend-check-record-date-12156046#publisher=newsstand)
-TCS's dividend will be paid out by Oct. 30, 2026 to the eligible shareholders.
+### [Effective GST Rate Falls To 10.84% As Tax Base Widens, Revenue Grows](https://www.ndtvprofit.com/economy/effective-gst-rate-falls-to-10-84-as-tax-base-widens-revenue-grows-12158386#publisher=newsstand)
+The decline comes even as the GST base continues to expand. Taxable supply has risen 25.8%, while GST revenue grew 11% in FY2026-27.
 
 **Source:** NDTV Profit  **Date:** 2026-10-08
 
-### [TCS Q2 preview: Results 2026 today after stock market closing bell; expectations, dividend announcement schedule, yield - Livemint](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS2t3dzdVLXBkX1hYVWw5YlNTZXBicEhHeVFfbTdFWGRvbmZVakE4cUw3VVZPVFZVcnJGb0RoWTlNQl83S2lfMDhQeVlJVGRfVzRNR3hnWFVLRXp3TUZwXzFhSE54ODhOUkFHOUtOOHJGXzZoSjY4RlprTFZyYWwyazZKTU54cVhRWUNoUHp4bHAzQVFwUUJHYzRndWZ1eFhUWkk3c0xHeW1GMGNXT3lWWmZMbE5jbGV2SERveVFuZUwxZWZqVGFpWWh2Yjh6QVltV29IRHdSZkhNZlJrVTdfTV8tTURMSEk3cF9GVVVVZlQ0RDA0OGNGenB1TFdqamZJeHlWOUdHN2RqcTM3S2Rka0sxUdIBmAJBVV95cUxQOEN4TEVJUF95bGNEWHU1YXRJSmU1VWwyX3QwM3VIWW5nc1o0cmFHOUdwZHFHVmRjR29RVUh6NGQyaFdtT2NFVDc4bkxNU3V5V0hzUlpubGd3UjlCQm9IbUN3bzh1Wi1hLUwtRUZMSjFGZFpXZS05TEQ0N2hmc2NKNDJ2c3JqS0hpT0FlS0c5NzRrX282TzlEWkJFWHVndE5HQk9TTlktSXFCQ1owWGx3ME4yWVAzcGkzUC13VU5UN201aUdSZjBxc3N3cWpZanAtc0tzdGFIRi1jUVBLWWJZellERU1QZXFjaXB2Z3lJdXZ1R3Z4UlVfWEdCT3dNQjdYSnpnajMzRzg4ZTM4aUFrOTB4WENPU1hO?oc=5)
-TCS Q2 preview: Results 2026 today after stock market closing bell; expectations, dividend announcement schedule, yield &nbsp;&nbsp; Livemint
+### [TCS Q2 Concall Live: Revenue Per Employee Slips As AI Revenue Crosses $3.1 Billion](https://www.ndtvprofit.com/markets/tcs-q2-results-live-updates-today-revenue-profit-dividend-share-price-management-commentary-share-price-markets-12154136#publisher=newsstand)
+TCS Q2 results Live updates.
 
-**Source:** GNews - Sun Pharma  **Date:** 2026-10-08
+**Source:** NDTV Profit  **Date:** 2026-10-08
 
 ### [Pharma stocks to buy ahead of Q2 results: Acutaas Chemicals, Mankind Pharma, Ipca Labs - Max upside? Target price - Livemint](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYWZOZEhWbDZRaG5iMnByMXM4NnRIZVF3eXR1RVp0dlZ6X1BJTGtHV0hzS29fWS1ZQU5tLVlSZVdDNzdNNjBJWERjN04wT2pwbTVGVHZlYU5Uc2Qzazl2OEkzMjR5SkNVaFNuX0k0dlI3c1JXQVZhdjNiWlRGSGgzczE4OGNwT21ydlpfLU9YdVFLN1JfSk90MXk0N0JkMERHMnA4YTJjS2w3UjhGdjBoRW9wc2JYd3F3NU9GekdVT1hFSklrZkRUUlVSR3pENUtQZG5HSmdlbWdJME8tYmxqazl4N1pJTVl2R3FFVzhQRnRyNV9ZMlYzVUE1VGFtOTBCbFBRT2ZrM3fSAY4CQVVfeXFMT3lNcVlqSDFSZVhoYXR6cmZZSFFpeDE0Ykk2ZTJiUDZ0UG9fejFaMWhpd0dLbTdiNTRCNnFiUjluSDBjR2xNOXM2SF9BUjcwdzd3cHdVNDNUUGlSSWE2eF8tYW5fQlZsZVhPQWtsaHh4cEJuS3c3czBFcEFrVU1uTzl1d2xHTUpPTDROeUZCSlZJZUhzTmRHQVBjZkVJRG0weWFhdzBNWmJuQXZjeHNjTjJ3VmwyYUdZZHM3cVNDWlJxUVYtZDQwZG91cm9HN2c5cmNjSHIzZm50WWUxT1c2LXlnT3pMSXRVNmQzRGxOR2M0enE0ZkhKdS05alhfVk15QnBYTTNGRjZYTmlYUzBn?oc=5)
 Pharma stocks to buy ahead of Q2 results: Acutaas Chemicals, Mankind Pharma, Ipca Labs - Max upside? Target price &nbsp;&nbsp; Livemint
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-10-08
 
-### [Tukaram Mundhe Recalls Last Conversation With Nana Patekar: 'Goodbye, My Friend. You Will Be Deeply Missed'](https://www.ndtvprofit.com/india/tukaram-mundhe-recalls-last-conversation-with-nana-patekar-goodbye-my-friend-you-will-be-deeply-missed-12155995#publisher=newsstand)
-Nana Patekar’s death at 75 has left the film industry mourning the loss of a veteran performer.
+### ['Condolences To Family': Tanushree Dutta Reacts To Nana Patekar's Demise](https://www.ndtvprofit.com/india/entertainment-cinema-tanushree-dutta-reaction-nana-patekar-demise-12158167#publisher=newsstand)
+Dutta had accused Patekar of sexual harassment in 2018 in connection with the shooting of their 2009 film Horn 'Ok' Pleassss. Patekar consistently denied the allegations.
 
 **Source:** NDTV Profit  **Date:** 2026-10-08
 
-### [Nana Patekar Funeral: Final Darshan, Last Rites Time, Venue And Other Details](https://www.ndtvprofit.com/india/nana-patekar-funeral-final-darshan-last-rites-time-venue-and-other-details-12155847#publisher=newsstand)
-File image of veteran actor Nana Patekar
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [Nifty At 18-Month Low: Experts Flag More Valuation Weakness, Crude At $110 As Risks; Earnings Still Hold Up](https://www.ndtvprofit.com/markets/nifty-at-18-month-low-experts-flag-more-valuation-weakness-crude-at-110-as-risks-earnings-still-hold-up-12156009#publisher=newsstand)
-Markets are also dealing with higher global bond yields. The US 10-year Treasury yield is around 5.3%, while Brent has moved above $100, creating a difficult backdrop for emerging-market equities.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [TCS Share Price Closes In Red Ahead Of Q2 Results, As Nifty Tanks To 18-Month Low](https://www.ndtvprofit.com/markets/tcs-share-price-jumps-2-7-ahead-of-q2-results-12154255#publisher=newsstand)
-TCS stock price has lost more than 30% in one year, while it shed 35% in 2026 itself.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### ['Straightforward, Truly Special Talent': Sachin Tendulkar, Virat Kohli And Other Cricketers React To Nana Patekar's Demise](https://www.ndtvprofit.com/lifestyle/nana-patekar-no-more-sachin-tendulkar-virat-kohli-and-other-cricketers-pay-rich-tributes-to-veteran-actor-12155928#publisher=newsstand)
-Legendary Actor Nana Patekar Passes Away At 76
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [Indian 3: Kamal Haasan Returns As Senapathy; Here's What To Expect From War Mode](https://www.ndtvprofit.com/lifestyle/entertainment-cinema-kollywood-movie-indian-3-kamal-haasan-returns-as-senapathy-tamil-film-what-to-expect-from-war-mode-12155676#publisher=newsstand)
-Kamal Haasan will return as Senapathy in 'Indian 3'
+### [What TCS Q2 Results Mean For Infosys, Wipro, HCLTech And Tech Mahindra](https://www.ndtvprofit.com/markets/what-tcs-q2-results-mean-for-infosys-wipro-hcltech-and-tech-mahindra-12158060#publisher=newsstand)
+For Infosys, HCLTech, Wipro and Tech Mahindra, TCS's Q2 results offer a clear message: the demand environment is stabilising, but a broad-based recovery has not yet arrived.
 
 **Source:** NDTV Profit  **Date:** 2026-10-08
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (12)
+## 🤝 Deals, M&A & Partnerships (10)
 
 ### [Vedanta dividend alert! Anil Agarwal-led firm announces Rs 5/share interim dividend for FY27. Check record date](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-alert-anil-agarwal-led-firm-announces-rs-5/share-interim-dividend-for-fy27-check-record-date/articleshow/134785319.cms)
 Vedanta dividend 2026: Vedanta has announced its first interim dividend of Rs 5 per share for FY27, with a total payout of Rs 1,955 crore. The dividend comes after the company’s mega demerger earlier this year. Investors will need to hold Vedanta shares by October 14 to qualify, with October 13 being the last buying day.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
-### [Paramount-Warner merger: In first town hall, David Ellison warns employees of ‘difficult decisions’ ahead](https://www.livemint.com/companies/paramountwarner-merger-in-first-town-hall-david-ellison-warns-employees-of-difficult-decisions-ahead-11791380781222.html)
-Paramount Skydance Corp. closed its $110 billion acquisition of Warner Bros. Discovery Inc. on Tuesday, completing one of the biggest media mergers of all time.
+### [Rs 9,395 crore block deal! GQG exits ITC shares after a sharp 30% crash this year](https://economictimes.indiatimes.com/markets/stocks/news/rs-9395-crore-block-deal-gqg-exits-itc-shares-after-a-sharp-30-crash-this-year/articleshow/134793639.cms)
+ITC witnessed a nearly Rs 9,437 crore block deal as a GQG-linked fund sold 36.51 crore shares, while Fidelity and major Indian mutual funds bought stakes. The transaction comes as ITC shares remain under pressure from taxation concerns and weak volume recovery.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-07
+**Source:** Economic Times - Markets  **Date:** 2026-10-08
 
 ### [ITC shares slide 3% on block deal buzz; FMCG giant down 29% in 2026](https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-slide-3-on-block-deal-buzz-fmcg-giant-down-29-in-2026/articleshow/134780949.cms)
 ITC shares witnessed a drop on Thursday amid reports of likely block deals, with nearly 39 crore shares changing hands across the NSE and BSE. The identities of the buyers and sellers involved in the reported transactions were not immediately known.
@@ -161,6 +146,11 @@ On October 8, Vishal Nirmiti made a subdued debut in the stock market, listing b
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
+### [Great Indian Festival to ‘break previous records’ as early deals see 35-40% growth: Amazon India executive | Exclusive](https://www.livemint.com/companies/news/great-indian-festival-to-break-previous-records-as-early-deals-see-35-40-growth-amazon-india-executive-exclusive-11791475625378.html)
+Amazon India expects its Great Indian Festival 2026 to set new records, after early deals grew 35–40%. The company expanded Amazon Now to 120 cities, increased fulfilment capacity by nearly 50%, added logistics facilities and created 160,000 seasonal jobs, its top executive in India said.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-08
+
 ### [SK Finance’s early backers eye part exits to Neo, Kenro in  ₹400 crore deal](https://www.livemint.com/companies/news/sk-finance-neo-kenro-capital-stake-sale-11791429483423.html)
 Neo Secondaries Fund and Kenro Capital are expected to pick up a combined ₹400 crore stake in SK Finance as long-term investors TPG and Norwest explore partial exits.
 
@@ -171,40 +161,21 @@ Foreign workers building US consulate in Milan sign compensation deals over alle
 
 **Source:** Mint - Pharma  **Date:** 2026-10-07
 
-### [Goenkas' RPSG bets on energy, chemicals, ITeS as its growth engines](https://www.livemint.com/companies/goenkas-rpsg-energy-chemicals-ites-bpo-growth-engines-firstsource-11791368668295.html)
-CESC Ltd, the group’s utility arm, deals with power distribution as well as renewable energy generation under its subsidiary Purvah Green Power Pvt Ltd. It has a market capitalization of a little over ₹17,400 crore.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-07
-
 ### [Pharma deal value falls 78.8% in September 2026: GlobalData](https://www.expresspharma.in/pharma-deal-value-falls-78-8-in-september-2026-globaldata/)
 Healthcare industry reported 85 deals worth $6.2 billion in September 2026, while VC funding increased by 21.6% to $4.2 billion The post Pharma deal value falls 78.8% in September 2026: GlobalData appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-08
 
-### [Best Phones Under Rs 50,000 On Amazon Great Indian Festival 2026: Check Top Deals](https://www.ndtvprofit.com/trending/best-phones-under-rs-50-000-on-amazon-great-indian-festival-2026-check-top-deals-12155819#publisher=newsstand)
-Looking for a premium smartphone without crossing the Rs 50,000 mark? Amazon's festive sale has brought several well known models into this price range, making it easier to choose between performance, cameras, displays and battery life.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [iPhone 15,16,17 Deals: Amazon vs Flipkart vs Reliance Digital - Who Is Offering Biggest Discount?](https://www.ndtvprofit.com/technology/iphone-15-16-17-deals-amazon-vs-flipkart-vs-reliance-digital-who-is-offering-biggest-discount-12155073#publisher=newsstand)
-The biggest difference across these sales is not always the headline price. Bank discounts, exchange offers and eligibility can change the final amount you pay.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
 ---
 
-## 💸 Corporate Actions (1)
+## 🏭 Operations & Approvals (4)
 
-### [Flipkart's ex-employees press Walmart for ‘fair’ ESOP treatment ahead of IPO: Report](https://www.livemint.com/companies/news/flipkart-employees-press-walmart-for-fair-esop-treatment-ahead-of-ipo-report-11791367371832.html)
-Flipkart's ex-employees have approached Walmart's board, seeking fair treatment for their vested ESOPs ahead of the company's planned IPO. Over 30,000 employees may receive ₹38,000 crore from buybacks. Here's a look at the latest…&amp;nbsp;
+### [Amitabh Bachchan’s granddaughter Navya Naveli Nanda launches venture arm to invest in AI, space, clean energy](https://www.livemint.com/companies/amitabh-bachchan-s-granddaughter-navya-naveli-nanda-launches-venture-arm-to-invest-in-ai-space-clean-energy-11791476581023.html)
+Announcing the venture on social media, Navya said she had been working on the initiative for some time before making it public.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-07
+**Source:** Mint - Pharma  **Date:** 2026-10-08
 
----
-
-## 🏭 Operations & Approvals (5)
-
-### [Mint Explainer: Why is Elon Musk’s Starlink at war with Indian telecom giants?](https://www.livemint.com/companies/elon-musk-starlink-indian-telecom-giants-11791451260121.html)
+### [Mint Explainer | Why is Elon Musk’s Starlink at war with Indian telecom giants?](https://www.livemint.com/companies/elon-musk-starlink-indian-telecom-giants-11791451260121.html)
 Elon Musk claims Indian ‘oligarchs’ are stalling Starlink’s launch, deepening a fierce battle with Jio and Airtel over spectrum allocation and market control.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-08
@@ -214,16 +185,6 @@ Eloelo Group launches Dolphin AI, a game-changing video creation and editing pla
 
 **Source:** Mint - Pharma  **Date:** 2026-10-08
 
-### [AI cloud firm CoreWeave to launch first India data centres with AdaniConneX in Navi Mumbai](https://www.livemint.com/companies/news/ai-cloud-firm-coreweave-to-launch-first-india-data-centres-with-adaniconnex-in-navi-mumbai-11791395574606.html)
-CoreWeave will use 240 megawatts of capacity at the Taloja campus of AdaniConneX Pvt. in Navi Mumbai, according to a statement released by the company on Wednesday.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-07
-
-### [Starlink India launch row: Elon Musk says delay is a ‘crime against the people…’ in X post](https://www.livemint.com/companies/news/starlink-india-launch-stuck-elon-musk-lashes-out-says-delay-is-a-crime-against-the-people-in-x-post-11791390758707.html)
-Elon Musk gave his views over Starlink's delays in entering the Indian market, alleging obstruction by ‘oligarchs’ to maintain 'monopolies'. Despite recent regulatory approvals, the company still awaits final clearance from the Department of Telecommunications to begin operations.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-07
-
 ### [ACG launches RecycloPod PP Ultra polypropylene blister packaging system](https://www.expresspharma.in/acg-launches-recyclopod-pp-ultra-polypropylene-blister-packaging-system/)
 The packaging system combines moisture and oxygen barrier protection with design for recyclability for pharmaceutical applications The post ACG launches RecycloPod PP Ultra polypropylene blister packaging system appeared first on Express Pharma .
 
@@ -231,7 +192,27 @@ The packaging system combines moisture and oxygen barrier protection with design
 
 ---
 
-## 📉 Analyst & Brokerage Calls (10)
+## 📉 Analyst & Brokerage Calls (14)
+
+### [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134794702.cms)
+Indian markets plunged on Thursday as RBI policy tightening, persistent FII selling, rising bond yields and rupee weakness battered sentiment. The Nifty hit a 52-week low of 22,179, while the Sensex fell 1,045 points, wiping out over Rs 10 lakh crore.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-08
+
+### [Market Trading Guide: Deepa Jewellers among 2 stock recommendations for Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepa-jewellers-among-2-stock-recommendations-for-friday/articleshow/134794477.cms)
+Indian markets remained under pressure as hawkish RBI policy, persistent FII outflows, rising bond yields and rupee weakness weighed on sentiment. Amid the sell-off, analysts identified Brooks Laboratories and Deepa Jewellers as medium-term opportunities based on bullish technical breakouts.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-08
+
+### [M&amp;M, Maruti Suzuki among 6 Sensex stocks that hit 52-week lows and slipped up to 12% in a month](https://economictimes.indiatimes.com/markets/stocks/news/mampm-maruti-suzuki-among-6-sensex-stocks-that-hit-52-week-lows-and-slipped-up-to-12-in-a-month/slideshow/134790253.cms)
+Seven Sensex stocks touched fresh 52-week lows as Indian equities suffered a sharp sell-off on Thursday. Mahindra &amp; Mahindra and Maruti Suzuki fell around 12% each over the past month, while Bharat Electronics, Power Grid, NTPC and ITC also hit yearly lows.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-08
+
+### [Market wrap: Infosys, Tech Mahindra, Adani Ent, ITC top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-tech-mahindra-adani-ent-itc-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134788835.cms)
+Indian markets extended their sell-off as the RBI’s hawkish policy stance pressured rate-sensitive sectors and reset near-term valuations. The Nifty fell 1.64% to 22,231.80, while the Sensex dropped 1.46% to 71,593.24, with metals and realty leading losses.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-08
 
 ### [Adani Group stocks tumble as market rout deepens; Adani Green, Adani Ent, others tank up to 10%](https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-tumble-as-market-rout-deepens-adani-green-adani-ent-others-tank-up-to-10/articleshow/134786010.cms)
 On October 8, shares of Adani Group experienced sharp declines amid a wider market downturn, with Adani Green Energy plunging by 10% and Adani Enterprises by 7%. Despite receiving a long-term rating upgrade from CARE Ratings, investor confidence remained shaky. Other subsidiaries, including Adani Power and Adani Ports, also witnessed losses, underscoring the market's inherent volatility and investor unease regarding the current economic climate.
@@ -273,30 +254,24 @@ Creditors to Hertz Global Holdings Inc. are organizing across at least two group
 
 **Source:** Mint - Pharma  **Date:** 2026-10-07
 
-### [Brookfield enters Indian logistics with 10.5 million sq ft ESR portfolio buyout](https://www.livemint.com/companies/brookfield-enters-indian-logistics-with-10-5-million-sq-ft-esr-portfolio-buyout-11791375694489.html)
-The asset manager has committed ₹4,300 crore to acquire and further develop Grade A warehousing parks across six major hubs, with ESR continuing to manage the properties.
+### [Buy, Sell Or Hold: Reliance Industries, Tata Motors PV, Swiggy, HDFC Bank, Cochin Shipyard And Kalyan Jewellers — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-reliance-industries-tata-motors-pv-swiggy-hdfc-bank-cochin-shipyard-and-kalyan-jewellers-ask-profit-12158193#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-07
+**Source:** NDTV Profit  **Date:** 2026-10-08
 
-### [Stock Picks Today: Bharti Airtel, ITC, Sun Pharma, Paytm, Shriram Finance And More On Brokerages' Radar - NDTV Profit](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVnJNQWh3b0tjVGZOWWFySWx1dnI0R2txRjFpTVNnWldhdG5yRTV6VjNDTVJQOEd6ZFhqeFhqXzBmNWF1RkpFNEswRlVRV0dqeHR0MFMtRmNYajhhNGozVGYzbWlKdDB3MEx0a3FfQ0YyNjVxSzVQWVRpT0xaZ1E2UnBtNi1zSDdJWWdsaWo1MmRfSGx1WkRGamswaDRteFdxUXo4TXJPUzJpTkJVUG41X3VfV1N0NVdONEJoa2ZFUWNjQWxLYjRoVkVpVHhLaVNvT2tXajRBRW1lY3dBTXpfMFljaUJQYXpnV3I2WEpYX0sxeDZUWEJPejhiNVjSAYQCQVVfeXFMTkpnUk9oV1VXOEk3U2JXZXJDVm5henZESHR4LTl0R3lPYlVSSWFfZGtxRnVaZF83WHRfVllyOEtQeW00c190TEJXMkQ5d2VYYkJFdXVZd3A0QzM5dTNMVVc4Z25ZdFVpa0liTzhkcnVfZktkbnB4bllhVEFEVzF3N0xwdVptTlMxRG9CTlY4OXBfWkN0cDd0Tjd6dDRBZDVrZWVmSTBpTWVmQWdZSDN1UXc0R1ZabDRNR0pQU0JwVXAxZ1l6Q0IzaWQ5Y2lqSV93bTFSNnZKdHhPdGpSdWplTmF2LTE5LXRSeWh0UDF2VkZvaXFLSGM4N2FHaHhONHpJMGI0Qi0?oc=5)
-Stock Picks Today: Bharti Airtel, ITC, Sun Pharma, Paytm, Shriram Finance And More On Brokerages' Radar &nbsp;&nbsp; NDTV Profit
+### [Buy, Sell Or Hold: Siemens, Titan, Kalyan Jewellers, NALCO And HAL— Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-siemens-titan-kalyan-jewellers-nalco-and-hal-ask-profit-12153180#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
 
-**Source:** GNews - Sun Pharma  **Date:** 2026-10-08
+**Source:** NDTV Profit  **Date:** 2026-10-08
 
 ---
 
-## 📰 Industry & Policy News (19)
+## 📰 Industry & Policy News (16)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Current Market Position](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-08-oct-2026/liveblog/134778447.cms)
+### [Absence of AI in equities will become India's strength in a year, mkts to start attracting flows: CEA](https://economictimes.indiatimes.com/markets/stocks/news/absence-of-ai-in-equities-will-become-indias-strength-in-a-year-mkts-to-start-attracting-flows-cea/articleshow/134793195.cms)
+Chief Economic Advisor V Anantha Nageswaran indicated that India's absence of AI focus might become an advantage. He believes that if the AI boom falters, foreign investors will seek alternative growth opportunities in India. Despite currency depreciation and external challenges, India maintains strong economic fundamentals and growth. Nageswaran highlighted the manageable current account deficit and well-capitalized banking system as positive factors.
+
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
-
-### [Dr Reddy's Laboratories Share Price Live Updates: Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-08-oct-2026/liveblog/134778442.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-10-08
-
-### [HSBC Layoffs: Bank to cut half of UK wealth management jobs as AI use expands](https://www.livemint.com/companies/news/hsbc-layoffs-bank-to-cut-half-of-uk-wealth-management-jobs-as-ai-use-expands-11791394722537.html)
-The proposed restructuring could see HSBC eliminate around half of its management and specialist positions in the UK wealth division, while the number of financial advisers could fall by nearly 70%, the report said
-
-**Source:** Mint - Pharma  **Date:** 2026-10-07
 
 ### [8 smallcap stocks turned multibaggers in 2026 after crashing over 40% in 2025](https://economictimes.indiatimes.com/markets/stocks/news/8-smallcap-stocks-turned-multibaggers-in-2026-after-crashing-over-40-in-2025/slideshow/134785509.cms)
 Nine smallcap stocks that fell over 40% in 2025 have more than doubled in 2026, highlighting sharp turnarounds in investor sentiment and emerging as some of the year’s biggest multibagger stories.
@@ -333,46 +308,41 @@ Four NSE F&amp;O stocks, including ITC and Anand Rathi Wealth, witnessed over 7%
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Trading Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-08-oct-2026/liveblog/134778595.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-08-oct-2026/liveblog/134778595.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-10-08
+
+### [DailyObjects raises  ₹332 crore led by Xponentia, others at  ₹1,050 crore valuation](https://www.livemint.com/companies/start-ups/dailyobjects-raises-332-crore-led-by-xponentia-others-at-1-050-crore-valuation-11791460631868.html)
+The fundraise marks a new phase in DailyObjects’s growth journey, enabling it to scale its retail presence, deepen its product and R&amp;amp;D capabilities, strengthen brand building and evaluate opportunities in global markets
+
+**Source:** Mint - Pharma  **Date:** 2026-10-08
 
 ### [Bharti Airtel's Sunil Bharti Mittal backs Jio's public listing, says ‘looking forward to a very successful IPO’](https://www.livemint.com/companies/people/bharti-airtels-sunil-bharti-mittal-backs-jios-public-listing-says-looking-forward-to-a-very-successful-ipo-11791439758005.html)
 At the India Mobile Congress, Bharti Airtel's Sunil Bharti Mittal commented on the upcoming Jio IPO. Here's what he said.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-08
 
-### [Layoff news: Porsche to terminate 9,000 jobs, management positions face 40% cuts; car prices to go up 20%](https://www.livemint.com/companies/news/layoff-news-porsche-to-terminate-9-000-jobs-management-positions-face-40-cuts-car-prices-to-go-up-20-11791395563763.html)
-Porsche plans to cut about 9,000 jobs by 2030, reducing its workforce by 25% to 30% amid declining sales in China and a shift in its electric vehicle strategy, aiming for higher profit margins through fewer but more expensive vehicles.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-07
-
-### [Airtel hikes postpaid tariffs after over two years, sets the tone for peers](https://www.livemint.com/companies/news/airtel-postpaid-tariff-hike-jio-platforms-ipo-11791363255988.html)
-Airtel’s move comes just weeks ahead of the expected initial public offering (IPO) of Jio Platforms, the parent of Reliance Jio, the market leader by subscribers.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-07
-
 ### [CCTV at pharmacies: Is surveillance enough to curb unauthorised drug sales?](https://www.expresspharma.in/cctv-at-pharmacies-is-surveillance-enough-to-curb-unauthorised-drug-sales/)
 Ashwin Sapra, Partner Life Sciences and Healthcare, Trilegal shares a critical examination of the proposed amendment to the Drugs Rules, 1945 The post CCTV at pharmacies: Is surveillance enough to curb unauthorised drug sales? appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-08
 
-### [INR vs USD: Rupee near 97/dollar; how TCS, Sun Pharma, Tata Steel, SRF may gain from weaker currency? Experts explain - Livemint](https://news.google.com/rss/articles/CBMijgJBVV95cUxOSFFaT19XdzQyR2tMcDhCVGJxYWI2TUZ5aktKcldmQ0NnZkdESjJ5MHlQNGo1a0xzVHlmbEdFS3dHQ2V6SDdGV0lHek9oVERLMkMtUmNHMUJvYng1NXlyQXhXVkhCNjR4ODRveUR5bXE4ZTZYMW5jSGFJNDdKRVdBVnZhVEYwcmVwTWNXMElwbGRBc3BrRHNQV2Z2aHNxbFNWX1ZEbFd1dVMtTWpXNFBtUGdYaXFWTzVXaDJ2Vk13UXVySUtOWkMzamZuLVJ4SW9SU0xXQl9WcXk5bHBnUzc0bFhub1o5VlFiQXdnYWZicHJ0LUw2bFZCM3NIemtVbldPYi1McVRsOGpGYVR3bFHSAZMCQVVfeXFMT0VoRVc5Q2lfMlo1UXNwSFBWeXpBZ3VESmc5N282Y1hjU1lHMjNDQjhhel90Y3ZfVmNOSzhEYWlJUXFseEtLeUtOWTFlaFFnWXNad3dack44T3h6VFplbVIwR3ZDSlIwMzAweVdxY0JTcndfS3dGdlZKUXNKaWM3N2ZrN2h6Q1RPNHM3bkMzYkw2ZGR0Q0tRUGIyWHl5OThadVpiZmptZ25uLWFBVTZFLXU5MlpKTU1ROFVBZWZvQnpScWNlWS1RMFNzUkhGN1RZQUJIamc5MVI1MmNCcW9EeVhoS3dGVFVyMk45Zk1wVWtfdjZ1ektUOEtaemptUFpZMUoyb3pNWVNOVGhyMFE4U3hIS3c?oc=5)
-INR vs USD: Rupee near 97/dollar; how TCS, Sun Pharma, Tata Steel, SRF may gain from weaker currency? Experts explain &nbsp;&nbsp; Livemint
+### [Xbox Wants To Be More Than A Gaming Company, And Its New XP Division Explains Why](https://www.ndtvprofit.com/business/xbox-wants-to-be-more-than-a-gaming-company-and-its-new-xp-division-explains-why-12158086#publisher=newsstand)
+Representational
+
+**Source:** NDTV Profit  **Date:** 2026-10-08
+
+### [Stocks to Watch Today, 8 October: TCS, Tata Steel, Sun Pharma - Univest](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXBKYV9IaFpRZDNJdFdVQUVoZFBILUdGNjQwQml0TnZQVkVrNExPTFhHMjJ6MzVQREpqTGxnVlpQeTh0TGk0M1hQYUxhb2FxUEhZZnF1c1BwcTJZeWJoc0xsQjVUYWMycFktRll3RTZ5eVA1WVZqOGI2N2tBc3NoVm1tTmJCUlpLRWU3ZW1uT2NwOTc2cWItY0cyZ0xfYnBrbjh5d1hlV0hJc0x2?oc=5)
+Stocks to Watch Today, 8 October: TCS, Tata Steel, Sun Pharma &nbsp;&nbsp; Univest
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-10-08
 
-### [Stock Market Crash Highlights: Sensex Crashes 1,045 Points, Nifty 50 Ends Below 22,250; ITC, JSW Steel, IndiGo Among Top Losers](https://www.ndtvprofit.com/markets/stock-market-today-live-gift-nifty-signals-weak-start-for-nifty-50-sensex-tcs-hcl-tech-ola-electric-in-focus-12154000#publisher=newsstand)
-Broader markets saw deeper cuts, as the Nifty Smallcap 100 and the Nifty Midcap 100 indices declined more than 2% each.
+### [Mohun Bagan Crowned IFA Shield Champions After 1-0 Win Over East Bengal](https://www.ndtvprofit.com/sports/football-mohun-bagan-crowned-ifa-shield-champions-after-1-0-win-over-east-bengal-12157817#publisher=newsstand)
+Samir Zeljkovic's first-half strike proved decisive as Mohun Bagan beat East Bengal 1-0 in a tense Kolkata derby to retain the IFA Shield title.
 
 **Source:** NDTV Profit  **Date:** 2026-10-08
 
-### [Stock Market Crash: Nifty 50 Hits 18-Month Low; Sensex Tumbles 1,100 Points](https://www.ndtvprofit.com/markets/stock-market-crash-nifty-50-hits-18-month-low-sensex-tumbles-12155855#publisher=newsstand)
-The benchmark Nifty 50 has tumbled below 22,200 to hit an 18-month low of 22,181.10.
-
-**Source:** NDTV Profit  **Date:** 2026-10-08
-
-### [Nifty Breaks Below 22,200: Bottom-Fishing Or Value Trap? What Should Investors Do Now](https://www.ndtvprofit.com/markets/nifty-breaks-below-22-200-bottom-fishing-or-value-trap-what-should-investors-do-now-12155860#publisher=newsstand)
-At 3:09 pm, Nifty 50 was trading 1.84%, or 416.65 points, at 22,186.40, whereas the BSE Sensex was down 1.75%, or 1,273.5 points, at 71,365.2.
+### [Bhagat Tarachand, Oye Kiddan, Barista Among 21 To Lose Food Licenses In Tukaram Mundhe-Led FDA Crackdown](https://www.ndtvprofit.com/business/bhagat-tarachand-oye-kiddan-barista-among-21-to-lose-food-licenses-in-tukaram-mundhe-led-fda-crackdown-12157741#publisher=newsstand)
+Representational
 
 **Source:** NDTV Profit  **Date:** 2026-10-08
 
