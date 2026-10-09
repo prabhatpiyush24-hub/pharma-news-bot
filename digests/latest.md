@@ -1,6 +1,6 @@
 # 🏥 India Pharma Investor Digest — 2026-10-09
 
-> 57 items · 2026-10-09 11:06 UTC
+> 65 items · 2026-10-09 18:01 UTC
 
 ## 💰 Results & Financials (21)
 
@@ -9,25 +9,25 @@ TCS Share Price: Tata Consultancy Servies shares surged after the IT major repor
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
+### [Anand Rathi Wealth Q2 Results: Profit rises 22% to Rs 122 crore; co declares dividend of Rs 4 per share](https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms)
+Anand Rathi Wealth reported a 22% year-on-year rise in Q2 business profit to Rs 122 crore, with revenue increasing 16%. Assets under management reached Rs 1.08 lakh crore as quarterly net inflows hit a record Rs 4,186 crore.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
 ### [15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high](https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms)
 Cupid shares jumped hit a fresh 52-week high of Rs 368 on Friday, extending their rally for a fourth straight session. Earlier this month, Cupid raised its FY27 revenue and profit guidance for the second time in less than two weeks, targeting revenue of Rs 800 crore and net profit of Rs 250 crore for the financial year.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
-
-### [TCS Q2 Results: Net profit up 11% as AI deal flow slowly picks up](https://www.livemint.com/companies/company-results/tcs-q2-results-2026-27-ai-deals-revenue-profit-11791471403757.html)
-TCS Q2 Results 2026-27: Net profit of India's largest IT services firm rose 15% to ₹13,884 crore, on the back of revenue that increased 11% to ₹73,188 crore.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-08
 
 ### [Apollo, Max Health, other hospital stocks rally up to 5% despite cancer drug price caps. Why Jefferies stays bullish](https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-max-health-hospital-stocks-jump-up-to-5-after-30-cap-on-cancer-drugs-what-is-jefferies-saying/articleshow/134811131.cms)
 Hospital stocks rose up to 5% after the government capped trade margins on non-scheduled anti-cancer drugs at 30%, potentially reducing medicine prices by 70%. Jefferies and Emkay expect manageable earnings impacts, despite near-term margin pressures. Jefferies favours Fortis, Manipal, Apollo, Max Healthcare and Medanta, citing strong demand and attractive valuations.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
-### [TCS posts slowest Q2 growth in three years as demand stays muted](https://www.livemint.com/companies/tcs-q2-results-2026-27-review-11791471718004.html)
-TCS reported 0.2% sequential revenue growth in July–September quarter, beating analyst expectations but marking its slowest second-quarter growth in three years.
+### [Poonawalla Fincorp Q2 profit surges fivefold as income rises](https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms)
+Poonawalla Fincorp reported a substantial increase in net profit for the second quarter, rising over fivefold. The company's net interest income and fee income grew significantly, contributing to the profit surge. New loan products accounted for a notable percentage of disbursements during this period, demonstrating the diversification of their offerings. Additionally, improvements in the gross non-performing asset ratio reflect better asset quality management.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-08
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
 
 ### [Madhusudan Kela-backed MV Electrosystems shares more than double from IPO price in just 2 months. Should you buy?](https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms)
 MV Electrosystems shares have surged over 100% from their IPO price, boosting Madhuri Kela’s stake value to Rs 111.55 crore. However, declining FY26 revenue and a net loss raise concerns about the company’s future profitability.
@@ -49,13 +49,18 @@ OpenAI is on track to generate annualized revenue of roughly $50 billion based o
 
 **Source:** Mint - Pharma  **Date:** 2026-10-08
 
-### [TCS Q2 results 2026: Important announcements from IT giant on Porsche AG partnership, AI Capability Center from Best Buy](https://www.livemint.com/companies/news/tcs-q2-results-2026-important-announcements-from-it-giant-on-porsche-ag-partnership-ai-capability-center-from-best-buy-11791458483525.html)
-TCS announced a five-year partnership with Porsche, including an AI Mobility Centre of Excellence and MHP acquisition. It will also transition Best Buy’s India GCC into an AI Capability Center, expanding its AI-led business.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-08
-
 ### [ITC shares rise 2% a day after hitting a 52-week low following GQG’s Rs 9,395 crore stake sale. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-in-focus-after-rajiv-jain-backed-gqg-sells-stake-worth-rs-9395-crore-whats-ahead-after-30-crash-in-2026/articleshow/134805494.cms)
 ITC shares rose after Rajiv Jain-backed GQG sold shares worth Rs 9,395 crore, reducing its stake amid a sharp stock decline. Cigarette tax hikes, inflation and rising oil prices weighed on performance. Investors now await quarterly earnings, while brokerages remain divided on the stock’s outlook and valuation prospects.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%](https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-results-profit-skyrockets-407-yoy-to-rs-375-crore-nii-rises-81/articleshow/134835689.cms)
+Poonawalla Fincorp reported a 407% year-on-year surge in Q2FY27 profit to Rs 375 crore, while net interest income rose 81%. Operating profit more than doubled, supported by business growth, improving asset quality and an expanded gold loan network.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Nomura becomes latest brokerage to cut PB Fintech share price target by 31%, lists 2 scenarios for fair price](https://economictimes.indiatimes.com/markets/stocks/news/nomura-becomes-latest-brokerage-to-cut-pb-fintech-share-price-target-by-31-lists-2-scenarios-for-fair-price/articleshow/134831083.cms)
+Nomura has cut PB Fintech’s target price by 31% to Rs 1,100 after proposed IRDAI curbs on insurance website practices and commissions. The brokerage lowered earnings estimates, while alternative scenarios suggest fair values of Rs 1,335-1,366.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
@@ -79,8 +84,13 @@ IT stocks including TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Coforge and Per
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
+### [Delta Air Lines cuts 2026 earnings forecast, Q3 profit misses analyst estimates, shares dip 1.72%](https://www.livemint.com/market/stock-market-news/delta-air-lines-cuts-2026-earnings-forecast-q3-profit-misses-analyst-estimates-shares-dip-172-11791557802233.html)
+Delta Air Lines said that it expects adjusted earnings of $5.10 to $5.60 per share in 2026, sharply below the $6.50 to $7.50 range it reaffirmed in July
+
+**Source:** Mint - Pharma  **Date:** 2026-10-09
+
 ### [Investors cheer TCS Q2 report card despite slowest growth in three years](https://www.livemint.com/companies/news/tcs-share-price-tcs-q2-results-tata-consultancy-services-11791529102759.html)
-The company’s shares surged nearly 6% on Friday as investors backed its strategy to prioritize market share and AI deal pipelines over operating margins.
+The company’s shares surged nearly 6% intraday on Friday as investors backed its strategy to prioritize market share and AI deal pipelines over operating margins.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-09
 
@@ -89,23 +99,13 @@ Data shows Indian IT companies collectively received fewer than 1,400, or less t
 
 **Source:** Mint - Pharma  **Date:** 2026-10-09
 
-### [TCS Q2 results 2026: Top 13 highlights from Sept quarter - Google Gemini, Honeywell Tech, Aareal Bank, Vodafone and more](https://www.livemint.com/companies/news/tcs-q2-results-2026-top-13-highlights-from-sept-quarter-google-gemini-honeywell-tech-aareal-bank-vodafone-and-more-11791463662224.html)
-TCS announced 13 key initiatives in Q2, including partnerships with Porsche, Best Buy, Honeywell, Aareal Bank and Vodafone. It also launched Google Gemini centres, AI labs, an agentic AI platform for drug development and custom SoC design services.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-08
-
-### [Q2 Results Live Updates: Poonawalla Fincorp Buzzing In Trade Ahead Of Numbers; TCS Share Price Zooms 5% After Earnings](https://www.ndtvprofit.com/markets/q2-results-live-updates-today-october-9-anand-rathi-poonawalla-fincorp-canara-hsbc-life-earnings-today-dividend-track-q2-fy27-results-live-12159731#publisher=newsstand)
+### [Q2 Result Updates: Poonawalla Fincorp Profit Surges To Rs 375 Crore; Anand Rathi Approves Dividend](https://www.ndtvprofit.com/markets/q2-results-live-updates-today-october-9-anand-rathi-poonawalla-fincorp-canara-hsbc-life-earnings-today-dividend-track-q2-fy27-results-live-12159731#publisher=newsstand)
 Q2 Results Live Market Blog
 
 **Source:** NDTV Profit  **Date:** 2026-10-09
 
-### [Anand Rathi Wealth Share Price Falls Nearly 5% Ahead of Q2 Results](https://www.ndtvprofit.com/markets/anand-rathi-wealth-share-price-falls-nearly-5-ahead-of-q2-results-12160804#publisher=newsstand)
-Anand Rathi Shares Fall Ahead Of Q2 Show
-
-**Source:** NDTV Profit  **Date:** 2026-10-09
-
-### [Nana Patekar Demise: Goa Police Register Unnatural Death Case; Here's What We Know](https://www.ndtvprofit.com/lifestyle/nana-patekar-passes-away-goa-police-register-unnatural-death-case-12160723#publisher=newsstand)
-Veteran Actor Nana Patekar Dies At 75, Police Register Unnatural Death Case
+### [India To Host World Travel & Tourism Council Global Summit](https://www.ndtvprofit.com/india/india-to-host-world-travel-tourism-council-global-summit-12163634#publisher=newsstand)
+Union Minister for Tourism Gajendra Singh Shekhawat, who participated in the three-day event, said next year's summit will be instrumental in promoting inbound tourism in a big way.
 
 **Source:** NDTV Profit  **Date:** 2026-10-09
 
@@ -115,6 +115,11 @@ Veteran Actor Nana Patekar Dies At 75, Police Register Unnatural Death Case
 
 ### [Vedanta shares jump over 3% after Rs 5 interim dividend announcement](https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-over-3-after-rs-5-interim-dividend-announcement/articleshow/134820925.cms)
 Vedanta shares rose on Friday after the mining major announced its first interim dividend of Rs 5 per share for FY27, with a total payout of Rs 1,955 crore. The dividend marks the company's first since its demerger into five entities, which could reshape its future dividend payouts.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Anthem Biosciences block deal: Portsmouth Technologies sells 30 lakh shares worth Rs 250 crore](https://economictimes.indiatimes.com/markets/stocks/news/anthem-biosciences-block-deal-portsmouth-technologies-sells-30-lakh-shares-worth-rs-250-crore/articleshow/134838383.cms)
+Portsmouth Technologies LLC executed a block deal selling 30 lakh shares of Anthem Biosciences on October 9. The shares were sold at Rs 833 each, totaling Rs 249.90 crore. Following this transaction, Portsmouth's estimated stake in the company would decrease significantly. Anthem Biosciences reported a decline in total income and profit after tax for the first quarter of FY27.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
@@ -128,32 +133,24 @@ A dispute over ownership and family assets has emerged between TVS heirs Lakshmi
 
 **Source:** Mint - Pharma  **Date:** 2026-10-09
 
-### [Great Indian Festival to ‘break previous records’ as early deals see 35-40% growth: Amazon India executive | Exclusive](https://www.livemint.com/companies/news/great-indian-festival-to-break-previous-records-as-early-deals-see-35-40-growth-amazon-india-executive-exclusive-11791475625378.html)
-Amazon India expects its Great Indian Festival 2026 to set new records, after early deals grew 35–40%. The company expanded Amazon Now to 120 cities, increased fulfilment capacity by nearly 50%, added logistics facilities and created 160,000 seasonal jobs, its top executive in India said.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-08
-
 ### [Why industry-academia collaboration will shape India’s next R&D chapter](https://www.expresspharma.in/why-industry-academia-collaboration-will-shape-indias-next-rd-chapter/)
 Suneela Thatte, VP &#038; Head, Merck Healthcare R&#038;D India in an exclusive conversation with Swati Rana, speaks about the skills the next generation of R&#038;D professionals will need, the role of universities and industry partnerships, and what India must do to strengthen its position in global healthcare innovation The post Why industry-academia collaboration will shape India&#8217;s next R&#038;D chapter appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-09
 
-### [The Paradise Box Office Collection Day 15: Nani Starrer Sees Slowdown, Mints This Amount](https://www.ndtvprofit.com/business/the-paradise-box-office-collection-day-15-nani-starrer-sees-slowdown-check-thursday-earnings-12160964#publisher=newsstand)
-Set in 1980s Secunderabad, 'The Paradise' follows Jadal (Nani) and his fight for justice.
+### [China, EU Strike Deal To Cut Chinese Hybrid Car Exports By Over 50% In Four Years](https://www.ndtvprofit.com/world/china-eu-strike-deal-to-cut-chinese-hybrid-car-exports-by-over-50-in-four-years-12163255#publisher=newsstand)
+China and the EU have reached an understanding to reduce Chinese hybrid and plug-in hybrid car exports
 
 **Source:** NDTV Profit  **Date:** 2026-10-09
 
-### [Airtel Money Makes London Stock Exchange Debut; Biggest Listing In 5 Years](https://www.ndtvprofit.com/markets/airtel-money-makes-london-stock-exchange-debut-biggest-listing-in-5-years-12160848#publisher=newsstand)
-Conditional dealings in Airtel Money shares began on October 9, while unconditional dealings and full admission to trading will commence on October 14.
+### [Persistent Systems Secures 94.04% Stake In Nagarro After Takeover Offer](https://www.ndtvprofit.com/business/persistent-systems-secures-94-04-stake-in-nagarro-after-takeover-offer-12163052#publisher=newsstand)
+Combined with the approximately 22.10% stake already secured by Persistent under the share purchase agreement with Lantano Beteiligungen GmbH, the company has secured approximately 94.04% of the share capital and voting rights of Nagarro.
 
 **Source:** NDTV Profit  **Date:** 2026-10-09
 
 ---
 
-## 💸 Corporate Actions (3)
-
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Dividend Updates](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-09-oct-2026/liveblog/134804936.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-10-09
+## 💸 Corporate Actions (2)
 
 ### [LinkedIn overhauls employee bonuses: What changes from 2027](https://www.livemint.com/companies/news/linkedin-overhauls-employee-bonuses-what-changes-from-2027-11791527816065.html)
 LinkedIn will base annual bonuses for eligible employees entirely on individual performance starting in fiscal year 2027, replacing its current formula that gives equal weight to company and individual results.&amp;nbsp;
@@ -167,31 +164,51 @@ Christoph Funke, Chief Technical Operations Officer, Lupin, explains why India�
 
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (7)
 
 ### [Lupin receives USFDA approval for Phytonadione Injectable Emulsion](https://www.expresspharma.in/lupin-receives-usfda-approval-for-phytonadione-injectable-emulsion/)
 The product is indicated for the treatment and prophylaxis of hypoprothrombinemia and vitamin K deficiency The post Lupin receives USFDA approval for Phytonadione Injectable Emulsion appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-09
 
+### [Half of India’s MTF book is in smallcaps; Nithin Kamath flags liquidity risks](https://economictimes.indiatimes.com/markets/stocks/news/half-of-indias-mtf-book-is-in-smallcaps-nithin-kamath-flags-liquidity-risks/articleshow/134835308.cms)
+Zerodha founder Nithin Kamath warned that small and microcap stocks account for a substantial share of India’s margin trading facility book. He highlighted liquidity risks during market downturns, when smaller stocks may face sharper selling pressure.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
 ### [POP partners with LazyPay to launch POPchop: How the new 'pay in instalments' feature works and who can use it](https://www.livemint.com/companies/news/pop-partners-with-lazypay-to-launch-popchop-how-the-new-pay-in-instalments-feature-works-and-who-can-use-it-11791536540526.html)
 POP has launched a buy-now-pay-later feature developed with LazyPay that lets eligible customers split POPshop purchases into three monthly payments. Details here.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-09
 
-### [Amitabh Bachchan’s granddaughter Navya Naveli Nanda launches venture arm to invest in AI, space, clean energy](https://www.livemint.com/companies/amitabh-bachchan-s-granddaughter-navya-naveli-nanda-launches-venture-arm-to-invest-in-ai-space-clean-energy-11791476581023.html)
-Announcing the venture on social media, Navya said she had been working on the initiative for some time before making it public.
+### [This Bengaluru Farmer Makes Rs 50,000 A Day By Growing Baby Bottle Gourds For Qatar Market](https://www.ndtvprofit.com/india/this-bengaluru-farmer-makes-rs-50-000-a-day-by-growing-baby-bottle-gourds-for-qatar-market-12161891#publisher=newsstand)
+A Bengaluru farmer earns around Rs 50,000 a day by growing baby bottle gourds for export to Qatar.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-08
+**Source:** NDTV Profit  **Date:** 2026-10-09
 
-### [Dr. Reddy's FTO-11 Facility Issued USFDA Form 483 With Two Observations - Sahi](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUJjbVQ0NDE0Q2U3Yl9nMTRRRmZldXVGUEN1VkpWbkFGdUNaTktJYnhRbndaMHZqZ08xQUU4LWQyai1pbDFzNk8zQkJVblFWdTdxd0pEVnA3QzcxM1hiZXk4amxVd2NOY1VfVFJGcVl6eldSR0pwQ0pLZFNRZXBHcFhRb3F1bjFsSWFKRmFmV2tnYXRtY2tCTXBfWmI?oc=5)
-Dr. Reddy's FTO-11 Facility Issued USFDA Form 483 With Two Observations &nbsp;&nbsp; Sahi
+### [Motorola Signature 27 India Launch Confirmed: 200MP Camera, Snapdragon Chipset And Other Key Features](https://www.ndtvprofit.com/technology/motorola-signature-27-india-launch-confirmed-200mp-camera-snapdragon-chipset-and-other-key-features-12163304#publisher=newsstand)
+Motorola Signature 27 India launch confirmed, with a 200MP camera and Snapdragon 8 Elite Extreme Gen 6.
 
-**Source:** GNews - India Pharma Export  **Date:** 2026-10-09
+**Source:** NDTV Profit  **Date:** 2026-10-09
+
+### [Ashoka Buildcon Receives Rs 290.23 Crore Order For North Eastern Railway Capacity Upgrade](https://www.ndtvprofit.com/markets/ashoka-buildcon-receives-rs-290-23-crore-order-for-north-eastern-railway-capacity-upgrade-12162944#publisher=newsstand)
+The contract involves upgrading electric traction power supply capacity.
+
+**Source:** NDTV Profit  **Date:** 2026-10-09
+
+### [Infinix GT 50 Pro India Launch Date Revealed, Flipkart Availability Confirmed](https://www.ndtvprofit.com/technology/infinix-gt-50-pro-india-launch-date-revealed-flipkart-availability-confirmed-12162911#publisher=newsstand)
+Infinix has confirmed that the GT 50 Pro will launch in India on October 27.
+
+**Source:** NDTV Profit  **Date:** 2026-10-09
 
 ---
 
-## 📉 Analyst & Brokerage Calls (7)
+## 📉 Analyst & Brokerage Calls (10)
+
+### [Friday heavy lifting saves Nifty from record nine weeks of losses. Can bulls take charge now?](https://economictimes.indiatimes.com/markets/stocks/news/friday-heavy-lifting-saves-nifty-from-record-nine-weeks-of-losses-can-bulls-take-charge-now/articleshow/134830751.cms)
+Nifty broke its eight-week losing streak, rising nearly 1.3% on Friday to close above 22,500 as IT, FMCG and auto stocks led a relief rally. However, persistent FII selling, elevated US bond yields, crude oil prices and the RBI’s shift to calibrated tightening continue to cloud the market outlook.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
 
 ### [Rs 30 lakh crore wiped out! What will it take for bulls to recover from a 6-week selling rut?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-crash-wipes-off-rs-30-lakh-crore-from-dalal-street-in-less-than-6-weeks-what-can-trigger-a-rebound/articleshow/134808073.cms)
 The Indian stock market has undergone a significant downturn, with nearly Rs 30 lakh crore wiped off its market capitalisation. Contributing factors include surging oil prices and elevated bond yields. Experts predict that any potential rebound hinges on the health of the broader economy. Additionally, Foreign Institutional Investors have been notably offloading their equities, while technical indicators display a cautious outlook as Nifty struggles against ongoing bearish trends.
@@ -223,16 +240,49 @@ Musk loses trillionaire status again; Nvidia’s Jensen Huang, Larry Ellison los
 
 **Source:** Mint - Pharma  **Date:** 2026-10-09
 
-### [Five Reasons Why Stock Market Is Rising Today: Sensex Jumps 1,000 Points, Nifty Reclaims 22,550](https://www.ndtvprofit.com/markets/five-reasons-why-stock-market-is-rising-today-sensex-jumps-800-points-nifty-50-above-22-500-12160189#publisher=newsstand)
-Investors scooped up shares at lower valuations following Thursday's brutal sell-off.
+### [Navratri 2025 To 2026: BSE, Shriram Finance Lead Gainers Surging 45% Even As Nifty Sheds 11%](https://www.ndtvprofit.com/markets/navratri-2025-to-2026-bse-shriram-finance-lead-gainers-surging-45-even-as-nifty-sheds-11-12163310#publisher=newsstand)
+The sell-off has been broad-based, with 27 constituents of the Nifty 50 ending the period in the red.
+
+**Source:** NDTV Profit  **Date:** 2026-10-09
+
+### [Tesla Announces New Experience Centre In Noida, Expands Presence In Delhi-NCR](https://www.ndtvprofit.com/technology/tesla-announces-new-experience-centre-in-noida-expands-presence-in-delhi-ncr-12162231#publisher=newsstand)
+Tesla's new Noida centre offers Model Y access and demo drives for prospective buyers.
+
+**Source:** NDTV Profit  **Date:** 2026-10-09
+
+### [Singapore GP: Verstappen Beats Russell To Sprint Pole, Antonelli Struggles](https://www.ndtvprofit.com/sports/f1-singapore-gp-max-verstappen-beats-george-russell-to-sprint-pole-kimi-antonelli-struggles-12162864#publisher=newsstand)
+Red Bull's Verstappen was 0.12 seconds quicker than Mercedes driver Russell.
 
 **Source:** NDTV Profit  **Date:** 2026-10-09
 
 ---
 
-## 📰 Industry & Policy News (15)
+## 📰 Industry & Policy News (18)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-09-oct-2026/liveblog/134805050.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-09-oct-2026/liveblog/134805050.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-09-oct-2026/liveblog/134804936.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Adani Power shares: GQG Partners-managed entities cut stake to 5.72% from 5.74%](https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-gqg-partners-managed-entities-cut-stake-to-5-72-from-5-74/articleshow/134834452.cms)
+GQG Partners entities sold 50.39 lakh Adani Power shares through on-market transactions, reducing their combined stake to 5.72% from 5.74%. The disclosure comes as the stock gains 27.05% in 2026 and the company expands into Bhutanese hydropower.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [ET Alpha Wealth Summit 2.0 | SIFs, passive funds and GIFT City: How India's wealth portfolios are evolving, says Tata AMC's Anand Vardarajan](https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-sifs-passive-funds-and-gift-city-how-indias-wealth-portfolios-are-evolving-says-tata-amcs-anand-vardarajan/articleshow/134833674.cms)
+Tata Asset Management CEO Anand Vardarajan highlights how passive funds, SIFs and GIFT City are reshaping wealth management. He advocates combining active and passive strategies while monitoring global yields, inflation and valuations to build diversified portfolios.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-itc-tcs-bse-ril-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134832178.cms)
+The Indian equity markets saw a robust recovery as both the BSE Sensex and Nifty 50 registered remarkable gains. The Nifty 50 surged by 288.65 points, closing at 22,520.45, while the Sensex jumped 879.09 points. Notably, the Nifty IT index rose 3%, signaling a positive market sentiment. A total of 2,182 out of 3,684 stocks climbed higher, reflecting renewed investor interest in bargain opportunities.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-09
+
+### [Cupid among 7 stocks that hit 52-week highs; rallied up to 30% in a month](https://economictimes.indiatimes.com/markets/stocks/news/cupid-among-7-stocks-that-hit-52-week-highs-rallied-up-to-30-in-a-month/slideshow/134831735.cms)
+Seven stocks from the BSE 1000 index hit fresh 52-week highs as the Sensex rallied 879 points. Cupid led the list with a 31% monthly gain, followed by Shreeji Shipping Global, Aditya Infotech and other stocks.
+
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
 ### [How Do Family Offices Hunt for Multibagger Startups?](https://economictimes.indiatimes.com/markets/stocks/news/how-do-family-offices-hunt-for-multibagger-startups/videoshow/134827194.cms)
@@ -263,7 +313,7 @@ Four NSE F&amp;O stocks recorded over 10% growth in futures open interest on Oct
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Price and Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-today-live-09-oct-2026/liveblog/134804906.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-today-live-09-oct-2026/liveblog/134804906.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-10-09
 
 ### [Australias Maas enters trading halt after Nvidia-backed Firmus shelves $5 billion IPO plan](https://www.livemint.com/companies/australias-maas-enters-trading-halt-after-nvidia-backed-firmus-shelves-5-billion-ipo-plan-11791505250316.html)
@@ -271,18 +321,18 @@ MAAS GRP HLDG-SHARES/FIRMUS:Australia's Maas enters trading halt after Nvidia-ba
 
 **Source:** Mint - Pharma  **Date:** 2026-10-09
 
-### [DailyObjects raises  ₹332 crore led by Xponentia, others at  ₹1,050 crore valuation](https://www.livemint.com/companies/start-ups/dailyobjects-raises-332-crore-led-by-xponentia-others-at-1-050-crore-valuation-11791460631868.html)
-The fundraise marks a new phase in DailyObjects’s growth journey, enabling it to scale its retail presence, deepen its product and R&amp;amp;D capabilities, strengthen brand building and evaluate opportunities in global markets
-
-**Source:** Mint - Pharma  **Date:** 2026-10-08
-
 ### [Government caps margins on cancer medicines at 30%, targets ₹2,500 Cr annual savings](https://www.expresspharma.in/government-caps-margins-on-cancer-medicines-at-30-targets-%e2%82%b92500-cr-annual-savings/)
 The price control measure covers non-scheduled anti-cancer drugs and aims to reduce medicine prices by up to 70% The post Government caps margins on cancer medicines at 30%, targets ₹2,500 Cr annual savings appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-09
 
-### [Cancer Drugs in India May Get 20–70% Cheaper as NPPA Approves Price-Cutting Move - www.oneworldnews.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RNm15TkRiR0tzMTBTN2lUSzEyWXF6bExLbFJpM1RIQlRaYnBVazRma2lod1VFOERpZFdiZDJob1BhZk9Eclp0U3A5cDNob2lWaDlabGE4NkNJZEVSbmc?oc=5)
-Cancer Drugs in India May Get 20–70% Cheaper as NPPA Approves Price-Cutting Move &nbsp;&nbsp; www.oneworldnews.com
+### [India’s NPPA Approves Proposal to Cut Cancer Drug Prices by up to 70% - NAVLIN DAILY](https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2tiQWZlcEh0VzdBMVF2WTQtZndKSVZFT3FtZTNnaW90TXYtS1B4dm9WcUExenVDWXlmWjM4STY3OWZFZklMOEw5X1VPSU5kVHBmYldyRWxTdmJ5TDl2Yk56RnpZTWdSSG82eDhtaXdGRnlPeGJZdTJLeWxZdG05WU8tcUdZenlGOEpYOVN0TFJSMG0yYU1wbW40UktWa2FsZkdKWnNwTk13b25vRGlz?oc=5)
+India’s NPPA Approves Proposal to Cut Cancer Drug Prices by up to 70% &nbsp;&nbsp; NAVLIN DAILY
+
+**Source:** GNews - India Pharma Policy  **Date:** 2026-10-09
+
+### [Cancer Drugs in India May Get 20–70% Cheaper as NPPA Approves Price-Cutting Move - oneworldnews.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RNm15TkRiR0tzMTBTN2lUSzEyWXF6bExLbFJpM1RIQlRaYnBVazRma2lod1VFOERpZFdiZDJob1BhZk9Eclp0U3A5cDNob2lWaDlabGE4NkNJZEVSbmc?oc=5)
+Cancer Drugs in India May Get 20–70% Cheaper as NPPA Approves Price-Cutting Move &nbsp;&nbsp; oneworldnews.com
 
 **Source:** GNews - India Pharma Policy  **Date:** 2026-10-09
 
@@ -290,15 +340,5 @@ Cancer Drugs in India May Get 20–70% Cheaper as NPPA Approves Price-Cutting Mo
 Dr Reddy’s Laboratories: Two major announcements to impact stock in near term &nbsp;&nbsp; Business Today
 
 **Source:** GNews - Dr Reddys  **Date:** 2026-10-09
-
-### [Stock Market Today LIVE: Sensex Zooms Nearly 1,000 Points, Nifty 50 Near 22,550; ITC, TCS Surge Up To 5% Each, RIL Top Loser](https://www.ndtvprofit.com/markets/stock-market-today-live-share-market-news-nifty-50-sensex-today-gift-nifty-tcs-infosys-wipro-it-stocks-crude-oil-prices-us-iran-war-12159346#publisher=newsstand)
-Nifty Smallcap and Midcap indices rose half a percent each.
-
-**Source:** NDTV Profit  **Date:** 2026-10-09
-
-### [India Does Not Allow Monopoly; Satcom Licensees Can Begin Operations After Meeting Security Norms: Scindia](https://www.ndtvprofit.com/business/india-does-not-allow-monopoly-satcom-licensees-can-begin-operations-after-meeting-security-norms-scindia-12160818#publisher=newsstand)
-Scindia On Satcom Licensees
-
-**Source:** NDTV Profit  **Date:** 2026-10-09
 
 ---
