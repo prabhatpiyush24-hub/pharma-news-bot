@@ -1,18 +1,23 @@
 # 🏥 India Pharma Investor Digest — 2026-10-13
 
-> 61 items · 2026-10-13 11:22 UTC
+> 72 items · 2026-10-13 18:52 UTC
 
-## 💰 Results & Financials (25)
+## 💰 Results & Financials (27)
+
+### [Anand Rathi Share and Stock Brokers Q2 results: Profit jumps 50% YoY to Rs 42 crore, revenue rises 20%](https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-share-and-stock-brokers-q2-results-profit-jumps-50-yoy-to-rs-42-crore-revenue-rises-20/articleshow/134918674.cms)
+Anand Rathi Share and Stock Brokers reported a 50% year-on-year rise in consolidated net profit to Rs 41.93 crore in Q2FY27, while revenue from operations grew 20.25% to Rs 273.21 crore. Growth was supported by higher MTF interest income, distribution revenue and continued client acquisition amid market volatility.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
 
 ### [ICICI Prudential AMC shares rise 2% as Jefferies, other brokerages revise target prices after Q2 results. Should you buy?](https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-rise-2-as-jefferies-other-brokerages-revise-target-prices-after-q2-results-should-you-buy/articleshow/134907852.cms)
 ICICI Prudential AMC shares rose 2% after reporting a 6% YoY net profit rise to Rs 889 crore in Q2 FY27. Major brokerages including Jefferies, Emkay, and Centrum retained positive ratings with revised target prices offering up to 30% upside potential, while a Rs 30 dividend was declared.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
-### [HCLTech beats estimates, but Q2 growth slips to three-year low](https://www.livemint.com/companies/hcl-technologies-q2-results-202627-11791813143191.html)
-HCL Tech’s advanced AI revenue jumped 28% sequentially to $219 million, while net profit jumped 10.25% during the same period to $538 million.
+### [Tata Elxsi Q2 Results: Profit rises 10% YoY to Rs 170 crore; revenue grows 15%](https://economictimes.indiatimes.com/markets/stocks/earnings/tata-elxsi-q2-results-profit-rises-10-yoy-to-rs-170-crore-revenue-grows-15/articleshow/134918419.cms)
+Tata Elxsi reported a 10% year-on-year rise in net profit to Rs 170 crore in Q2, while revenue from operations grew 15% to Rs 1,056 crore. Higher employee and operating expenses, along with lower other income, weighed on margins. Net profit for the first half of FY27 rose 14%.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-12
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
 
 ### [RBL Bank shares plunge 8% despite 170% jump in Q2 profit. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-plunge-8-despite-170-jump-in-q2-profit-should-you-buy-sell-or-hold/articleshow/134907804.cms)
 RBL Bank shares fell up to 8% despite a 170% year-on-year jump in Q2 FY27 net profit to Rs 481.7 crore. Strong net interest income growth and improved asset quality supported performance, while provisions rose. Nuvama raised its target price to Rs 500, citing the ENBD acquisition and FCNR deposit mobilisation, while Dolat Capital retained its Sell rating with a Rs 320 target.
@@ -23,16 +28,6 @@ RBL Bank shares fell up to 8% despite a 170% year-on-year jump in Q2 FY27 net pr
 HCL Technologies share price: HCL Tech shares rose after the IT services major reported a 21% YoY rise in Q2 FY27 net profit to Rs 5,132 crore. Revenue grew 12% to Rs 35,620 crore, while new deal wins stood at $3.26 billion. The company retained its FY27 EBIT margin guidance at 17.5-18.5% and projected constant-currency revenue growth of 2.5-4% for the full year.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
-
-### [Old Monk maker says Maharashtra lost  ₹300 crore in excise revenue since plant shutdown in May](https://www.livemint.com/companies/news/old-monk-maker-says-maharashtra-lost-300-crore-in-excise-revenue-since-plant-shutdown-in-may-11791809452860.html)
-Mohan Rocky Springwater Pvt Ltd told the High Court that its standoff with the FSSAI has left its Khopoli factory shut since May, cutting off state tax revenues and leaving 300 workers idle.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
-
-### [HCLTech Q2 Results: Revenue up 11.5% but misses estimates, net profit up 21.2%](https://www.livemint.com/companies/company-results/hcltech-q2-results-202627-11791811434426.html)
-HCLTech Q2 Results 2026-27: Consolidated revenue rose 11.5% to ₹35,620 crore, net profit increased 21.2% to ₹5,132 crore.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
 
 ### [Groww Q2 results preview: MOFSL sees 41% revenue growth; margins, derivatives business in focus](https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-preview-mofsl-sees-41-revenue-growth-margins-derivatives-business-in-focus/articleshow/134909021.cms)
 Billionbrains Garage Ventures is poised to unveil its Q2FY27 results, projecting impressive revenue growth compared to the previous year. Analysts from Motilal Oswal Financial Services anticipate revenues reaching Rs 1,434 crore. Additionally, the forecast for EBITDA reflects a significant year-on-year uplift, highlighting robust profitability. Nonetheless, concerns arise from margin pressures and a decline in derivatives revenue sequentially, making it vital to observe financial performance acr
@@ -54,13 +49,13 @@ Louis Vuitton’s China sales slump is raising alarms across the luxury industry
 
 **Source:** Mint - Pharma  **Date:** 2026-10-13
 
-### [Eight out of 10 new TCS hires will need to have AI skills: What is its share of AI-led work in overall revenue?](https://www.livemint.com/companies/news/eight-out-of-10-new-tcs-hires-will-need-to-have-ai-skills-what-is-its-share-of-ai-led-work-in-overall-revenue-11791804159477.html)
-TCS says 80% of future hires will have digital and AI skills, with 25-30% of its 4,500 Q2 hires specialising purely in AI. AI-led work reached 10% of revenue in the September quarter, and executives expect growth in AI deals to support profit margins.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
-
 ### [Jefferies lists 6 factors that will shape CRDMO winners; Divi’s Labs, Sai Life, Laurus, Anthem among stocks to watch](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-lists-6-factors-that-will-shape-crdmo-winners-divis-labs-sai-life-laurus-anthem-among-stocks-to-watch/articleshow/134908058.cms)
 India's CRDMO sector is on the brink of expansion, backed by solid partnerships with major pharmaceutical players and comprehensive capabilities. Jefferies emphasizes the critical role of specialized manufacturing skills and a strong project pipeline for achieving success. With Divi's Laboratories and Sai Life Sciences excelling in these domains, there is potential for notable earnings growth.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134921558.cms)
+Sensex and Nifty rallied over 1.5% on Tuesday, adding around Rs 5 lakh crore to the market capitalisation of listed companies. Investors will track global cues, Q2 earnings, active stocks, buying and selling trends, and key technical levels on Wednesday as markets assess the sustainability of the sharp rebound.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
@@ -104,6 +99,16 @@ Three Nifty 500 stocks, including UPL, Gallantt Ispat, and One97 Communications,
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
+### [US bank earnings: How did JPMorgan, Goldman Sachs, Citigroup, Wells Fargo perform in Q3?](https://www.livemint.com/companies/news/us-bank-earnings-how-did-jpmorgan-goldman-sachs-citigroup-wells-fargo-perform-in-q3-11791910322861.html)
+The results came after a turbulent quarter marked by the conflict in Iran, elevated oil prices and a global bond-market selloff, which affected dealmaking and trading activity across financial markets
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
+### ['80% workforce locally hired': Wipro sees no material business impact from US suspension of PERM applications](https://www.livemint.com/companies/news/80-workforce-locally-hired-wipro-sees-no-material-business-impact-from-us-suspension-of-perm-applications-11791903504114.html)
+The company said the announcement concerns a specific pathway to permanent residency in the US and is distinct from broader skilled talent mobility programmes, such as the H-1B visa.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
 ### ['Be hungry like Samsung': Vedanta's Anil Agarwal shares S. Korean firm's growth story as it projects $80 bn in Q3 profit](https://www.livemint.com/companies/be-hungry-like-samsung-vedantas-anil-agarwal-shares-s-korean-firms-growth-story-as-it-projects-80-bn-in-q3-profit-11791866541220.html)
 Vedanta chairman Anil Agarwal urged businesses to stay hungry for growth, citing Samsung’s evolution from trading to technology. His remarks came as Samsung projected nearly ninefold growth in Q3 operating profit to about $80 billion, driven by strong AI chip demand.
 
@@ -114,29 +119,44 @@ The BLA was submitted in Q3 2026, with a regulatory decision potentially expecte
 
 **Source:** Express Pharma  **Date:** 2026-10-13
 
-### [How A Rs 276 Stock Turned Into A Rs 20,000 Multibagger — Do You Own?](https://www.ndtvprofit.com/markets/neuland-laboratories-how-a-rs-276-stock-turned-into-a-rs-20-000-multibagger-12178356#publisher=newsstand)
-A Rs 1 lakh investment in Neuland Laboratories at Rs 276 per share would be worth around Rs 72.5 lakh at Rs 20,000, excluding dividends, taxes, and transaction costs. The pharma company’s earnings growth and changing business profile help explain its multibagger journey.
-
-**Source:** NDTV Profit  **Date:** 2026-10-13
-
 ### [India’s biotech innovation may be hidden in its biodiversity](https://www.expresspharma.in/indias-biotech-innovation-may-be-hidden-in-its-biodiversity/)
 Dr Villoo Morawala Patell, founder of Avesthagen and Avestagenome Project International, discusses how India can turn its biodiversity into an innovation story, while taking ownership of the science and moving discoveries from the lab to the market, in an exclusive interview with Neha Aathavale The post India’s biotech innovation may be hidden in its biodiversity appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-13
 
-### [Q2 Results Live: ICICI Prudential Life Insurance Net Profit Jumps 25%; Tata Elxsi Stock Rises 4% Ahead Of Earnings](https://www.ndtvprofit.com/markets/q2-results-live-updates-tata-elxsi-icici-prudential-life-insurance-among-22-companies-to-announce-earnings-today-12176989#publisher=newsstand)
+### [Q2 Results Live: Hero Motors Profit Doubles, Tata Elxsi Revenue Up 3%](https://www.ndtvprofit.com/markets/q2-results-live-updates-tata-elxsi-icici-prudential-life-insurance-among-22-companies-to-announce-earnings-today-12176989#publisher=newsstand)
 Q2 Results Live Market Blog
+
+**Source:** NDTV Profit  **Date:** 2026-10-13
+
+### [Dr Reddy’s, Torrent Pharma, Zydus Life: Pharma stocks to post resilient growth in Q2 earnings despite pricing headwinds - Upstox](https://news.google.com/rss/articles/CBMihgJBVV95cUxQUUcxNFZVdnRKVWxQVS1DbVVSUFc0aEZKSnFUWGNOTTc0MEtaM05hZWhGSGJfZUhIMWZuZzB2VWVnbkNsTklTS1JFMFVRUDgtenBXblI3NEd5VEpMQmJWbmdjOGpQX3JTNldCU28wRThsZjg5LTRpMHIwMUp6RXA1cl8tcmFNTTFwZG5jdENuUjRMeVBtUmZBR2JVdFN4NUxvRDd5Y1hqTjFhSWQ0RnhIMEZDa2tDbWVNSmQ4cWVxRVNnSmVNVHppSi10UmZINFc3S3RBMHNNT2VuV3M5ZlYyVEUydVJzbFJybTV4bjROaWo4Y0k5QVlIUlVSUmNvME5paHZUTEJR?oc=5)
+Dr Reddy’s, Torrent Pharma, Zydus Life: Pharma stocks to post resilient growth in Q2 earnings despite pricing headwinds &nbsp;&nbsp; Upstox
+
+**Source:** GNews - Torrent Pharma  **Date:** 2026-10-13
+
+### [L&T Q2 Results: Check Date, Time, Earnings Schedule, Share Price History And More](https://www.ndtvprofit.com/business/l-t-q2-results-check-date-time-earnings-schedule-share-price-history-and-more-l-t-12180264#publisher=newsstand)
+Investors are now awaiting the company's Q2 FY27 results.
 
 **Source:** NDTV Profit  **Date:** 2026-10-13
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (5)
 
 ### [Triveni Power Transmission lists on BSE, NSE following demerger from Triveni Engineering](https://economictimes.indiatimes.com/markets/stocks/news/triveni-power-transmission-lists-on-bse-nse-following-demerger-from-triveni-engineering/articleshow/134911940.cms)
 Triveni Power Transmission Limited has listed on the BSE and NSE following its demerger from Triveni Engineering &amp; Industries. The independent entity aims to sharpen its business focus and expand across industrial, marine and defence applications.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [NSEIX, London Stock Exchange sign pact to deepen India-UK market links](https://economictimes.indiatimes.com/markets/stocks/news/nseix-london-stock-exchange-sign-pact-to-deepen-india-uk-market-links/articleshow/134923014.cms)
+NSE IFSC and the London Stock Exchange have signed an MoU to explore dual listings, cross-listings, new financial products and cross-border trading connectivity between GIFT City and London. The proposed collaboration could expand global investor access for Indian issuers, improve market connectivity and strengthen GIFT IFSC’s role as an international financial hub.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [Blackstone’s AI Data Center Deals Are Looking Shaky](https://www.livemint.com/companies/blackstones-ai-data-center-deals-are-looking-shaky-11791916327997.html)
+In a capital-intensive industry where money is the weapon that catapults startups to scale and overwhelms rivals, financiers can have a lot of sway.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
 
 ### [Citi and Credendo close $328 million deal to finance IndiGo’s 8 Airbus jets](https://www.livemint.com/companies/news/citi-and-credendo-close-328-million-deal-to-finance-indigo-s-8-airbus-jets-11791883975762.html)
 The financing covers six Airbus A321 and two A320. Citi acted as the sole mandated arranger, ECA coordinator and sole lender, while Credendo provided credit insurance.
@@ -147,11 +167,6 @@ The financing covers six Airbus A321 and two A320. Citi acted as the sole mandat
 At the heart of the dispute is a memorandum of understanding (MoU) signed in March 2024, which Mallika says covers only brand rights and related obligations, not the ownership of family assets or an economic settlement.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-13
-
-### [Why did Japanese chain 7-Eleven shut 31 stores in India despite its ‘long-term’ ambitions?](https://www.livemint.com/companies/news/why-did-japanese-chain-7-eleven-shut-31-stores-in-india-despite-its-long-term-ambitions-11791817401033.html)
-At the end of September, Reliance Retail, which operates 7-Eleven stores in India under a master franchise agreement, shut all 31 outlets across the country.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
 
 ---
 
@@ -169,12 +184,7 @@ Four F&amp;O stocks, led by Avenue Supermarts, recorded over 6% gain in futures 
 
 ---
 
-## 🏭 Operations & Approvals (7)
-
-### [Reliance’s Jio convention centre construction delay: SC directs MMRDA to deposit  ₹646 cr](https://www.livemint.com/companies/news/reliance-jio-convention-centre-construction-mmrda-11791802539461.html)
-The lease of the BKC land required Reliance to complete construction of the Jio World Convention Centre within four years, but the project was subsequently expanded and required additional approvals.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
+## 🏭 Operations & Approvals (8)
 
 ### [CoinSwitch Ventures goes global as BlackLane Capital, plans to back startups with cheques of up to $5 million](https://economictimes.indiatimes.com/markets/stocks/news/coinswitch-ventures-goes-global-as-blacklane-capital-plans-to-back-startups-with-cheques-of-up-to-5-million/articleshow/134911638.cms)
 CoinSwitch’s investment arm, CoinSwitch Ventures, has rebranded as BlackLane Capital, expanding beyond crypto and Web3 to invest in early-stage startups across fintech, enterprise infrastructure, consumer applications and digital assets. The firm plans to invest up to $5 million per startup and aims to enable over $100 million in startup funding over the next five years through its investments and partner network. It has previously backed more than 26 startups under its Web3-focused mandate.
@@ -191,6 +201,21 @@ Ircon International shares surged after the company secured an EPC contract wort
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
+### [Hyundai commits $15.5 billion to India, eyes global export hub expansion](https://www.livemint.com/companies/news/hyundai-commits-15-5-billion-to-india-eyes-global-export-hub-expansion-11791911499812.html)
+Hyundai Motor Group plans to invest $15.5 billion in India by 2032, funding research and development, expanded Hyundai and Kia production capacity, a vehicle testing facility and a dedicated investment entity. The company expects the programme to create jobs.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
+### [Hyundai Motor Group commits $15.5 billion to India over seven years](https://www.livemint.com/companies/news/hyundai-motor-group-commits-15-5-billion-to-india-over-seven-years-11791903146604.html)
+The outlay across Hyundai Motor India and Kia will fund capacity expansion, local supplier networks, and a $700 million R&amp;amp;D boost to help reclaim market share from domestic rivals.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
+### [Radisson Hotel Group recalibrates India expansion, eyes bigger push into metros and premium hotels](https://www.livemint.com/companies/news/radisson-hotel-group-recalibrates-india-expansion-eyes-bigger-push-into-metros-and-premium-hotels-11791892086351.html)
+The Jin Jiang-owned hotel group expects 60% of its next 250 properties to be in tier-one and tier-two cities, while expanding franchising to accelerate growth.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
 ### [Carlsberg India asked to shut Alwar unit, says report: Will your beer prices or supply be affected?](https://www.livemint.com/companies/news/carlsberg-india-asked-to-shut-alwar-unit-says-report-will-your-beer-prices-or-supply-be-affected-11791874354068.html)
 Rajasthan's pollution control board revoked the consent to operate, which was granted to Carlsberg India's Alwar facility on April 24, 2024,
 
@@ -201,14 +226,24 @@ As production becomes more complex and highly regulated, digitalisation and auto
 
 **Source:** Express Pharma  **Date:** 2026-10-13
 
-### [Jeep Midsize SUV India Launch: What We Know About Expected Features And Other Key Details](https://www.ndtvprofit.com/business/jeep-midsize-suv-india-launch-what-we-know-about-expected-features-and-other-key-details-12177828#publisher=newsstand)
-The new SUV is expected to share powertrain technology and components with the Sierra
-
-**Source:** NDTV Profit  **Date:** 2026-10-13
-
 ---
 
-## 📉 Analyst & Brokerage Calls (9)
+## 📉 Analyst & Brokerage Calls (14)
+
+### [Sebi proposes review of framework for monitoring utilization of issue proceeds](https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-review-of-framework-for-monitoring-utilization-of-issue-proceeds/articleshow/134922472.cms)
+Sebi has invited public comments on recommendations to review rules governing the monitoring and disclosure of issue proceeds by listed companies. The consultation paper, based on a working group’s report, also covers penalties for non-compliance and related-party transaction provisions. Stakeholders can submit comments and supporting rationale by November 3, 2026.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [Market Trading Guide: Balrampur Chini Mills among 4 stock recommendations for Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-balrampur-chini-mills-among-4-stock-recommendations-for-wednesday/slideshow/134921277.cms)
+Balrampur Chini Mills, Cyient, Aditya Infotech and eClerx Services feature among four stock recommendations for Wednesday, with analysts outlining entry levels, stop losses and upside targets based on technical indicators.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [PTC Industries among 4 stocks hitting 52-week highs; rally up to 15% in a month](https://economictimes.indiatimes.com/markets/stocks/news/ptc-industries-among-4-stocks-hitting-52-week-highs-rally-up-to-15-in-a-month/slideshow/134919958.cms)
+Four BSE 500 stocks, including PTC Industries and Aditya Infotech, hit fresh 52-week highs as the Sensex rallied 1,109 points on Tuesday. The stocks have gained up to 14% over the past month, reflecting continued buying interest across select counters.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
 
 ### [Hitachi Energy, E2E Networks, Anant Raj, other AI-linked stocks slide up to 5% as global AI rout hits Indian markets](https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-e2e-networks-anant-raj-other-ai-linked-stocks-slide-up-to-5-as-global-ai-rout-hits-indian-markets/articleshow/134913521.cms)
 Indian AI- and energy-linked stocks decline as a global technology sell-off deepens, with South Korea’s KOSPI plunging amid intensifying competition in the AI sector. Investors reassess AI valuations following sharp losses in Asian semiconductor stocks.
@@ -230,6 +265,16 @@ As the festive season approaches in India, high crude oil prices stir worries ov
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
+### [From  ₹201 crore invested in 2017 to  ₹550 crore realised: WSIB-backed investor exits DASNAC](https://www.livemint.com/companies/from-rs-201-crore-invested-in-2017-to-rs-550-crore-realised-wsib-backed-investor-exits-dasnac-11791902391985.html)
+The exit comes in FY26 after generating aggregate cash proceeds of around ₹550 crore in FY26, as per a report. DASNAC is known for Noida projects like The Jewel of Noida and Burj Noida.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
+### [Urban Company considers fundraise as instant-services battle heats up](https://www.livemint.com/companies/news/urban-company-considers-fundraise-as-instant-services-battle-heats-up-11791899677905.html)
+The Gurugram-based company’s board will meet on 16 October to evaluate equity dilution routes as rivals Snabbit and Pronto step up pressure in on-demand household help.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
 ### ['If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India](https://www.livemint.com/companies/people/if-you-cant-beat-them-join-them-uday-kotak-backs-china-investment-manufacturing-jvs-in-india-11791888617413.html)
 Speaking at the Bloomberg New Economy Forum 2026 in New Delhi on Tuesday, Kotak said Indian companies partnering with Chinese firms could help expand domestic manufacturing, drawing a parallel with China's earlier strategy of collaborating with American companies.
 
@@ -240,31 +285,46 @@ As prices of lab-grown diamonds fall, Titan is betting on colour, design and exp
 
 **Source:** Mint - Pharma  **Date:** 2026-10-13
 
-### [Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say](https://www.livemint.com/companies/exclusivemoonshot-execs-in-talks-to-settle-dispute-with-shareholder-ahead-of-planned-ipo-people-say-11791838614126.html)
-MOONSHOT-DISPUTE:Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say
+### [Drishyam: The Conclusion Box Office Day 12: Ajay Devgn Starrer Holds Strong, Will It Touch Rs 400 Crore?](https://www.ndtvprofit.com/business/drishyam-the-conclusion-box-office-day-12-ajay-devgn-starrer-holds-strong-will-it-touch-rs-400-crore-12180335#publisher=newsstand)
+Drishyam: The Conclusion stars Ajay Devgn, Shriya Saran, Tabu, Ishita Dutta among others.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-12
+**Source:** NDTV Profit  **Date:** 2026-10-13
 
-### [JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale](https://www.livemint.com/companies/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale-11791831660356.html)
-JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc. have taken a rare move to limit their exposure on a $5 billion loan sale for AI startup Volta Infrastructure Holdings Ltd. as investors demand higher yields for risky debt tied to the artificial intelligence boom.
+### [Gautam Adani Meets Mike Bloomberg In Delhi, Discusses Future Of AI, Sustainable Growth](https://www.ndtvprofit.com/business/gautam-adani-meets-mike-bloomberg-in-delhi-discusses-future-of-ai-sustainable-growth-12180281#publisher=newsstand)
+Gautam Adani and Mike Bloomberg discussed accelerating the global energy transition, resilient urban infrastructure, future of AI and sustainable growth.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-12
+**Source:** NDTV Profit  **Date:** 2026-10-13
 
-### [Sir Dorabji Tata Trust gets a week more to respond to complaints by two trustees](https://www.livemint.com/companies/news/sir-dorabji-tata-trusts-venu-srinivasan-vijay-singh-maharashtra-charity-commissioner-11791811484496.html)
-SDTT, which holds 27.98% of Tata Sons, has sought an extension to respond to the Charity Commissioner’s queries on complaints filed against it. The deadline is now extended to 19 October.
+### [Apple HomePod Mini Gets First Major Upgrade In Six Years: What's Changed](https://www.ndtvprofit.com/technology/apple-homepod-mini-gets-first-major-upgrade-in-six-years-whats-changed-12179944#publisher=newsstand)
+Apple's HomePod mini 2 adds Sound Glow lighting, smart home features and future Siri AI capabilities.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-12
+**Source:** NDTV Profit  **Date:** 2026-10-13
 
 ---
 
-## 📰 Industry & Policy News (14)
+## 📰 Industry & Policy News (16)
 
 ### [Bandhan Bank shares jump 7% as Abu Dhabi’s IHC explores stake in promoter Bandhan Financial Services](https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-jump-7-as-abu-dhabis-ihc-explores-stake-in-promoter-bandhan-financial-services/articleshow/134908601.cms)
 Bandhan Bank shares jumped nearly 7% after reports that Abu Dhabi-based IHC was in early-stage discussions to acquire a promoter stake in Bandhan Financial Services, potentially giving existing investors an exit opportunity.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma wraps up trading at Rs 1768.4](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-13-oct-2026/liveblog/134908133.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-13-oct-2026/liveblog/134908133.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [B.R. Shetty seeks $15 bn from Bank of Baroda, several officials and others over alleged role in NMC fraud](https://www.livemint.com/companies/people/br-shetty-seeks-15-bn-from-bank-of-baroda-over-alleged-role-in-nmc-fraud-in-bombay-hc-11791899997263.html)
+B.R. Shetty has sought $5 billion in direct damages, $5 billion for consequential losses, including lost business opportunities, and another $5 billion for reputational damage.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-13
+
+### [The best financial advice is often to do nothing, says Value Research CEO Dhirendra Kumar](https://economictimes.indiatimes.com/markets/stocks/news/the-best-financial-advice-is-often-to-do-nothing-says-value-research-ceo-dhirendra-kumar/articleshow/134919166.cms)
+Value Research CEO Dhirendra Kumar says good financial advice often means helping investors avoid unnecessary transactions and impulsive decisions. Speaking at the Global Financial Planners Summit Team 2026, he stressed the importance of financial education at home, disciplined investing and understanding products before making decisions with long-term financial consequences.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-13
+
+### [Market wrap:  HCL Tech, TCS, Kotak Bank, Eternal top gainers and losers on Nifty and Sensex on Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hcl-tech-tcs-kotak-bank-eternal-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134918550.cms)
+Indian equity markets rallied over 1.5% on Tuesday, with the Sensex rising 1,109 points and the Nifty 50 gaining 358 points. IT stocks led the advance, with HCL Tech and TCS topping the gainers’ lists. Kotak Mahindra Bank, Eternal and Maruti Suzuki were among the notable laggards.
+
 **Source:** Economic Times - Markets  **Date:** 2026-10-13
 
 ### [Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route](https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-pms-rules-broadens-investment-avenue-for-portfolio-managers-introduces-prim-route/articleshow/134915892.cms)
@@ -302,28 +362,23 @@ Zoho co-founder Sridhar Vembu said employees would not get their usual pay hike 
 
 **Source:** Mint - Pharma  **Date:** 2026-10-13
 
-### [RBL Bank expects to put most FCNR(B) funds to profitable use in 2-3 years](https://www.livemint.com/companies/news/rbl-bank-expects-to-put-most-fcnr-b-funds-to-profitable-use-in-2-3-years-11791814901062.html)
-RBL Bank expects its net interest margin to decline in the December quarter as the cost of about ₹34,000 crore raised through FCNR(B) deposits kicks in, while much of the funds remain parked in lower-yielding investments.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
-
-### [LinkedIn posts about ‘women executives’ land McKinsey partner in trouble; leadership role taken away](https://www.livemint.com/companies/news/linkedin-posts-about-women-executives-land-mckinsey-partner-in-trouble-leadership-role-taken-away-11791806374206.html)
-McKinsey removed senior partner Chris Bradley from his leadership roles after reviewing his LinkedIn comments questioning the glass cliff phenomenon. Details of the post here.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-10-12
-
 ### [NuSynth to build chemical process innovation platform with new capital](https://www.expresspharma.in/nusynth-to-build-chemical-process-innovation-platform-with-new-capital/)
 The company will use the capital to develop its R&#038;D and technology capabilities, proprietary processes, scale-up capabilities and team The post NuSynth to build chemical process innovation platform with new capital appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-10-13
 
-### [Stock Market Highlights: Sensex Ends 1,109 Points Higher, Nifty At 22,722; IT, Realty Shares Outperform](https://www.ndtvprofit.com/markets/stock-market-today-live-gift-nifty-live-nifty-50-sensex-today-live-updates-hcl-tech-hero-motors-13-october-2026-12176597#publisher=newsstand)
-Sensex, Nifty 50 Updates, Stock Market Live: Broader markets traded mixed, as the Nifty Smallcap 100 index fell, while the Nifty Midcap 100 index was in the green.
+### [Yuvraj Singh Begins New Chapter With Delhi Capitals, Reunites With Sourav Ganguly](https://www.ndtvprofit.com/sports/yuvraj-singh-begins-new-chapter-with-delhi-capitals-reunites-with-sourav-ganguly-12180445#publisher=newsstand)
+The appointment marks Yuvraj Singh's first official coaching role in the IPL.
 
 **Source:** NDTV Profit  **Date:** 2026-10-13
 
-### [Carlsberg India Ordered To Shut Alwar Brewery Over Pollution Breach Ahead Of $700 Million IPO](https://www.ndtvprofit.com/business/carlsberg-india-ordered-to-shut-alwar-brewery-over-pollution-breach-ahead-of-700-million-ipo-12177653#publisher=newsstand)
-SEBI issued observations on Carlsberg India's proposed IPO earlier this month.
+### [IT Rebound To Extend? Infosys, Wipro ADRs Spike Up To 6% After Strong D-Street Show](https://www.ndtvprofit.com/markets/it-rebound-to-extend-infosys-wipro-adrs-spike-up-to-6-after-strong-d-street-show-12180527#publisher=newsstand)
+Infosys and Wipro shares rally over 4% on the NSE as US-listed ADRs surge amid IT optimism.
+
+**Source:** NDTV Profit  **Date:** 2026-10-13
+
+### [Why Disney Rejected Ramanand Sagar's Ramayana: Lalit Modi Shares Bizarre Anecdote](https://www.ndtvprofit.com/lifestyle/why-disney-rejected-ramanand-sagars-ramayana-lalit-modi-shares-bizarre-anecdote-12179947#publisher=newsstand)
+Lalit Modi shares details of Ramanand Sagar's meeting with Disney over Ramayana.
 
 **Source:** NDTV Profit  **Date:** 2026-10-13
 
