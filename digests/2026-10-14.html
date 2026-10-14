@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Pharma Digest — 2026-10-14</title>
+<style>
+  :root{--bg:#f0f4f8;--surface:#fff;--border:#dde3ea;--primary:#1a3a5c;
+        --accent:#1565c0;--muted:#607d8b;--green:#1a7a4a;--red:#c0392b;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+       background:var(--bg);color:#1a1a2e;line-height:1.6;}
+
+  /* Header */
+  header{background:var(--primary);color:#fff;padding:1.2rem 2rem;
+          display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.8rem;}
+  header h1{font-size:1.4rem;font-weight:700;}
+  header .meta{font-size:.82rem;opacity:.8;}
+
+  /* Tabs */
+  .tabs{background:#122740;padding:0 1rem;overflow-x:auto;display:flex;
+         scrollbar-width:none;border-top:1px solid rgba(255,255,255,.08);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{background:none;border:none;color:rgba(255,255,255,.65);
+            padding:.65rem 1rem;font-size:.8rem;cursor:pointer;white-space:nowrap;
+            border-bottom:3px solid transparent;transition:all .18s;}
+  .tab-btn:hover{color:#fff;background:rgba(255,255,255,.06);}
+  .tab-btn.active{color:#fff;border-bottom-color:#64b5f6;font-weight:600;}
+
+  /* Layout */
+  .container{max-width:1400px;margin:0 auto;padding:1.5rem 1rem;}
+  .section{margin-bottom:2rem;}
+  h2{font-size:1.1rem;font-weight:700;color:var(--primary);
+      border-left:4px solid var(--accent);padding-left:.75rem;
+      margin-bottom:.9rem;display:flex;align-items:center;gap:.5rem;}
+  .count{background:var(--accent);color:#fff;border-radius:99px;
+          font-size:.7rem;padding:.1rem .45rem;}
+  .note{font-size:.8rem;color:var(--muted);margin-bottom:.75rem;}
+  .legend{font-size:.78rem;font-weight:600;}
+  .green-leg{color:var(--green);}
+  .red-leg  {color:var(--red);}
+
+  /* Stock table */
+  .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);}
+  .stock-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .stock-table th{background:var(--primary);color:#fff;padding:.6rem .75rem;
+                   text-align:left;white-space:nowrap;font-weight:600;}
+  .stock-table td{padding:.5rem .75rem;border-bottom:1px solid var(--border);
+                   white-space:nowrap;}
+  .stock-table tbody tr:last-child td{border-bottom:none;}
+  .stock-table tbody tr:hover td{background:#f0f6ff;}
+  .stock-table tr.near-high td{background:#e8f5e9;}
+  .stock-table tr.near-low  td{background:#fdecea;}
+  .co-name{max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .num{text-align:right;font-variant-numeric:tabular-nums;font-family:'SF Mono',Consolas,monospace;}
+
+  /* News cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.85rem;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:9px;
+         padding:.95rem;display:flex;flex-direction:column;gap:.4rem;
+         transition:box-shadow .15s;}
+  .card:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);}
+  .card-title{font-weight:600;color:var(--accent);text-decoration:none;
+               font-size:.88rem;line-height:1.45;}
+  .card-title:hover{text-decoration:underline;}
+  .card-summary{font-size:.8rem;color:#444;line-height:1.5;}
+  .card-meta{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap;margin-top:.15rem;}
+  .badge{color:#fff;font-size:.7rem;padding:.12rem .45rem;border-radius:4px;font-weight:500;}
+  .date{font-size:.7rem;color:var(--muted);}
+
+  footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.78rem;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🏥 India Pharma Investor Digest</h1>
+    <div class="meta">NSE · BSE · News · Filings</div>
+  </div>
+  <div class="meta">2026-10-14 &nbsp;·&nbsp; 34 stocks &nbsp;·&nbsp; 60 news items</div>
+</header>
+<nav class="tabs" id="tabNav"><button class="tab-btn" onclick="showTab('tab_stocks')" id="btn-tab_stocks">📈 Stocks (34)</button><button class="tab-btn" onclick="showTab('tab___Results___Financials')" id="btn-tab___Results___Financials">💰 Results & Financials (28)</button><button class="tab-btn" onclick="showTab('tab___Deals__M_A___Partnerships')" id="btn-tab___Deals__M_A___Partnerships">🤝 Deals, M&A & Partnerships (4)</button><button class="tab-btn" onclick="showTab('tab___Corporate_Actions')" id="btn-tab___Corporate_Actions">💸 Corporate Actions (1)</button><button class="tab-btn" onclick="showTab('tab___Operations___Approvals')" id="btn-tab___Operations___Approvals">🏭 Operations & Approvals (11)</button><button class="tab-btn" onclick="showTab('tab___Analyst___Brokerage_Calls')" id="btn-tab___Analyst___Brokerage_Calls">📉 Analyst & Brokerage Calls (5)</button><button class="tab-btn" onclick="showTab('tab___Industry___Policy_News')" id="btn-tab___Industry___Policy_News">📰 Industry & Policy News (11)</button></nav>
+<div class="container">
+  
+    <div class="section" id="tab_stocks">
+      <h2>📈 Indian Pharma — NSE Stock Prices <span class="count">34</span></h2>
+      <p class="note">
+        Prices in ₹ (INR) &nbsp;·&nbsp; Source: Yahoo Finance / NSE &nbsp;·&nbsp; As of 2026-10-14
+        &nbsp;&nbsp;
+        <span class="legend green-leg">■ Near 52W High</span>
+        &nbsp;
+        <span class="legend red-leg">■ Near 52W Low</span>
+      </p>
+      <div class="table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Company</th>
+              <th class="num">Price (₹)</th>
+              <th class="num">Change %</th>
+              <th class="num">Change (₹)</th>
+              <th class="num">Prev Close</th>
+              <th class="num">Day High</th>
+              <th class="num">Day Low</th>
+              <th class="num">52W High</th>
+              <th class="num">52W Low</th>
+              <th class="num">Mkt Cap</th>
+            </tr>
+          </thead>
+          <tbody>
+        <tr class="">
+          <td><strong>PFIZER</strong></td>
+          <td class="co-name">Pfizer India</td>
+          <td class="num"><strong>₹3,939.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -3.93%</td>
+          <td class="num" style="color:#c0392b">₹-161.00</td>
+          <td class="num">₹4,100.00</td>
+          <td class="num">₹4,026.00</td>
+          <td class="num">₹3,905.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹18.0K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>DIVISLAB</strong></td>
+          <td class="co-name">Divis Laboratories</td>
+          <td class="num"><strong>₹8,988.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -3.20%</td>
+          <td class="num" style="color:#c0392b">₹-297.00</td>
+          <td class="num">₹9,285.00</td>
+          <td class="num">₹9,315.00</td>
+          <td class="num">₹8,970.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹2.4L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>INDOCO</strong></td>
+          <td class="co-name">Indoco Remedies</td>
+          <td class="num"><strong>₹231.90</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +2.61%</td>
+          <td class="num" style="color:#1a7a4a">+₹5.90</td>
+          <td class="num">₹226.00</td>
+          <td class="num">₹236.95</td>
+          <td class="num">₹225.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹2.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SOLARA</strong></td>
+          <td class="co-name">Solara Active Pharma</td>
+          <td class="num"><strong>₹640.15</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -2.51%</td>
+          <td class="num" style="color:#c0392b">₹-16.45</td>
+          <td class="num">₹656.60</td>
+          <td class="num">₹664.00</td>
+          <td class="num">₹639.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹3.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SUNPHARMA</strong></td>
+          <td class="co-name">Sun Pharmaceutical</td>
+          <td class="num"><strong>₹1,728.50</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -2.38%</td>
+          <td class="num" style="color:#c0392b">₹-42.20</td>
+          <td class="num">₹1,770.70</td>
+          <td class="num">₹1,770.10</td>
+          <td class="num">₹1,725.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹4.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>DRREDDY</strong></td>
+          <td class="co-name">Dr. Reddy's Laboratories</td>
+          <td class="num"><strong>₹1,212.70</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -2.20%</td>
+          <td class="num" style="color:#c0392b">₹-27.30</td>
+          <td class="num">₹1,240.00</td>
+          <td class="num">₹1,234.40</td>
+          <td class="num">₹1,212.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.0L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ABBOTINDIA</strong></td>
+          <td class="co-name">Abbott India</td>
+          <td class="num"><strong>₹26,185.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +1.91%</td>
+          <td class="num" style="color:#1a7a4a">+₹490.00</td>
+          <td class="num">₹25,695.00</td>
+          <td class="num">₹26,215.00</td>
+          <td class="num">₹25,750.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹55.6K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>CIPLA</strong></td>
+          <td class="co-name">Cipla</td>
+          <td class="num"><strong>₹1,305.50</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.81%</td>
+          <td class="num" style="color:#c0392b">₹-24.10</td>
+          <td class="num">₹1,329.60</td>
+          <td class="num">₹1,333.30</td>
+          <td class="num">₹1,304.10</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>LAURUSLABS</strong></td>
+          <td class="co-name">Laurus Labs</td>
+          <td class="num"><strong>₹2,026.70</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.59%</td>
+          <td class="num" style="color:#c0392b">₹-32.70</td>
+          <td class="num">₹2,059.40</td>
+          <td class="num">₹2,057.30</td>
+          <td class="num">₹2,021.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>MANKIND</strong></td>
+          <td class="co-name">Mankind Pharma</td>
+          <td class="num"><strong>₹2,334.70</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.57%</td>
+          <td class="num" style="color:#c0392b">₹-37.30</td>
+          <td class="num">₹2,372.00</td>
+          <td class="num">₹2,372.00</td>
+          <td class="num">₹2,317.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹96.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>AUROPHARMA</strong></td>
+          <td class="co-name">Aurobindo Pharma</td>
+          <td class="num"><strong>₹1,660.10</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.45%</td>
+          <td class="num" style="color:#c0392b">₹-24.50</td>
+          <td class="num">₹1,684.60</td>
+          <td class="num">₹1,687.70</td>
+          <td class="num">₹1,660.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹95.5K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>METROPOLIS</strong></td>
+          <td class="co-name">Metropolis Healthcare</td>
+          <td class="num"><strong>₹527.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.45%</td>
+          <td class="num" style="color:#c0392b">₹-7.75</td>
+          <td class="num">₹534.75</td>
+          <td class="num">₹533.25</td>
+          <td class="num">₹525.35</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹10.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>TORNTPHARM</strong></td>
+          <td class="co-name">Torrent Pharmaceuticals</td>
+          <td class="num"><strong>₹4,577.70</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.40%</td>
+          <td class="num" style="color:#c0392b">₹-65.20</td>
+          <td class="num">₹4,642.90</td>
+          <td class="num">₹4,640.00</td>
+          <td class="num">₹4,551.80</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.7L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SUVEN</strong></td>
+          <td class="co-name">Suven Pharmaceuticals</td>
+          <td class="num"><strong>₹280.55</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.37%</td>
+          <td class="num" style="color:#c0392b">₹-3.90</td>
+          <td class="num">₹284.45</td>
+          <td class="num">₹285.55</td>
+          <td class="num">₹278.45</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹7.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>APOLLOHOSP</strong></td>
+          <td class="co-name">Apollo Hospitals</td>
+          <td class="num"><strong>₹7,764.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.36%</td>
+          <td class="num" style="color:#c0392b">₹-107.00</td>
+          <td class="num">₹7,871.00</td>
+          <td class="num">₹7,889.50</td>
+          <td class="num">₹7,697.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>FDC</strong></td>
+          <td class="co-name">FDC Limited</td>
+          <td class="num"><strong>₹343.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +1.34%</td>
+          <td class="num" style="color:#1a7a4a">+₹4.55</td>
+          <td class="num">₹338.45</td>
+          <td class="num">₹343.00</td>
+          <td class="num">₹335.85</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹5.6K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ALKEM</strong></td>
+          <td class="co-name">Alkem Laboratories</td>
+          <td class="num"><strong>₹5,190.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.14%</td>
+          <td class="num" style="color:#c0392b">₹-60.00</td>
+          <td class="num">₹5,250.00</td>
+          <td class="num">₹5,270.50</td>
+          <td class="num">₹5,171.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹62.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GLAND</strong></td>
+          <td class="co-name">Gland Pharma</td>
+          <td class="num"><strong>₹3,056.30</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.13%</td>
+          <td class="num" style="color:#c0392b">₹-34.80</td>
+          <td class="num">₹3,091.10</td>
+          <td class="num">₹3,105.00</td>
+          <td class="num">₹3,042.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹50.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>MAXHEALTH</strong></td>
+          <td class="co-name">Max Healthcare</td>
+          <td class="num"><strong>₹851.40</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.11%</td>
+          <td class="num" style="color:#c0392b">₹-9.60</td>
+          <td class="num">₹861.00</td>
+          <td class="num">₹869.50</td>
+          <td class="num">₹850.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹82.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>CAPLIPOINT</strong></td>
+          <td class="co-name">Caplin Point Laboratories</td>
+          <td class="num"><strong>₹2,343.60</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.06%</td>
+          <td class="num" style="color:#c0392b">₹-25.00</td>
+          <td class="num">₹2,368.60</td>
+          <td class="num">₹2,409.00</td>
+          <td class="num">₹2,321.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹17.8K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>LALPATHLAB</strong></td>
+          <td class="co-name">Dr. Lal PathLabs</td>
+          <td class="num"><strong>₹1,930.50</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.91%</td>
+          <td class="num" style="color:#1a7a4a">+₹17.50</td>
+          <td class="num">₹1,913.00</td>
+          <td class="num">₹1,940.00</td>
+          <td class="num">₹1,887.10</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹32.3K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SANOFI</strong></td>
+          <td class="co-name">Sanofi India</td>
+          <td class="num"><strong>₹2,982.10</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.88%</td>
+          <td class="num" style="color:#1a7a4a">+₹25.90</td>
+          <td class="num">₹2,956.20</td>
+          <td class="num">₹2,995.50</td>
+          <td class="num">₹2,927.80</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹6.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>AJANTPHARM</strong></td>
+          <td class="co-name">Ajanta Pharma</td>
+          <td class="num"><strong>₹3,299.50</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.86%</td>
+          <td class="num" style="color:#c0392b">₹-28.70</td>
+          <td class="num">₹3,328.20</td>
+          <td class="num">₹3,377.20</td>
+          <td class="num">₹3,269.90</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹41.2K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GRANULES</strong></td>
+          <td class="co-name">Granules India</td>
+          <td class="num"><strong>₹807.95</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.80%</td>
+          <td class="num" style="color:#c0392b">₹-6.55</td>
+          <td class="num">₹814.50</td>
+          <td class="num">₹817.00</td>
+          <td class="num">₹804.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹22.0K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>NATCOPHARM</strong></td>
+          <td class="co-name">Natco Pharma</td>
+          <td class="num"><strong>₹783.05</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.75%</td>
+          <td class="num" style="color:#c0392b">₹-5.95</td>
+          <td class="num">₹789.00</td>
+          <td class="num">₹794.00</td>
+          <td class="num">₹782.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹14.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>MARKSANS</strong></td>
+          <td class="co-name">Marksans Pharma</td>
+          <td class="num"><strong>₹315.35</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.60%</td>
+          <td class="num" style="color:#c0392b">₹-1.90</td>
+          <td class="num">₹317.25</td>
+          <td class="num">₹320.90</td>
+          <td class="num">₹314.10</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹14.3K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ERIS</strong></td>
+          <td class="co-name">Eris Lifesciences</td>
+          <td class="num"><strong>₹1,156.50</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.58%</td>
+          <td class="num" style="color:#1a7a4a">+₹6.70</td>
+          <td class="num">₹1,149.80</td>
+          <td class="num">₹1,165.90</td>
+          <td class="num">₹1,148.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹16.0K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ZYDUSLIFE</strong></td>
+          <td class="co-name">Zydus Lifesciences</td>
+          <td class="num"><strong>₹1,127.40</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.45%</td>
+          <td class="num" style="color:#c0392b">₹-5.10</td>
+          <td class="num">₹1,132.50</td>
+          <td class="num">₹1,150.90</td>
+          <td class="num">₹1,108.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GLENMARK</strong></td>
+          <td class="co-name">Glenmark Pharmaceuticals</td>
+          <td class="num"><strong>₹2,255.70</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.42%</td>
+          <td class="num" style="color:#c0392b">₹-9.60</td>
+          <td class="num">₹2,265.30</td>
+          <td class="num">₹2,286.40</td>
+          <td class="num">₹2,242.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹63.7K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>IPCALAB</strong></td>
+          <td class="co-name">IPCA Laboratories</td>
+          <td class="num"><strong>₹1,906.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.41%</td>
+          <td class="num" style="color:#1a7a4a">+₹7.80</td>
+          <td class="num">₹1,898.20</td>
+          <td class="num">₹1,913.10</td>
+          <td class="num">₹1,863.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹48.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>LUPIN</strong></td>
+          <td class="co-name">Lupin</td>
+          <td class="num"><strong>₹1,946.30</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.37%</td>
+          <td class="num" style="color:#c0392b">₹-7.30</td>
+          <td class="num">₹1,953.60</td>
+          <td class="num">₹1,954.80</td>
+          <td class="num">₹1,925.70</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹89.0K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>WOCKPHARMA</strong></td>
+          <td class="co-name">Wockhardt</td>
+          <td class="num"><strong>₹1,987.30</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.31%</td>
+          <td class="num" style="color:#1a7a4a">+₹6.10</td>
+          <td class="num">₹1,981.20</td>
+          <td class="num">₹2,003.90</td>
+          <td class="num">₹1,960.40</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹32.3K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GLAXO</strong></td>
+          <td class="co-name">GSK Pharma India</td>
+          <td class="num"><strong>₹2,542.70</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.25%</td>
+          <td class="num" style="color:#1a7a4a">+₹6.40</td>
+          <td class="num">₹2,536.30</td>
+          <td class="num">₹2,546.00</td>
+          <td class="num">₹2,502.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹43.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>BIOCON</strong></td>
+          <td class="co-name">Biocon</td>
+          <td class="num"><strong>₹351.30</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.09%</td>
+          <td class="num" style="color:#1a7a4a">+₹0.30</td>
+          <td class="num">₹351.00</td>
+          <td class="num">₹353.00</td>
+          <td class="num">₹347.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹57.5K Cr</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </div>
+  
+        <div class="section" id="tab___Results___Financials">
+          <h2>💰 Results & Financials <span class="count">28</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/hero-motors-shares-soar-8-as-q2-net-profit-more-than-doubles-to-rs-10-crore/articleshow/134931725.cms" target="_blank" rel="noopener">Hero Motors shares soar 8% as Q2 net profit more than doubles to Rs 10 crore</a>
+              <p class='card-summary'>Hero Motors shares jumped after the company reported a 115% YoY rise in Q2 FY27 net profit to Rs 10.2 crore. Revenue from operations grew 25% to Rs 319 crore, while total income rose 22% to Rs 322.64 crore. However, net profit fell 31% sequentially, while total expenses increased 19% YoY to Rs 307.0</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/earnings/bhel-q2-results-net-profit-skyrockets-120-yoy-to-rs-810-crore-revenue-rises-24/articleshow/134936902.cms" target="_blank" rel="noopener">BHEL Q2 Results: Net profit skyrockets 120% YoY to Rs 810 crore; revenue rises 24%</a>
+              <p class='card-summary'>Bharat Heavy Electricals Limited has announced a remarkable jump in net profit for Q2, surging 120.1% year-on-year to reach Rs 810 crore, up from Rs 368 crore last fiscal year. Additionally, revenue from operations increased by 23.8%, totaling Rs 9,300 crore. These figures showcase BHEL's strong fin</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-cons-net-profit-surges-54-yoy-to-rs-726-crore-revenue-jumps-47/articleshow/134935652.cms" target="_blank" rel="noopener">Groww Q2 Results: Cons net profit surges 54% YoY to Rs 726 crore; revenue jumps 47%</a>
+              <p class='card-summary'>Groww Q2 Results: The company’s revenue from operations came in at Rs 1,501 crore, marking a 47% increase from Rs 1,019 crore posted in the corresponding quarter of the previous financial year.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/live-blog/tata-tech-groww-q2-results-fy27-bhel-canara-bank-tata-technologies-earnings-dividend-2026-share-price-updates/liveblog/134933806.cms" target="_blank" rel="noopener">Q2 Earnings Results Live Updates: BHEL Q2 net profit soars 120% YoY, revenue jumps 23.8% YoY to Rs 9,300 crore</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q2-results-preview-after-tcs-hcl-tech-will-this-it-major-exceed-expectations/articleshow/134933154.cms" target="_blank" rel="noopener">Wipro Q2 Results Preview: After TCS &amp;amp; HCL Tech, will this IT major exceed expectations?</a>
+              <p class='card-summary'>Wipro is anticipated to report limited earnings growth for the September quarter due to various pressures. The focus will likely shift to guidance for the future quarter and profit margins. Analysts expect IT revenue to decline slightly despite inorganic contributions from recent acquisitions. The u</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/transformers-rectifiers-shares-surge-over-18-as-q2-revenue-jumps-61-order-inflows-nearly-double/articleshow/134932502.cms" target="_blank" rel="noopener">Transformers &amp;amp; Rectifiers shares surge over 18% as Q2 revenue jumps 61%, order inflows nearly double</a>
+              <p class='card-summary'>Transformers &amp;amp; Rectifiers shares surged over 18% after the company reported a 135% year-on-year rise in consolidated net profit and 61% revenue growth in Q2FY27. Order inflows nearly doubled to Rs 1,169 crore, while its unexecuted order book grew 32% year-on-year.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-results-standalone-net-profit-rises-8-yoy-to-rs-5175-crore-nii-jumps-20/articleshow/134935180.cms" target="_blank" rel="noopener">Canara Bank Q2 Results: Standalone net profit rises 8% YoY to Rs 5,175 crore, NII jumps 20%</a>
+              <p class='card-summary'>Canara Bank has announced a standalone net profit of approximately Rs 5,175 crore for the second quarter of FY27, reflecting a growth of over 8% from the previous year. The bank also experienced a substantial increase in net interest income, surpassing Rs 11,005 crore, along with notable improvement</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/ubs-says-cartrade-techs-olx-buy-can-deliver-5x-revenue-in-five-years-heres-why/articleshow/134934907.cms" target="_blank" rel="noopener">UBS says CarTrade Tech’s OLX buy can deliver 5x revenue in five years. Here’s why</a>
+              <p class='card-summary'>Global brokerage firm UBS maintained a Buy rating on CarTrade Tech with a target price of Rs 4,000, citing strong monetisation potential in its OLX India business. UBS expects OLX’s emerging revenue levers, such as financing, subscriptions, and logistics to drive a 5x revenue expansion to Rs 11.8 bi</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/pl-capital-picks-8-largecap-stocks-with-upside-potential-of-up-to-41-see-full-list/slideshow/134932882.cms" target="_blank" rel="noopener">PL Capital picks 8 largecap stocks with upside potential of up to 41%. See full list</a>
+              <p class='card-summary'>Despite a cautious stance on the market outlook, PL Capital has pinpointed 8 largecap stocks poised for significant growth, with potential increases ranging from 13.4% to 41.3%. Among these, Bharat Electronics and GE Vernova T&amp;amp;D India stand out for their promising target prices surpassing cu</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-and-stock-brokers-shares-drop-6-after-q2-results-whats-spooking-investors/articleshow/134932047.cms" target="_blank" rel="noopener">Anand Rathi Share and Stock Brokers shares drop 6% after Q2 results. What’s spooking investors?</a>
+              <p class='card-summary'>Anand Rathi Share and Stock Brokers shares fell 6% on Wednesday despite a 50% YoY jump in Q2FY27 net profit to Rs 41.94 crore. Investor sentiment was dented by margin compression as operating expenses rose 14% YoY, primarily driven by a 31% increase in employee benefit costs.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-jump-7-after-q2-results-but-morgan-stanley-motilal-oswal-reiterate-bearish-calls/articleshow/134931786.cms" target="_blank" rel="noopener">Tata Elxsi shares jump 7% after Q2 results, but Morgan Stanley, Motilal Oswal reiterate bearish calls</a>
+              <p class='card-summary'>Tata Elxsi Share Price: Tata Elxsi shares rallied up to 7% after the company reported 10% year-on-year profit growth and 15% revenue growth in the September quarter. Morgan Stanley, Motilal Oswal and JM Financial maintained cautious ratings, citing valuations, European automotive weakness and a grad</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/jewellery-stocks-ahead-of-festive-season-can-q2-deliver-sustained-growth-amid-rising-rates-bond-yields/articleshow/134931062.cms" target="_blank" rel="noopener">Jewellery stocks ahead of festive season: Can Q2 deliver sustained growth amid rising rates, bond yields?</a>
+              <p class='card-summary'>Indian jewellery stocks present a mixed picture ahead of the festive season. Despite rising gold prices and macro headwinds, Q2 business updates show robust revenue growth. With the festive calendar shifting demand to Q3, analysts weigh in on valuations, earnings trajectory, and top stock picks for </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms" target="_blank" rel="noopener">D-Street's proxy AI trade shines in a bleak year for stocks</a>
+              <p class='card-summary'>India's Nifty 50 index faces considerable challenges this year, with a significant drop since January. In contrast, stocks linked to artificial intelligence have thrived, attracting investor interest and increased foreign ownership. Companies are investing in the foundational infrastructure for AI, </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-rally-13-market-value-swells-by-rs-11460-crore-amid-muted-market-what-lies-ahead/articleshow/134934298.cms" target="_blank" rel="noopener">IDBI Bank shares rally 13%, market value swells by Rs 11,460 crore amid muted market. What lies ahead?</a>
+              <p class='card-summary'>IDBI Bank shares surged nearly 13%, adding over Rs 11,460 crore to its market capitalisation amid progress in the privatisation process. The bank reported strong Q2FY27 business growth, while JM Financial highlighted loan growth, deposit mobilisation and margin pressures across the banking sector.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/tcs-hcl-tech-infosys-shares-surge-up-to-11-in-2-days-nifty-it-soars-2000-points-more-steam-left-for-rally/articleshow/134933219.cms" target="_blank" rel="noopener">TCS, HCL Tech, Infosys shares surge up to 11% in 2 days; Nifty IT soars 2,000 points. More steam left for rally?</a>
+              <p class='card-summary'>Indian IT stocks rallied as concerns over AI-driven disruption eased, triggering an “anti-AI” trade. The Nifty IT index surged over 2,000 points in two sessions to cross 30,000, its first move above the mark in nearly a month. HCL Tech gained nearly 11% in two days following its Q2 results, while TC</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/a-jigsaw-puzzle-why-reliance-jios-ipo-buzz-isnt-saving-ril-stock-from-a-painful-year/articleshow/134932672.cms" target="_blank" rel="noopener">A Jigsaw Puzzle: Why Reliance Jio's IPO buzz isn’t saving RIL stock from a painful year?</a>
+              <p class='card-summary'>Reliance Industries is gearing up for the highly anticipated Jio Platforms IPO, which is expected to generate significant capital. Despite this, recent declines in RIL shares reveal a cautious mood among investors about potential future gains. Analysts note that although the IPO could establish Jio'</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms" target="_blank" rel="noopener">Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?</a>
+              <p class='card-summary'>This Saturday marks an important day as HDFC Bank, ICICI Bank, Axis Bank, and Yes Bank prepare to disclose their second-quarter earnings. Notably, HDFC Bank recently appointed a new CEO amidst lackluster previous earnings that failed to satisfy investors. Analysts highlight HDFC and ICICI's robust d</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/5-years-no-returns-are-these-9-nifty-bluechip-stocks-finally-ready-for-a-turnaround/articleshow/134931808.cms" target="_blank" rel="noopener">5 years, no returns: Are these 9 Nifty bluechip stocks finally ready for a turnaround?</a>
+              <p class='card-summary'>Investors are witnessing notable losses in well-known blue-chip stocks such as TCS, Infosys, and Hindustan Unilever. These major players are encountering significant hurdles affecting their market position. Analysts believe that lowered expectations may allow for potential recovery if economic condi</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-among-5-stocks-showing-white-marubozu-pattern/slideshow/134931496.cms" target="_blank" rel="noopener">Bandhan Bank among 5 stocks showing White Marubozu pattern</a>
+              <p class='card-summary'>Five Nifty500 stocks that gained over 5% on October 13 featured in StockEdge’s White Marubozu scan, indicating strong buying momentum during the session.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/protec-general-insurance-raises-rs-320-crore-pallonji-divya-sehgal-11791824749247.html" target="_blank" rel="noopener">M Pallonji backed Protec General secures around  ₹300 crore to expand operations</a>
+              <p class='card-summary'>The capital infusion follows Protec’s in-principle regulatory approval. Existing investor Federal Bank also participated as the insurer prepares to expand its operations.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/us-bank-earnings-how-did-jpmorgan-goldman-sachs-citigroup-wells-fargo-perform-in-q3-11791910322861.html" target="_blank" rel="noopener">US bank earnings: How did JPMorgan, Goldman Sachs, Citigroup, Wells Fargo perform in Q3?</a>
+              <p class='card-summary'>The results came after a turbulent quarter marked by the conflict in Iran, elevated oil prices and a global bond-market selloff, which affected dealmaking and trading activity across financial markets</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/80-workforce-locally-hired-wipro-sees-no-material-business-impact-from-us-suspension-of-perm-applications-11791903504114.html" target="_blank" rel="noopener">'80% workforce locally hired': Wipro sees no material business impact from US suspension of PERM applications</a>
+              <p class='card-summary'>The company said the announcement concerns a specific pathway to permanent residency in the US and is distinct from broader skilled talent mobility programmes, such as the H-1B visa.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/godavari-biorefineries-secures-mexican-patent-for-antiviral-research/" target="_blank" rel="noopener">Godavari Biorefineries secures Mexican patent for antiviral research</a>
+              <p class='card-summary'>The patent covers compounds that inhibit V-ATPase and their use in the manufacture of medicaments for treating viral infections The post Godavari Biorefineries secures Mexican patent for antiviral research appeared first on Express Pharma .</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/canara-bank-q2-results-net-profit-rises-over-8-percent-nii-climbs-20-percent-12182969#publisher=newsstand" target="_blank" rel="noopener">Canara Bank Q2 Results: Net Profit Rises Over 8%, NII Climbs 20%; Asset Quality Stable</a>
+              <p class='card-summary'>Canara Bank Q2 results</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/canara-bank-shares-price-today-rise-after-q2-resultsl-net-profit-rises-8-4-percent-yoy-12182984#publisher=newsstand" target="_blank" rel="noopener">Canara Bank Shares Rally 5% After Q2 Results; Net Profit Rises 8.4% YoY</a>
+              <p class='card-summary'>Canara Bank Announces Q2 Results</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQUUcxNFZVdnRKVWxQVS1DbVVSUFc0aEZKSnFUWGNOTTc0MEtaM05hZWhGSGJfZUhIMWZuZzB2VWVnbkNsTklTS1JFMFVRUDgtenBXblI3NEd5VEpMQmJWbmdjOGpQX3JTNldCU28wRThsZjg5LTRpMHIwMUp6RXA1cl8tcmFNTTFwZG5jdENuUjRMeVBtUmZBR2JVdFN4NUxvRDd5Y1hqTjFhSWQ0RnhIMEZDa2tDbWVNSmQ4cWVxRVNnSmVNVHppSi10UmZINFc3S3RBMHNNT2VuV3M5ZlYyVEUydVJzbFJybTV4bjROaWo4Y0k5QVlIUlVSUmNvME5paHZUTEJR?oc=5" target="_blank" rel="noopener">Dr Reddy’s, Torrent Pharma, Zydus Life: Pharma stocks to post resilient growth in Q2 earnings despite pricing headwinds - Upstox</a>
+              <p class='card-summary'>Dr Reddy’s, Torrent Pharma, Zydus Life: Pharma stocks to post resilient growth in Q2 earnings despite pricing headwinds &amp;nbsp;&amp;nbsp; Upstox</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Torrent Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/q2-results-live-updates-bhel-canara-bank-icici-lombard-groww-ceat-among-27-companies-to-announce-earnings-today-12182538#publisher=newsstand" target="_blank" rel="noopener">Q2 Results Live: Canara Bank Zooms 5% As Q2 Profit Jumps over 8% To Rs 5,175 Crore; BHEL, Groww Also In Focus</a>
+              <p class='card-summary'>Q2 Results Live Market Blog</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/jk-cement-shares-in-focus-as-motilal-oswal-remains-bullish-on-capacity-expansion-market-share-gains-check-target-price-12182767#publisher=newsstand" target="_blank" rel="noopener">JK Cement Shares In Focus As MOSL Remains Bullish On Capacity Expansion; Check Target Price</a>
+              <p class='card-summary'>At CMP, JK Cement is currently trading at 17x/15x FY27/FY28E EV/Ebitda.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Deals__M_A___Partnerships">
+          <h2>🤝 Deals, M&A & Partnerships <span class="count">4</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-shares-in-focus-after-firm-acquires-90-stake-worth-809-million-in-tristar-holdings/articleshow/134931031.cms" target="_blank" rel="noopener">Aegis Logistics shares rise 3% after firm acquires 90% stake worth $809 million in Tristar Holdings</a>
+              <p class='card-summary'>Aegis Logistics agreed to acquire an 89.9% stake in Tristar Holdings for $809 million, expanding its global energy logistics operations. The acquisition, subject to regulatory approvals, is expected to close in the fourth quarter of the current fiscal year and broaden Aegis’s geographic reach, servi</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/blackstones-ai-data-center-deals-are-looking-shaky-11791916327997.html" target="_blank" rel="noopener">Blackstone’s AI Data Center Deals Are Looking Shaky</a>
+              <p class='card-summary'>In a capital-intensive industry where money is the weapon that catapults startups to scale and overwhelms rivals, financiers can have a lot of sway.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/citi-and-credendo-close-328-million-deal-to-finance-indigo-s-8-airbus-jets-11791883975762.html" target="_blank" rel="noopener">Citi and Credendo close $328 million deal to finance IndiGo’s 8 Airbus jets</a>
+              <p class='card-summary'>The financing covers six Airbus A321 and two A320. Citi acted as the sole mandated arranger, ECA coordinator and sole lender, while Credendo provided credit insurance.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/biocon-secures-global-settlement-with-genentech-for-pebrilzo-launch/" target="_blank" rel="noopener">Biocon secures global settlement with Genentech for Pebrilzo launch</a>
+              <p class='card-summary'>The agreement sets licensed launch dates for Biocon’s pertuzumab biosimilar in the EU, UK, US and other markets The post Biocon secures global settlement with Genentech for Pebrilzo launch appeared first on Express Pharma .</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Corporate_Actions">
+          <h2>💸 Corporate Actions <span class="count">1</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/polycab-india-shares-fall-6-in-two-sessions-whats-triggering-the-selloff/articleshow/134932913.cms" target="_blank" rel="noopener">Polycab India shares fall 6% in two sessions. What’s triggering the selloff?</a>
+              <p class='card-summary'>Polycab India shares dropped 6% in two sessions after NSE announced its exclusion from the equity derivatives segment effective December 30. The move follows an insolvency petition admitted by NCLT over alleged dues of Rs 2.79 crore, which has since been stayed by NCLAT pending an October 26 hearing</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Operations___Approvals">
+          <h2>🏭 Operations & Approvals <span class="count">11</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/barclays-plans-india-equity-advisory-return-after-a-decade/articleshow/134933265.cms" target="_blank" rel="noopener">Barclays plans India equity advisory return after a decade</a>
+              <p class='card-summary'>Barclays plans to restart its equity capital markets business in India after nearly a decade, targeting the country’s booming IPO market. Strong fundraising demand, robust retail investment flows and startup growth offer opportunities. With hundreds of companies awaiting IPO approvals, the bank aims</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/sunil-mittal-takes-on-elon-musk-says-bharti-is-ahead-of-starlink-ready-to-launch-11791965999570.html" target="_blank" rel="noopener">Sunil Mittal takes on Elon Musk, says Bharti is ahead of Starlink, ready to launch</a>
+              <p class='card-summary'>According to Sunil Bharti Mittal, his company is ahead of Starlink in India’s satellite approval queue, with its network and satellites ready but security clearances still pending.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/zoho-freshworks-ai-impact-on-saas-companies-11791894032225.html" target="_blank" rel="noopener">Zoho’s pay freeze signals broader AI-led pressures for India’s software industry</a>
+              <p class='card-summary'>Zoho’s profitability has come under pressure since FY23, the year OpenAI brought generative AI into the mainstream with the launch of ChatGPT in November 2022. While Zoho’s profitability rose 3% in FY23, its employee costs jumped 49%.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/hyundai-commits-15-5-billion-to-india-eyes-global-export-hub-expansion-11791911499812.html" target="_blank" rel="noopener">Hyundai commits $15.5 billion to India, eyes global export hub expansion</a>
+              <p class='card-summary'>Hyundai Motor Group says it plans to invest $15.5 billion in India by 2032, funding research and development, expanding Hyundai and Kia production capacity, building a vehicle testing facility, and establishing a dedicated investment entity.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/hyundai-motor-group-commits-15-5-billion-to-india-over-seven-years-11791903146604.html" target="_blank" rel="noopener">Hyundai Motor Group commits $15.5 billion to India over seven years</a>
+              <p class='card-summary'>The outlay across Hyundai Motor India and Kia will fund capacity expansion, local supplier networks, and a $700 million R&amp;amp;amp;D boost to help reclaim market share from domestic rivals.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/radisson-hotel-group-recalibrates-india-expansion-eyes-bigger-push-into-metros-and-premium-hotels-11791892086351.html" target="_blank" rel="noopener">Radisson Hotel Group recalibrates India expansion, eyes bigger push into metros and premium hotels</a>
+              <p class='card-summary'>The Jin Jiang-owned hotel group expects 60% of its next 250 properties to be in tier-one and tier-two cities, while expanding franchising to accelerate growth.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/indias-biotech-growth-story-is-now-a-manufacturing-story-g-balaji/" target="_blank" rel="noopener">India’s biotech growth story is now a manufacturing story: G Balaji</a>
+              <p class='card-summary'>As production becomes more complex and highly regulated, digitalisation and automation are emerging as critical enablers. G Balaji, SVP, Energy Industries, ABB India in an exclusive interview with Swati Rana discusses how Pharma 4.0, connected manufacturing and integrated plant infrastructure can he</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmsydlBsMW41bTAwbEY5eUFCb2N0bjB2V3BxSWttRExCWjJfN0dhN0FUSElid1VfTTZWTEVScVJ4Zk0xOG5DRDBNN0RnRG5qc01MRUxUTm9LYjJSX1RPSnZfVzVxRU11YlR3WmhoYlN0SFlmdWVqX0Zxd3ZmUlFxQnNSTlVJUG9OLS1wYzNqbzgtX09lNzNtYVZxRE5IemNPZnF4YUlnOXlyQ09xSVRhaXJzdHpMTUN6VlV1cktuMEFNQdIBxwFBVV95cUxPWC1jT0RCdnQ2Z3NZTWtxZmVZZE0xOFVkaEpHcXprR29BcnFLdlV3WktfT1JoNlV3b2hsOTl5MDc2WXR6UVNVdXI2bXRLbGRtZV8yakdqNjFBMzhVQ3FBWlRwWE95SkMzd0dIVnNRTFdzSFpwa2lTMkV6N0MtaXlFY0RYMzdqQV9hTXhGT3RaZE9OLTVURE5mY3RMZktUYTdhU0ZaQm9kbW1KMGZiWXVycm40NGExaUNaOEFBSDd3LUtSYnpSWk9V?oc=5" target="_blank" rel="noopener">Sun Pharma down 2%, stock hits over 5-month low - Business Standard</a>
+              <p class='card-summary'>Sun Pharma down 2%, stock hits over 5-month low &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Sun Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEhZSUZsY3M1Z01Xa0xXVXhwUWx6NWZYOHhyc3FnaXh3dUo5LXZMN2VnY2F1M1MwOXZjQ0g0SGxWV1RkVUFhUTR0ZWcxOVhhQ0xsYi02MVptYW5ZbVc2MjhMcDQ5SVd3QjBsSEZocHhLMWNkbjN5WVNPZThtRGRpeG9MR2dmRVZOenNISUtTSDY4ekd3Z2VXY2h0NjBtM1lMY2ozSWs5UndvTE4yYmU3Vl95WE9wanN0UTdMWTluTHZwRkNCRnR5dTltNUV6TnpJbTVZ0gHTAUFVX3lxTE94TnpLX1AxMkpyazlScEtkT1dRcmQ1dHRlOVoxT3ZmbzlJc1lFWTlvcE11UWM1Z1VfS3A1cWJ2Q014Qnp3cDZFMnhvT05BT2pBbHNNMTlDTm50VkZKMWdZV0RaUEllT2F4VXBaVkEzR0RUUXNKdFFIbVh0LWZzaERnR2NIS1MxbXZsaW80NXdXY21pX2xTS042RDdualJwa2Q5NWlKSWp3cUNEM3ZkY0xiVlliUDhrVVZvUmhFU01LSGMyWkp3RHU0SmdqWDZVd2JoS28?oc=5" target="_blank" rel="noopener">Biocon tanks 10% on lower-than-expected December quarter results - Business Standard</a>
+              <p class='card-summary'>Biocon tanks 10% on lower-than-expected December quarter results &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Biocon</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/toyota-glanza-facelift-launch-expected-price-mileage-features-design-and-what-to-expect-12182516#publisher=newsstand" target="_blank" rel="noopener">Toyota Glanza Facelift Launch: Expected Price, Mileage, Features, Design And What To Expect</a>
+              <p class='card-summary'>The updated Toyota Glanza is expected to be priced between Rs 7 lakh and Rs 10 lakh.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/adani-power-receives-loa-from-uttarakhand-power-corp-for-1-234-mw-thermal-power-12182716#publisher=newsstand" target="_blank" rel="noopener">Adani Power Receives LoA From Uttarakhand Power Corp For 1,234 MW Thermal Power</a>
+              <p class='card-summary'>The contract award is for ex-bus net supply of 1,234 MW (1,320 MW installed capacity) of thermal power.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Analyst___Brokerage_Calls">
+          <h2>📉 Analyst & Brokerage Calls <span class="count">5</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-muted-a-day-after-sharp-rally-it-stocks-extend-gains-what-lies-ahead-for-dalal-street/articleshow/134933372.cms" target="_blank" rel="noopener">Sensex, Nifty muted a day after sharp rally, IT stocks extend gains. What lies ahead for Dalal Street?</a>
+              <p class='card-summary'>Indian equities traded nearly flat after a sharp rally in the previous session, with IT stocks extending gains while pharma shares declined. Analysts flagged elevated US bond yields and crude oil prices as headwinds, even as short-covering and hopes of tax relief supported sentiment.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/hyundai-motor-tvs-motor-electric-mini-truck-tata-ace-electric-commercial-vehicles-11791898113998.html" target="_blank" rel="noopener">Hyundai, TVS ready electric mini-truck to rival Tata Ace in 2027</a>
+              <p class='card-summary'>The entry will expand TVS’s automotive ambitions beyond two- and three-wheelers, while giving Hyundai a foothold in India’s commercial vehicle market beyond passenger cars.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/from-rs-201-crore-invested-in-2017-to-rs-550-crore-realised-wsib-backed-investor-exits-dasnac-11791902391985.html" target="_blank" rel="noopener">From  ₹201 crore invested in 2017 to  ₹550 crore realised: WSIB-backed investor exits DASNAC</a>
+              <p class='card-summary'>The exit comes in FY26 after generating aggregate cash proceeds of around ₹550 crore in FY26, as per a report. DASNAC is known for Noida projects like The Jewel of Noida and Burj Noida.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/urban-company-considers-fundraise-as-instant-services-battle-heats-up-11791899677905.html" target="_blank" rel="noopener">Urban Company considers fundraise as instant-services battle heats up</a>
+              <p class='card-summary'>The Gurugram-based company’s board will meet on 16 October to evaluate equity dilution routes as rivals Snabbit and Pronto step up pressure in on-demand household help.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/if-you-cant-beat-them-join-them-uday-kotak-backs-china-investment-manufacturing-jvs-in-india-11791888617413.html" target="_blank" rel="noopener">'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India</a>
+              <p class='card-summary'>Speaking at the Bloomberg New Economy Forum 2026 in New Delhi on Tuesday, Kotak said Indian companies partnering with Chinese firms could help expand domestic manufacturing, drawing a parallel with China's earlier strategy of collaborating with American companies.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Industry___Policy_News">
+          <h2>📰 Industry & Policy News <span class="count">11</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-14-oct-2026/liveblog/134930619.cms" target="_blank" rel="noopener">Dr Reddys Share Price Live Updates: Dr. Reddy's Stock Dips Below Key Moving Average</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/br-shetty-seeks-15-bn-from-bank-of-baroda-over-alleged-role-in-nmc-fraud-in-bombay-hc-11791899997263.html" target="_blank" rel="noopener">B.R. Shetty seeks $15 bn from Bank of Baroda, several officials and others over alleged role in NMC fraud</a>
+              <p class='card-summary'>B.R. Shetty has sought $5 billion in direct damages, $5 billion for consequential losses, including lost business opportunities, and another $5 billion for reputational damage.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-hem-securities-sme-stars-others-rally-up-to-7-5-in-september-despite-niftys-6-crash/articleshow/134936130.cms" target="_blank" rel="noopener">PMS Tracker: HEM Securities’ SME stars, others rally up to 7.5% in September despite Nifty’s 6% crash</a>
+              <p class='card-summary'>Despite Nifty and Sensex tumbling over 6% in September, small-cap and SME-focused PMS strategies delivered robust positive returns. Hem Securities' India Rising SME Stars scheme led gains at 7.23%, according to PMS Bazaar data, while broad mid-cap and thematic strategies suffered losses of up to 10.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-drop-3-after-nmc-healthcare-founder-br-shetty-files-15-bn-lawsuit-lender-issues-clarification/articleshow/134933740.cms" target="_blank" rel="noopener">Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification</a>
+              <p class='card-summary'>Bank of Baroda shares fell over 3% to Rs 230.40 on Wednesday following reports that NMC Healthcare founder BR Shetty filed a $15 billion lawsuit against the lender in the Bombay High Court alleging fraud. Bank of Baroda clarified to exchanges that it has not yet been served.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134931230.cms" target="_blank" rel="noopener">RBL Bank among 4 F&amp;amp;O stocks with a sharp rise in futures open interest</a>
+              <p class='card-summary'>Four NSE F&amp;amp;O stocks, including RBL Bank, Ujjivan Small Finance Bank, Tube Investments of India, and Hyundai Motor India, saw a surge of over 10% in futures open interest on October 13, according to StockEdge data. The rise signals fresh position building and increased trader activity in thes</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-14-oct-2026/liveblog/134930918.cms" target="_blank" rel="noopener">Bajaj Finserv Share Price Live Updates: Market Update: Bajaj Finserv</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/rising-costs-put-logistics-firms-under-pressure-this-festive-season-11791875339054.html" target="_blank" rel="noopener">Rising costs put logistics firms under pressure this festive season</a>
+              <p class='card-summary'>With logistics providers revising rates, brands may increasingly rethink discounting, delivery fees and fulfilment strategies as they navigate margin pressures.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/nusynth-to-build-chemical-process-innovation-platform-with-new-capital/" target="_blank" rel="noopener">NuSynth to build chemical process innovation platform with new capital</a>
+              <p class='card-summary'>The company will use the capital to develop its R&amp;#038;D and technology capabilities, proprietary processes, scale-up capabilities and team The post NuSynth to build chemical process innovation platform with new capital appeared first on Express Pharma .</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-10-13</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/irctc-share-price-is-back-at-2020-levels-sales-up-46-but-margins-have-been-squeezed-12182936#publisher=newsstand" target="_blank" rel="noopener">IRCTC Is Back At 2020 Levels: Sales Up 46%, But Margins Have Been Squeezed</a>
+              <p class='card-summary'>A deep dive into IRCTC</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/fusion-cx-ipo-day-1-check-subscription-status-gmp-ipo-details-and-more-12182871#publisher=newsstand" target="_blank" rel="noopener">Fusion CX IPO Subscribed 12% on Day 1 So Far; Retail Portion Booked 52%</a>
+              <p class='card-summary'>Picture used for representational purpose only.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/dinshaw-irani-on-ai-concerns-it-stock-today-rally-is-more-of-a-relief-rally-bse-nifty-50-sensex-today-12182807#publisher=newsstand" target="_blank" rel="noopener">IT Stock Gains Are More Of A Relief Rally, Says Dinshaw Irani Of Helios Capital Amid AI Concerns</a>
+              <p class='card-summary'>Dinshaw Irani Of Helios Capital</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-10-14</span>
+              </div>
+            </div></div>
+        </div>
+</div>
+<footer>
+  Auto-generated by india-pharma-digest &nbsp;·&nbsp;
+  2026-10-14 09:14 UTC &nbsp;·&nbsp;
+  Data: Yahoo Finance, BSE, NSE, Economic Times, Moneycontrol
+</footer>
+<script>
+  function showTab(id) {
+    document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    var el  = document.getElementById(id);
+    var btn = document.getElementById('btn-' + id);
+    if (el)  el.style.display  = 'block';
+    if (btn) btn.classList.add('active');
+    // Scroll tab button into view
+    if (btn) btn.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  }
+  document.addEventListener('DOMContentLoaded', function() { showTab('tab_stocks'); });
+</script>
+</body>
+</html>
