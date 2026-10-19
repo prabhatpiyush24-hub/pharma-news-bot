@@ -1,11 +1,31 @@
 # 🏥 India Pharma Investor Digest — 2026-10-19
 
-> 70 items · 2026-10-19 09:33 UTC
+> 71 items · 2026-10-19 18:19 UTC
 
-## 💰 Results & Financials (36)
+## 💰 Results & Financials (35)
 
 ### [UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%](https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms)
 UltraTech Cement Q2 Results: The cement maker reported a 21% year-on-year rise in consolidated net profit to Rs 1,494 crore in Q2 FY27, while revenue grew 19% to Rs 23,295 crore. However, profit fell 43% sequentially amid monsoon-related disruptions and the West Asia crisis, with margins also declining from the previous quarter.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### [Ireda net profit grows to Rs 554 cr in Sep qtr](https://economictimes.indiatimes.com/markets/stocks/earnings/ireda-net-profit-grows-to-rs-554-cr-in-sep-qtr/articleshow/135051929.cms)
+Ireda has announced a net profit of Rs 554 crore for the September quarter of FY27, reflecting a robust financial performance. Revenue from operations increased by 14%, totaling Rs 2,345 crore. Additionally, loan disbursements surged by 31%, reaching Rs 10,579 crore. This quarter also marked an 11% rise in net worth, showcasing Ireda's strength in renewable energy financing and management of asset quality.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### [Bajaj Finance Q2 consolidated net profit rises 29% to Rs 6,367 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-consolidated-net-profit-rises-29-to-rs-6367-crore/articleshow/135051459.cms)
+Bajaj Finance expects AUM to grow 26-27% in FY27 as it accelerates customer acquisition and loan disbursements. The lender plans to book 60-62 million new loans and add 18-20 million customers during the year. Consolidated AUM grew 26% to Rs 5.85 lakh crore in the September quarter, aided by broad-based loan growth. The gold-loan portfolio more than doubled to Rs 24,195 crore, although short-tenor schemes caused a transitional increase in Stage 2 assets. Management does not expect this movement 
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### [Waaree Renewable Technologies Q2 Results: Net profit falls 29% to Rs 81 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-renewable-technologies-q2-results-net-profit-falls-29-to-rs-81-crore/articleshow/135051423.cms)
+Waaree Renewable Technologies experienced a notable 29 percent drop in net profit for the quarter ending September. Their consolidated profit stood at Rs 81.48 crore, a decrease from Rs 116.36 crore year-on-year. While expenses surged, revenues rose to Rs 1,057.84 crore. The company boasts an unexecuted order book over Rs 5,500 crore and a robust bidding pipeline, striving for long-term value through efficiencies and scaling.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### [Hindustan Zinc Q2 Results: Net profit skyrockets 142% YoY to Rs 6,412 crore, revenue soars 77%](https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q2-results-net-profit-skyrockets-142-yoy-to-rs-6412-crore-revenue-soars-77/articleshow/135047098.cms)
+Hindustan Zinc reported a 142% year-on-year rise in Q2 FY27 net profit to Rs 6,412 crore, while revenue surged 76.5% to Rs 15,093 crore. EBITDA doubled to Rs 9,285 crore, with margins expanding to 62% on higher prices and production.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
@@ -24,10 +44,20 @@ IDBI Bank reported a 39% YoY decline in Q2 FY27 net profit, partly due to a one-
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
+### [Piramal Finance Q2 net profit soars 67% to Rs 545 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/piramal-finance-q2-net-profit-soars-67-to-rs-545-crore/articleshow/135050351.cms)
+Piramal Finance’s assets under management grew 24% to Rs 1.13 lakh crore, led by a 30% rise in retail AUM. Net interest income increased 35%, while its net interest margin expanded 35 basis points to 6.5%.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
 ### [StayVista looks to acquire other businesses, expand into resorts and events](https://www.livemint.com/companies/news/stayvista-acquisitions-expansion-resorts-events-weddings-11792327318349.html)
 Holiday-home operator StayVista is seeking to boost property use and revenue by managing resorts, offering rooms individually and hosting events.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-10-19
+
+### [Bajaj Finance Q2 Results: Net profit jumps 29% YoY to Rs 6,367 crore, NII up 24%](https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-results-net-profit-jumps-29-yoy-to-rs-6367-crore-nii-up-24/articleshow/135048431.cms)
+Bajaj Finance Q2 Results: Bajaj Finance reported a 29% year-on-year increase in net profit to Rs 6,367 crore in the September quarter, compared with Rs 4,948 crore a year earlier. Net interest income rose 24% to Rs 13,335 crore from Rs 10,785 crore in the year-ago quarter. Net total income increased 23% to Rs 15,974 crore from Rs 12,982 crore.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
 
 ### [PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices](https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-8-after-q2-results-beat-estimates-jefferies-motilal-oswal-others-raise-target-prices/articleshow/135040821.cms)
 Punjab National Bank shares rose sharply on Monday after the lender reported a 13% year-on-year rise in Q2FY27 net profit to Rs 5,532 crore. Stronger net interest income and improving asset quality prompted bullish brokerage calls, with Jefferies, Motilal Oswal and JM Financial setting target prices of Rs 140 apiece.
@@ -79,11 +109,6 @@ The bulk of the fresh funding financed the cash-and-stock deal as the catering s
 
 **Source:** Mint - Pharma  **Date:** 2026-10-19
 
-### [PNB CEO Ashok Chandra sees profit momentum continuing after strong Q2, eyes  ₹6,000 crore quarterly profit milestone](https://www.livemint.com/companies/news/pnb-ceo-ashok-chandra-sees-profit-momentum-continuing-after-strong-q2-eyes-6-000-crore-quarterly-profit-milestone-11792328382796.html)
-The bank has maintained consistency in operating profit, net profit and other key parameters over the past four quarters, and expects the trend to continue, Chandra said.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-18
-
 ### [How to trade Tech Mahindra shares after 22% rally in 4 days? Technical expert weighs in](https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-tech-mahindra-shares-after-22-rally-in-4-days-technical-expert-weighs-in/articleshow/135041900.cms)
 Tech Mahindra shares fell 2.1% after a sharp post-results rally, as investors booked profits. Brokerages remain divided, with Nuvama projecting 25% earnings growth over two years, while Nomura maintains a Neutral rating amid a focus on future growth and margins.
 
@@ -114,23 +139,13 @@ A slideshow exploring four NSE F&amp;O stocks that witnessed a sharp increase in
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
-### [Wipro among 4 stocks showing White Marubozu pattern](https://economictimes.indiatimes.com/markets/stocks/news/wipro-among-4-stocks-showing-white-marubozu-pattern/slideshow/135038438.cms)
-Wipro, Authum Investment &amp; Infrastructure, KPIT Technologies and HFCL featured in StockEdge’s White Marubozu scan on October 16, reflecting strong upward price momentum.
+### [Jaiprakash Power Q2 Results: Net Profit Slips 81% To Rs 33 Crore On One-Time Loss, Revenue Up 5% YoY](https://www.ndtvprofit.com/markets/jaiprakash-power-q2-results-net-profit-slips-81-to-rs-33-crore-on-one-time-loss-revenue-up-5-yoy-12207715#publisher=newsstand)
+Revenue from operations increased 5.1% year-on-year to Rs 1,512.12 crore from Rs 1,438.30 crore. Total income rose to Rs 1,579.34 crore from Rs 1,478.49 crore.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-19
+**Source:** NDTV Profit  **Date:** 2026-10-19
 
-### [Tata Trusts’  ₹1,556 crore spending in FY26: Rural development, education and cancer care lead](https://www.livemint.com/companies/news/tata-trusts-1-556-crore-spending-in-fy26-rural-development-education-and-cancer-care-lead-11792336033498.html)
-Tata Trusts disbursed ₹1,556.31 crore in the year to March 2026, with rural development receiving the largest share. Chairman Noel Tata said the group is working toward a network of 40 to 50 not-for-profit general hospitals, where paying patients would help fund care for those unable to afford it.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-18
-
-### [Sumitomo-backed Yes Bank faces up to  ₹5,200 crore earnings hit as SC upholds squashing of its AT-1 bonds write-off](https://www.livemint.com/companies/news/sumitomobacked-yes-bank-faces-up-to-5-200-crore-earnings-hit-as-sc-upholds-squashing-of-its-at-1-bonds-writeoff-11792316431134.html)
-The Supreme Court overturned Yes Bank’s 2020 write-off of ₹8,415 crore in AT-1 bonds. The bank says that it would have reported a net loss of ₹5,217 crore in the September quarter had it recognised the impact. Details here.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-18
-
-### [Lloyds Engineering Shares Rise 94% in Six Months: Can Defence Drive The Next Leg?](https://www.ndtvprofit.com/business/lloyds-engineering-shares-rise-94-in-six-months-can-defence-drive-the-next-leg-12205451#publisher=newsstand)
-The company is targeting annual revenue of more than Rs 10,000 crore by FY30, backed by acquisitions, defence partnerships and an order backlog of up to Rs 9,500 crore. But successful integration, margin expansion and lower dependence on group orders will be key to sustaining growth.
+### [Tata Consumer Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More](https://www.ndtvprofit.com/markets/tata-consumer-q2-results-date-time-dividend-news-earnings-call-schedule-and-more-12207621#publisher=newsstand)
+Tata Consumer Products has not disclosed a new dividend proposal.
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
 
@@ -149,83 +164,63 @@ Dr Villoo Morawala Patell, founder of Avesthagen and Avestagenome Project Intern
 
 **Source:** Express Pharma  **Date:** 2026-10-19
 
-### [HFCL Q2 Results: Profit Jumps Over Fivefold To Rs 363 Crore](https://www.ndtvprofit.com/markets/hfcl-q2-results-profit-jumps-over-fivefold-to-rs-363-crore-12205116#publisher=newsstand)
-HFCL's consolidated revenue rises to Rs 2,542 crore in the September quarter as Ebitda margin expands to 24.8%
+### [Delta Corp Q2 Results: Casino Firm Swings To Net Loss On One-Time Exceptional Hit, Revenue Slips 13%](https://www.ndtvprofit.com/markets/delta-corp-q2-results-casino-firm-swings-to-net-loss-on-one-time-exceptional-hit-revenue-slips-13-12207948#publisher=newsstand)
+Delta Corp's EBITDA fell 28.8% to Rs 28.4 crore.
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
 
-### [Union Bank Of India Q2 Results: Profit Rises 30% On Falling Provisions, Asset Quality Improves](https://www.ndtvprofit.com/markets/union-bank-of-india-q2-results-profit-rises-30-asset-quality-improves-12205171#publisher=newsstand)
-Union Bank Of India Q2 Results: Net interest income increases 20% year-on-year, while gross and net non-performing asset ratios improve sequentially in the September quarter.
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Q2 Results Live: Bhansali Engineering Profit Jumps 47%, Union Bank Profit Zooms 30%](https://www.ndtvprofit.com/markets/q2-results-live-updates-bajaj-finance-hfcl-hindustan-zinc-ultratech-cement-union-bank-35-companies-to-announce-earnings-today-12204899#publisher=newsstand)
+### [Q2 Results Update: Ireda Profit Flat At Rs 549 Crore; Waaree Renewable Profit Dips 37%, Bajaj Finance NII Rises 24%](https://www.ndtvprofit.com/markets/q2-results-live-updates-bajaj-finance-hfcl-hindustan-zinc-ultratech-cement-union-bank-35-companies-to-announce-earnings-today-12204899#publisher=newsstand)
 Q2 Results Live Market Blog
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
 
-### [HDFC Bank Q2 Review: Five Brokerages Stay Bullish, Sees Up To 37% Upside; Check Target Prices](https://www.ndtvprofit.com/markets/hdfc-bank-q2-review-five-brokerages-stay-bullish-sees-up-to-37-percent-upside-check-target-prices-12205079#publisher=newsstand)
-All five brokerages, Nirmal Bang, IDBI Capital, Anand Rathi, ICICI Securities and Systematix remain bullish on HDFC Bank after its Q2 FY27 results.
+### [Jailer 2 Box Office Collection Day 5: Rajinikanth Starrer Continues To Rule The Big Screen, Check Earnings](https://www.ndtvprofit.com/business/jailer-2-box-office-collection-day-5-rajinikanth-starrer-continues-to-rule-the-big-screen-check-earnings-12207185#publisher=newsstand)
+Rajinikanth-starrer Jailer 2 has been released in Tamil, Hindi, Telugu and Kannada.
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Drishyam 3 Box Office Collection Day 17: Ajay Devgn Film Sees Jump On Weekend; Check Total Earnings](https://www.ndtvprofit.com/entertainment/drishyam-3-box-office-collection-day-17-ajay-devgn-film-sees-jump-on-weekend-check-total-earnings-12204754#publisher=newsstand)
-With worldwide collections at Rs 538.15 crore, the film is now within reach of the Rs 550 crore mark.
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Axis Bank Q2 Review: ICICI Securities Sees Up To 26% Upside; Check Other Brokerages Target Prices, Ratings](https://www.ndtvprofit.com/markets/axis-bank-q2-results-review-icici-securities-sees-26-percent-upside-check-what-other-brokerages-say-12204982#publisher=newsstand)
-The three brokerages remain positive on Axis Bank despite pressure on margins and operating expenses during the September quarter.
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players - The Economic Times](https://news.google.com/rss/articles/CBMiigJBVV95cUxPOTdhdmVEVjlvTEZLVlAxcTN4WTRIODZQbG84NG5Jdm03NFMzQzF2MjhUcEtIVjFGc0Q1Ni1mMDBwc3hFWlY3cEZtUk1maE9kZ3FpVjV4TkxIWm56WTdvV3daNTJmRUZJMjZJTjhaYUd1NEFoY2pkZGIxUzhDdGVpQW9IN2syVXcteFpBdmw0U0oyQlN0RnQ5eE9FTWlobTh1Vng0MTc5VGVLa1dHQ1hMOS0yUDhZTlVzMjdQLVRfeUpzZ1Y2dW04eWRjRUEzM3FsRlNZRjg0Q1V5SW1ZWG9ucmdTeGhuWnpGaVFGTnZWak1nMmJTVXdXZWFqelJOY2docDU2UC03NUkyQdIBjwJBVV95cUxOSmc1U2xCbms0ejVlYmNmR3pMR2RnNVJYcXJXVTFveTZGMFpzbmZWZndFcjZCdU1mWjVqWWRxQmV2ZHF2ZkQwVmFSOGpRMFlPWUxpeEpxYlEtMEotMXJEVXo0VHIxMUN0cVdIckhUak1tRDdQbXE4Q0FNOFVZMEd4WFpiaV91cDJIeWdPYjctM294TDJSNTdGS0hoU0hpOW9KR2I4YnNQV3ZaUUF0X2VPM04wZnhCUXh5UTJMR2tLdEI2X0dvS19Dek9sRndnMXhQNGJHeThUWk1JNGVIdFd6VFJfcnlDZHRwSzBZU3J1amhwdHdCQWcxZVZmekxGYXNRVDVqVEFHU3R0VmdXOXlr?oc=5)
-Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players &nbsp;&nbsp; The Economic Times
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-10-19
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (5)
+
+### [Muhurat Trading 2026: BSE, NSE announce date and timings of special session. Check details](https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms)
+BSE and NSE has announced the schedule for Diwali Muhurat Trading 2026, set for Sunday, November 8, on the occasion of Laxmi Pujan. The special session will run from 2:20 pm to 3:30 pm, with separate timings for pre-open trading, block deals, IPOs, call auctions and closing procedures.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### [Aegis Logistics in talks with BNP Paribas, HSBC, JPMorgan to raise $600 million for Tristar deal](https://www.livemint.com/companies/news/aegis-logistics-in-talks-with-bnp-paribas-hsbc-jpmorgan-to-raise-600-million-for-tristar-deal-11792412782726.html)
+Aegis Logistics Ltd. is in talks with banks including BNP Paribas SA, HSBC Holdings Plc and JPMorgan Chase &amp; Co. about raising funds for its acquisition of Dubai-based Tristar Holdings Ltd., people familiar with the matter said.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-19
+
+### [Who earned  ₹1 cr per annum salary while many got layoffs? These job professionals got pay package in 8 figures amount](https://www.livemint.com/companies/who-earned-rs-1-cr-per-annum-salary-while-many-got-layoffs-these-job-professionals-got-pay-package-in-8-figures-amount-11792424674850.html)
+The report identifies four major areas where specialised skills are attracting higher pay: AI, data, cloud computing and cybersecurity.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-19
 
 ### [Delhi HC imposes fine of  ₹1 on Niva Bupa Health Insurance: What’s the case? Why the amount? Explained](https://www.livemint.com/companies/news/delhi-hc-imposes-fine-of-1-on-niva-bupa-health-insurance-what-s-the-case-why-the-amount-explained-11792397019183.html)
 Niva Bupa Health Insurance must pay Re 1 after the Delhi High Court found it had misused the court’s specialised IP jurisdiction in a lawsuit against influencer Vishal Rattewal.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-10-19
 
-### [Federal Bank Shares Jump 4% After Acquisition Comments, Jana SFB Falls Nearly 10%](https://www.ndtvprofit.com/markets/federal-bank-to-explore-acquisitions-but-no-active-talks-under-way-says-executive-director-venkataraman-v-12205364#publisher=newsstand)
-Federal Bank shares rose 3.59% after Executive Director Venkataraman V told NDTV Profit the lender was not in active acquisition talks, while Jana Small Finance Bank fell 9.77%
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Federal Bank Has No Active Inorganic Acquisition Talks, Eyes High-Teens Growth](https://www.ndtvprofit.com/markets/federal-bank-ed-venkatraman-v-explore-inorganic-opportunities-eyes-high-teens-growth-if-business-improves-q2-earnings-sensex-today-12205064#publisher=newsstand)
-Federal Bank In Focus
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [US 'Very Close' To Finalising Trade Deal With India, Says Rubio Days After Trump Waives Russia Oil Tariffs](https://www.ndtvprofit.com/economy/us-very-close-to-finalising-trade-deal-with-india-says-rubio-days-after-trump-waives-russia-oil-tariffs-12204994#publisher=newsstand)
-File image of US Secretary of State Marco Rubio
+### [Inside Musk's $10.5B Payout: How Many SpaceX Shares Does He Own And How Deep It Cuts Into His Holding?](https://www.ndtvprofit.com/business/inside-musks-10-5b-payout-how-many-spacex-shares-does-he-own-and-how-deep-it-cuts-into-his-holding-12207664#publisher=newsstand)
+Giving each child one share at $146.03 would therefore amount to approximately $10.51 billion in stock.
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
 
 ---
 
-## 🏭 Operations & Approvals (6)
+## 🏭 Operations & Approvals (5)
+
+### [DP World ties next $2 billion India investment to demand, capacity constraints](https://www.livemint.com/companies/dp-world-to-deploy-remaining-2-billion-in-india-company-to-expand-ports-rail-and-logistics-capacity-11792401139077.html)
+The Dubai-based company has already invested $3 billion in India, with the balance $2 billion earmarked for expanding existing operations, including port terminals, inland container depots, warehousing and logistics facilities.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-10-19
 
 ### [Ahead of IPO, AI firm Anthropic announces a new ‘public benefit fund’ to commit 5% of its stocks: What we know](https://www.livemint.com/companies/news/ahead-of-ipo-ai-firm-anthropic-announces-a-new-public-benefit-fund-to-commit-5-of-its-stocks-what-we-know-11792372858462.html)
 Anthropic plans to commit 5% of its shares to a public benefit fund, subject to stockholder approval, with scope to expand the stake as its value grows. Elon Musk suggested giving shares directly to the public. The announcement comes ahead of the AI firm’s IPO, reportedly scheduled for November.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-19
-
-### [Airtel launches voice-only plans at  ₹185,  ₹203 and  ₹206 after TRAI's mandate: What each plan offers](https://www.livemint.com/companies/news/airtel-launches-voice-only-plans-at-185-203-and-206-after-trais-mandate-what-each-plan-offers-11792338781359.html)
-The plans are aimed at subscribers who primarily use their phones for calling and messaging rather than mobile internet.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-18
-
-### [Vedanta doubles South Africa zinc production capacity to 500,000 tonnes with $600 million investment](https://www.livemint.com/companies/news/vedanta-doubles-south-africa-zinc-production-capacity-to-500-000-tonnes-with-600-million-investment-11792329756823.html)
-Vedanta has doubled its annual zinc production capacity in South Africa to 500,000 tonnes after investing nearly $600 million in the Gamsberg mine expansion. The project supports its target of producing 3 million tonnes of zinc annually across India and South Africa.
-
-**Source:** Mint - Pharma  **Date:** 2026-10-18
 
 ### [Alembic Pharma gets USFDA nod for Ciprofloxacin and Dexamethasone Otic Suspension USP, 0.3% / 0.1%](https://www.expresspharma.in/alembic-pharma-gets-usfda-nod-for-ciprofloxacin-and-dexamethasone-otic-suspension-usp-0-3-0-1/)
 According to IQVIA, the estimated market size for Ciprofloxacin and Dexamethasone Otic Suspension USP, 0.3% / 0.1%, was $110 million for twelve months ending June 2026 The post Alembic Pharma gets USFDA nod for Ciprofloxacin and Dexamethasone Otic Suspension USP, 0.3% / 0.1% appeared first on Express Pharma .
@@ -244,15 +239,20 @@ Goa Pharma Summit &#124; 30th September 2026 &#124; Panjim The post Panel Discus
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (7)
 
-### [HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-one-has-the-growth-the-other-has-the-valuation-edge-which-stock-to-buy/articleshow/135042271.cms)
-ICICI Bank has outperformed HDFC Bank in 2026, supported by stronger loan growth, deposits and profitability. While ICICI commands a valuation premium, HDFC’s 28% stock decline has created a potential recovery opportunity. Brokerages see scope for HDFC’s margins to improve, but narrowing the growth and funding gap remains key.
+### [Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026](https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms)
+Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Management’s Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
-### [Stock Market Down: Bulls lose ground! Sensex sinks over 1,000 points, Nifty slips below 22,900; 5 key triggers behind selloff](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms)
-Why is Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. Nevertheless, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.
+### [HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-one-has-the-growth-the-other-has-the-valuation-edge-which-stock-to-buy/articleshow/135042271.cms)
+ICICI Bank has outperformed HDFC Bank in 2026, supported by stronger deposits, loan growth and profitability. While ICICI commands a valuation premium, HDFC’s 28% stock decline has created a potential recovery opportunity. Brokerages see scope for HDFC’s margins to improve, but narrowing the growth and funding gap remains key.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### [Stock Market Down: Bulls lose ground! Sensex sinks nearly 900 points, Nifty ends below 22,900; 5 key triggers behind Rs 5 lakh crore selloff](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms)
+Why is Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. However, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
@@ -261,44 +261,31 @@ Foreign institutional investors have dramatically pulled back from Indian equiti
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
-### [Manasum Senior Living buys 164 units in Signature Global's Gurugram project](https://www.livemint.com/companies/manasum-senior-living-buys-164-units-in-signature-globals-gurugram-project-11792148393570.html)
-Each apartment in Varishtha will cost around ₹3.7 crore for the final buyer, and come with concierge, housekeeping, 24/7 healthcare support, an ambulance on standby and community engagement activities.
+### [Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-hdfc-bank-laurus-labs-bel-havells-india-cummins-india-and-hindustan-copper-ask-profit-12207928#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-18
+**Source:** NDTV Profit  **Date:** 2026-10-19
 
 ### [Sun Pharma sets October 30 results: 27 of 31 rate Sun Pharma stock Buy - ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFhsN2FoclhucjV5WmoxRWVpTUM3Mm5NRXVsZmF0NzRQSjIwYmF4ODZva1UzZ1huQktuVDhoekw5QXltRVlOLW9HREEybXdIb2I0anFhRkF2OFRwZWNKeGgwTUdKYmdJUEF5RkEtZ2JoUXZyQ3d1dDd6MnRPb2ZBVUtSNTR4eWY4QzMyUVpwQWdxS2xvVXJDSm8tNUo5NXBCLXA4TXJXYkJoVGhXVGdvbXJna2NnRVFqRFFqdXBaMTM3WkxFeVdhMGxybmw?oc=5)
 Sun Pharma sets October 30 results: 27 of 31 rate Sun Pharma stock Buy &nbsp;&nbsp; ad-hoc-news.de
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-10-19
 
-### [Three Reasons Why Markets Are Falling Today: Sensex Slumps 700 Points, Nifty Cracks Below 23,000](https://www.ndtvprofit.com/markets/three-reasons-why-markets-are-falling-today-sensex-slumps-700-points-nifty-cracks-below-23-000-12205257#publisher=newsstand)
-The selling was milder in the broader market. At 12:34 pm, the Nifty Midcap 100 was at 58,778.3, down 351.45 points or 0.59%.
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Mahindra XUV 3XO ZNG Bookings Open On Tuesday: 5 Things Car Buyers Must Know](https://www.ndtvprofit.com/lifestyle/mahindra-xuv-3xo-zng-bookings-open-on-tuesday-5-things-car-buyers-must-know-12205107#publisher=newsstand)
-The XUV 3XO ZNG offers a certified fuel efficiency of 24.7 km/kg.
-
-**Source:** NDTV Profit  **Date:** 2026-10-19
-
-### [Investing In US Stocks Through Zerodha? Charges, Tax Rules And LRS Limits Explained](https://www.ndtvprofit.com/personal-finance/investing-in-us-stocks-through-zerodha-charges-tax-rules-and-lrs-limits-explained-12205187#publisher=newsstand)
-From brokerage fees and forex costs to TCS, LRS limits and tax filings, here's what investors need to know before buying US stocks.
+### [Gold Tops Rs 1.5 Lakh Ahead Of Dusshera: Will Diwali Spark Another Rally For The Precious Metal?](https://www.ndtvprofit.com/markets/gold-tops-rs-1-5-lakh-ahead-of-dusshera-will-diwali-spark-another-rally-for-the-precious-metal-12207791#publisher=newsstand)
+Buyers are watching for further price movements before Diwali.
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
 
 ---
 
-## 📰 Industry & Policy News (16)
+## 📰 Industry & Policy News (19)
 
 ### [PC Jeweller shares soar 26% in just two sessions. Here’s what’s triggering the sharp surge](https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-soar-26-in-just-two-sessions-heres-whats-triggering-the-sharp-surge/articleshow/135040565.cms)
 PC Jeweller shares rallied 26% in two sessions after Cupid promoter Aditya Kumar Halwasiya bought 5.10 crore shares worth Rs 73.60 crore. The jewellery maker recently repaid its dues to 14 consortium banks, achieving debt-free status ahead of schedule.
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-19-oct-2026/liveblog/135038472.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-10-19
-
-### [Divis Labs Share Price Live Updates: Divis Labs Market Performance Snapshot](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-19-oct-2026/liveblog/135038308.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-19-oct-2026/liveblog/135038472.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
 ### [Who is Amal Kelshikar? Why did he resign from the position of Torrent Pharmaceuticals' Executive Director? Explained](https://www.livemint.com/companies/people/who-is-amal-kelshikar-why-did-he-resign-from-the-position-of-torrent-pharmaceuticals-executive-director-explained-11792346219762.html)
@@ -311,6 +298,11 @@ Industry associations like IPA and OPPI welcomes the move; but highlight the nee
 
 **Source:** Express Pharma  **Date:** 2026-10-19
 
+### [PC Jeweller among 8 stocks that hit 52-week high and rallied up to 42% in a month](https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-among-8-stocks-that-hit-52-week-high-and-rallied-up-to-42-in-a-month/slideshow/135050343.cms)
+The Sensex plunged 876 points to close at 73,852, even as eight BSE 1000 stocks touched fresh 52-week highs. PC Jeweller led monthly gains at 42%, followed by Sky Gold and Diamonds at 31%, highlighting divergent stock performance.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-19
+
 ### [Easy exits hurting Indian stocks: Nirmala Sitharaman explains why equities are underperforming](https://economictimes.indiatimes.com/markets/stocks/news/easy-exits-hurting-indian-stocks-nirmala-sitharaman-explains-why-equities-are-underperforming/articleshow/135040491.cms)
 Finance Minister Nirmala Sitharaman says easy liquidity is allowing investors to exit Indian equities as the Nifty and Sensex struggle to deliver positive returns. Foreign investors have pulled out nearly $63.6 billion since October 2024, erasing nine years of inflows, amid rising US yields, a stronger dollar and AI-driven investment shifts.
 
@@ -321,8 +313,18 @@ The NSE and BSE will remain closed on October 20 for Dussehra. With 12 of the 16
 
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Trading Price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-19-oct-2026/liveblog/135039057.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-19-oct-2026/liveblog/135039057.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-10-19
+
+### ['Indian startup ecosystem is on steroids' - Anand Mahindra shares what excites him most, says my salute to them](https://www.livemint.com/companies/start-ups/indian-startup-ecosystem-is-on-steroids-anand-mahindra-shares-what-excites-him-most-says-my-salute-to-them-11792424404226.html)
+Anand Mahindra praised India’s startup ecosystem, highlighting companies including Ethereal Machines, Pranos Fusion Energy and Scimplify. He said young entrepreneurs are developing advanced manufacturing, fusion and chemical technologies that could help India leapfrog stages of development.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-19
+
+### [Tata Trusts files response to Venu Srinivasan, Vijay Singh's complaints before Maharashtra Charity Commissioner](https://www.livemint.com/companies/news/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-before-maharashtra-charity-commissioner-11792421180847.html)
+Srinivasan and Singh lodged their complaints on September 25, seeking an inquiry into the trust's administration and governance, including its role in the commercial affairs of Tata Sons.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-19
 
 ### [TVS Capital eyes six deeptech, manufacturing bets in Fund IV](https://www.livemint.com/companies/news/tvs-capital-rdi-fund-deeptech-manufacturing-investments-11792297433492.html)
 TVS Capital plans at least six investments across deeptech and manufacturing through its latest fund, while prioritising proprietary IP and cautioning against stretched AI valuations.
@@ -339,11 +341,6 @@ Delhi government has approved the Go-Delhi Foundation with a ₹50 crore corpus 
 
 **Source:** Mint - Pharma  **Date:** 2026-10-19
 
-### [Indian Bank raises FY27 growth guidance, plans 100 branches; CEO sees recoveries exceeding target](https://www.livemint.com/companies/indian-bank-raises-fy27-growth-guidance-plans-100-branches-ceo-sees-recoveries-exceeding-target-11792303881199.html)
-Indian Bank has raised its FY27 growth guidance after reporting strong loan and deposit growth, improving asset quality and robust profitability, managing director and chief executive officer Binod Kumar said.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-10-18
-
 ### [The growing role of OTC medicines in preventive healthcare and self-care](https://www.expresspharma.in/the-growing-role-of-otc-medicines-in-preventive-healthcare-and-self-care/)
 Sushmita Kuswa, Head – Medical and Regulatory Affairs, Piramal Consumer Healthcare, looks at how responsible self-medication can empower consumers and bring about a paradigm shift toward health ownership, while supporting India’s healthcare system The post The growing role of OTC medicines in preventive healthcare and self-care appeared first on Express Pharma .
 
@@ -354,13 +351,23 @@ Goa Pharma Summit &#124; 30th September 2026 &#124; Panjim The post Dr Praveen K
 
 **Source:** Express Pharma  **Date:** 2026-10-19
 
-### [Torrent accepts Kelshikar resignation: October 23 call for Torrent Pharmaceuticals stock - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk15UGpTRjVmbW8wcE90djJ2QjBzcDd6T0ZNTzNlRTJPSEpleHVFeGlHUS1IRUxfei1BRlRFd2wyeWRUTVgxazNiWi1uWks5T0t4dzJVN2FDVGRSN1UtRVBzSU9sRG56UE16RlM3LWtVS0R1c3dTVlNSWEN3d0lmMmhKN1hqcmZMOFVlUlE4MGwxazRONkNteWJKYzY5MFpSUHFRd292cndQMXpXQ1ZYcURQbFN0RTgzTUtQUFZqUjkzUQ?oc=5)
+### [Torrent accepts Kelshikar resignation: October 23 call for Torrent Pharmaceuticals stock - ad-hoc-news.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxObXNUYy1LZi1WbnZBTThXOHBjTkpsY0FUbW1aaDBENkpXS2RNV2ZVYmR5WnQ3N2lOY3BKSjVWcDVMNmtqWnFmRGxDbVpjR2gwazFLVlcyWlFfNG9oc1J4aVBLZllOYUpKcW4wWXBQN3h4MFJBNV9JbVJ5WXRkODlEbWpYR0t5TERHdUxiWkcyTWJKVjFSYVdLeFdpU0ZnZVJuUzkwREJmODlrSkc1Z3VzdEhuSzMxLXhSNGNHbHJOQnpDUlRBTDhyb1lKZXhkNHY1cjh0Q042OVRvT0k2MVJV?oc=5)
 Torrent accepts Kelshikar resignation: October 23 call for Torrent Pharmaceuticals stock &nbsp;&nbsp; ad-hoc-news.de
 
 **Source:** GNews - Torrent Pharma  **Date:** 2026-10-18
 
-### [PC Jeweller Shares Rally 14%, Extend 5-Day Surge To 28%: What's Fueling The Run-Up?](https://www.ndtvprofit.com/markets/pc-jeweller-share-price-jumps-over-14-percent-today-stock-surges-over-28-percent-in-last-five-days-whats-behind-the-rally-12205123#publisher=newsstand)
-PC Jeweller shares rally
+### [The Liquidity Paradox: Why FM Sitharaman Says Deep Cash Pools Accelerate Stock Exits](https://www.ndtvprofit.com/economy/domestic-liquidity-cushions-indian-market-as-foreign-funds-tap-easy-exits-fm-sitharaman-12208012#publisher=newsstand)
+In an interview with CNBC on the sidelines of the IMF-World Bank meetings in Bangkok, Finance Minister Nirmala Sitharaman said India's deep equity-market liquidity has made it easier for foreign investors to exit, even as domestic capital continues to support the market.
+
+**Source:** NDTV Profit  **Date:** 2026-10-19
+
+### [Saudi Links, Secret Recordings: What US Court Filing Says About Ex-OpenAI Employee](https://www.ndtvprofit.com/artificial-intelligence/saudi-links-secret-recordings-what-us-court-filing-says-about-ex-openai-employee-12207873#publisher=newsstand)
+The case has raised fresh concerns about corporate security and the protection of sensitive AI research as the investigation into the alleged surveillance continues.
+
+**Source:** NDTV Profit  **Date:** 2026-10-19
+
+### [Tiger Shroff Attack: How A Rapido Rider Allegedly Helped Plan The Shooting](https://www.ndtvprofit.com/india/tiger-shroff-attack-how-a-rapido-rider-allegedly-helped-plan-the-shooting-12207733#publisher=newsstand)
+One of the three accused reportedly worked as a Rapido rider and allegedly conducted reconnaissance of the actor's house before the shooting.
 
 **Source:** NDTV Profit  **Date:** 2026-10-19
 
