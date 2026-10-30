@@ -1,8 +1,13 @@
-# 🏥 India Pharma Investor Digest — 2026-10-29
+# 🏥 India Pharma Investor Digest — 2026-10-30
 
-> 108 items · 2026-10-29 18:01 UTC
+> 112 items · 2026-10-30 10:42 UTC
 
-## 📊 BSE / NSE Filings (26)
+## 📊 BSE / NSE Filings (25)
+
+### [Sun Pharma: Board Meeting Outcome - Conclusion](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec707522-529d-49a5-bc71-3e7f7df28129.pdf)
+Category: Company Update | Sub: General | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-10-30
 
 ### [Biocon: Please find enclosed herewith the Outcome of the Meeting of Board of Directors of the Company held on October 29, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e2e0e76-26b6-42e5-8fa5-338e55de6bbf.pdf)
 Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 532892
@@ -33,30 +38,25 @@ Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-10-29
 
-### [Bandaram Pharma Packtech Ltd: Outcome of Board Meeting held on 29.10.2026](https://www.bseindia.com/corporates/ann.html?scrip=524602)
-BSE Code: 524602
+### [Sun Pharma: Unaudited Financial Results for the quarter and half year ended 30 September 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7bbcaf67-e404-4ffb-b7fd-07ff385fdb0a.pdf)
+Category: Result | Sub: Financial Results | BSE Code: 524715
 
-**Source:** BSE Filing  **Date:** 2026-10-29
+**Source:** BSE Filing  **Date:** 2026-10-30
+
+### [Sun Pharma: ILUMYA (tildrakizumab-asmm) approved in the U.S. for the treatment of adults with active Psoriatic Arthritis](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a56e304a-a629-417a-8882-023924df0b88.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-10-30
 
 ### [Dr. Reddy's Laboratories: Transcript of Earnings call](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e9a9e01-f716-421d-9bd8-a20710e85865.pdf)
 Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-10-29
 
-### [Dr. Reddy's Laboratories: Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015](https://www.bseindia.com/xml-data/corpfiling/AttachLive/39c9551f-fdf3-4faa-a967-7f36d7182d85.pdf)
-Category: Company Update | Sub: General | BSE Code: 500124
-
-**Source:** BSE Filing  **Date:** 2026-10-28
-
 ### [Cipla: In compliance with the provisions of Regulation 30 of SEBI (LODR) Regulations, 2015, we hereby notify that the Operations and Administrative Committee of the Company on 29th October, 2026 ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3dfc0292-5fd8-45fa-8b63-0b7f73f8306d.pdf)
 Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-10-29
-
-### [Cipla: Please find enclosed newspaper intimation for financial results for the quarter and half year ended 30th September, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d9fa0030-38a5-4b62-a952-da72a1d978fe.pdf)
-Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
-
-**Source:** BSE Filing  **Date:** 2026-10-28
 
 ### [Biocon: The Nomination and Remuneration Committee of the Board of Directors of the Company at its Meeting held on Thursday, October 29, 2026, has granted 2,20,000 Stock Options to the eligible ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/507872ce-a195-4138-bf8b-fd64ad3b30de.pdf)
 Category: Company Update | Sub: General | BSE Code: 532892
@@ -83,10 +83,10 @@ Category: Result | Sub: Financial Results | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-10-29
 
-### [IPCA Laboratories: Schedule of Conference Call](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a8d6e688-8140-4538-acaf-1380f3666d07.pdf)
-Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524494
+### [Ajanta Pharma: Intimation of incorporation of subsidiary company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e1ab7fe-98fe-4f23-9751-2f6f7ceb1417.pdf)
+Category: Company Update | Sub: General | BSE Code: 532955
 
-**Source:** BSE Filing  **Date:** 2026-10-28
+**Source:** BSE Filing  **Date:** 2026-10-30
 
 ### [Ajanta Pharma: Intimation of audio recording of Investors Conference Call.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb207b3b-b9c7-4b11-a704-5e9831aae3c9.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532955
@@ -123,159 +123,79 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 500271
 
 **Source:** BSE Filing  **Date:** 2026-10-29
 
-### [Glaxosmithkline Pharma: Submission of the web link of the Audio Recording of the Earnings Conference Call](https://www.bseindia.com/xml-data/corpfiling/AttachLive/bccfa9ee-8ee8-4a22-98c7-5c18548e6a11.pdf)
-Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500271
+### [DMCC Speciality Chemicals Ltd: Financial Results for the quarter and half year ended on 30th September, 2026](https://www.bseindia.com/corporates/ann.html?scrip=506405)
+BSE Code: 506405
 
-**Source:** BSE Filing  **Date:** 2026-10-28
+**Source:** BSE Filing  **Date:** 2026-10-30
 
-### [Sudarshan Pharma Industries Ltd: We are submitting the Unaudited Standalone and Consolidated Financial Results for the quarter ended 30/Sep/2026](https://www.bseindia.com/corporates/ann.html?scrip=543828)
-BSE Code: 543828
+### [Shree Hari Chemicals Export Ltd: Shree Hari Chemicals Export Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026 ,inter alia, to consider and approve the Un-audited ....](https://www.bseindia.com/corporates/ann.html?scrip=524336)
+BSE Code: 524336
 
-**Source:** BSE Filing  **Date:** 2026-10-29
-
-### [Bandaram Pharma Packtech Ltd: Results for Quater and half- year ended 30.09.2026](https://www.bseindia.com/corporates/ann.html?scrip=524602)
-BSE Code: 524602
-
-**Source:** BSE Filing  **Date:** 2026-10-29
+**Source:** BSE Filing  **Date:** 2026-10-30
 
 ---
 
-## 💰 Results & Financials (49)
+## 💰 Results & Financials (47)
 
-### [Asian Paints Q2 Results: Net profit rises 7% YoY to Rs 1,068 crore; firm announces Rs 5.75/share dividend](https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-q2-results-net-profit-rises-7-yoy-to-rs-1068-crore-firm-announces-rs-5-75/share-dividend/articleshow/135297927.cms)
-Asian Paints Q2 Results: The paint maker reported a 7% year-on-year rise in Q2 FY27 consolidated net profit to Rs 1,068 crore, while revenue grew 17% to Rs 9,977 crore. The company announced an interim dividend of Rs 5.75 per share, with November 4 set as the record date, even as shares fell 2%.
+### [Suzlon Energy shares crash 10% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-fall-4-as-nuvama-others-slash-target-prices-after-q2-margins-disappoint-what-lies-ahead/articleshow/135342553.cms)
+After Suzlon Energy's quarterly results for September were unveiled, its shares fell nearly 10%. The company faced a staggering 69% decline in net profit, despite enjoying a 26% increase in revenue from wind turbine deliveries. Nuvama raised flags regarding lower-than-expected EBITDA margins, likely influencing the stock's dip. Nonetheless, Centrum Broking maintains a 'Buy' rating, indicating potential for recovery.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore](https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms)
-Sagility promoter Sagility B.V. is reportedly planning a 12% stake sale worth ₹2,377 crore through a block deal. The healthcare IT services firm posted 22.5% revenue growth and 8.1% adjusted profit growth in Q2 FY27.
+### [Varun Beverages shares fall over 4% as Q3 margin pressure weighs despite a 33% YoY revenue growth](https://economictimes.indiatimes.com/markets/stocks/news/varun-beverages-shares-fall-over-4-as-q3-margin-pressure-weighs-despite-a-33-yoy-revenue-growth/articleshow/135352713.cms)
+Varun Beverages reported strong Q3 CY2026 revenue, profit and volume growth, but its shares fell as higher packaging costs weighed on margins. EBITDA margin declined 140 basis points year-on-year, while the company announced an interim dividend of Rs 0.50 per share.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Jio Q2 Preview: First results after listing. What should investors expect?](https://economictimes.indiatimes.com/markets/stocks/earnings/jio-q2-preview-first-results-after-listing-tomorrow-what-should-investors-expect/articleshow/135296908.cms)
-Jio Platforms will announce its first quarterly results as a listed company on October 30, with brokerages expecting double-digit revenue growth in Q2 FY27. Nomura projects revenue of Rs 40,400 crore and net profit of Rs 7,610 crore, while subscriber additions and ARPU growth will be key metrics for investors.
+### [Laurus Labs shares climb 4% after Q2 profit zooms 126% YoY](https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-climb-4-after-q2-profit-zooms-126-yoy/articleshow/135343867.cms)
+Laurus Labs shares rose 3.79% to Rs 2,329 after the pharmaceutical company reported strong Q2FY27 results. Revenue increased 33% year-on-year to Rs 2,206 crore, while net profit more than doubled to Rs 441 crore. Growth was supported by sustained momentum in its CDMO business and Affordable Medicines division, alongside improving margins and continued investments in manufacturing capabilities.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Godrej Consumer Q2 Results: Profit rises 14% YoY to Rs 523 crore, revenue jumps 19%; co declares Rs 5/share dividend](https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-q2-results-profit-rises-14-yoy-to-rs-523-crore-revenue-jumps-19-co-declares-rs-5/share-dividend/articleshow/135306134.cms)
-Godrej Consumer Products posted 13.8% profit growth to ₹522.92 crore and 19% revenue growth to ₹4,413.09 crore in Q2 FY27. Strong international performance, expanding home care brands and a ₹5 interim dividend supported its outlook for sustained growth.
+### [Asian Paints shares see target price cuts by Jefferies, Goldman Sachs, other brokerages after Q2 results. Buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-shares-in-focus-as-jefferies-goldman-sachs-other-brokerages-cut-target-prices-after-q2-results-buy-sell-or-hold/articleshow/135342271.cms)
+Asian Paints has reported a year-on-year profit growth of 7% for the second quarter of FY 2027. Revenue surged by around 17%, although expenses climbed by 19%, underscoring the challenges posed by inflation. Despite brokerages adjusting their target prices, the company declared an interim dividend of Rs 5.75 per share and hinted at upcoming price hikes.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Brigade Group reports 29% growth in Q2 net profit at Rs 219 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/brigade-group-reports-29-growth-in-q2-net-profit-at-rs-219-crore/articleshow/135320326.cms)
-Brigade Group reported a 29% year-on-year profit increase to ₹219 crore in Q2 FY27, despite lower revenue. Strong residential bookings, higher operating profit, robust leasing performance and hospitality growth supported earnings, while new project launches strengthened its development pipeline.
+### [Q2 results impact: 2 Vedanta stocks rally up to 14% after Sept quarter earnings. How have they performed since demerger?](https://economictimes.indiatimes.com/markets/stocks/news/q2-results-impact-2-vedanta-stocks-rally-up-to-14-after-sept-quarter-earnings-how-have-they-performed-since-demerger/articleshow/135344818.cms)
+Shares of Vedanta Power and Vedanta Oil and Gas rallied up to 14% after both demerged companies reported a sharp year-on-year improvement in Q2 FY27 earnings. Vedanta Power returned to profit, while Vedanta Oil and Gas reported higher revenue and EBITDA.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Trent Q2 Results: Cons profit jumps 25% YoY to Rs 468 crore; revenue climbs 22%](https://economictimes.indiatimes.com/markets/stocks/earnings/trent-q2-results-profit-jumps-25-yoy-to-rs-468-crore-revenue-climbs-22/articleshow/135302253.cms)
-Trent Q2 Results: Trent reported a 25.3% year-on-year rise in Q2 FY27 consolidated net profit to Rs 468 crore, while revenue grew 21.9% to Rs 5,873 crore. EBITDA rose 29.6% to Rs 1,054 crore, with margins improving to 18.2%. The retailer expanded its footprint across Westside, Zudio and other lifestyle concepts.
+### [Milky Mist shares rally 5% after Q2 PAT soars 175%; firm says festive season will create favourable demand ahead](https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-shares-in-focus-after-q2-pat-soars-175-firm-says-festive-season-could-create-favourable-demand/articleshow/135341778.cms)
+Milky Mist Dairy Food reported a 175% increase in net profit for the second quarter of FY27. The company's revenue reached Rs 1,089.40 crore, marking a 42% rise compared to last year. This growth was driven by increased sales volumes and strong demand for value-added dairy products. Additionally, the launch of new protein-focused product lines contributed to positive financial results.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Ambuja Cements Q2 Results: Net profit tanks 90% YoY to Rs 114 crore on tax reversal effect; revenue rises 10%](https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms)
-Ambuja Cements Q2 Results: The company reported a 90% year-on-year decline in Q2 FY27 net profit to Rs 114 crore due to a Rs 1,697 crore income tax provision reversal in the year-ago quarter. Revenue rose 10% to Rs 6,113 crore. Shareholders also approved the proposed amalgamation of ACC and Orient Cement with Ambuja, with completion expected in FY27, subject to approvals.
+### [Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges](https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms)
+Sun Pharma Q2 Results: Revenue from operations rose 12% YoY to Rs 16,199 crore from Rs 14,478 crore in Q2 of last financial year, supported by strong growth in its domestic formulations business and emerging markets.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Pine Labs shares jump 7% as Q2 net profit soars 543% YoY to Rs 39 crore](https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-jump-7-as-q2-net-profit-soars-543-yoy-to-rs-39-crore/articleshow/135298034.cms)
-Pine Labs shares rose sharply on Thursday after the fintech company reported a 543% year-on-year jump in Q2 FY27 net profit to Rs 38.6 crore. Revenue rose 24% to Rs 806.2 crore, while EBITDA increased 67.3%. Growth in payments, UPI transactions and international markets supported performance as the company expands into AI-led commerce.
+### [Coal India shares fall 3% after Q2 results; Jefferies, Motilal Oswal, others cut target price](https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-fall-3-after-q2-results-jefferies-motilal-oswal-others-cut-target-price/articleshow/135349282.cms)
+Coal India shares fell 3% despite a 57% year-on-year rise in Q2 FY27 net profit to Rs 6,547 crore. Jefferies and JM Financial cut their target prices to Rs 460 and Rs 438, respectively, while Motilal Oswal retained its Buy rating with a Rs 450 target, citing a potential volume recovery.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [HUL shares rise 3% after Q2 results. Jefferies, Nomura cut target price but forecast 29% upside potential](https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-rise-3-after-q2-results-jefferies-nomura-cut-target-price-but-forecast-29-upside-potential/articleshow/135295044.cms)
-Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 crore. Jefferies, Nomura and JM Financial cut their target prices but continue to see upside potential of up to 29%.
+### [Reliance Industries shares down 26% in 2026: Here’s how to trade RIL stocks on results day](https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-down-26-in-2026-heres-how-to-trade-ril-stocks-on-results-day/articleshow/135342949.cms)
+Reliance Industries has faced a notable drop in its shares by 26% throughout 2026. Investors and analysts are eagerly awaiting the upcoming results announcement. Past quarterly results have evoked varied responses, leading to fluctuations in stock value. Important technical thresholds to keep an eye on include Rs 1,130 acting as a support level and Rs 1,230 identified as a breakout benchmark.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Vedanta Aluminium more than doubles profit; cost cuts in focus to drive earnings](https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-more-than-doubles-profit-cost-cuts-in-focus-to-drive-earnings/articleshow/135294042.cms)
-Vedanta Aluminium’s September-quarter net profit more than doubled, while revenue rose 41% and EBITDA surged 83% year-on-year. The company expects higher production volumes and lower costs to support earnings despite declining aluminium prices. Production costs could fall 6% by year-end, aided by increased captive bauxite availability and operational efficiencies.
+### [Trent shares soar 7% after Q2 results. Here’s why Elara Capital, Nuvama remain bullish on the Tata stock](https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-soar-7-after-q2-results-heres-why-elara-capital-nuvama-remain-bullish-on-the-tata-stock/articleshow/135342724.cms)
+Trent shares rallied after the retailer reported 25% year-on-year growth in Q2 FY27 profit and a 21.9% rise in revenue. Elara Capital upgraded the stock to Buy, while Nuvama maintained its positive stance and Systematix retained Hold.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [CarTrade Tech shares tank over 6% after Q2 results, but Nomura raises target price to Rs 3,377. Here’s why](https://economictimes.indiatimes.com/markets/stocks/news/cartrade-tech-shares-tank-over-6-after-q2-results-but-nomura-raises-target-price-to-rs-3377-heres-why/articleshow/135290221.cms)
-CarTrade Tech shares fell 6.5% after Q2FY27 net profit rose 3% year-on-year to Rs 66 crore, while revenue increased 10% to Rs 213 crore. Nomura raised its target price to Rs 3,377 from Rs 3,340, citing growth potential in OLX India, improving consumer business prospects and operating leverage, despite trimming revenue estimates by around 3%.
+### [Amazon's cloud business grows 39%, but $42 billion in cash flows out: Is AI spending becoming too expensive?](https://www.livemint.com/companies/news/amazons-cloud-business-grows-39-but-42-billion-in-cash-flows-out-is-ai-spending-becoming-too-expensive-11793339012581.html)
+Amazon Web Services revenue rose 39.3% to $46 billion in the third quarter, its fastest growth in nearly five years. But AI-driven capital spending is weighing on cash flow: free cash flow turned negative at $42.4 billion.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Mint - Pharma  **Date:** 2026-10-30
 
-### [Trent names Bahram Vakil chairman as Noel Tata to step down after nearly three decades](https://www.livemint.com/companies/company-results/trent-names-bahram-vakil-chairman-as-noel-tata-to-step-down-after-nearly-three-decades-11793273318615.html)
-The leadership transition comes as the retailer posts 22% revenue growth and 25% higher net profit in Q2, driven by store expansion and traction across its fashion brands.
+### [Who is Nikhil Dhoka? Meet CEO of JioBlackRock Broking - Former Kotak Neo executive takes charge | All about him](https://www.livemint.com/companies/people/who-is-nikhil-dhoka-meet-ceo-of-jioblackrock-broking-former-kotak-neo-executive-takes-charge-all-about-him-11793296508035.html)
+Nikhil Dhoka has taken charge as CEO of JioBlackRock Broking after nearly four years at Kotak Neo, where he led product and revenue. His experience spans Paytm and Western Union, as the Jio Financial Services–BlackRock venture develops its digital investing business.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
-
-### [Meesho shares fall 3% even as Q2 loss narrows to Rs 132 cr. Why Jefferies raised target price but Nomura remains cautious](https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-fall-3-even-as-q2-loss-narrows-to-rs-132-cr-why-jefferies-raised-target-price-but-nomura-remains-cautious/articleshow/135289362.cms)
-Meesho shares fell nearly 3% after Q2 FY27 net loss narrowed 68% year-on-year to Rs 132 crore, while revenue rose 34% to Rs 4,132 crore. Brokerages remained divided, with Jefferies and Motilal Oswal maintaining Buy ratings and Nomura retaining Reduce, citing growth prospects, margins and festive-season demand.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Ambuja Cements’ profit slumps 90% on higher costs, high previous-year base](https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-profit-slumps-90-on-higher-costs-high-previous-year-base/articleshow/135320851.cms)
-Ambuja Cements reported a 90% year-on-year profit decline to ₹236 crore in Q2 FY27 as rising fuel, logistics and operating costs squeezed margins. Revenue remained flat at ₹9,197 crore, while EBITDA fell 28%, prompting renewed cost-control efforts.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Milky Mist Q2 revenue surges 42% YoY, EBITDA soars 54%](https://economictimes.indiatimes.com/markets/stocks/earnings/milky-mist-q2-revenue-surges-42-yoy-ebitda-soars-54/articleshow/135320553.cms)
-Milky Mist Dairy Food recorded 41.6% year-on-year revenue growth in Q2 FY27, achieving record quarterly revenue and gross profit. Strong demand for value-added dairy, protein products and yoghurt drove growth, while first-half profit after tax surged 308.4%.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Vedanta Power Q2 results: Company swings to profit at Rs 83 crore; revenue rises 38% YoY](https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-power-q2-results-company-swings-to-profit-at-rs-83-crore-revenue-rises-38-yoy/articleshow/135317122.cms)
-Vedanta Power reported a turnaround in Q2 FY27, posting ₹83 crore profit against a ₹1,688 crore loss last year. Revenue rose 38% to ₹2,908 crore, while EBITDA surged 122%, supported by record power sales and improved operations.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Motilal Oswal Q2 Results: PAT nearly quadruples to Rs 1,070 crore; revenue up 20%](https://economictimes.indiatimes.com/markets/stocks/earnings/motilal-oswal-q2-results-pat-nearly-quadruples-to-rs-1070-crore-revenue-up-20/articleshow/135316998.cms)
-Motilal Oswal reported a 29% year-on-year rise in operating profit to ₹718 crore in Q2 FY27, driven by asset management and wealth management growth. Assets under management expanded, while recurring revenue strengthened earnings visibility and business resilience.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax](https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-results-profit-plunges-69-yoy-to-rs-394-crore-revenue-rises-26/articleshow/135304125.cms)
-Suzlon Energy reported a 69% year-on-year profit decline to ₹394 crore in Q2 FY27, despite 26% revenue growth to ₹4,869 crore. Record turbine deliveries, a 6,009 MW order book and a ₹2,048 crore net cash position strengthened its outlook.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [ESAF Small Finance Bank posts Rs 160 crore Q2 profit as asset quality improves](https://economictimes.indiatimes.com/markets/stocks/earnings/esaf-small-finance-bank-posts-rs-160-crore-q2-profit-as-asset-quality-improves/articleshow/135303972.cms)
-ESAF Small Finance Bank reported a net profit of Rs 160 crore in Q2, reversing a Rs 116 crore loss in the year-ago period. Improved margins, lower provisions and stronger asset quality supported the turnaround, while advances and deposits grew 25% and 24%, respectively.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [IndiGo Q2 Results: Loss narrows YoY to Rs 1,879 crore; revenue rises 26%](https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-q2-results-loss-narrows-yoy-to-rs-1879-crore-revenue-rises-26/articleshow/135301474.cms)
-IndiGo Q2 Results: Budget airline IndiGo reported narrowing of its consolidated loss to Rs 1,879 crore in the second quarter of FY27, compared with Rs 2,582 crore in the year-ago quarter. However, the loss widened from Rs 237 crore posted in the preceding June quarter.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [ACME Solar shares rally 5% after Q2 profit jumps over 100%, signs 400MV agreement with NTPC](https://economictimes.indiatimes.com/markets/stocks/news/acme-solar-shares-rally-5-after-q2-profit-jumps-over-100-signs-400mv-agreement-with-ntpc/articleshow/135297383.cms)
-ACME Solar shares rose 5% after its Q2 FY27 profit surged 133.5% to ₹269 crore and revenue climbed 67.5% to ₹1,007 crore. The rally was also supported by its subsidiary signing a 25-year power purchase agreement with NTPC for a 400 MW renewable energy project.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Michael Burry says Anthropic IPO papers show AI industry is 'catastrophically vulnerable'. What the 'Big Short' investor sees](https://economictimes.indiatimes.com/markets/stocks/news/michael-burry-says-anthropic-ipo-papers-show-ai-industry-is-catastrophically-vulnerable-what-the-big-short-investor-sees/articleshow/135296998.cms)
-Investor Michael Burry warned that Anthropic’s planned IPO exposes serious vulnerabilities in the AI industry, citing massive infrastructure commitments, slowing growth and mounting costs. The investor, known for predicting the 2008 financial crisis, believes disappointing AI revenues could trigger a significant market correction and capital losses.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Adani group stocks jump up to 3%, add Rs 23,000 crore to total m-cap. What’s behind the surge?](https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-jump-up-to-3-add-rs-23000-crore-to-total-m-cap-whats-behind-the-surge/articleshow/135293658.cms)
-Adani Group stocks rose on Thursday, adding Rs 23,000 crore to their combined market capitalisation, as Q2 results and bullish brokerage calls lifted sentiment. Adani Power reported a 134% jump in net profit, while Jefferies raised its target price for Adani Ports and sees significant upside in Adani Enterprises.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Jefferies initiates coverage on NSE with ‘Buy’; here’s why it sees fresh growth potential](https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-nse-with-buy-heres-why-it-sees-fresh-growth-potential/articleshow/135293157.cms)
-Jefferies has initiated coverage on NSE with a ‘Buy’ rating and a target price of Rs 2,085, indicating over 17% upside. The brokerage expects structural growth, market leadership, diversification and new businesses to drive a 15% revenue CAGR over FY27–29 and support margin expansion.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Vedanta Aluminium reports 41% revenue growth to Rs 22,066 crore in September quarter](https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-reports-41-revenue-growth-to-rs-22066-crore-in-september-quarter/articleshow/135292814.cms)
-In the September quarter, Vedanta Aluminium experienced a remarkable 41% growth in revenue year-on-year. Despite predictions of falling aluminium prices, production is on the rise due to enhanced capacity. The company forecasts a reduction in production costs by 6% by year's end. Operational enhancements indicate that earnings will still rise, positioning Vedanta positively amid shifting market conditions.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [City Union Bank shares rally 7% after Q2 net profit grows 27% YoY to Rs 416 Crore](https://economictimes.indiatimes.com/markets/stocks/news/city-union-bank-shares-rally-7-after-q2-net-profit-grows-27-yoy-to-rs-416-crore/articleshow/135292565.cms)
-City Union Bank shares rose sharply on Thursday after the lender reported a 27% year-on-year rise in Q2 FY27 net profit to Rs 416 crore. Net interest income grew 31%, while asset quality improved, with gross NPAs falling to 1.44%. Deposits and advances also recorded strong growth during the quarter.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [Hyundai Motor shares jump 6% even as Q2 net profit declines 24% YoY. Why Nomura, other brokerages remain bullish?](https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-shares-jump-6-even-as-q2-net-profit-declines-24-why-nomura-other-brokerages-remain-bullish/articleshow/135290164.cms)
-Hyundai Motor India shares rose despite a sharp decline in Q2 FY27 profit as rising commodity costs squeezed margins. Nomura and Motilal Oswal retained their Buy ratings, citing new model launches, export growth and potential margin recovery.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
 
 ### [Milky Mist sees limited impact from inflation, El Niño as revenue grows 42%](https://www.livemint.com/companies/milky-mist-sees-limited-impact-from-inflation-el-ni-o-as-revenue-grows-42-dairy-products-11793285052310.html)
 Milky Mist posted a strong September quarter, with revenue rising 42% and profit jumping 175%, helped by strong demand for value-added dairy products and selective price hikes. The company says inflation, El Niño and geopolitical uncertainties have had limited impact.
@@ -297,50 +217,68 @@ The Blackstone-backed firm closed 2.5 million sq ft of leasing in Q2, and turned
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
 
-### [Godrej Consumer’s Q2 revenue rises 19% as pricing hikes offset cost pressures](https://www.livemint.com/companies/company-results/godrej-consumer-s-q2-revenue-rises-19-as-pricing-hikes-offset-cost-pressures-11793269131592.html)
-Consolidated volume growth stood at 8% in Q2FY27 as the company raised prices across fabric care and soaps, with further increases in the pipeline.
+### [Reliance Industries Q2 results today: Can the old economy rescue the new Reliance?](https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-today-can-the-old-economy-rescue-the-new-reliance/articleshow/135343621.cms)
+Reliance Industries is poised to reveal its Q2 earnings, with anticipation surrounding a notable profit revival in its oil-to-chemicals division. Analysts forecast a rise in consolidated EBITDA, supported by enhanced refining margins and solid petrochemical performance. Jio Platforms should offer consistent contributions, though Reliance Retail may face pressures with shrinking margins. Investors will keep a watchful eye on insights regarding future expansion in new energy ventures.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [IKEA plans a multiformat push across six markets to quadruple revenue by 2030](https://www.livemint.com/companies/news/ikea-plans-a-multiformat-push-across-six-markets-to-quadruple-revenue-by-2030-11793255003165.html)
-The Swedish retailer is banking on new stores, digital sales and business customers to accelerate growth and deepen its presence in India.
+### [Sun Pharma Q2 results: Net profit falls 36% to Rs 1,989 cr on one-time hit, revenue up 12%; stock jumps - TradingView](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM0dudFJvMVFNRDR4SnBoM1BYaUFxVHlFb0VzWmNQeUNfaFFjSGYwWl9NUko2djhmbEV0MVAwdzByZm9OMUJ5bEJraFljQWJ2bDZfTG9raGhVVFBXVzRRQ0V5TWhNTU1Bcmp3NFRXTFRkNzlBOXNsTWdLUDZnR1lrSncwOWlkNmx0Rm5uNUt4X2JMRGJZa1FaVURTS21jQmU5bmY5enc4MmJLWlRkMnhGUmcwQlJqLWFQVVpDUWlqY1hiNktVOXpRdTJOc0JiUXU1WkR4Y0JQTVhGR0p2clJKQjFjbUhsTnJfbVJ1cHVxU0ZzNG8?oc=5)
+Sun Pharma Q2 results: Net profit falls 36% to Rs 1,989 cr on one-time hit, revenue up 12%; stock jumps &nbsp;&nbsp; TradingView
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
 
-### [Technical picks for Diwali! 10 stocks PL Capital is bullish on this festive season. See full list](https://economictimes.indiatimes.com/markets/stocks/news/technical-picks-for-diwali-10-stocks-pl-capital-is-bullish-on-this-festive-season-see-full-list/slideshow/135295606.cms)
-Brokerages see potential upside in 10 stocks, including DLF, Apollo Hospitals, GE Vernova T&amp;D India and Jindal Steel, citing bullish chart patterns, improving momentum and signs of recovery. Technical indicators suggest further gains, though investors should assess risks and verify stop-loss levels.
+### [Sun Pharma Q2 Results: Net Profit Falls 36% to Rs 19,885 Crore on Exceptional Charges; Revenue Rises 12% - APAC Media](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHlyZFhkNm1aNTE1TE9EcHpPWHNIdHdmRlVOTW1zNDRCa1pFRWl4c3B3WDlfNEpEVU95andROVpiaWFOVXNnWV9GMklFMXRnLU0xbXBfanJ0QUVPRTltWUtZQVFQRTVrWFpyRm9LN21SSlZOUzRJUTYwNDY3SUdJdWhrdkNVWkx6R0E?oc=5)
+Sun Pharma Q2 Results: Net Profit Falls 36% to Rs 19,885 Crore on Exceptional Charges; Revenue Rises 12% &nbsp;&nbsp; APAC Media
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
 
-### [Sanofi India Q3 Results: Net Profit Jumps 54%, Declares Rs 75 Interim Dividend; Check Record Date](https://www.ndtvprofit.com/markets/sanofi-india-q3-results-net-profit-jumps-54-declares-rs-75-interim-dividend-check-record-date-12254584#publisher=newsstand)
-The company has fixed Thursday, November 5, 2026 as the record date for the purpose of determining the eligibility of shareholders for the dividend payout
+### [Ajanta Pharma Q2 results: Net profit rises 49% YoY to Rs 388 crore, revenue up 32.5% - Business Upturn](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSXRrdkZRN0plQXZ5M1JZODZOdWNwNFNYVHJaYzZFZGZEc2lvcXJDSjRpRzlWUFA2WGVidzlpdFFRdWNZeXBqVkNzUGhTNTdGVm1wdURkU2NLcE8xNy1Pc0lXRUcta1BvSUwtN29CM0IwOXZOY201UF9lUjN4amJ5X1ZpVWszT2ZDQmF1Q3Nsdy1sbEJ5NEdXYkFfMEN6OGYxNUlmQV9mUjltaE5zWWYySnJ2Njd6TFVZU01ybUtGU0lEQlQyVms2bnJBem55YUg0cHZIVjQ0MThfQWpFNEZMZQ?oc=5)
+Ajanta Pharma Q2 results: Net profit rises 49% YoY to Rs 388 crore, revenue up 32.5% &nbsp;&nbsp; Business Upturn
 
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** GNews - Pharma Q Results  **Date:** 2026-10-30
 
 ### [Strides Pharma Q2 results: Revenue rises 17.1% YoY to Rs 1,429.7 crore, net profit up 2.7% - Business Upturn](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRV9jdEM0ZTRWcmlaOWlnY1JMRnphdlRZOERscWtBRzNWZnZuQ0cwWno5YVZMYVJPQ2ZWdDV6UDNWdE1DZ3hkcjJrMUsyYWVPR2RiRXh3XzVaSDlDVDRKV19xMXlXMEx0VDRRbFpKcXg5NzBCMVZqenowWXNnRl9CRGRiM3lPU3NmWXRwb1VRZTFoUEx2ZW10QXNUODQ4Ty1EZXg3d0dzTFFzSENDX09qUkYxcFVNRVZSX1V0TGY4aU5YM05helVkV050SDBFdXNleVN1WHUya2FXSjZvMXlnT1NoSkxkbkcz?oc=5)
 Strides Pharma Q2 results: Revenue rises 17.1% YoY to Rs 1,429.7 crore, net profit up 2.7% &nbsp;&nbsp; Business Upturn
 
 **Source:** GNews - Pharma Q Results  **Date:** 2026-10-29
 
-### [RIL Q2 Results Preview: Profit outlook brightens as O2C business set to drive growth](https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-preview-profit-outlook-brightens-as-o2c-business-set-to-drive-growth/articleshow/135299167.cms)
-Reliance Industries is expected to report 15-17% year-on-year growth in September-quarter EBITDA, driven by a sharp recovery in its oil-to-chemicals business. Brokerages expect stronger refining margins, higher throughput and a weaker rupee to offset subdued retail and oil and gas performance. Investors will track O2C profitability, Jio Platforms’ earnings and retail margins as RIL announces results.
+### [Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results today. Brokerages expect strong numbers for RIL](https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+### [Q2 earnings upgrades hold above 50%, says Jefferies. Is the profit cycle turning?](https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms)
+India’s Q2 FY27 earnings show signs of resilience, with Jefferies reporting that 50% of the 105 companies it tracks received FY27 earnings estimate upgrades, while 41% saw downgrades and 9% remained unchanged. The share of companies beating expectations rose to 56% from 52% in the previous quarter, though the recovery remains uneven across sectors.
 
-### [Jupiter Wagons shares rally 8% on Rs 1,140 crore Railway Board order](https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-8-on-rs-1140-crore-railway-board-order/articleshow/135290681.cms)
-Jupiter Wagons shares rallied over 8% after securing a Rs 1,140 crore Railway Board order for 2,583 wagons. The company expects additional order inflows of around Rs 2,000 crore in Q4 FY27, supported by government and private-sector demand. Despite the gains, the stock has fallen 25% in three months and trades below seven of its eight simple moving averages.
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+### [ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?](https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms)
+In 2026, the Nifty 50 index faced significant drops, with 34 out of 50 stocks plummeting by as much as 34%. Analysts believe that the sell-off is driven by foreign institutional investor exits and a conservative outlook on earnings. This decline presents potential opportunities for long-term investors as valuations dip below historical norms.
 
-### [Nifty’s early comeback signal: Why largecaps are holding up as broader market slides](https://economictimes.indiatimes.com/markets/stocks/news/niftys-early-comeback-signal-why-largecaps-are-holding-up-as-broader-market-slides/articleshow/135289777.cms)
-India’s equity market divergence suggests largecaps may be regaining leadership as mid- and smallcaps remain under pressure. The Nifty has recovered to broadly flat returns in October, while midcap and smallcap indices have declined. More reasonable valuations, earnings resilience, liquidity and institutional preference are supporting largecaps, though elevated crude prices, macroeconomic uncertainty and earnings concerns continue to cloud the broader market outlook.
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+### [IndiGo shares rise 2% after Q2 losses narrow. What are Jefferies and other brokerages saying?](https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-rise-2-after-q2-losses-narrow-what-are-jefferies-and-other-brokerages-saying/articleshow/135343303.cms)
+IndiGo shares gained 2% after the airline reported a narrower year-on-year Q2 loss of Rs 1,879 crore, although profitability remained under pressure from elevated fuel costs and rupee depreciation. Jefferies retained its Buy rating but cut its target price to Rs 5,650, while Nuvama maintained its Buy call with a revised target of Rs 5,435.
 
-### [Adani Ports shares rise 3% after Q2 results. Why did Jefferies and Nomura raise target prices?](https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-rise-3-after-q2-results-why-did-jefferies-and-nomura-raise-target-prices/articleshow/135289609.cms)
-Adani Ports shares rose after the company reported strong Q2 FY27 earnings and raised its full-year guidance. Jefferies and Nomura increased their target prices, citing robust international port performance, higher earnings estimates and long-term growth prospects.
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+### [Nifty rout hides a striking bull run: Smallcap universe gives 60 multibaggers since last Diwali](https://economictimes.indiatimes.com/markets/stocks/news/nifty-rout-hides-a-striking-bull-run-smallcap-universe-gives-60-multibaggers-since-last-diwali/articleshow/135343361.cms)
+The stock market in India has encountered a rough patch, evidenced by the Nifty's decline of over 11% since last Diwali. However, smallcap stocks have emerged as stars, with 60 multibagger stocks tripling investors' money; Sterlite Technologies notably climbed 649.7%. Investors are cautioned to consider valuations seriously while pinpointing companies with significant growth potential for smarter investment decisions.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
+
+### [Diwali blues: 83 largecap stocks plunge up to 60% since Samvat 2082. Can bluechips light up D-Street in the new year?](https://economictimes.indiatimes.com/markets/stocks/news/diwali-blues-83-largecap-stocks-plunge-up-to-60-since-samvat-2082-can-bluechips-light-up-d-street-in-the-new-year/articleshow/135343018.cms)
+Indian equities enter Samvat 2083 after a volatile year and a sharp market correction. While lower valuations have improved the risk-reward profile of several stocks, persistent FII outflows, elevated crude oil prices and global uncertainties remain key concerns. Strong domestic fundamentals and earnings growth could support markets, but returns will increasingly depend on stock selection, valuations and earnings delivery.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
+
+### [Adani Enterprises among 4 Nifty500 stocks showing White Marubozu pattern](https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-among-4-nifty500-stocks-showing-white-marubozu-pattern/slideshow/135341682.cms)
+Four Nifty500 stocks that gained over 4% on October 29 featured in StockEdge’s White Marubozu bullish scan, signalling strong upward price momentum during the trading session.
+
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
+
+### [IndiGo CEO Willie Walsh says fare hikes unavoidable amid fuel cost surge as airline posts  ₹1,879.1 crore Q2 loss](https://www.livemint.com/companies/news/indigo-ceo-willie-walsh-says-fare-hikes-unavoidable-amid-fuel-cost-surge-as-airline-posts-rs-1-879-1-crore-q2-loss-11793296552805.html)
+IndiGo CEO Willie Walsh said rising fuel costs will make higher airfares unavoidable and forecast low single-digit capacity growth in the December quarter. It plans to adjust aircraft deployment based on demand &amp;amp; costs, with reductions focused more on international routes.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-29
 
 ### [Ambuja Cements expects volume growth to outpace industry in H2](https://www.livemint.com/companies/company-results/ambuja-cements-expects-volume-growth-to-outpace-industry-in-h2-11793286530436.html)
 Trade volumes grew 8.6% in Q2FY27, but weakness in institutional sales kept overall volumes broadly flat. The company expects both segments to return to growth in the second half.
@@ -357,49 +295,89 @@ Braid has raised $38 million in its first external funding round, led by Octopus
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
 
-### [Nike, Asics, Decathlon ramp up India bets as sports goods, apparel manufacturing expected to reach $10 billion by 2030](https://www.livemint.com/news/nike-asics-decathlon-ramp-up-india-bets-as-sports-goods-apparel-manufacturing-expected-to-reach-10-billion-by-2030-11793269860543.html)
-The expansion plans of Nike, ASICS and Decathlon coincide with a broader increase in participation in recreational running and demand for specialised sports products.
+### [Aether Industries Q2 Results: Net Profit Rises 26% YoY To Rs 68 Crore, Revenue Up 24%](https://www.ndtvprofit.com/markets/aether-industries-q2-results-share-price-today-net-profit-rises-26-percent-yoy-to-rs-68-crore-revenue-up-24-percent-bse-sensex-today-12257834#publisher=newsstand)
+Aether Industries Reports Q2 Results
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
 
-### [Senores Pharmaceuticals Q2 FY27: Net profit rises 22% to ₹39.5 crore, EBITDA margin widens to 30% - Business Upturn](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWEtYUjYzUkRnUUR0cWhlUVdxUU5mLTdJUFMwV0ppdXljTVZqRElNM0g1R3lxcjlfS2Y4MUhqX2RFTmQzQlBQd25xaWJxelU2QlZra3RFZlcyd0JvVlU4cktJeDB0cGlyMkxwSnhVN0xrN3llR290SDNpNGJmamUwbm9yOXhOLXFHVTI0bnMyQ2tOOEdvdmtMbFR1YndCWktNbkdIdUkzSTh5X3ZTVGl3Z2tJRjY4cUZMT2NBTGFHQlVra1lLS2FGTE5mNVJXOXZZLWZxb290NG9XTWtaVFoxWkU3YjNCTG5VRFMtTFhSbk5ieHM?oc=5)
-Senores Pharmaceuticals Q2 FY27: Net profit rises 22% to ₹39.5 crore, EBITDA margin widens to 30% &nbsp;&nbsp; Business Upturn
+### [Strides Pharma STAR Q2FY27 Results: Revenue Up 17% YoY - Kalkine India](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3ZnYzFVTTBmOVJzM1VSNjFncEtkMlVkNlI5enJlNHFlWHRZN2ZOV2ZYeGlhYVJBazRKZjVjY1QxUWtnZWdOcGhlYV9yUG85U3VHZUJmb2NjUndMRDAxMDMyRWZJQ3dWVTNZNGQ2Z3hhRmpPXzZMbWJHMENVb3BQbFA1SFJvYUZqaG9Gb1ZVbGlIYm11bU5iV0ZIU2dXbjJzNno3aDgzaGkwVUZUNHZV?oc=5)
+Strides Pharma STAR Q2FY27 Results: Revenue Up 17% YoY &nbsp;&nbsp; Kalkine India
 
-**Source:** GNews - Pharma Q Results  **Date:** 2026-10-29
+**Source:** GNews - India Pharma  **Date:** 2026-10-29
 
-### [Torrent Pharma Q2FY27 Results: EBITDA rises 53% to ₹1,656 crore - scanx.trade](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGZiZ0FZSXlzVTNVbE84OXFzak54RHdKY1ZhMDdRY0NYc0k0WHBDYkR1RjdtOWF4bEhkSk5LcUpNT1JHODFaakVqSjBkSXB3Ql9FUFFYV2F2bDk2TW15aThDRURKS2xEeEFKTzJBRmpXSDN5MVl3VVBYaGlNTG1sQTdXUTJxVkJ5YU0ySlRpU0gyc2tmVFhOeW1yTl85eDJ5LUhFXw?oc=5)
-Torrent Pharma Q2FY27 Results: EBITDA rises 53% to ₹1,656 crore &nbsp;&nbsp; scanx.trade
+### [Sun Pharmaceutical Q2 FY27 result: Net profit declines 36% YoY; US formulation sales falls to $455 million - Upstox](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0Z3aUpCZkFCelhvTExJQ21LZ0dfam8tZWgzZENOWHhVaWZzT1pJcVRPQlZ6eHFTUDFQVEtKUG5YNHNZR1lpVkl3RXVnb0U5QmhINFNpRHptZjlHR1dmcHphSGkyRkl3V2EycVhlSnI4b2JqYkIydng0djd0aG9UcG9jbzlQQWY3RFpMVUNqd3lQYzlkRVN0a0hUQldiYklDWjB3UmFQb3hHcExZaEIyRU9NZHlkWmlwTjU5ZTd4LXB6N0hTc1NZbFBkak9oay1HWmpvY3hGUjhuTFhhZWYwNUE5YUQ5QWphdF9XWnBPREtDS1pnZWZ1Ug?oc=5)
+Sun Pharmaceutical Q2 FY27 result: Net profit declines 36% YoY; US formulation sales falls to $455 million &nbsp;&nbsp; Upstox
 
-**Source:** GNews - Torrent Pharma  **Date:** 2026-10-29
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
 
-### [Reliance Industries Q2 Preview: Will O2C Strength Offset Retail And Oil & Gas Weakness?](https://www.ndtvprofit.com/markets/reliance-industries-q2-preview-will-o2c-strength-offset-retail-and-oil-gas-weakness-12255726#publisher=newsstand)
-Reliance Industries' oil and gas exploration business is expected to report flat Ebitda of Rs 4,973 crore, unchanged from the previous quarter.
+### [Sun Pharma Q2 Results: PAT falls 36% to Rs 1,989 crore, misses estimates; revenue meets mark - Zee Business](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEJzUWFBUV9CaWJablpIS2UydllaamVIeS1sdlRIZ2txd1RDaHR3OC1MNUd1YW1zUng2aTJqU1ZBQ0dqMUlYbGtYdjVlNE40N2FiQ0ExeVc0MWYyMVc2VGVEdDlTdnBiRjd6blJCOGpfZTNadkdwM05TbGNqWGtWd0hFVlg5MjMzamNsZkRPbmZQU2FGT1loRFpWRjFadFZtNGRuYVZyYWZET1E2a1Fz?oc=5)
+Sun Pharma Q2 Results: PAT falls 36% to Rs 1,989 crore, misses estimates; revenue meets mark &nbsp;&nbsp; Zee Business
 
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
 
-### [Alphabet Shares Extend Decline To 13.7%, Biggest Drop On Record](https://www.ndtvprofit.com/world/alphabet-shares-extend-decline-to-13-7-biggest-drop-on-record-12255146#publisher=newsstand)
-Alphabet shares plunge 13.7% as rising AI costs and weaker-than-expected earnings rattle investors.
+### [Sun Pharma Q2 results: Net profit falls 36.2% to YoY Rs 1,989 crore, US formulation sales declined 8.2% - Business Upturn](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNzJPc0xta2pFMmpmTVpqOEpscHBNTWE3TXJJekdUQmc2d3hRMFUzMzREWkJsOFlRZkpsdW95bXFvOFNyMFNhZTJfNXhkX0R6ck12ZWlJa21ad1BpSU5hbXAxTk9kNVJUZVdSd2pLNDFsV2hLWFpxWC05MmdJOHExbF93WDNCbnk2TjlPUVNMOW9MRENFNVdwZGpQTW5ZSmE2eFFReXpER1E5WTI1VXI1dERFRjd0dzU3TXktdnZEVHdaQXdSX0E0Tm9HZ01VTGtWYjhxdWMxcVJlalNoNmZoc1Q2UEpaYVRuU1RoR3UtTWk4RFdWVm1odkpJRk1xNnc?oc=5)
+Sun Pharma Q2 results: Net profit falls 36.2% to YoY Rs 1,989 crore, US formulation sales declined 8.2% &nbsp;&nbsp; Business Upturn
 
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
 
-### [Q2 Results Live: Capital Small Finance Bank Profit Rises 31%; Coal India Profit Jumps 53%;  Indegene Profit Surges 10%](https://www.ndtvprofit.com/markets/q2-results-live-updates-october-29-2026-trent-asian-paints-coal-india-among-140-companies-to-announce-earnings-today-12252424#publisher=newsstand)
+### [Q2 Results Live: Skipper Net Profit Jumps 57% YoY To Rs 58 Crore; Vinati Organics Profit Falls 32% YoY; RIL Slips](https://www.ndtvprofit.com/markets/q2-results-live-updates-october-30-ril-sun-pharma-bel-jio-platforms-varun-beverages-among-213-companies-to-announce-earnings-today-12257417#publisher=newsstand)
 Q2 Results Live Market Blog
 
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
+
+### [Cyient Is Betting On Semiconductors And AI. When Will Earnings Follow?](https://www.ndtvprofit.com/markets/cyient-is-betting-on-semiconductors-and-ai-when-will-earnings-follow-12257957#publisher=newsstand)
+Cyient's engineering business is showing margin improvement, while its semiconductor and electronics manufacturing operations build their growth pipelines. But converting orders into revenue, restoring DLM margins and achieving semiconductor breakeven remain key tests.
+
+**Source:** NDTV Profit  **Date:** 2026-10-30
+
+### [RPG Life Sciences RPGLIFE Q2 FY27 Results Board Meeting - Kalkine India](https://news.google.com/rss/articles/CBMiygFBVV95cUxORnhRT2Y2UVJlbDhrU0Y2UW1YeThFOC14R3ZhaGVKZ2c0aUNNY1JaaURQbXFKVGhDelBJa2pFMFRmSFUzR1Fyc2lZQnJzZExiZVdOTTJpeVh3S21abmhpeExqMmZILVVfcFA4a2tIMGMwZ0FQeGFlVm5POGlEYUE4UTE4SXdjbUJjX1QtY3p2QjRydGZIeU1sbHJncGpoVFpTdFhEZ21YX1lFRVNhcUV3VkFlQzliVTV6alVGY3lhUVREVlBsRlJ4RHRR?oc=5)
+RPG Life Sciences RPGLIFE Q2 FY27 Results Board Meeting &nbsp;&nbsp; Kalkine India
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-29
+
+### [Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges - The Economic Times](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd1lMeVVWeklJSkhBcmljRnhmSjdCVHc3OVVqSHJkMkFic0txSnRhY3gxdU5JMjhJeFJSSk50emthQmxZY1hxRVFfVS1wcGtGTGM1LVlLRmhZZ0Z0UUlhZUZ2NlNmSVZVeFVzaVQzdk1EU0JSOGp2WlExYXRhZEFDaG5BSXhfR183cmU0ck14TWF2eHVadm9tSHoyVTRKdkRzTEZxZGJHOG9IMzlNWnl5MzQwOWVDdG9XUnV6WmxzOW9IYWRzbXMwZVFKcEZReGdtSkZmNUtFNTl4bzNabGlqVnJVdlhMV3U4dTVzVWZZS3LSAfYBQVVfeXFMTUxxYTBEd25aY3Y0UzBlZ2pENzNxYnZlOTVMYy1uX1NXelRPVWNrYUNKWUZVSGtVTnhLMGpKYUo3V0FrX1FSYVdxVTF6V295RlFOdW1yNGJ4eDBYaFREVVU2X0lPb2xpMGN6SU1LMnk1amVIc01ZY3JfSGtkYzMyUHBDYzYzZU9OZkZUZVY5cXZUanVKRkljNFF4TVpiSmJaY0NDZE1sYThnOFdkUExWak9CMDRJX3dYeENsTEVreTJ2S3hXSkdHN3lDV3AxbHFybzhDeW1BUFZpbE0wbXpnX0NpU0dQVi04cW51OEZhOGtwZ0daR2RB?oc=5)
+Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges &nbsp;&nbsp; The Economic Times
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
+
+### [Sun Pharma Q2 Results: US sales meet expectations; Other parameters deliver a beat - CNBC TV18](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ3pDc1J1Q1JPMWFzRjR6MXEwOXEzMzdVMG9kYmxxUEswaExteUVPRkdsVU5tSUNGNWhmNU1Qb0FwaEtHSGJPMnJiRTFLUy1DSDZ4VXQwUW1vUHFaTkVIdzZnckdGYXktQmFPNDdfdG5TTkVtRjJxTzJvYno3SWtHNEU1cTh5TGZjRTU5Ukhma1R4d2plUlIyTWlXLWpmOG9SNWtaYl92ZVczYTJDYXliNFR4eWlDNnhtb3pjWlZaV2JXQVU0czljVk9xbEVfVnZZbjFUTkhaNEZsRkFOSDA2dWE5eG9zLUVaNS0yYdIB8gFBVV95cUxPSFpyZjJuMDFMS2pjWVFMb2JRU3FPeGt5Xzg4b25QcVV2LVJKT0xRMDYwTHZCcWg2dzI2d0dybVZ0QjZrbWk4blMzN2VYVjhQX2VfUFB4WDVZNl91aUhESEJmS29jNm9ST0thek1GS0ktT2hrbEJYd1NabFZmb3hFcHB6OW1uOUtCSmpVeUJXeWhseGdVd05RZHFOZ2JBYTM2NHA3SzQxNHA2bTc1NU54cTRpN1p3QW9KX1ItX1QyWDJaVm0xX08tS2VSZTN6dWhCQmRaQ0hwRGliVUJOM2FyRXQ0R3ZBbXFIYWdUMEpxVEJIQQ?oc=5)
+Sun Pharma Q2 Results: US sales meet expectations; Other parameters deliver a beat &nbsp;&nbsp; CNBC TV18
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
+
+### [Stock Market Today: Sensex Rises, Nifty 50 Near 23,000; Trent Zooms 6%, Sun Pharma 2%; RIL, Jio Platforms Q2 Results Eyed - NDTV Profit](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTFyMk9sdFl3QmJnUDd2OGhhdDNIZ3FwcDQwclFmNE1Ba3ZsakV0RzN0RHlKUkRYZnJST19SVDlqZmp5UGV0OGdOYzlLTkNNMTFqaEhNZGQ5cmctT2JzTEtZNzk4N1lfb2lyc2NuVU1ETHNWU0ZBZWpxX29hVWxxNUp4VE5pNndCVFVDeWtmZWNPQkh4U2xFeFp6NEd0am1jV2FBSWZIb215bUxTVnc2LTdhQ0lmM21KSHUtQjVSVlVpajhPdkZYdHQwTEgyc01tMFdxLXZBZkUwSUdGdXNkUjl4NGVMeHNWNzVROXhhSDUxT1BJSXo1enlzR3VVNXpyeWRaeTc4YmLSAZACQVVfeXFMTUltcFpOMzllTWlGSzAweENGY0Nob0tmTk96eV9wOVB1cGlDeTRuN1hRRFI4RS1KTVoyUW5xdWxpU24ySVIzWk9JV2F6bks2bVJ4TlZidVFqQk1LU3pOYlNEV2Qyc1JVSGlhVDhyb19xQlpQbWFmUmdXakhsUDZtSUEzSXlnQVA1SEhXV1BzZURDVnJablhfSk1FUzVCSmEwQmpZczltQVRON3otMzV4MnUzVGxsTlNJMGt3ZU5fWlhrcU53YzdHTE92UGx0QjdBTkdfOUVobGVib3VCcDR2MGZ4Ulk4R1haZkJZdEQxalExRDZqT01DMjlQbEE4RVJ4b0Z0UGh1c05kX1A3bnNOWFQ?oc=5)
+Stock Market Today: Sensex Rises, Nifty 50 Near 23,000; Trent Zooms 6%, Sun Pharma 2%; RIL, Jio Platforms Q2 Results Eyed &nbsp;&nbsp; NDTV Profit
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
+
+### [Q2 Results Today, October 30: Reliance Industries, Jio Platforms, Sun Pharma, BEL, Indian Oil among 200+ companies announcing earnings - ET Now](https://news.google.com/rss/articles/CBMikAJBVV95cUxPSlZfcWVFQ3FieHZvS2V5SHc5UlphdW5lWHRXMWdXVnREY21HcUxTNGwxMC02Z1l0emY4eTF5R0FTcHVxa0hrblU4ekY1QXBCZ2JiYjlSYWt6cUQ5bm1EcjNSLUhIYkwwLXEwajlaTWtEd05BUnoxVDFpNUF0STNSRERrd0tFYXNNZmM5aUdaNUw0akNhdWVPSGlCTGhFNW56cWxYU3FGZ1NBTDhDWEp2QWxFbm00Q29rb1QwalBmOE1NamhoV0x5YnZ1X1Z1bzVERUxqV0tNekcta016b0NWcmo2Y0R5U0hBdHRRdDJNZU9DamdYRlR2RTN6azhPdVhZRTg2aHl6RnYzMEVabUM4NNIBlgJBVV95cUxOY3RNaDFJX1lJMHFOdHZZYmtXS0tsZnN5dDJ4ekFsdFVBT1dUUHpmMXdUck5kTTFBdVlibFhEbk12ZlVIQklmSG5tcGRZN3Fjck5TNXFpNzg5R1BELTVRNFhzc04tSEIzQW1PWlNURmxxenZ3NG1hX3d0X1dwNjYtbTVpYmpOR1U0aFl4MXhLU1N0WW5WTmljVzQ4cVdQUWxsbVV6a0N4X1dkWnhfUFlXZjRmWjBqbGNESzQzR0ZOeFlENmFRajVLS0RVREFTQWZuaUVWd1VyczBTcW1Uc1B0dWlVR01JUDVsTExxMlJ4blByMEtYTkZRdGhxM0VVMVdLcmxlVWxVVVMxMHQxb2wtcDg5ajY3QQ?oc=5)
+Q2 Results Today, October 30: Reliance Industries, Jio Platforms, Sun Pharma, BEL, Indian Oil among 200+ companies announcing earnings &nbsp;&nbsp; ET Now
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
+
+### [Top Q2 results today, October 30: Bharat Electronics, Sun Pharma, Bank of Baroda, IOC, Varun Beverages among companies to report earnings - Business Upturn](https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFlbnZMU2piTkFlbjFidm8tdkVhVDE1SHNJSEJzeGVsQ1cwTWZiUnJubmhmeE9uc2t2Zy1tRmNOMVc2eHJ2R3g2aVlLYnEyWG10LTcwbWEtNE5CVTFzWnNFZkJacmtGODg5dXZJZkMtWjE0TFRKOEVmc2hneWNCRTJXUWw3TTVrTmRsM1hRakJoZHhkcHFsOHoyVy05VEFvN2xyTGZQM09wdWZxNXJXbk9LOTBGbFp3eXI5aFVBQWw3bEdabFpqcC1yNFcxM2haWUlFbjNaWll5aDlCQXU0bldnNXZrUE1DYjBuRnloWkZ0QUhRVDNIbDVzY2tJRWM1RmdRaGFrb24wVG00b2lDR0hRUjBkZTRzWXVzWjE0cWJOT2dO?oc=5)
+Top Q2 results today, October 30: Bharat Electronics, Sun Pharma, Bank of Baroda, IOC, Varun Beverages among companies to report earnings &nbsp;&nbsp; Business Upturn
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
+
+### [Windlas Biotech Q2 FY27 Earnings Call Scheduled for 6 November 2026 - Kalkine India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzBYS0lPNk1UUEQzczkyZTZJN29RN0lhQUhRdTU4WV9ObnlrVVhkSjlYN3RFSzBVQUF2NXNTcmRaVlJ1bWxhT0Z3c3BFaUVJVkFUQkRETE1oZG5HSTlfam0tYmUtSnhXdGlNaUdIMUNKRnVtc1pDZ1BiMVd1aG5UZFV4cmtGRHVLd2tPWFQ3QklkZTRiVzVzbWhOQ29TWDJmX0JmcWZ5NVg0SXVZN0E1WkJaQkI3aVlVSGZZ?oc=5)
+Windlas Biotech Q2 FY27 Earnings Call Scheduled for 6 November 2026 &nbsp;&nbsp; Kalkine India
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [Stock Market Today, October 30: RIL, Jio Q2 results, Japan rate decision, forex reserves - 10 key triggers for Sensex, Nifty - ET Now](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNamZ1UG1fNEpHV0dYVE1zb1lmLWJxUk5rSEx0M2hsV0NGRXdSaElkZTBNUjZXbU5pZW5STUpUbEkzTFg2OEhGWlk4Q2hkeXZxdHAzMG1vZFZVT2VoTkdweEt4Z0ppU3BscGlFMjN5ell5NE5wNHJ4NWpkV05PMkVENUVHVHR1bjAzQWtNTW8yelVwWjN3SldlUkxpaEIwdHlQdXFRVXh3dUZYR1JMZUVwY3Y3S09GdXBpTVFVVGFxaWdYcXRzR0NYVlBFMVR2NmJYVUNJcmZmVlhXQnJiRG9pZzBiUlJuMnpJVlBpWjBzTjh3bkhEeHpRRWJRdU7SAYICQVVfeXFMTVlBRG51UDZtVlB0OENLRUZvdlJTOXUzNU44SndaYUoxVXplVS1GZFpTMXF4WVUwTUp5bHotM0N6SXJtZlJmdzE3ZjFUaDcwUlBpWmR2c2ZpTUJNSUREOTV5cUN3eUFsTWZ0dmt3UVhEYzFaYTJaaWRFV284OGlZeGVoLUJfTElLZVVqUTVudUR4aGR4aHVEb3lYXzg2WUpIbjR5OVJ0NVdUUE1HWGdfSHoxckxvM09YdVBGRnNLV3laOXNNckVRWXEyd1pvelRCelluV1RNT1Zxb25reU42ODN6SlhBVWdLV0lXd2tXMGx0QVBXM2Y4WVNzZ3Y3c2lTV2Rn?oc=5)
+Stock Market Today, October 30: RIL, Jio Q2 results, Japan rate decision, forex reserves - 10 key triggers for Sensex, Nifty &nbsp;&nbsp; ET Now
+
+**Source:** GNews - Sun Pharma  **Date:** 2026-10-30
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (8)
+## 🤝 Deals, M&A & Partnerships (5)
 
-### [US accounting firm Inkle with tech ops in India acquires Finally's bookkeeping business, expands workforce — details](https://www.livemint.com/companies/news/us-accounting-firm-inkle-with-tech-ops-in-india-acquires-finallys-bookkeeping-business-expands-workforce-details-11793278891120.html)
-San Francisco-based Inkle has acquired the bookkeeping division of financial operations platform Finally in an all-cash deal, adding about 100 employees and expanding its reach across the Americas.&amp;nbsp;
+### [World’s No. 2 Gold Miner Says Diesel Risks Driving Up 2027 Costs](https://www.livemint.com/companies/worlds-no-2-gold-miner-says-diesel-risks-driving-up-2027-costs-11793299568785.html)
+Agnico Eagle Mines Ltd. warned that rising diesel prices risk raising the cost of producing gold by as much as $80 per ounce next year, signaling mounting inflationary pressures for the mining industry.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
-
-### [Ambani magic captivates India once more with blockbuster deal](https://economictimes.indiatimes.com/markets/stocks/news/ambani-magic-captivates-india-once-more-with-blockbuster-deal/articleshow/135288554.cms)
-Jio Platforms Ltd. recorded India's largest IPO, raising $3.1 billion and experiencing a 27% rise in shares. The Ambani family strategically adapted the deal structure and lowered valuations to attract investors. Mukesh Ambani's son Akash played a significant role in this IPO process, marking a milestone for the Ambani dynasty. Jio's market valuation exceeded $130 billion, becoming India's second-most valuable company.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
 
 ### [PNB settles  ₹43 lakh in claims amid alleged fraud at Greater Noida branch](https://www.livemint.com/companies/news/pnb-settles-43-lakh-in-claims-amid-alleged-12-crore-fraud-at-greater-noida-branch-11793293216860.html)
 Bank says three claims have been settled as complaints mount over alleged unauthorised transfers from savings accounts and fixed deposits; 25 customers had complained by Wednesday.
@@ -411,165 +389,201 @@ Nelson Peltz’s Trian Fund Management and partners have offered $1.4 billion, o
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
 
-### [Inside Adani Group-Tata Group mega deal: 8 hotels, 2,000 rooms | HCL Taj, Vivanta, Gateway and Ginger brands details](https://www.livemint.com/companies/news/inside-adani-group-tata-group-mega-deal-8-hotels-2-000-rooms-hcl-taj-vivanta-gateway-and-ginger-brands-details-11793272198411.html)
-Under the agreement, the hotels will operate under IHCL’s Taj, Vivanta, Gateway and Ginger brands, catering to business, leisure and transit travellers. The partnership envisages Adani Airport Holdings developing the hotels, which will be operated by IHCL.
+### [AIIA launches national AI challenge for Ayurveda on incubation centre’s sixth Foundation Day](https://www.expresspharma.in/aiia-launches-national-ai-challenge-for-ayurveda-on-incubation-centres-sixth-foundation-day/)
+AIIA-iCAINE launches an IPR facility, signs two MoUs with the World Ayurveda Foundation and Reliance Retail, and conducts a workshop on entrepreneurship and design thinking. The post AIIA launches national AI challenge for Ayurveda on incubation centre’s sixth Foundation Day appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
+**Source:** Express Pharma  **Date:** 2026-10-30
 
-### [Adani Airports, IHCL sign eight-hotel agreement in 4 cities](https://www.livemint.com/companies/news/adani-airports-ihcl-sign-eight-hotel-agreement-in-4-cities-11793262306239.html)
-The partnership spans four cities and four hotel brands as Adani steps up plans to build integrated commercial hubs around its airports.
+### [Pharma M&A deal value, volumes declines in Sep quarter, PE buyouts rebound - pharma.economictimes.indiatimes.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTURIbmY0OFBHOG5xY2tGbkhVcEtyeTVWbzhfN2tpa1RXd2VnaG1OMTljZjF3OGI3YUI5Ym9uOHRDVE5UUTdpWWpBTXJQX1hPZ21RYXZZNlFLaHpWTUo3My15WWxSbnIyNi1rT2lGdFpvdlExdmlsQUc4dUZjQVNOVmpQM1V5WEF1SEc5b3NIVmFzUlBGcGJXdHM4LXhiWXJ4aktucHh0aHdzZGdQcTVUNHJFVjEzU3d5bXc0OENFTC1UVm5VY1pCNWd1Qjl0UkN1ell5Y2dTR01NdkNHeFdhQXVzZ1d3T3FvV09N0gHwAUFVX3lxTE1KNWFaeHU1dVRnQlY2WWczQnhjZlRTWEFaM24yTEhZektDWWp5YVlSWGt3dGN3N29xbUJPQUFFY0ZHLV9nOVRGN0ZNMHNTQ1BTWnJ1eDVJSEFoRm9hYUZaeHRHUFh0MzBsVWxZdkNnZVFudFJMUjJvTHhwTTZKd1ZLeHp1OHZubjZIa3lhOXl4eklqOTFlTmJmYUk3M2o1WDhoTDE2aFZ4N3VpR3pIV2JXUUQtdmhrdlp0TmhGbVhsRklBMlBuRFN1VVNzZEhMSlhiMVZYMHFtY0RQdVdiWFR5SlMyNUxpc2RzUjhKNl9GZQ?oc=5)
+Pharma M&amp;A deal value, volumes declines in Sep quarter, PE buyouts rebound &nbsp;&nbsp; pharma.economictimes.indiatimes.com
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
-
-### [Spektus Pharma, GEBRO partner to commercialise ActraFlex globally](https://www.expresspharma.in/spektus-pharma-gebro-partner-to-commercialise-actraflex-globally/)
-The partnership covers Europe, the Americas and selected Rest of World markets for the twice-daily extended-release tramadol and paracetamol formulation The post Spektus Pharma, GEBRO partner to commercialise ActraFlex globally appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-10-29
-
-### [After Nandini Milk, Karnataka Weighs Bus Fare Hike As Transport Corporation Losses Mount](https://www.ndtvprofit.com/india/after-nandini-milk-karnataka-weighs-bus-fare-hike-as-transport-corporation-losses-mount-12255505#publisher=newsstand)
-Karnataka governmnet are likely to announce a decision on a proposed government bus fare hike on November 4.
-
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** GNews - India Pharma M&A  **Date:** 2026-10-30
 
 ---
 
 ## 💸 Corporate Actions (1)
 
-### [Coal India Declares Interim Dividend Of Rs 10.25 Per Share For FY27 | Check Record Date](https://www.ndtvprofit.com/markets/coal-india-declares-interim-dividend-of-rs-10-25-per-share-for-fy27-check-record-date-12254406#publisher=newsstand)
-Coal India Board has fixed Wednesday, November 4, 2026 as the record date to determine the eligibility of shareholders for the dividend payout.
+### [Uber looks to take Black service to more metros as premium mobility gains pace](https://www.livemint.com/companies/uber-black-service-to-more-metros-as-premium-mobility-gains-pace-11793334318834.html)
+The move comes at a time when competition in the premium mobility segment is intensifying. Several players, including Alyte, a premium mobility service owned by Mahindra Logistics, and Green SM, backed by Vietnam's Vingroup, are looking to strengthen their foothold in the high-end market.
 
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** Mint - Pharma  **Date:** 2026-10-30
 
 ---
 
 ## 🏭 Operations & Approvals (5)
 
-### [Tata Power, JSW Energy, Torrent Power: Ambit sees buying opportunity in power stocks after valuation reset](https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms)
-Ambit Capital sees the recent correction in power stocks as a re-entry opportunity, favouring Tata Power, JSW Energy and Torrent Power. Rising electricity demand, fresh capacity contracting and limited PPA visibility could drive the sector’s next growth phase.
+### [Jio Platforms share price up 28% from IPO price. Here’s what these 4 brokerages are saying](https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-share-price-up-28-from-ipo-price-heres-what-these-4-brokerages-are-saying/articleshow/135343944.cms)
+Jio Platforms shares extended their post-listing rally, rising over 28% in three sessions. Nomura, Motilal Oswal, Dolat Capital and Elara Capital remain positive, citing tariff hikes, 5G monetisation, broadband expansion and digital services growth.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Bajaj Electricals exec chairman Shekhar Bajaj to become non-executive board member from January](https://economictimes.indiatimes.com/markets/stocks/news/bajaj-electricals-exec-chairman-shekhar-bajaj-to-become-non-executive-board-member-from-january/articleshow/135300503.cms)
-Bajaj Electricals executive chairman Shekhar Bajaj will step down from his current role by the end of 2026 after leading the company for four decades. He will transition to a non-executive board position from January 1, 2027, subject to shareholder approval. The move is part of the company’s shift towards a professionally managed, board-led governance model, it said.
-
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
-
-### [CCPA fines Just Dial  ₹10 lakh for listing sellers of explosive ammonium nitrate](https://www.livemint.com/companies/news/ccpa-fines-just-dial-rs-10-lakh-for-listing-sellers-of-explosive-ammonium-nitrate-11793262719002.html)
-The consumer watchdog rejected the company's defence of being a passive directory, ordering it to immediately stop facilitating access to regulated explosives without mandatory statutory disclosures.
+### [Nike launches first running shoes designed for India. What makes it different? Price, health benefits, top features](https://www.livemint.com/companies/nike-launches-first-running-shoes-designed-for-india-what-makes-it-different-price-health-benefits-top-features-11793297274855.html)
+Nike unveiled its first-ever running shoe designed for athletes in India. The launch comes as the company continues to grapple with the dip in sales in other key regions, including China, as per Reuters.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
 
-### [Ahmedabad couple turns  ₹3,000 into  ₹6 lakh monthly business by selling cold coco from their car; here's how they did it](https://www.livemint.com/companies/people/ahmedabad-couple-turns-3-000-into-6-lakh-monthly-business-by-selling-cold-coco-from-their-car-heres-how-they-did-it-11793271715265.html)
-Darshan Zinzuvadiya is an engineer and Shruti Zinzuvadiya is an MBA in finance who launched The Coco Station with two branches in Gujarat. They serve drinks starting at ₹119.
+### [Hikal’s Bengaluru API facility receives Swissmedic GMP certification](https://www.expresspharma.in/hikals-bengaluru-api-facility-receives-swissmedic-gmp-certification/)
+The certification follows inspections by Brazil’s ANVISA and Japan’s PMDA, supporting Hikal’s expansion across regulated pharma markets The post Hikal’s Bengaluru API facility receives Swissmedic GMP certification appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
+**Source:** Express Pharma  **Date:** 2026-10-30
 
-### [Amul To Launch High-Protein Snacks Tomorrow: 'Protein Content Comparable To A Scoop Of Protein Powder'](https://www.ndtvprofit.com/india/amul-to-launch-high-protein-snacks-tomorrow-protein-content-comparable-to-a-scoop-of-protein-powder-12255121#publisher=newsstand)
-Amul is launching a high-protein savoury snack on Friday, with protein and calories comparable to a scoop of protein powder, after over a year of R&D.
+### [Amul Launches High Protein Cubes With 25 g Protein and 150 Calories Per Pack](https://www.ndtvprofit.com/business/amul-launches-high-protein-cubes-with-25-g-protein-and-150-calories-per-pack-12258014#publisher=newsstand)
+The cubes come in a box of five single-serve packs, each with a seasoning "tastemaker" sachet.
 
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
+
+### [Hikal NSE:HIKAL Bengaluru API Facility Swissmedic GMP Certified - Kalkine India](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUYzY2xlX3VTS2JYRVBzMWxHbEdkVHZwcklWQWVNMjFEcDV5c2YtNDBiSmduNzRkSXRnNjhpaTNIczJ2aW9FNEtYYjBuOEpoSTNGNXdtS0JzRHY0M0MzMzByU3NNcjdwWEJTd04tcS1aTUJHN0Rhb1lOOVB1V1VLUVBlMnFkSHM4M2lYbHl1a3FNaTRtZUpYSmlxeW9aSmdwdURsbTAxLVhtX2FrX2ZFRXY1SQ?oc=5)
+Hikal NSE:HIKAL Bengaluru API Facility Swissmedic GMP Certified &nbsp;&nbsp; Kalkine India
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
 
 ---
 
-## 📉 Analyst & Brokerage Calls (11)
+## 📉 Analyst & Brokerage Calls (8)
 
-### [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms)
-Indian equities rallied over 1% on Thursday as the Federal Reserve held interest rates steady, crude prices eased and institutional buying strengthened sentiment. Sensex gained 905 points, while Nifty rose 238 points, adding nearly ₹5 lakh crore in market value.
+### [FIIs hold $717 billion worth of Indian stocks, but trim exposure across 56% of Nifty 500 companies.  Where are they investing?](https://economictimes.indiatimes.com/markets/stocks/news/fiis-hold-717-billion-worth-of-indian-stocks-but-trim-exposure-across-56-of-nifty-500-companies-where-are-they-investing/articleshow/135353242.cms)
+FIIs held $717 billion worth of Nifty 500 stocks in September 2026, with private banks accounting for the largest share of their investments. While foreign investors increased exposure to sectors such as healthcare, technology and automobiles, they trimmed holdings in 56% of Nifty 500 companies over the past year.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms)
-Indian stocks rallied after the US Federal Reserve held rates steady, easing crude prices and renewed institutional buying lifted sentiment. Technical analysts identified Adani Ports and Eternal as potential Friday trading opportunities, citing bullish momentum, breakout levels and defined targets.
+### [Elon Musk's unusual fix for AI data centre backlash: Buy out an entire neighbourhood, but with conditions](https://www.livemint.com/companies/news/elon-musks-unusual-fix-for-ai-data-centre-backlash-buy-out-an-entire-neighbourhood-but-with-conditions-11793332911103.html)
+Elon Musk’s data centre companies are reportedly seeking to buy 418 homes near their Southaven facilities, with sellers allegedly required to avoid joining a noise-pollution lawsuit.&amp;nbsp;
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Mint - Pharma  **Date:** 2026-10-30
 
-### [Market wrap:  Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex on Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ports-sez-adani-ent-trent-maruti-suzuki-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/135307738.cms)
-Indian equities rallied on Thursday, with the Sensex rising 905 points and the Nifty gaining 238 points as easing crude oil prices, the US Federal Reserve’s rate decision and institutional buying lifted sentiment. Adani Ports SEZ and Adani Enterprises led Nifty gainers, while Trent and Maruti Suzuki were among the top losers.
+### [Govt defends  ₹11,000 cr customs duty demand against Volkswagen, accuses it of underpaying tariffs: What is the dispute](https://www.livemint.com/companies/news/govt-defends-rs-11-000-cr-customs-duty-demand-against-volkswagen-accuses-it-of-underpaying-tariffs-what-is-the-dispute-11793330795513.html)
+India has defended its record ₹11,000-crore customs duty demand against Volkswagen in the Bombay High Court, accusing the German carmaker of withholding information and underpaying import tariffs. Volkswagen denies wrongdoing, saying authorities raised the claim long after the alleged imports.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Mint - Pharma  **Date:** 2026-10-30
 
-### [Jio Platforms is becoming more than a telecom company: Dolat Capital](https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-is-becoming-more-than-a-telecom-company-dolat-capital/articleshow/135297190.cms)
-Jio Platforms is poised to evolve beyond telecom as tariff hikes, 5G monetisation, home broadband and enterprise digital services drive its next growth phase, according to Dolat Capital. The brokerage initiated coverage with an Accumulate rating and a target price of Rs 1,435, citing strong growth prospects and rising free cash flow.
+### [Arijit Singh, Karan Aujla Lead Line-Up At Goa Music Fest: Check Dates, Full Line-Up, Where To Buy Tickets](https://www.ndtvprofit.com/entertainment/arijit-singh-karan-aujla-lead-line-up-at-goa-music-fest-check-dates-full-line-up-where-to-buy-tickets-12258073#publisher=newsstand)
+Goa to host the first ever HOME Music Festival in December.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
 
-### [Sensex jumps over 500 points, Nifty above 22,850 after Fed keeps rates unchanged. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-500-points-nifty-above-22850-after-fed-keeps-rates-unchanged-what-lies-ahead/articleshow/135290753.cms)
-Following the Federal Reserve's recent decision, the Indian stock market surged, with Sensex rising by over 500 points and Nifty up by more than 150 points. Adani Ports and Power Grid were among the top gainers, while Trent faced a downturn. The breadth of the market remained positive, as advances outnumbered declines on the NSE. Analysts, however, highlighted potential global economic issues that could pose challenges for India.
+### [Gold, Silver Lose Shine: Yellow Metal Falls Below Rs 1,42,000, Silver Price Crashes By Rs 5,400](https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-falls-below-rs-1-42-000-silver-price-crashes-by-rs-5-400-12258041#publisher=newsstand)
+Higher interest rates increase the opportunity cost of holding non-yielding bullion, making gold less attractive to investors.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
 
-### [Jio Platforms shares jump 5% on Day 2 after ending 27% higher on debut day. Buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-jump-5-on-day-2-after-ending-27-higher-on-debut-day-buy-sell-or-hold/articleshow/135289058.cms)
-Jio Platforms shares rose further after a strong market debut, climbing over 32% above the IPO price. Nomura, Motilal Oswal and Elara Capital initiated coverage with Buy ratings, citing tariff hikes, ARPU growth and digital services opportunities.
+### [Buying Gold On Installment This Dhanteras? How Soon Can You Recover From Interest And Charges](https://www.ndtvprofit.com/personal-finance/buying-gold-on-installment-this-dhanteras-how-soon-can-you-recover-from-interest-and-charges-12257778#publisher=newsstand)
+Do check additional costs before entering any such schemes.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
 
-### [Securities Appellate Tribunal quashes Rs 1.49 crore penalty on Ventura Securities by MCX](https://economictimes.indiatimes.com/markets/stocks/news/securities-appellate-tribunal-quashes-rs-1-49-crore-penalty-on-ventura-securities-by-mcx/articleshow/135288381.cms)
-In a pivotal decision, the Securities Appellate Tribunal annulled a ₹ 1.49 crore penalty that MCX had levied against Ventura Securities for purported client violations. The tribunal's ruling stemmed from the finding that the order was signed by an ex-member of the committee. As a result, the tribunal has ordered MCX to reimburse the fine, including an additional ₹ 1 lakh for the brokerage's legal expenses.
+### [Exclusive | Cult.Fit Completes IPO Roadshows, Targets Mid-December Listing](https://www.ndtvprofit.com/markets/exclusive-cult-fit-completes-ipo-roadshows-targets-mid-december-listing-12257996#publisher=newsstand)
+The IPO is expected to provide an exit opportunity to some early investors who have been invested in the company for several years, while bringing in long-term institutional shareholders.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
 
-### [New Trent Chairman: Who is Bahram Vakil? Meet Columbia University LLM holder and co-founder of AZB &amp; Partners](https://www.livemint.com/companies/people/trent-appoints-bahram-vakil-as-chairman-with-effect-from-nov-12-who-is-he-and-what-to-know-about-noel-tata-s-successor-11793273831485.html)
-Trent Ltd. appointed Bahram Vakil as chairman from November 12, replacing Noel Tata, who becomes chairman emeritus on the same day. All we know about Tata's successor.
+### [Why Stock Market Is Rallying? Nifty Reclaims 23,100, Sensex Surges 500 Points; Three Reasons Why](https://www.ndtvprofit.com/markets/nifty-reclaims-23-100-sensex-surges-500-points-three-reasons-why-stock-market-is-rallying-today-12257797#publisher=newsstand)
+The Nifty's breakout above its five-session trading range, continued DII buying and broad-based sectoral gains support the rally, while technical analysts identify 23,175 as a key resistance level and 22,650 as crucial support.
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
-
-### [PNB Housing Finance targets  ₹3,000 crore corporate loan book by FY27-end](https://www.livemint.com/companies/pnb-housing-finance-corporate-loan-book-rs-3000-crore-fy27-11793262912694.html)
-The company is maintaining its growth guidance even after a rating upgrade that will help reduce borrowing costs&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-10-29
-
-### [Buy, Sell Or Hold: ICICI Bank, Hyundai Motor, Trent, Tata Steel, Schaeffler India And L&T Finance — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-icici-bank-hyundai-motor-trent-tata-steel-schaeffler-india-and-l-t-finance-ask-profit-12255740#publisher=newsstand)
-Market experts shared buy, sell and hold recommendations for an array of stocks.
-
-**Source:** NDTV Profit  **Date:** 2026-10-29
-
-### [Jefferies Cautious On IT: TCS Rated Underperform, Infosys Hold After $10 Billion FPI Outflow](https://www.ndtvprofit.com/markets/jefferies-cautious-on-it-tcs-rated-underperform-infosys-hold-after-10-billion-fpi-outflow-12255131#publisher=newsstand)
-The brokerage favours energy, utilities and real estate, with Reliance Industries among its preferred energy stocks.
-
-**Source:** NDTV Profit  **Date:** 2026-10-29
+**Source:** NDTV Profit  **Date:** 2026-10-30
 
 ---
 
-## 📰 Industry & Policy News (8)
+## 📰 Industry & Policy News (21)
 
-### [Shukra Medtech, Laurus Labs among 4 healthcare stocks to hit 52-week highs and rally up to 26% in a month](https://economictimes.indiatimes.com/markets/stocks/news/shukra-medtech-laurus-labs-among-4-healthcare-stocks-to-hit-52-week-highs-and-rally-up-to-26-in-a-month/slideshow/135311397.cms)
-The Sensex surged 905 points to close at 74,151, while four healthcare stocks hit fresh 52-week highs. Shukra Medtech, Acutaas Chemicals, Piramal Pharma and Laurus Labs recorded monthly gains of 12% to 26%.
+### [Core4 Engineers SME shares to list today: Check IPO subscription status and other key details](https://economictimes.indiatimes.com/markets/stocks/news/core4-engineers-sme-shares-to-list-today-check-ipo-subscription-status-and-other-key-details/articleshow/135342428.cms)
+Core4 Engineers will make its debut on the BSE SME platform on October 30 after its Rs 54.82 crore IPO was subscribed 5.44 times. The NII category led demand with 12.26 times subscription, followed by QIBs at 5.06 times and individual investors at 2.72 times. The IPO was entirely a fresh issue of 58.94 lakh shares.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [COTRAV BLACK to debut at AR Rahman’s Mumbai concert on November 1 with exclusive luxury experience for India’s elite](https://www.livemint.com/companies/news/cotrav-black-to-debut-at-ar-rahman-s-mumbai-concert-on-november-1-with-exclusive-vip-experience-for-india-s-elite-11793279791479.html)
-It aims to cater to business leaders, entrepreneurs, high-net-worth individuals (HNIs) and ultra-high-net-worth individuals (UHNIs) seeking exclusive access to live events, personalised hospitality and privacy.
+### [Cipla Share Price Live Updates: Cipla's Stock Closes Strongly](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-30-oct-2026/liveblog/135340831.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Mint - Pharma  **Date:** 2026-10-29
+### [Equitas SFB shares tumble 27% in 2 days on CEO exit. More pain ahead?](https://economictimes.indiatimes.com/markets/stocks/news/equitas-sfb-shares-tumble-27-in-2-days-on-ceo-exit-more-pain-ahead/articleshow/135348776.cms)
+Equitas Small Finance Bank shares plunged 27% in two sessions after CEO and founder PN Vasudevan announced his resignation over a perceived conflict involving his daughter’s NBFC.
 
-### [NPPA revises MRPs of 543 brands of anti-cancer medicines](https://www.expresspharma.in/nppa-revises-mrps-of-543-brands-of-anti-cancer-medicines/)
-Revised prices will come into effect from November 9, 2026, following trade margin rationalisation of 137 non-scheduled anti-cancer drugs The post NPPA revises MRPs of 543 brands of anti-cancer medicines appeared first on Express Pharma .
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Express Pharma  **Date:** 2026-10-29
+### [Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms)
+Indian equities turned lower as crude oil prices crossed $116 per barrel, raising concerns about inflation and economic growth. While the Sensex and Nifty posted modest declines, midcap and smallcap indices fell more sharply amid weak market breadth.
 
-### [10 defence stocks rally up to 500% in FY27 so far; 5 turn multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/10-defence-stocks-rally-up-to-500-in-fy27-so-far-5-turn-multibaggers/slideshow/135303076.cms)
-India’s defence stocks have outperformed the Nifty 50 in FY27, with the sector index rising 22%. The top 10 performers gained 43–513%, including five multibagger stocks.
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+### [Tata Capital among 4 Nifty500 stocks closing above VWAP](https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-among-4-nifty500-stocks-closing-above-vwap/slideshow/135342034.cms)
+Four Nifty500 stocks closed more than 1.5% above their respective volume-weighted average prices (VWAPs) on October 29, according to StockEdge’s technical scan, indicating that they ended the session above their average traded prices.
 
-### [Why is market rallying today? Sensex jumps 900 points, Nifty above 22,900. 6 key factors behind Rs 5 lakh crore gains](https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-22900-6-key-factors-behind-rs-3-lakh-crore-gains/articleshow/135291603.cms)
-The Indian stock market saw a vibrant uptick as both Sensex and Nifty surged over 1.1%, attributed to the Federal Reserve's decision to maintain interest rates. Renewed interest from foreign investors was evident, with net purchases of Indian equities totaling approximately Rs 872 crore on Wednesday. Optimism surrounding potential reductions in long-term capital gains tax also fostered positive market sentiment.
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-30-oct-2026/liveblog/135340734.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-10-30
 
-### [Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which stocks may benefit most?](https://economictimes.indiatimes.com/markets/stocks/news/potential-ltcg-tax-cut-could-revive-fiis-india-bet-says-jefferies-which-stocks-may-benefit-most/articleshow/135290083.cms)
-Jefferies sees a potential long-term capital gains tax (LTCG) cut as a possible trigger for foreign investors to return to Indian equities after record outflows. Banks, Reliance Industries, utilities and real estate stocks could be the biggest beneficiaries. Here’s where foreign investors are positioned and what a tax cut could mean.
+### [IDBI Bank's  ₹52,878 crore sale: What explains the  ₹3,917 crore increase in winning bid? Centre clarifies](https://www.livemint.com/companies/news/idbi-banks-52-878-crore-sale-what-explains-the-3-917-crore-increase-in-winning-bid-centre-clarifies-11793336038355.html)
+The government has defended the ₹52,878 crore IDBI Bank stake sale to Fairfax, saying the reserve price was not changed in round two. The Finance Ministry says the revised process fetched a higher bid of ₹3,917 crore, while the tax indemnity risk is only ₹627 crore. Govt and LIC keep 15% and 19%.
 
-**Source:** Economic Times - Markets  **Date:** 2026-10-29
+**Source:** Mint - Pharma  **Date:** 2026-10-30
+
+### [Lab Rats series: A Bengaluru startup’s bid to drug the undruggable](https://www.livemint.com/companies/start-ups/mint-lab-rats-series-peptris-technologies-biotech-startups-in-india-11792299383678.html)
+Backed by an ₹86 crore government grant and ₹70 crore Series A funding, Peptris Technologies is leveraging generative AI to build a preclinical pipeline targeting rare diseases and previously undruggable proteins.
+
+**Source:** Mint - Pharma  **Date:** 2026-10-30
 
 ### [Asian Paints treads carefully on price hikes as raw material costs squeeze margins](https://www.livemint.com/companies/company-results/asian-paints-treads-carefully-on-price-hikes-as-raw-material-costs-squeeze-margins-11793280176342.html)
 India’s largest paint maker is wary of passing on the full impact of input cost inflation for fear of dampening demand, even as rising costs erode profitability.
 
 **Source:** Mint - Pharma  **Date:** 2026-10-29
 
-### [Lilly’s retatrutide shows greater A1C reduction and weight loss than Ozempic in Phase 3 trial](https://www.expresspharma.in/lillys-retatrutide-shows-greater-a1c-reduction-and-weight-loss-than-ozempic-in-phase-3-trial/)
-The TRANSCEND-T2D-2 trial found greater reductions in A1C, body weight and certain cardiovascular risk factors with retatrutide at 80 weeks The post Lilly’s retatrutide shows greater A1C reduction and weight loss than Ozempic in Phase 3 trial appeared first on Express Pharma .
+### [How homegrown drugmaker Eris took on pharma giants in India’s semaglutide race - Moneycontrol.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTR1ZDJqQkpyWVgzaDBKbTlEWUt0VXlRZm9tcFZEUjV3T3F1SDl0TTRid1NqaVpZUkc2b0JOVWNrbExQVEpna2ZuSDhqRktXVVluUWY5a1oyajh2Q0xmamxNVjQtVUMzWDZ2LTJOb1BLMVhfdEJMbHJVckRiRDFHZjBFYWxGblpaRU9WZkhNNzZTUDZlZlN6STdqMHFvS3d2a0J3ZGdqMHVSakw3RkpDb3lJYUJGV1h3SFFDdE9GU0xRVUI3RW1wTkgwaHN3NWxx0gHWAUFVX3lxTE5QUG5VbDg0SWdnem5Da0R4bTRfd2I1YllNdnBya25DU1dzWlVfUGdtUFZZN1dNbWZORTBsVE1lcFhuZ1c4RUpISjFCTXpFNlhBc1RUc2dTUFFoaVZNd0ljcHg1b0VDdVZHMzF5MGhQaXVNVjkxXzVyQ0VWdFQwbHgtTFl0WHBDeXRkTV9XUVJBVkU0UWhqSWFlU3JnQzNCUnowUUs5aE9tUUhNQjgyVjZ4UFZNMGJ1Tl9fdmxmY2hiZHlqazRyOHdnQ1otV1lPVDljeWIwdVE?oc=5)
+How homegrown drugmaker Eris took on pharma giants in India’s semaglutide race &nbsp;&nbsp; Moneycontrol.com
 
-**Source:** Express Pharma  **Date:** 2026-10-29
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [Strides Pharma Science ESOP Allotment: 7,500 Shares Issued - Kalkine India](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVTViQk5ZdXFxQ2pKQ1ppeG8xZVVMYjR5R3VyMTVITXluamN1ZHZvN2pyT3BIWW1KV0piVzIyVDZQQjhJcGU4a1l1dVZXTkVQZ1hXZkdUMGhqczZmX3ROU1ZxWW5JYzZtR0V6aFV3cmVGNHRvNWhfeS1pMTd5dUpmWUxNSk8wT1JWRzh1NkVodGZaYlUyb3VONFRIMl9LcEVjY3QyVWUtdlVSQ25NSGR2dk9rX2poZHE2eXNuTTdZYUJWNk0?oc=5)
+Strides Pharma Science ESOP Allotment: 7,500 Shares Issued &nbsp;&nbsp; Kalkine India
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-29
+
+### [Zydus Lifesciences (NSE:ZYDUSLIFE): What Is Behind the Duplicate Share Certificate Notice? - Kalkine India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFFoWGNNYzZLRUZSYmh4emI3cEFtNFZ6OFI0emhrZW1hR1NnTXRQNFA2TFcta0FjWjZnSFJ4b0FfRHl2RDZMRnA3N093UnBORFowZ2dJVU92T0I0N00xYzhyeHhUOF9uU0RtUHNPZWFlLXo3S3hmX25aNkZUVGxCQy1NME8xekJPb205SDF4V1BUZnQ5dS01YUNlN1lMUTR1MDZ0ek9kSnlaTDhSR0dibXA5QVRESml0MjNmQ1Q5WG85aEh3UFVJdkRsZm5iZw?oc=5)
+Zydus Lifesciences (NSE:ZYDUSLIFE): What Is Behind the Duplicate Share Certificate Notice? &nbsp;&nbsp; Kalkine India
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [Stock Market Today: Sensex, Nifty 50 Off-Day's High; Trent, IndiGo, HCL Tech Among Top Gainers](https://www.ndtvprofit.com/markets/stock-market-today-october-30-sensex-today-nifty-50-open-higher-despite-brent-crude-at-116-ril-q2-jio-platforms-earnings-fii-iran-war-12256952#publisher=newsstand)
+Nifty Smallcap 100 index declined 1.2% and the Nifty Midcap 100 index dropped 0.55%.
+
+**Source:** NDTV Profit  **Date:** 2026-10-30
+
+### [Halloween Watchlist: 10 Forgotten Hindi Horror Movies That Are Still Terrifying](https://www.ndtvprofit.com/entertainment/halloween-watchlist-10-forgotten-hindi-horror-movies-that-are-still-terrifying-12258027#publisher=newsstand)
+From 'Veerana' to 'Papi Gudia', here are 10 Hindi films worth revisiting this Halloween.
+
+**Source:** NDTV Profit  **Date:** 2026-10-30
+
+### [Delhi Vehicle Entry Restrictions From November 1: Who Can Enter Under Revised GRAP Rules?](https://www.ndtvprofit.com/india/delhi-vehicle-entry-restrictions-from-november-1-who-can-enter-under-revised-grap-rules-12257939#publisher=newsstand)
+Delhi Traffic Police issues new restrictions on the entry and operation of vehicles in the national capital from November 1, 2026.
+
+**Source:** NDTV Profit  **Date:** 2026-10-30
+
+### [Stock market holidays in November 2026: NSE, BSE to remain closed on THESE days; check Muhurat trading schedule - Upstox](https://news.google.com/rss/articles/CBMihgJBVV95cUxPdVotb0hZM1JGTzlHZnlrb2tacWZpOWxlTHdHN3JWX0J4UWtfbXIyTWc1azFod0w3bk9Nd2RReWFvbGg2Wnd0QmVqVUFZMldiSlVZTC12ampyekpRZWtlQ0xRSkcxajlYM1RtWWlOU1ByaXhOc0JWR1NvdlNhb3lTbHdRZGxzaFNHMDBXMHNYa1RZbFdZajdfZmM3bFk3aXBYcUw5ME9QZ0RYTE1kb0tETEJzYjNDWjlmbkxvemVmSC1Fb1F3SmIyQ2dZTmhrcVJnX0NncTJLY2VYSERDbFJBbGNlbnpFemRlajdpUU0wRE1oei03dkVORGE4Z1dleHdHbTJ4aFBB?oc=5)
+Stock market holidays in November 2026: NSE, BSE to remain closed on THESE days; check Muhurat trading schedule &nbsp;&nbsp; Upstox
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [Sensex, Nifty close with gain of 0.5% as IT, pharma stocks rally; weak broader market limits gains - The Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSTkyRUF1SllOUkV6eWMyNHU2VzJPNk9nb3F4X0VLX0hrZVF6eldKSjRXLVl1d3FUWmxjVEx4TGpfWnd1ek9SMXNNcU5mR084RUNIT2dHV0ZzTkRNM1FHczM4eGsteUlvbURKYVRSdEdNZ2o4VUd2RXp0RzEyc0pwZ3owMTVObEZQQ2ltcjdOVG1tWFBCQUZEMzZBQU5NMnc0NFoyMUNySEprQmtBOE0yUF90Ty1lVldhYnN2bW9zT1BPNWNpSU9qS3hvMG5DeHQyYkNtTkE0cmlPcUVaNFpwbm8zeVRINHE5dWtwMnVPM2ZfdDBW0gH0AUFVX3lxTFBJOTJFQXVKWU5SRXp5YzI0dTZXMk82T2dvcXhfRUtfSGtlUXp6V0pKNFctWXV3cVRabGNUTHhMal9ad3V6T1Ixc01xTmZHTzhFQ0hPZ0dXRnNORE0zUUdzMzh4ay15SW9tREphVFJ0R01najhVR3ZFenRHMTJzSnBnejAxNU5sRlBDaW1yN05UbW1YUEJBRkQzNkFBTk0ydzQ0WjIxQ3JISmtCa0E4TTJQX3RPLWVWV2Fic3Ztb3NPUE81Y2lJT2pLeG8wbkN4dDJiQ21OQTRyaU9xRVo0WnBubzN5VEg0cTl1a3AydU8zZl90MFY?oc=5)
+Sensex, Nifty close with gain of 0.5% as IT, pharma stocks rally; weak broader market limits gains &nbsp;&nbsp; The Tribune
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [Stocks to Watch Today: Sagility, Coal India, Trent, InterGlobe, Blue Star, Capital SFB, Brigade... - Moneycontrol.com](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSjBpLUdKQTNWRl9xanNtaGw0bFZvZ3FIckVKSUhfZlUtNGFkdGl2M1hNMXNJS25jQzZPTHkxWVBob05DdDBDTm5YMGdpTEp3SDRaMVhkWEZka0liYXAyVFgyTEVVbzgyVHlXc0FVZm15WjBkSVpaV1JkLV9xNXJDdENkV1hpYTNINWtnMENOUUZuQlViVkZiOXM2NHk4Skl4X0VMbHBKZlF0QlRpYmd4bHdKUWp1M3Uyel81bHBiMHpYTUJKVnc3emNsbFNtb2hkTVFZZFN5a09fQ2lWYnFOdVlYMGIzdWl2TGw1T0ZsX196eHgxVGxYaDE0TWhDU0NheHF2aTRqYWc3TE9uRTdOdGI0SjM2Y3hLaGxfVlU1cEFZUk5xZThxcjNRS252WjN2UWhZWGl4UThqRzYxZTExY2hQWVFoZVhH0gHOAkFVX3lxTE5XTEJiem0zdnZESUxMN0pFeXdINC1CR1Y5N1dyUFhDS2xTSDNFd0dFcE5XMXRLS0d5c2VCVHVEdlNmdDg4amVHYTEzNWtzdGtTemxtcTZmUWtXbExESnN2cEpsbDlzUzdWYzN5RVZOdEt4RVFLWXkwaDdYSUdXeWF5OXVWb2xDSzZkLXJDX19BUmlxUlJyQ1AzcFRFeDItZGFoQUpTZkU3cm9SXzdSTTNmMHlkNmlhcldkSDQ1aEp6aTlMZVlJaTE5MWFZQTFVUWhQWnhLWDZTR1JOVmlObmVYX0UxN1ZwVGtTVzJDT21MQXFjcE5kRE9MWHp5OHQ1ZklqeTE0UG02QzFfRU8wYVItd0dVMER3RWdJemYtZ2hEdDFTVUE1SnlvQ2l2Vjh1a3dEei0zVk9DczZCZXk4ZFZsR0o5ZG05dEh5cmI3VHc?oc=5)
+Stocks to Watch Today: Sagility, Coal India, Trent, InterGlobe, Blue Star, Capital SFB, Brigade... &nbsp;&nbsp; Moneycontrol.com
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [BLS Polymers IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time revealed - Upstox](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEVvbjgzTDhpUGUxd3RORkZIejAwN3pITERTQlAxZ2h4UVV0THc3UFJkOGJGNUpTMDNCcVRMcFJCbXlGeS1OZEtPYW5yWjlmOThaWW9NLVp5RGVYVHdHYmRHalRxV1dXZjR6V2pDbGJRX1g5QXVla0lXVWQ5b09OUVRvX2ZobTN2dV9CbDVFajhXTm01Y2hYdEM1eEVsN1RabFRPaEtVcVhlQ0FtLVhMRUhZWVk1NWlxaXNaRHVuNGdVSC16Q1ZMXzljaVhPS2h1cjc1c2tCZ3FETFI0Y1dqeG9nd1A5QUhYMDkycXhQLWRSTUIwQWVmX2dR?oc=5)
+BLS Polymers IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time revealed &nbsp;&nbsp; Upstox
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
+
+### [ICICI Prudential Nifty Pharma ETF - ET Now](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkdvOTQ5UFM0YlpTanZ6QUdoUnUycFI1WlBQWkZZRWkwYzU1bFpjOWJLMW5lNzBKSDI4Qno1RVlzdXpINkpWNTAtMzV4M2pDVGhOZXByYXpOZnJmdS02M2hKSW0ydnFFalg3ZWJDazBncXVQVFhQOXpHSEFQNWJLVnU5QVk4YjNhYzB5eFQwQWVtUTAwb1JJUTdXQ05uUEhVS3pVSHhR?oc=5)
+ICICI Prudential Nifty Pharma ETF &nbsp;&nbsp; ET Now
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-29
+
+### [Sensex, Nifty Open Marginally Higher as Rising Crude Prices Weigh on Sentiment - Dainik Jagran MP CG](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEFJVEp6SW9YOWo0NkEzV1kySVhMVzFCaXBabWZUTjhBMVlMWFlRWGtfVmswSC1HaTRFaTRUdzdYUVdCQW9sSGtJcU1HY2ExLUowR2FkMzJiUzB0VTFjV3FkSDFFTnl3UDh0ZFhvMDY0VERvLVFzN1RiYThzVlduWEhFMmJTSkk0c0UxNERkWTc1aU1LdC1JMkM0UFVkclVzeVhkX0RJUl9PdndNSU1aLXg2empIQnJxNEpzbmV2dVNqZw?oc=5)
+Sensex, Nifty Open Marginally Higher as Rising Crude Prices Weigh on Sentiment &nbsp;&nbsp; Dainik Jagran MP CG
+
+**Source:** GNews - India Pharma  **Date:** 2026-10-30
 
 ---
