@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Pharma Digest — 2026-11-05</title>
+<style>
+  :root{--bg:#f0f4f8;--surface:#fff;--border:#dde3ea;--primary:#1a3a5c;
+        --accent:#1565c0;--muted:#607d8b;--green:#1a7a4a;--red:#c0392b;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+       background:var(--bg);color:#1a1a2e;line-height:1.6;}
+
+  /* Header */
+  header{background:var(--primary);color:#fff;padding:1.2rem 2rem;
+          display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.8rem;}
+  header h1{font-size:1.4rem;font-weight:700;}
+  header .meta{font-size:.82rem;opacity:.8;}
+
+  /* Tabs */
+  .tabs{background:#122740;padding:0 1rem;overflow-x:auto;display:flex;
+         scrollbar-width:none;border-top:1px solid rgba(255,255,255,.08);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{background:none;border:none;color:rgba(255,255,255,.65);
+            padding:.65rem 1rem;font-size:.8rem;cursor:pointer;white-space:nowrap;
+            border-bottom:3px solid transparent;transition:all .18s;}
+  .tab-btn:hover{color:#fff;background:rgba(255,255,255,.06);}
+  .tab-btn.active{color:#fff;border-bottom-color:#64b5f6;font-weight:600;}
+
+  /* Layout */
+  .container{max-width:1400px;margin:0 auto;padding:1.5rem 1rem;}
+  .section{margin-bottom:2rem;}
+  h2{font-size:1.1rem;font-weight:700;color:var(--primary);
+      border-left:4px solid var(--accent);padding-left:.75rem;
+      margin-bottom:.9rem;display:flex;align-items:center;gap:.5rem;}
+  .count{background:var(--accent);color:#fff;border-radius:99px;
+          font-size:.7rem;padding:.1rem .45rem;}
+  .note{font-size:.8rem;color:var(--muted);margin-bottom:.75rem;}
+  .legend{font-size:.78rem;font-weight:600;}
+  .green-leg{color:var(--green);}
+  .red-leg  {color:var(--red);}
+
+  /* Stock table */
+  .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);}
+  .stock-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .stock-table th{background:var(--primary);color:#fff;padding:.6rem .75rem;
+                   text-align:left;white-space:nowrap;font-weight:600;}
+  .stock-table td{padding:.5rem .75rem;border-bottom:1px solid var(--border);
+                   white-space:nowrap;}
+  .stock-table tbody tr:last-child td{border-bottom:none;}
+  .stock-table tbody tr:hover td{background:#f0f6ff;}
+  .stock-table tr.near-high td{background:#e8f5e9;}
+  .stock-table tr.near-low  td{background:#fdecea;}
+  .co-name{max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .num{text-align:right;font-variant-numeric:tabular-nums;font-family:'SF Mono',Consolas,monospace;}
+
+  /* News cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.85rem;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:9px;
+         padding:.95rem;display:flex;flex-direction:column;gap:.4rem;
+         transition:box-shadow .15s;}
+  .card:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);}
+  .card-title{font-weight:600;color:var(--accent);text-decoration:none;
+               font-size:.88rem;line-height:1.45;}
+  .card-title:hover{text-decoration:underline;}
+  .card-summary{font-size:.8rem;color:#444;line-height:1.5;}
+  .card-meta{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap;margin-top:.15rem;}
+  .badge{color:#fff;font-size:.7rem;padding:.12rem .45rem;border-radius:4px;font-weight:500;}
+  .date{font-size:.7rem;color:var(--muted);}
+
+  footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.78rem;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🏥 India Pharma Investor Digest</h1>
+    <div class="meta">NSE · BSE · News · Filings</div>
+  </div>
+  <div class="meta">2026-11-05 &nbsp;·&nbsp; 0 stocks &nbsp;·&nbsp; 107 news items</div>
+</header>
+<nav class="tabs" id="tabNav"><button class="tab-btn" onclick="showTab('tab_stocks')" id="btn-tab_stocks">📈 Stocks (0)</button><button class="tab-btn" onclick="showTab('tab___BSE___NSE_Filings')" id="btn-tab___BSE___NSE_Filings">📊 BSE / NSE Filings (38)</button><button class="tab-btn" onclick="showTab('tab___Results___Financials')" id="btn-tab___Results___Financials">💰 Results & Financials (27)</button><button class="tab-btn" onclick="showTab('tab___Deals__M_A___Partnerships')" id="btn-tab___Deals__M_A___Partnerships">🤝 Deals, M&A & Partnerships (5)</button><button class="tab-btn" onclick="showTab('tab___Corporate_Actions')" id="btn-tab___Corporate_Actions">💸 Corporate Actions (2)</button><button class="tab-btn" onclick="showTab('tab___Operations___Approvals')" id="btn-tab___Operations___Approvals">🏭 Operations & Approvals (2)</button><button class="tab-btn" onclick="showTab('tab___Analyst___Brokerage_Calls')" id="btn-tab___Analyst___Brokerage_Calls">📉 Analyst & Brokerage Calls (7)</button><button class="tab-btn" onclick="showTab('tab___Industry___Policy_News')" id="btn-tab___Industry___Policy_News">📰 Industry & Policy News (26)</button></nav>
+<div class="container">
+  
+    <div class="section" id="tab_stocks">
+      <h2>📈 Indian Pharma — NSE Stock Prices <span class="count">0</span></h2>
+      <p class="note">
+        Prices in ₹ (INR) &nbsp;·&nbsp; Source: Yahoo Finance / NSE &nbsp;·&nbsp; As of 2026-11-05
+        &nbsp;&nbsp;
+        <span class="legend green-leg">■ Near 52W High</span>
+        &nbsp;
+        <span class="legend red-leg">■ Near 52W Low</span>
+      </p>
+      <div class="table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Company</th>
+              <th class="num">Price (₹)</th>
+              <th class="num">Change %</th>
+              <th class="num">Change (₹)</th>
+              <th class="num">Prev Close</th>
+              <th class="num">Day High</th>
+              <th class="num">Day Low</th>
+              <th class="num">52W High</th>
+              <th class="num">52W Low</th>
+              <th class="num">Mkt Cap</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  
+        <div class="section" id="tab___BSE___NSE_Filings">
+          <h2>📊 BSE / NSE Filings <span class="count">38</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/d6e9a360-de59-43d6-a259-5037186776f4.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Transfer of ownership of Auro Pharma LLC, Russia from Auroactive Pharma Private Limited to Auropharm Overseas Limited, Wholly Owned subsidiaries of the Company.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Acquisition | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/5eaae42e-2a48-4508-8804-ba6a548be7d9.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Approved the proposal of Merger of two wholly owned subsidiaries of the Company.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Restructuring | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/a76c1ad6-ae53-44b6-af5d-ec5cb0612e58.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Intimation of record date for payment of interim dividend for FY 2026-2027.</a>
+              <p class='card-summary'>Category: Corp. Action | Sub: Record Date | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/25cde224-f003-4806-b011-2b60e5de323c.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Intimation of declaration of interim dividend for FY 2026-27.</a>
+              <p class='card-summary'>Category: Corp. Action | Sub: Dividend | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/1e3fefa6-61c7-4feb-98e2-8329b0bcf08b.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Submission of outcome of Board Meeting held on November 4, 2026</a>
+              <p class='card-summary'>Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/9df5a740-d728-4686-a19e-71020fbc4266.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Communication regarding withholding of final dividend for the FY 2025-26</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/1734783b-2159-472f-b372-6b2e0d66c7a3.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Outcome of Board Meeting</a>
+              <p class='card-summary'>Category: Board Meeting | Sub: Outcome of Board Meeting | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/f7c48e70-a4a1-4e56-8ae5-74282ca27beb.pdf" target="_blank" rel="noopener">FDC Limited: Rashtriya Chemicals And Fertilizers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve Intimation ....</a>
+              <p class='card-summary'>Category: Board Meeting | Sub: Board Meeting | BSE Code: 524230</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=545001" target="_blank" rel="noopener">Sahajanand Medical Technologies Ltd: Outcome of the Board Meeting dated November 5, 2026</a>
+              <p class='card-summary'>BSE Code: 545001</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/78a3ce2d-446b-4f51-a324-fe3260d4b875.pdf" target="_blank" rel="noopener">Sun Pharma: Intimation of Schedule of Analyst/Institutional Investor Meeting</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524715</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/ecf46d00-c6c2-4c87-8431-cf9854103756.pdf" target="_blank" rel="noopener">Sun Pharma: Q2FY27 Earnings Call Transcript</a>
+              <p class='card-summary'>Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 524715</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/74d56d2d-cb8a-44f4-ad01-e328126b5098.pdf" target="_blank" rel="noopener">Dr. Reddy's Laboratories: Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015</a>
+              <p class='card-summary'>Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500124</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/f430094f-d904-4219-a726-0e20e81cbf98.pdf" target="_blank" rel="noopener">Dr. Reddy's Laboratories: Allotment of Employee Stock options</a>
+              <p class='card-summary'>Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500124</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/bd6717f5-5575-4b02-a509-86ba235d5ce7.pdf" target="_blank" rel="noopener">Dr. Reddy's Laboratories: Clarification - Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 500124</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/3be86a26-d7d9-4fd8-9c38-248505aceb09.pdf" target="_blank" rel="noopener">Cipla: Please find attached newspaper publication of ''Notice of Final Hearing of Company Scheme Petition''</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/6774c0c7-695d-495b-af5a-e2858bc6a6fd.pdf" target="_blank" rel="noopener">Cipla: Appointment of Mr Vikram Janakiraman, as the Global Chief Technical Operating Officer, designated as a Senior Management Personnel of the Company, with effect from 7th December, 2026.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Change in Management | BSE Code: 500087</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/6334e358-6870-4c02-8617-896a4b57f229.pdf" target="_blank" rel="noopener">Lupin: Copy of Newspaper publication in respect of Unaudited Financial Results of the Company for the quarter and half year ended September 30, 2026.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/b7315386-59b6-46c5-ac31-39b4314b8e0d.pdf" target="_blank" rel="noopener">Lupin: Link of Audio recording of the Earnings Call-Q2 FY27.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/0aee454f-83ed-4356-8384-6affcca018c4.pdf" target="_blank" rel="noopener">Lupin: Investor Presentation- Q2 FY2027</a>
+              <p class='card-summary'>Category: Company Update | Sub: Investor Presentation | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/0bfb5aee-05fa-458a-a4e2-61c6021025ac.pdf" target="_blank" rel="noopener">Lupin: Lupin Q2 FY2027 Results</a>
+              <p class='card-summary'>Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/a8db8f3e-af11-4518-b87c-ae074c369b77.pdf" target="_blank" rel="noopener">Lupin: Appointment of Mr. Akhil Gupta as an Additional Director (Non-Executive, Independent) effective November 03, 2026 and as an Independent Director for a term of five consecutive years with ....</a>
+              <p class='card-summary'>Category: Company Update | Sub: Change in Directorate | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e2be092-ea2f-4030-bbcf-61772f94b030.pdf" target="_blank" rel="noopener">Lupin: Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026.</a>
+              <p class='card-summary'>Category: Result | Sub: Financial Results | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/5d35cc14-464d-40c2-b13b-658a43fecdd9.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Submission of Financial results for the Quarter and Half year ended September 30, 2026.</a>
+              <p class='card-summary'>Category: Result | Sub: Financial Results | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/a8f86681-873e-4e1c-a30a-558d0ccfad3b.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Reappointment of Mr. M. R. Kumar as Independent Director of the Company for second term with effect from April 1, 2027.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Change in Directorate | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/1aa86da3-5aac-41ab-9de5-466dc552bfcd.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Submission of Earnings Presentation on Q2 FY27 Financial Results.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Investor Presentation | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/faeb990a-1c1e-4438-ab88-6c25092cadf6.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Submission of Press Release on Q2 FY27 financial results</a>
+              <p class='card-summary'>Category: Company Update | Sub: Press Release / Media Release | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/8d031f7f-3217-4b42-8e49-cd801e7ac897.pdf" target="_blank" rel="noopener">IPCA Laboratories: Standalone and Consolidated Financial Results for second quarter and half year ended 30.09.2026</a>
+              <p class='card-summary'>Category: Result | Sub: Financial Results | BSE Code: 524494</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/f4d2dabf-8360-400f-a4d0-7516977872f0.pdf" target="_blank" rel="noopener">Alkem Laboratories: This is to inform you that the Company has received an intimation from KFin Technologies Limited, the RTA of the Company on 3 November 2026, regarding the shifting of its Corporate Office ....</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 500825</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/97dff92f-85a5-4947-b051-44d73fbe7e0e.pdf" target="_blank" rel="noopener">Ajanta Pharma: Transcript of Investors Conference Call held on October 29, 2026.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532955</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/4f77a4e5-2e74-43a0-8b82-49cdd53f7c93.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Newspaper Publication</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/a329dec9-add1-4047-b97d-fff2ea394441.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Audio and Video Recording of Q2 FY27 Earnings Call</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/24cd86eb-1d14-4385-9717-acbdccb29fb9.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Investor Presentation</a>
+              <p class='card-summary'>Category: Company Update | Sub: Investor Presentation | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/6a249ea5-d0c4-4235-b7c3-f21d046e592b.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Change in Senior Management Personnel</a>
+              <p class='card-summary'>Category: Company Update | Sub: Change in Management | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/51afd584-3bd3-4217-8ade-da5e5c47887e.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Press Release</a>
+              <p class='card-summary'>Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/5314c0a9-0473-4f49-b62b-2b80644093fe.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Financial Results for the quarter and half year ended September 30,2026.</a>
+              <p class='card-summary'>Category: Result | Sub: Financial Results | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=532296" target="_blank" rel="noopener">Glenmark Pharmaceuticals Ltd: Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026</a>
+              <p class='card-summary'>BSE Code: 532296</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=524628" target="_blank" rel="noopener">Parker Agrochem Exports Ltd-$: Unaudited Financial results for the quarter and six months ended on 30-09-2026</a>
+              <p class='card-summary'>BSE Code: 524628</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=545001" target="_blank" rel="noopener">Sahajanand Medical Technologies Ltd: Results- Unaudited financial Results for the period ended 30th September 2026</a>
+              <p class='card-summary'>BSE Code: 545001</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Results___Financials">
+          <h2>💰 Results & Financials <span class="count">27</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/earnings/epl-q2-results-profit-rises-4-yoy-to-rs-111-crore/articleshow/135565623.cms" target="_blank" rel="noopener">EPL Q2 Results: Profit rises 4% YoY to Rs 111 crore</a>
+              <p class='card-summary'>EPL reported a notable 4.52% increase in net profit, reaching Rs 110.9 crore for the September quarter of FY27. With revenues from operations climbing to Rs 1,567.4 crore, a 30% year-on-year growth, the Beauty &amp;amp; Cosmetics and Oral Care segments played pivotal roles. Despite higher expenses, </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/company-results/airtels-premiumization-strategy-drives-strong-q2-revenue-and-ebitda-growth-11793861191107.html" target="_blank" rel="noopener">Airtel's premiumization strategy drives strong Q2 revenue and Ebitda growth</a>
+              <p class='card-summary'>Higher Arpu, postpaid additions and a strong Africa business lifted Airtel's September-quarter performance, even as net profit missed estimates and mobile subscriber additions slowed.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/11-smallcap-stocks-maintain-over-10-profit-margin-in-q1-and-q2-shares-rally-150-350-in-fy27/slideshow/135569927.cms" target="_blank" rel="noopener">11 smallcap stocks maintain over 10% profit margin in Q1 and Q2, shares rally 150-350% in FY27</a>
+              <p class='card-summary'>Eleven smallcap stocks have maintained net profit margins above 10% in both Q1 and Q2FY27, while delivering share price gains of 151% to 352% so far this fiscal year.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/orkla-india-s-revenue-rises-19-4-in-q2-but-volume-growth-remains-subdued-11793803944844.html" target="_blank" rel="noopener">Orkla India’s revenue rises 19.4% in Q2, but volume growth remains subdued</a>
+              <p class='card-summary'>Orkla expects some of the margin pressure to ease as price increases taken after the latest round of industry-wide cost inflation begin to flow through.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nykaa-pushes-quick-commerce-expansion-as-q2-profit-more-than-doubles-11793798987946.html" target="_blank" rel="noopener">Nykaa pushes quick commerce expansion as Q2 profit more than doubles</a>
+              <p class='card-summary'>Nykaa Now is targeting a presence in more than 25 cities by FY27, as the beauty retailer looks to drive repeat purchases and incremental demand through faster deliveries. The company also reported a 207% year-on-year rise in Q2 net profit to ₹101 crore.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-among-5-stocks-showing-white-marubozu-pattern/slideshow/135559687.cms" target="_blank" rel="noopener">Bharat Electronics among 5 stocks showing White Marubozu pattern</a>
+              <p class='card-summary'>Five Nifty 50 stocks featured in the White Marubozu bullish scanner on November 4, after gaining over 3%. Bharat Electronics led the list, followed by Adani Enterprises, Titan Company, Jio Financial Services and Max Healthcare.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/cracker-stocks-this-diwali-axis-direct-selects-10-technical-stock-with-48-upside-potential-for-samvat-2083/slideshow/135560312.cms" target="_blank" rel="noopener">Cracker stocks this Diwali! Axis Direct selects 12 technical stock with 48% upside potential for Samvat 2083</a>
+              <p class='card-summary'>Aurobindo Pharma, Hindustan Aeronautics, and IOL Chemicals demonstrate solid growth prospects for the coming year. Similarly, Jyoti CNC Automation and Karnataka Bank are expected to experience significant gains according to their long-term performance charts. Noteworthy mentions also include Dr. Lal</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV2hvOW05VTJ0NVh0T19nUnBvZHV6VUZJT0NTQzVYOGR0eWN3UTJnSS03N0RVcXROY19RTkkwVkRuN0ViZE0tWGJnMlZiR2FzRWdnVHpPT0tmTWZTc0pVNG9qWm5wMWc1M0hBd2sya1l5eWlWd2UxaU5TeUwtUHdtbVJEaE1wZ1lPU0FBQUowOW40T1dkVlQtb2NVb2ktMHNJcEdoQ2xWdTBDNDVzRmxFdjhBeGoyMEMxb0x2bUpMNWxaMVpUYWNvYUV6V3AxWm9aSnVXQjh2RTEtN1NYLUNwT0h1RlcwdnNLUHlCUzNmWUlBQdIB9wFBVV95cUxNQ3I5RnNDUFhFYWl6MElfTmFqN0hFSWo3djBhcVdaRFFzV3c2Ylo4MExaT3V3R3R5THI5UXFzb2c3MXFYeTRjaEJpVi1uWUFwNmtzY21yRnd0dEEySncxRnFNaUhtTmdWWG05Q1lEVU9IRkhtWmtkWUpucXBwdW5zLWY0Smg4SUJxNnVDelV2RlhPcXJpXzJNanVsYVF0SDN5S0hzU096cEhhbnM2Q2VDMDRST0JqVi1lZVJiWDQ1NHljVTdDbmN5SWs1VklucURIZzlHZXlNaXUtcmtIT25MYUk1ekxKbGpFRFoxLXRwbXZ0WEJlSUFv?oc=5" target="_blank" rel="noopener">Aurobindo Pharma Q2 Results: Profit rises 33% to Rs 1,126 crore, revenue jumps 24%; declares Rs 7 interim dividend - ET Now</a>
+              <p class='card-summary'>Aurobindo Pharma Q2 Results: Profit rises 33% to Rs 1,126 crore, revenue jumps 24%; declares Rs 7 interim dividend &amp;nbsp;&amp;nbsp; ET Now</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS0M4WHVIMC1iekVVcG0xbWxNcnduTlVhQ2FsZHN3cnllVzdmYXNDeG5nWkJGaERtcGVTUXZtcWpWbjZvckRBQWJNc045cm5wZjAxMDQxT09XMEIzLTFpa3BaX3R3czhBU2xDMUQxNzlHaEQ5UDZaUDd4Rlg1b0o1V05hQ0lxdWl1Y2NNRkRpTy12YlE3M3NpVGR5V1c0bTFnOFVGTldKdUZfZHdCSUhaWjBFZ0FQYl9LX3o1Yy1KZ1JiYXBDSWJsUFNVbGlrM0tENWRBV0ZMSHJ5WFRWUDVNTlh6MkF1X2NweDNaMQ?oc=5" target="_blank" rel="noopener">IPCA Laboratories Q2 results: Net profit rises 32.8% YoY to Rs 375 crore, revenue grows 13.8% - Business Upturn</a>
+              <p class='card-summary'>IPCA Laboratories Q2 results: Net profit rises 32.8% YoY to Rs 375 crore, revenue grows 13.8% &amp;nbsp;&amp;nbsp; Business Upturn</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - IPCA Labs</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/dabur-revenue-up-11-6-declares-dividend-11793790590209.html" target="_blank" rel="noopener">Dabur Q2 profit up 12%, margins under pressure</a>
+              <p class='card-summary'>The company also announced the exit of global chief executive Mohit Malhotra, who is set to take up an overseas leadership role.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/lloyds-enterprises-q2-results-net-profit-falls-41-7-to-rs-13-7-crore-revenue-jumps-70-5-12286664#publisher=newsstand" target="_blank" rel="noopener">Lloyds Enterprises Q2 Results: Net Profit Falls 41.7% to Rs 13.7 Crore, Revenue Jumps 70.5%</a>
+              <p class='card-summary'>The company's revenue from operations increased 70.5% to Rs 694 crore in Q2</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMk5sbVNHQm4ydnM0U1l5MTRxTkRheHBkcFFfSVFBaHVlNFczaDBLSFVUbDQ1VmhwN25aN3VkOUtxaG1GYWNIY2pLbGRkTkdIcy0zWWtiLVNIc1RhOGxSc2ptQWJjeHpmdzhHS3dlQTlwUWV3V0FveDdaZHFianRsOFVIZEQ5eEhOSlZNZndQRnZ2WlRrQ0psSVRUeGh0LTBaRXFEN2QweS1pZnNQZWpqYWVTNTVqcThwLTVRVkhGdEIxQ3FKdEhac214VEU3aFpYNWF3bW9aUVJGemtIWFp2eUFjd0t6cXhpRGRhVm9XYXZiYms?oc=5" target="_blank" rel="noopener">Fredun Pharmaceuticals Q2 results: Net profit jumps 97% YoY to Rs 18.57 crore, revenue rises 90.5% - Business Upturn</a>
+              <p class='card-summary'>Fredun Pharmaceuticals Q2 results: Net profit jumps 97% YoY to Rs 18.57 crore, revenue rises 90.5% &amp;nbsp;&amp;nbsp; Business Upturn</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Pharma Q Results</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFZBM3BqN0RWcXhKU0VoenRDeERmUmQtclZuSFl0UnEwRHllV00zQndVdjZDdE1xNDVRRk9iVG5PaHV3SE5adk1ZR2NIN1JYWEpXMEw5WXJFQ1ZJOEJEV1lsSHdObHFiekUzWWpRMkFkV0prNktFM1VNeW4zRmVRaDFKZDRUTlNxbENmdnVUTVNHTlhOYndBYTlkTU8tX1hNZjNvVVpkSUNpbE0?oc=5" target="_blank" rel="noopener">Aurobindo Pharma Limited Q2 profit rises 32.5% on record revenue - Multibagg AI</a>
+              <p class='card-summary'>Aurobindo Pharma Limited Q2 profit rises 32.5% on record revenue &amp;nbsp;&amp;nbsp; Multibagg AI</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVJyVzNvZi1yZUhPbEowdG0yeDZpR25wZ0pQZFdoVXlvdzhyTGU5ZzVCbEpHbTIyMEhZVmJkcGxNS3F1cFQwYi1uN1NLQVByRzhfUTNySnpFTEE1c2pQcTc1YTBTQzc1RWRLcVA1anRGdUQtQWM0aVNvWXMwcHdvY19aaVByUk12RmxYM2E1MUR2TjNmQjlJYng3ZlBOTURac1dQT2xBVTVRU3c0aDlCRUxHVGR3cWJBdnBwYVZNaDRFVkJG0gHMAUFVX3lxTE9rQ04wU2lIbnNMcmZmTEFPRm1abVU3cGFGb1pSRmktVEJPd3phTjVvR0RLcEdkczhQenVKNEZ4dTUxY0xJcXlGbGFYb1BqZ1hhdXlYUEJlNjVOUTdCajd0QmFBaXpVOWZwZ1k1QUhXNWFwdUZBU1MzMTRGbWNkZzQ2R0szZGcxTzFuU1NtRkFibUlNajJ1VVhJNVpuRnVKU2xpNzlscm5xckNRTnotSjdkSHZHVG5JQlVLZUh4VUdlNzB3QUQyMHpYb0ZvSg?oc=5" target="_blank" rel="noopener">Aurobindo Pharma Q2 Results: Profit Rises 33%, Shareholders To Get Dividend By Nov 20 - NDTV Profit</a>
+              <p class='card-summary'>Aurobindo Pharma Q2 Results: Profit Rises 33%, Shareholders To Get Dividend By Nov 20 &amp;nbsp;&amp;nbsp; NDTV Profit</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGJMSkZHdUNDVGlwSWwtNTUzendoSVNiN0FXVk1xOUJhbll4ZWNEWHpoRkE1bGNUT25ZZ3lNYjB0RGpsUGx1MFFpRHVZSVY4enZYNDkzUWlTSV9NcDAtUF9XN3llekRmSUJwUEpWR185NG1Za1J0Z09RSDlNd1BoT0ZvdFpWRHZqeFdWOXk5UndaeUNYTGIxeEt1R2N2VldEeHZzVVplY0FvY295bVZGdQ?oc=5" target="_blank" rel="noopener">Aurobindo Pharma AUROPHARMA Q2FY27 Results Revenue Record - Kalkine India</a>
+              <p class='card-summary'>Aurobindo Pharma AUROPHARMA Q2FY27 Results Revenue Record &amp;nbsp;&amp;nbsp; Kalkine India</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUZDUmE1V0NVeWw1dW9rWXAzRFZvaFViVU9FQUtKSFExOFQybmhmbXZ6Y19hOE9TZkJOTHZCckEydHdyaW5lMVB6NlE5emxIUnRHd2dxdGQzSzNEbjZ4STRGZWNjcGF3cE45MGp6R0tSODdNNmRyMkYxMkhPREY0MnU0YnRHYUFxU0IwemFBTQ?oc=5" target="_blank" rel="noopener">Aurobindo Pharma reports 23.9% YoY revenue growth in Q2 FY27 - InvestyWise</a>
+              <p class='card-summary'>Aurobindo Pharma reports 23.9% YoY revenue growth in Q2 FY27 &amp;nbsp;&amp;nbsp; InvestyWise</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFdWYk9YdUF3YktwQ1UteG1CU3hael85NUN0akg0YnB3WmpWQUNVQ2p3SE1neWEzVWxscUR2VTJXV2VRZm1wa2N2SnNqaVdyUWtJcmxWR19lZVNpOGhSODA4ODVQcEx0elVoa2ZDLXZmWldmdUw3SFdvTXhuMk5JajQ4akpXNExPU2c?oc=5" target="_blank" rel="noopener">Aurobindo Pharma reports 32.5% net profit growth in Q2 FY27 - InvestyWise</a>
+              <p class='card-summary'>Aurobindo Pharma reports 32.5% net profit growth in Q2 FY27 &amp;nbsp;&amp;nbsp; InvestyWise</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFN3MnlUYnh6Z1lQUmZwSXFVTWdISkl3SEhXaHdhZV9adXhmN0h2cDFmQTgxNjYteFVieElFVVZpb2tEbWQ3Ulh2TnR5MXVzcnRrLWhsVVR2eGF3bTNOcjhqaUxFY2VCc1RWNkFoTDMzNks2eHptZko4VGlTTUZwZGV3?oc=5" target="_blank" rel="noopener">Ipca Laboratories reports 27% standalone net profit growth for Q2 FY27 - InvestyWise</a>
+              <p class='card-summary'>Ipca Laboratories reports 27% standalone net profit growth for Q2 FY27 &amp;nbsp;&amp;nbsp; InvestyWise</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - IPCA Labs</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/m-m-q2-results-profit-rises-13-tops-estimates-margin-contracts-12286370#publisher=newsstand" target="_blank" rel="noopener">M&amp;M Q2 Results: Consolidated Profit Rises 25% To Rs 4,588 Crore; Revenue Up 25%</a>
+              <p class='card-summary'>M&amp;amp;M's consolidated profit rose 25% to Rs 4,588 crore in the September quarter, while revenue increased 25% to Rs 57,553 crore.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1d6M3hZMlB0YVMtMWNWS0lYYmFkVFJJbEVyZWo1NEhpdDhHZXRkNXQ5b3N6d0FDWjNkNTFQZjRVYlpMWm93eHk0VHo4aVhkbVd5M0dHUF9SUnpiUnhpbGlkSnQ2akdBREZfS3B1OHRhbDNRa3JaS3IwZWk2THo3LVlZYjlhNlBNTC1XQURsNGFrRllfUHVCbmJZVE9hMGVCTWZLcXhQUlZFaWZFVmNreWhSbk1vQQ?oc=5" target="_blank" rel="noopener">Ennature Bio Pharma Limited lists with Rs 246 crore revenue - Multibagg AI</a>
+              <p class='card-summary'>Ennature Bio Pharma Limited lists with Rs 246 crore revenue &amp;nbsp;&amp;nbsp; Multibagg AI</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3FYcDRQNU1ybU1GWFRtNnlDVlNFQUhjX1MtbmlFNVIzc1ZjMlpyLUI1WmdqalpweEhRS1FOakpXYlhPZk1VY0FMMXZtQTMzbTRVRUkyMU5Fd2FTV3lDeHduMzF6dEgzYzJWZDE5LWM5VXJGd3VEOU9yY1U2M1RqMFFGTFBGNzdxaml3VHYxazd2RkNUd3pFSTY3Y2RQNFo2cmRUY2tFMmhpYXZvRFFuZXhvSXhhY0dfZWc?oc=5" target="_blank" rel="noopener">q2 result review bse aurobindo pharma apollo hospitals targets - Zee Business</a>
+              <p class='card-summary'>q2 result review bse aurobindo pharma apollo hospitals targets &amp;nbsp;&amp;nbsp; Zee Business</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9hNTUwZHpGbl9RdTFsYnUxTGNiZ0Roa180MjZiZGktaldvcWZwVUhXUjNuUXI1WTE3RDlabHc4emJlcU1sWHRTcTRwT2tXRFl0TS05TTloZHFsa29pZGtaRGtUWFhZc0dOWG1mSU5BS1JUZXZOQUR0U2xWVGg?oc=5" target="_blank" rel="noopener">Aurobindo Pharma Q2 Results FY27: PAT Up 32.51% to Rs 1,123.84 Cr - Univest</a>
+              <p class='card-summary'>Aurobindo Pharma Q2 Results FY27: PAT Up 32.51% to Rs 1,123.84 Cr &amp;nbsp;&amp;nbsp; Univest</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDZodTJJMk9oeFc3NmdXRjVDbm9nT1RCeTFBdm1keWUtSW04NDBEZFkxS0ZDUXh5WjdZa0FOZ1F4MkpUOWlvTzVxakVyLThDQ0hfUDRCc3hySDRVZXdvR2ROQnQ5SFVhWjdJa0xRT3hIU3g2ajVnam5NdWhyU19kemdxM21YaU9fWlVrd1FLd1VUd2gzT1A5MW5WU0R3VF95eGNMcmdNQkxVQm1yd2IzZXRXWXhsTmU5NlZZMkQxa2wtbHB0VmRmaHpCdlNnS0ZLb1RyQV9rbEUwZG5hdHUzaHR6U0pTbXpaWTJF0gHwAUFVX3lxTE44NkFNeHFXcEVWbENEV19Ja0Z2V18zaTFWXzJ6U3pRc1cwdGdWTk9wdEtLOGd4SG9rUFZ3M3J0OUNaQUV1SUN5ajZaR2N2TG93SjVybDQyQkhKUzVFU1NZeXM2TDZqUFRkal9nLTZpajA3cFBfYmVBMVUzdmFLeVFHSDQ2SmUtc1ZZZmM1TGk5c1dZamF6UUJzOXFEWElZZjh1Q0ZMWXZCbk42cUhBcjl1akp6NFg0SFptUXdNNFpidHZLaDJwbTRZcUh4SEktWS1ySWNZWndKS2VaVGdKcHFHdTBuUFFhcG01aXVEaTVkVA?oc=5" target="_blank" rel="noopener">Biocon Q2 profit halves to ₹41 crore as delayed shipments weigh on margins - Business Standard</a>
+              <p class='card-summary'>Biocon Q2 profit halves to ₹41 crore as delayed shipments weigh on margins &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Biocon</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNOEI1M3pvMklPV1BURjJXQXhYbFpmS183Rk9BMS05elZSdjd5dFpTRkZIZEJmcEo1TmlubTRESkI4VjhFa0dNT2JlSHhDc2Utejk1eGtMV0lvSkRIUnhYTzZLZUtudTBsbnBJUDhVN2ZONEpIQ2VsYXl3aThMT1ViSUxHYTlDMEU1Qm9SNFJMa1p0YlNWNjBxUGFEbmp3Qnd5YmdzZlhLQUliLS1Ua1p4a1c1cEZ4SkhBcGdtX01oOERhOHlRWXfSAcsBQVVfeXFMUHVxWGlKb29yczc5LVNHbXlpU1UwWWlWYi1FOG80YTB0aThfd0lIV2lRNno1bFZZUnQtLXVNN1ZwajA4S1h2dFBYeGkyck8tZTg5ZDVsSlZrWjVKcVdqczJsT3puQkw3ZzBmYnRxVmotNkpNQ2hOWEo1VV9wNjlneXdIRGxoSWg1Z3NMSnppbi1ERF9iLVp2V1loM3JkVlg0OVFwLVlmQ0s3ZWFJcmpUeHR5QlJ5QzVxRER5djhHTEZMWHM1c2w4eVBGVU0?oc=5" target="_blank" rel="noopener">IPCA Labs Q2 Results: Profit jumps 33% on export growth, improved margins - CNBC TV18</a>
+              <p class='card-summary'>IPCA Labs Q2 Results: Profit jumps 33% on export growth, improved margins &amp;nbsp;&amp;nbsp; CNBC TV18</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - IPCA Labs</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMipAJBVV95cUxOam1rNGVzenFvcXFBd2VVcUw2dmJ3RGs2WG9NcHM1blVlekFRWk5CQUpyQUFjWVphYi1zd240WFpiTzRtTGZkN3k3WVVZbW5QSHhLbGxkaFlKSWx3bUVValZOdG5kYThYQjZSMzctM0tub29aS2dIYVh6cDdBZVNUbWZVZTJvc0F5Z0taUExHSGE2akRtX3ZDa0JhZzdERDI5MDFjQlpwbHRibXQ5Nm1iVjBXUlNaaFo5bDhkLU9BLW85eWZFQjg0MkE2UlQzOE1TYkIyUWU4dTl1a3dqWEJLTHBNMkhhekM3NjJqR0I0dEFEMTdRc2NFazBKaGh3M0lsNlJkMjZwa01jb0xCWG04R0NBbWhBTUg1NWgwZW1pTjBvRU03?oc=5" target="_blank" rel="noopener">Top Q2 results today, November 4: Bharti Airtel, M&amp;M, Titan, Britannia, LIC, ONGC, Glenmark Pharma among key companies to announce earnings - Business Upturn</a>
+              <p class='card-summary'>Top Q2 results today, November 4: Bharti Airtel, M&amp;amp;M, Titan, Britannia, LIC, ONGC, Glenmark Pharma among key companies to announce earnings &amp;nbsp;&amp;nbsp; Business Upturn</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Pharma Q Results</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/q2-results-live-updates-bharti-airtel-abbott-india-astral-bharat-forge-berger-paints-emami-fortis-healthcare-earnings-in-focus-12286081#publisher=newsstand" target="_blank" rel="noopener">Q2 Results Live Updates: NBCC Profit Up 34%, Berger Paints Profit Rises, But Margin Narrows</a>
+              <p class='card-summary'>Q2 Results Live Blog: Track Updates</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeDhMdExLOHFUMmUxcGxRRWNBWkI5VVZPSlZRamZIR2lxQnktWml1NjltdWNmNUw2WWw2MFo2Q0oxSElDRWpYeFhFQk5mN1JmZWNKT2NkU24xamRHN0Uyek5Ea2ZHbTJ0TGszRHFGbnVJSzVQblBidldud2x2Z0VVTnZYS3pyOTUzaklERmdyNkRNSkNCdzhBYTNVQTg0WHNYMEdWMy04amJkeUMyMnlKUFdiYkt3c2djNGRBVTBUM1Z0Z2w2WHZ3VDhVNG5JcmFzbUNTUzFZZUthbVJncTE5WA?oc=5" target="_blank" rel="noopener">Alembic Pharma Q2 Results | Sitaram Denims India Files for IPO | Top Buzzing Stocks Today - Equitymaster</a>
+              <p class='card-summary'>Alembic Pharma Q2 Results | Sitaram Denims India Files for IPO | Top Buzzing Stocks Today &amp;nbsp;&amp;nbsp; Equitymaster</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Deals__M_A___Partnerships">
+          <h2>🤝 Deals, M&A & Partnerships <span class="count">5</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/idbi-bank-stake-sale-why-employees-are-protesting-against-fairfax-deal-and-demanding-privatisation-rollback-11793874927748.html" target="_blank" rel="noopener">IDBI Bank stake sale: Why employees are protesting against Fairfax deal and demanding privatisation rollback</a>
+              <p class='card-summary'>The proposed transaction, approved by the Indian government on October 14, involves the sale of a combined 60.72% stake held by the Centre and Life Insurance Corporation of India (LIC) to Fairfax.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/google-cloud-ai-demand-short-term-deals-enterprises-11793847822510.html" target="_blank" rel="noopener">Client demand for shorter AI deals reshapes Google's cloud market battle</a>
+              <p class='card-summary'>To be sure, cloud providers aren't the only ones seeing this shift. India's top IT services firms, which once relied on five-year, billion-dollar deals, are also increasingly reporting shorter deal tenures amid the rise of AI.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html" target="_blank" rel="noopener">FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs</a>
+              <p class='card-summary'>FitLab Inc., which makes cardio equipment and runs boutique fitness studios, said it filed bankruptcy following disruptions to its supply chain and the loss of a key deal with Nike Inc.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/indigo-reportedly-in-talks-to-buy-100-embraer-jets-may-place-order-for-50-more-what-we-know-11793791096544.html" target="_blank" rel="noopener">IndiGo reportedly in talks to buy 100 Embraer jets, may place order for 50 more: What we know</a>
+              <p class='card-summary'>The proposed deal, which could be worth billions of dollars at list prices, would mark a significant expansion of IndiGo's aircraft portfolio beyond its existing Airbus narrowbody jets and ATR turboprop fleet.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOVEQ5ZnJCSE04WGlWSHVpeXdsQnJIclBIbnhtUmlXMk9kYk41QU5jOEJLNzlGNXk0ZFByNUtaTGdqSGFHOFN5aElyR21rUGhNY1E5eW1rS2szRmktNi1fNWZIWmNiZFg0anZydkJpUEVFQjYydGpXMU1fc0gxX3U5SnZ2QWNLdTZhZEdnT2k2aTQteWZfMXd6YVdZeUw0bTd6Nlc4WmZ5dGRDaVg1MzhjR2RR?oc=5" target="_blank" rel="noopener">Organon stock: Sun Pharma deal remains a growth driver - ad-hoc-news.de</a>
+              <p class='card-summary'>Organon stock: Sun Pharma deal remains a growth driver &amp;nbsp;&amp;nbsp; ad-hoc-news.de</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Sun Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Corporate_Actions">
+          <h2>💸 Corporate Actions <span class="count">2</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUtPeXllVjE0N29xYXc5eXk4dnFNYjRud054bTNQM1Y5N2dENDNLbldONHNQdkxrODE2RnBJbGdUcnRScUdqT3BIRGd6SFB0QjEzYnlDMktXYk5VT2tJVkpXajhLbjNhTWtOMWw2cGtzZU9VZWNqTTA3LXFRR0czLWpYbDFxM093ZnZpUWhGaHhycWxGWEExTDB5bVQxQXVudExQUkR3?oc=5" target="_blank" rel="noopener">Aurobindo Pharma declares 700% interim dividend of Rs 7 per share - InvestyWise</a>
+              <p class='card-summary'>Aurobindo Pharma declares 700% interim dividend of Rs 7 per share &amp;nbsp;&amp;nbsp; InvestyWise</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxONVhIWHpJbHM2ZkhmQng5NnNfdGE5TGdLQV9GTGszZFlEYkpRMC1qMHFqcHJXNWR5SkhLSWZFSXRESUE3bmJleE1Fa3hOZVJVT0R0RlhxZnJ1TTREcGk5aWNDdDJaZGE0RWhtZElpRzFfU3N4d0dvLXZ1dGxKZ2F3Q3pvSUZnYVpzVmxWY0VhTHZEOF85UHRIcklNbW0tQU0wT2tDb25B?oc=5" target="_blank" rel="noopener">Aurobindo Pharma declares 700% interim dividend and approves amalgamation - InvestyWise</a>
+              <p class='card-summary'>Aurobindo Pharma declares 700% interim dividend and approves amalgamation &amp;nbsp;&amp;nbsp; InvestyWise</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Operations___Approvals">
+          <h2>🏭 Operations & Approvals <span class="count">2</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/dr-reddys-receives-marketing-authorisation-for-generic-semaglutide-injection-in-brazil/" target="_blank" rel="noopener">Dr. Reddy’s receives marketing authorisation for generic semaglutide injection in Brazil</a>
+              <p class='card-summary'>The approval expands Dr. Reddy’s semaglutide presence to Brazil, one of the key markets in Latin America The post Dr. Reddy’s receives marketing authorisation for generic semaglutide injection in Brazil appeared first on Express Pharma .</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/old-monk-sales-ban-rum-maker-withdraws-bombay-high-court-plea-against-fssai-order-to-revise-product-labels-12286484#publisher=newsstand" target="_blank" rel="noopener">Old Monk Sales Ban: Rum Maker Withdraws Bombay High Court Plea Against FSSAI Order, To Revise Product Labels</a>
+              <p class='card-summary'>FSSAI had barred the sale and distribution of several Old Monk products manufactured at the company's Khopoli facility.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Analyst___Brokerage_Calls">
+          <h2>📉 Analyst & Brokerage Calls <span class="count">7</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/google-voluntary-buyout-what-do-employees-get-in-severance-package-which-7-countries-are-included-explained-11793855251347.html" target="_blank" rel="noopener">Google voluntary buyout: What do employees get in severance package? Which 7 countries are included? Explained</a>
+              <p class='card-summary'>Google is using selective voluntary buyouts to manage costs and redirect resources toward AI and cloud computing. The offers cover employees in five countries, but the company has not disclosed full terms or take-up numbers. The approach follows earlier, division-specific exit programs.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/diwali-dhamaka-stocks-for-portfolio-10-shares-with-up-to-34-upside-potential-icici-direct-is-bullish-on/slideshow/135559522.cms" target="_blank" rel="noopener">Diwali Dhamaka stocks for portfolio: 10 shares with up to 34% upside potential ICICI Direct is bullish on</a>
+              <p class='card-summary'>For the festive season, ICICI Direct has identified ten promising stocks that could be wise investments, boasting notable potential for growth. Among these are Venus Pipes and Tubes and Kotak Mahindra Bank. Each stock has specific buying ranges and target prices. Investors should assess their portfo</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556925.cms" target="_blank" rel="noopener">Adani Ports &amp;amp; Special Economic Zone Share Price Live Updates: Intimation Of Interaction With Investors / Analysts</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/who-is-helen-chiang-microsoft-promoted-her-to-xbox-coo-in-july-what-led-to-her-exit-months-later-what-went-wrong-11793809881679.html" target="_blank" rel="noopener">Who is Helen Chiang? Microsoft promoted her to Xbox COO in July. What led to her exit months later? What went wrong?</a>
+              <p class='card-summary'>Helen Chiang, who was appointed Xbox's first-ever chief operating officer in July 2026, has disputed reports about the circumstances of her departure from Microsoft.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/gold-is-30-below-january-record-why-central-bank-buying-global-etf-flows-fuel-rebound-bet-12287332#publisher=newsstand" target="_blank" rel="noopener">Gold Is 30% Below January Record: Why Central Bank Buying, Global ETF Flows Fuel Rebound Bet</a>
+              <p class='card-summary'>While insitutions ramped up gold purchases, the total demand for gold has declined 1% year-on-year to 1,369 metric tonnes, when the gold price stood around $4,262/oz.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUhCRzMzTmJPdEVzblktZXN3VGVNMkJsdUo1bWV1VnZSVHdxbkE5VWJGREg0aHRWSDVjb1Y4MUx6WEpFcndldmlaOGVra2tfUW96R3ZxU0FONlExTkVwZU1hSXkwTndwdEhoMVR0YUR3RU1zVWxfN2tZSTZieDhBOWN5WDh0YTl2bWNqSTVaS3M2QUN3WS03clRyTTFpUDJORlRSa3gwaE1udWRWY2dxLW1COFNueVN5SEE?oc=5" target="_blank" rel="noopener">GSK Pharmaceuticals uploads video of analyst meetings for November 5 - scanx.trade</a>
+              <p class='card-summary'>GSK Pharmaceuticals uploads video of analyst meetings for November 5 &amp;nbsp;&amp;nbsp; scanx.trade</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNaWMxdmRBQzZBSjNxSFkxVlFoVUI2czNWd2VFeUtYLVBDandTSmZQQ3lNMGx2SEdwdHQxZ0lQbm1yVEpiaTktU0lZRGxwbnE3SVJMNnZXS2F3UEx3YUxFWkR5b0dSM1hvcUcyaVpPTlk0Y1NlRlFUMFZLVFp1N1VSdndSMzBvZ3VTWDJBUEtzQUJyNEFBa3kwdGpVcG5SZUEwZUlGQjRrNmZwUU9jb1VxcWZEbUE4Q09zN0ZvekVXTU1mVEs2ZjZUV1l2ZFFuUQ?oc=5" target="_blank" rel="noopener">GlaxoSmithKline Pharmaceuticals NSE:GLAXO Analyst Meet 2026 - Kalkine India</a>
+              <p class='card-summary'>GlaxoSmithKline Pharmaceuticals NSE:GLAXO Analyst Meet 2026 &amp;nbsp;&amp;nbsp; Kalkine India</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Industry___Policy_News">
+          <h2>📰 Industry & Policy News <span class="count">26</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-05-nov-2026/liveblog/135557282.cms" target="_blank" rel="noopener">Divis Labs Share Price Live Updates: Divis Labs Gains Ground in Market</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556947.cms" target="_blank" rel="noopener">Dr Reddys Share Price Live Updates: Market Performance of Dr. Reddys</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556831.cms" target="_blank" rel="noopener">Apollo Hospital Share Price Live Updates: Current Market Performance of Apollo Hospital</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556740.cms" target="_blank" rel="noopener">Cipla Share Price Live Updates: Cipla's Financial Snapshot</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-05-nov-2026/liveblog/135556641.cms" target="_blank" rel="noopener">Sun Pharma Share Price Live Updates: Sun Pharma's Stock Price Movement</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-among-4-nifty-50-stocks-showing-bullish-rsi-upswing/slideshow/135559417.cms" target="_blank" rel="noopener">Adani Enterprises among 4 Nifty 50 stocks showing bullish RSI upswing</a>
+              <p class='card-summary'>Four Nifty 50 stocks featured in the RSI Trending Up scan on November 4, indicating improving price momentum. Jio Financial Services, Mahindra &amp;amp; Mahindra, Bajaj Finserv and Adani Enterprises recorded RSI readings above 50.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/city-union-bank-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135558474.cms" target="_blank" rel="noopener">City Union Bank among 5 F&amp;amp;O stocks with a sharp rise in futures open interest</a>
+              <p class='card-summary'>Five NSE F&amp;amp;O stocks, including City Union Bank, Syrma SGS Technology and Karur Vysya Bank, recorded over 12% growth in futures open interest, indicating increased market positioning on November 4.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-price-today-live-updates-22k-24k-18k-gold-rate-mcx-gold-silver-rate-city-wise-date-latest-gold-news/liveblog/135558270.cms" target="_blank" rel="noopener">Gold rises over 1%, silver gains marginally on MCX. Check 24K, 22K rates in Delhi, Mumbai, and more states: Live Updates</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135557310.cms" target="_blank" rel="noopener">Bajaj Finserv Share Price Live Updates: Bajaj Finserv experiences impressive gains</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/crown-new-materials-stock-surge-how-a-former-school-teacher-who-left-his-job-to-make-adhesive-tapes-became-a-billionair-11793859825930.html" target="_blank" rel="noopener">Crown new materials stock surge: How an ex-school teacher who left his job to make adhesive tapes became a billionaire</a>
+              <p class='card-summary'>Chinese materials maker Crown New Materials raised CNY 956 million in its debut, with shares surging as much as 787%. The listing lifted co-founders Mai Michael and Mai Huixia to billionaire status,. The company supplies adhesive materials and films to customers including BYD, Apple and Tesla.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/jungle-ventures-targets-two-ipos-a-year-from-its-portfolio-11793791578211.html" target="_blank" rel="noopener">Jungle Ventures targets two IPOs a year from its portfolio</a>
+              <p class='card-summary'>The early-stage VC firm is preparing startups such as Moglix and Livspace for public markets while closing in on a fifth fund that will push its India bets past $1 billion.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/cancer-drugs-from-space-why-pharma-firms-are-looking-beyond-earth-to-manufacture-next-gen-medicines-11793815232702.html" target="_blank" rel="noopener">Cancer drugs from space? Why pharma firms are looking beyond Earth to manufacture next-gen medicines</a>
+              <p class='card-summary'>Pharma companies are exploring space-based manufacturing to grow drug crystals in microgravity, potentially improving cancer drug formulations. Companies such as Varda and BioOrbit are testing whether orbiting laboratories can make next-gen medicines commercially viable.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/indigo-hired-600-pilots-in-fy26-more-400-to-join-by-next-year-amid-rising-fuel-costs-and-quarterly-loss-report-11793811492973.html" target="_blank" rel="noopener">Indigo hired 600 pilots in FY26, 400 more to join by next year amid rising fuel costs and quarterly loss: Report</a>
+              <p class='card-summary'>InterGlobe Aviation, which operates IndiGo, continued its quarterly losses to a third consecutive quarter in September. The airlines reported a net loss of ₹1,879 crore in the quarter.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/hrv-pharma-acquires-phatebo-gmbh-enters-european-finished-formulations-market/" target="_blank" rel="noopener">HRV Pharma acquires Phatebo GmbH; enters European finished formulations market</a>
+              <p class='card-summary'>Phatebo sources the comparator, investigational and ancillary medicines that pharmaceutical sponsors and clinical research organisations need to run their trials, and becomes HRV’s first finished formulations business in Europe The post HRV Pharma acquires Phatebo GmbH; enters European finished form</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiyAJBVV95cUxQY1QxMnprRnRpVC1sZnZkZXJfRVhIbkVQRUVLalNURnBSV0VwRFloaGcxSUtac1M5NGVrUmt0ZWVkVHNqcjJoSzFvSEgtWlZzNHhNYlEzbFZYVjNUTE85RF91T1N2NG13cEhIdHFmeWtVT1VQcHJqYlN0T0tycWJlZUxwTWp2WklBYWY4bWZyYnRRaGR0UXRCMXN4UnlaRUhRWHROSWVpcmkxcnBDMDhsdzFLblJRSkI0dlNzNlJDZmp2TXVxbzRwWXJERVpzNkVzM3ZkLWRPZDA5N3p0WGVsSWFsRnhmMUdhcVU1ZHNWUU5vQXFKMmFlMFlHaU9LR3BENUJfUlZEQnAzcEpYeHBPek9USzlNSUpvTFFIMzRKTFZrZ19LazQyN0s2ZGp4Q1JOZk1QSDlzTDNmQ1lyYm9SaE04aDdnUGdW0gHOAkFVX3lxTE1yS3RfaFhCQkpPZ0dTRjVwZy0wZTkwNnMzUGE4UHFhUjVFb2lOZ08tMW5BUnMxTm9ENTB6Y3A3XzhOaGg0cVJNd0hpVXRGNENrNEVKMHdkcXdXZUU3enlUX0QzYnlJRUgzVWI4b0cyNDlEdVhXcGE2S3dtbWJJSlNDREtHZlktS0xldUd1SktRS2Uzcl81R3prZE9IQy1yYlBUa3BPQnhjY2dTbDlza1hzTTlDX0QyMllma1RZTWdwQ3FQMEViMXJkSHJUOWQyQl9QZVcxYTJHTHFDQXMtZ0VDSko2TWtTd3d1dTFNT0ZKbXM4dUFnUGlYWTdNMl9aWld0RmxQZjBsLTB6TWQ2bXFNVWJYRnBwMFhYT0Y1YjVQTV9XUXk0RHJRYkZrUUJfcWFoVVo1T2dzTXh3TC1FU1RqMGdnYWlKN3ZXNk1tMlE?oc=5" target="_blank" rel="noopener">Stocks to Watch Today: Adani Power, Cupid, Aurobindo Pharma, BSE, Apollo Hospitals, Lenskart, Nykaa,... - Moneycontrol.com</a>
+              <p class='card-summary'>Stocks to Watch Today: Adani Power, Cupid, Aurobindo Pharma, BSE, Apollo Hospitals, Lenskart, Nykaa,... &amp;nbsp;&amp;nbsp; Moneycontrol.com</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa1A5MkhLSnVtaVhTRDBMS1UzcU4wMHA0c2FxVG0yZVlCTy1ycE9lYXV0QTFQQnc4aVlPTTdrVjQzR3d5cE5DZFp3S0t5QWpTZmRiX2EyTk05VlpKZFd1aDRTaUJDdk03NnB2cTJoX0pQaGpYdVEtcE1hOEpreUpDWFZ0VU1ST05wMXhRTWkwaU1nNExkQ0RHSWtWcG91NkVTVEF5LThYcS1EU3JDV2txLWNyRlVtMDNDRWNId2hLanJ5YWlfdnRjaEc2UEFkaXJERDFqRjRCX1Z6ZU82NkNtOVNfV0ZOODdSdFNTT3NYUjJfYk54RG5EZEtQUE_SAYICQVVfeXFMTm1PVTFsTFRLbzhFbzJKUnp1b0hHT3Fzc2RVNVlNZzRWYWFrNEhiOXZPN1FZM0h2empkc2ZzQTIyLUpObjVVS0tEemxXZVZJd0kwdzdLRkttTHJRSzJzZm9veUJLVFlNLTg1N0gwVkhOODlFUm8zZXl2cnBURVVzMDB2Q21jYjdMTTNzR2ZlaTV2cXVUV3d4SlZmdmh4MVRyVWtROGFDU1pkYVFtOG9WbWFFT3RyVk93MkpPenRLQWg0OGd5ZXYzUk9MUnUxdU9IY2xYUTV4bUNrM2lUOE1JdEI2bnQ0YUtCb19HWFE5OWhTdm1LWWY0YmlpU2s3M3RzdG5n?oc=5" target="_blank" rel="noopener">Adani Power, BSE, Lenskart, Nykaa, Auro Pharma, Apollo Tyres, Northern Arc, among stop stocks in focus - Business Today</a>
+              <p class='card-summary'>Adani Power, BSE, Lenskart, Nykaa, Auro Pharma, Apollo Tyres, Northern Arc, among stop stocks in focus &amp;nbsp;&amp;nbsp; Business Today</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTml0UjhKUWdhemdvYWVETGNZcXVBMDctczM3X19hRkcxTjFXYkxCSWdjX3kxNm1nOEY4V1pNV2lzRGpZcUpiOTdBamk5X0JFS0loYlhSUk5LUWtFMnhoYmFhRG1Tdmk2MjlsU3pmdEJzcmpUUGZyZlNkWHg1MGFMbmRFazFFdk5iSzhVR0Q3TVRaOXlmTV82VWtwZGNobHd5U2NlSnNtZ284d01hZ0U5YXdzMHM0OW12ZnVKMXU2VVZfd1d5aEJjZVlmZVlNVC12a1BGY24xNnZwUHRhMXpRVEFpa0tiOUXSAewBQVVfeXFMTkcyRmhIU2ZtN1hiQXU4bFIxOVlGZ1F1bFhHQTZZcVZqVDJCa00ybGxXMlRqXzRSRGkyR2oxbGp1S05YNXlxU3lzN3BLWU1HYm1WT0c4NmthUEZDX04wX0tfOGo1RDcxUkdQVGZuVHBYLWRIaVdmeXM5X05fMkMtRE1zelhSemFBM1R4U1FPRmJvT3p0NjNDRVhQR3FtV0pYQ2lMMlJxenJYZ0w3RjRpQ21yeUZpdkF0UjVOWUtpalpwU3k1VmxFWWl4dlVzQzAwLUctRldwNlNRcWYwOHppb3hCaWZxQ1ZhVktSMEg?oc=5" target="_blank" rel="noopener">Stocks in news: BSE, Lenskart, Nykaa, Bharti Airtel, LIC, Aurobindo Pharma and Nalco - The Economic Times</a>
+              <p class='card-summary'>Stocks in news: BSE, Lenskart, Nykaa, Bharti Airtel, LIC, Aurobindo Pharma and Nalco &amp;nbsp;&amp;nbsp; The Economic Times</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlRUY2luTFkwRTR5VVVST2psSDFGNkNvdTZMVWRGM1NYUzkxSlNBb3p0eGVsYi1yaVRYNmQ3TkVvSVBZTzF2VWVOSXZma285WjZWUU1GZ1BtaVljMkUtV0s5aGF4R2ZiVEk1UWRDTzNzRFBiZkRjR1dsZ3ZXQWR2SFdEcUhBN05hUWI5VEZRR2M5THJxUHpvWnM1ZHVoNmxjTExKQVVPWmFGYWVaZm4zRjFleER0Z1hwWDhDSGJrc2NDZE0?oc=5" target="_blank" rel="noopener">Cipla NCLT Scheme Hearing: Inzpera Amalgamation Update - Kalkine India</a>
+              <p class='card-summary'>Cipla NCLT Scheme Hearing: Inzpera Amalgamation Update &amp;nbsp;&amp;nbsp; Kalkine India</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/sports/ambati-rayudu-opens-up-on-hardik-pandyas-mi-exit-buzz-makes-big-captaincy-observation-12287308#publisher=newsstand" target="_blank" rel="noopener">Ambati Rayudu Opens Up On Hardik Pandya's MI Exit Buzz, Makes Big Captaincy Observation</a>
+              <p class='card-summary'>Mumbai Indians are reportedly exploring a trade involving Hardik as they look to strengthen their bowling attack ahead of IPL 2027.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/stock-market-today-live-updates-november-5-gift-nifty-signal-gap-up-opening-for-nifty-50-sensex-today-kospi-slides-3-percent-us-indices-gain-12285234#publisher=newsstand" target="_blank" rel="noopener">Stock Market Highlights: Sensex Ends 2,009 Points Higher, Nifty At 24,537; Auto, Financial Shares Outperform</a>
+              <p class='card-summary'>Stock Market Live Blog, November 5</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/northern-arc-capital-eyes-margin-expansion-sees-no-need-for-fresh-capital-for-2-5-years-12286937#publisher=newsstand" target="_blank" rel="noopener">Northern Arc Capital Posts Record Profit: Why CEO Says It Won't Need Fresh Capital For 2.5 Years</a>
+              <p class='card-summary'>On capital requirements, he said the company's capital adequacy ratio is close to 21%, providing sufficient headroom to support growth.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGlpR0tMY1pRU3luaTVqQUl2QXVVdF9nLV9LbVFaWEpCQ3lCTlcyMXNkR0VySHo0NEJmLVllV185UWdyU0QwVW1DZTVxSWh2ekhRNzQ1bzVQcGU3cFRDVkxkd1ZtWEtvVGRpMk5FRUpsWjQycnpYNnVzeV9iVFREQW1BZG9pLWJCVURMa1BUSEE0ckZTTGtrNXo5TXl6T0JGQkE?oc=5" target="_blank" rel="noopener">Ennature Bio Pharma Limited lists on NSE and BSE - BioSpectrum India</a>
+              <p class='card-summary'>Ennature Bio Pharma Limited lists on NSE and BSE &amp;nbsp;&amp;nbsp; BioSpectrum India</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd0Jic2ItNFBSMm1xVkE1dm1sTXN5bWY3UE5UQUlEYTZOcTdsd2hNRDZjRmZBbjhGeE9QSVQzRWRhamFGY01OQUhiSmpLY0tDRl81T0RaaUdBeERhWmVMWUNOSlJFVUFoUzM4c0lkX2dJRkZHcHQxQ090QzNDOTNMRVFlRmdiVTlYeEYydHlRbmdNMmZrUDZwYmZxMjRTdjAteG1kYXFFWUxucW5DSUJLc2Z0ZHBGMmhPNU9wYklHVkpwakJQSF9CSkxvRzFRdF9IQWhYMEpBR3ZncE3SAeIBQVVfeXFMTV9sWnpGZXV3WF9PbmtvWXIxQ1NpTUk2bzNMZXVZSGg3T2JRSWNKWkhpM2R1bzhwVXZKdkliZEV3UDMtZG40bVEweDFVT0duaERPeXhYNzU2eDllekszUWE5NFR6VmZocXdvU294MGtNN0d2aWZSVE9fdWxOWGlhM0lyMXpOdVBEUno4Z0s1QlpGQzZPeDk5c1VYRE04VzNaa3pYR2RUaUJBQ0J4b1hUeEduMzBpc09BWnd4bWpBYlB1VU4xMmFkUnpjVHhqb2JnUFltS1c3LU9uVm41a1R4UVJRQQ?oc=5" target="_blank" rel="noopener">Ennature Bio Pharma lists on NSE and BSE, targets branded nutraceuticals growth - BusinessLine</a>
+              <p class='card-summary'>Ennature Bio Pharma lists on NSE and BSE, targets branded nutraceuticals growth &amp;nbsp;&amp;nbsp; BusinessLine</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-04</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMif0FVX3lxTFByWFFxRWFaS19hOUJtS2xUVjBkcHoyQzFYWmZJZ2xUV1lyYnRqQTl0ZEw3d0U3LXZtM3MyQl9wdjB4WFdPU2xfTWR0bVMzLWNiampobVNNTnFXaE5TMjJ3V2xoV2stc1hlYkJBaWwzUkd1SDFkV3RaclpjWkJoQTg?oc=5" target="_blank" rel="noopener">Ennature Bio Pharma Ltd. Share Price Today | Ennature Bio Pharma Live NSE/BSE - Value Research</a>
+              <p class='card-summary'>Ennature Bio Pharma Ltd. Share Price Today | Ennature Bio Pharma Live NSE/BSE &amp;nbsp;&amp;nbsp; Value Research</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMinAJBVV95cUxQMUlzTzZodDlENXlmemZrQjUxYlBaOGUxOV9PR1p4eE9CUjNxWm95MzdLNTNycFQwWDkyVXItSHBsemI2MnlBMGN0MURXaDktNG1UdW5jaTB4enhqMm1hdW83UUUxWlZoWmRiRjFBREh6RnowenFBRFNINDE0cVdIMnB6OUt0enprMGJIa1lndkVQc2tpYjRrNUJyXzhsa3RFSWJGQi1mNzMtRlZTUEhIVWs2LWk4REtuLTF1MXREelRfZEVjQWxrb0VORmFoV3VUUTNuclFxUERycDdkQVVZcXNNUzQ5MmFVQi11aURVdjBTQzd6UzVST3l4RjMwTjRKcUE4RS02YTNJUGR0d3RNS2ppakNRNzkySFk0MdIBogJBVV95cUxQczdXbDBIRmR4Z29lM3lmVG5Bc1pya1RIeFNFWTJyN2pldXhRWUFXdFFQNTA3YTRJczRLdE1DdzhUM3R6d191c0tEZzVVdy1rcEYwQ2tlOWlxbC05WWFiOV9mZzFobXVhdzAySlNia2xFSVRsejlzTlpiWXpwRHVSRVBIYXlPSjZ1Q0czMnlvTW1WNDhTd1Y2dXE2VktDMVNET0I4ZVpLYTRmTVJVUE8tREpraGVxNWdTdFFzczA0TnVJTl96VE11QW1NdWhGclk0VkRGVUFFc3VkMk1iN2VKSnZmdndmelU1MV9sendjSEx5RDlvMjh6OUtwU3REREZuXzZJa0pwSVg1QWVxaTNrN3FlVmtORWg1TzZHSkNVcW9hQQ?oc=5" target="_blank" rel="noopener">Stock Market Holiday 2026: When will BSE and NSE be closed for Diwali? Check list of remaining market holi - The Economic Times</a>
+              <p class='card-summary'>Stock Market Holiday 2026: When will BSE and NSE be closed for Diwali? Check list of remaining market holi &amp;nbsp;&amp;nbsp; The Economic Times</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTnFUOVJJZTctY1NhRkM0SC1ITThtVTFlNXRCbUZxMXJBR3RMc1VKSlRoallreS1GLVhJTy1DR18tWUZxdnVUX0s4SGxSeU85VDR4aDBhYk10aUduY1JIem50Z0FZY215Zmpxc2Q1a3lwTUowQUhBR2JvN2dIMHQwQXJhTTNNU2I5cEpsNGppWkJfSmVzd284ekoxSVJDUkZiNldRTHc5czNlMkRVQzRjeGVURmZYdS1nalB3eWQtS0ZOdFhXSERWUmhZYzNBZWZVcmZZRTlhanFaQQ?oc=5" target="_blank" rel="noopener">Stocks to watch today, November 5: BSE beat, Lenskart profit doubles, PI Industries and Afcons slip - Business Upturn</a>
+              <p class='card-summary'>Stocks to watch today, November 5: BSE beat, Lenskart profit doubles, PI Industries and Afcons slip &amp;nbsp;&amp;nbsp; Business Upturn</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Aurobindo</span>
+                <span class='date'>2026-11-05</span>
+              </div>
+            </div></div>
+        </div>
+</div>
+<footer>
+  Auto-generated by india-pharma-digest &nbsp;·&nbsp;
+  2026-11-05 11:50 UTC &nbsp;·&nbsp;
+  Data: Yahoo Finance, BSE, NSE, Economic Times, Moneycontrol
+</footer>
+<script>
+  function showTab(id) {
+    document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    var el  = document.getElementById(id);
+    var btn = document.getElementById('btn-' + id);
+    if (el)  el.style.display  = 'block';
+    if (btn) btn.classList.add('active');
+    // Scroll tab button into view
+    if (btn) btn.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  }
+  document.addEventListener('DOMContentLoaded', function() { showTab('tab_stocks'); });
+</script>
+</body>
+</html>
