@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-11-06
 
-> 67 items · 2026-11-06 11:48 UTC
+> 82 items · 2026-11-06 18:55 UTC
 
-## 📊 BSE / NSE Filings (17)
+## 📊 BSE / NSE Filings (33)
 
 ### [Alkem Laboratories: Press Release titled- Britannia''s Consolidated Sales for the quarter grew 16.6% while Net Profit grew 10.8%](https://www.bseindia.com/xml-data/corpfiling/AttachLive/04431fff-9de8-4185-8880-05b8997db420.pdf)
 Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500825
@@ -19,6 +19,16 @@ Category: Board Meeting | Sub: Board Meeting | BSE Code: 524230
 
 **Source:** BSE Filing  **Date:** 2026-11-05
 
+### [NGL Fine Chem Ltd: Outcome of the Board Meeting Dates November 06, 2026](https://www.bseindia.com/corporates/ann.html?scrip=524774)
+BSE Code: 524774
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Kilitch Drugs India Ltd: We are submitting herewith the outcome of the Board meeting](https://www.bseindia.com/corporates/ann.html?scrip=524500)
+BSE Code: 524500
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
 ### [Sun Pharma: Intimation of Schedule of Analyst/Institutional Investor Meeting](https://www.bseindia.com/xml-data/corpfiling/AttachLive/78a3ce2d-446b-4f51-a324-fe3260d4b875.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524715
 
@@ -34,6 +44,11 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-11-05
 
+### [Lupin: Transcript of Q2 FY2027 Earnings Conference Call.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7349a36a-8206-4e3a-9d03-13672e002492.pdf)
+Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
 ### [Lupin: Copy of Newspaper publication in respect of Unaudited Financial Results of the Company for the quarter and half year ended September 30, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6334e358-6870-4c02-8617-896a4b57f229.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500257
 
@@ -46,6 +61,11 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 524804
 
 ### [Biocon: Please find enclosed herewith the Transcript of the Earnings Conference Call (''''Con-Call'''') with Investor(s)/Analyst(s) held on Friday, October 30, 2026 to discuss Financial Performance ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/70023e8c-9131-4a5e-beb3-7db4d492c6ed.pdf)
 Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 532892
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [IPCA Laboratories: Transcript of Conference Call held on 05.11.2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7081d834-1111-4243-85fd-f5603e67281d.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524494
 
 **Source:** BSE Filing  **Date:** 2026-11-06
 
@@ -64,6 +84,21 @@ Category: Result | Sub: Financial Results | BSE Code: 524494
 
 **Source:** BSE Filing  **Date:** 2026-11-05
 
+### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 7 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015 and our letters dated 6 August 2026 and 6 October 2026, this is to ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c0574211-dfb2-47a0-9240-4254ef8c192e.pdf)
+Category: Company Update | Sub: General | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Alkem Laboratories: Scrutinizer''s Report on the Voting Results of the Postal Ballot](https://www.bseindia.com/xml-data/corpfiling/AttachLive/f62b9800-272e-4804-98d8-0f33ab89ae75.pdf)
+Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Alkem Laboratories: Outcome of Postal Ballot](https://www.bseindia.com/xml-data/corpfiling/AttachLive/77dc74a2-bd03-4d9b-9754-945c9bda0826.pdf)
+Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
 ### [Alkem Laboratories: Newspaper Advertisement for the Unaudited Consolidated and Standalone Financial Results of the Company for the Quarter and half year ended 30 September 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c6df21d-2796-46ba-bdc9-1b362857cca6.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 500825
 
@@ -79,15 +114,60 @@ Category: Result | Sub: Financial Results | BSE Code: 500825
 
 **Source:** BSE Filing  **Date:** 2026-11-05
 
+### [Sanofi India: This is to inform you that the shareholders of the Company have today, i.e. 6th November 2026 approved the appointment of Mr. Leo Puri as an Independent Director of the Company. Mr. Leo ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1aaeb85-6ca1-4b7d-9c05-4eb4916c7455.pdf)
+Category: Company Update | Sub: Change in Directorate | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Sanofi India: Please find enclosed the voting results of Postal Ballot pursuant to Regulation 44 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4309c275-8b2b-4c7e-ab79-d462ab07815f.pdf)
+Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Sanofi India: Please find enclosed the scrutinizer''s report on the remote e-Voting and the voting results of Postal Ballot pursuant to Regulation 30 and Regulation 44 of the SEBI (Listing Obligations ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e64425b-a1b2-4110-9300-00521a8fab34.pdf)
+Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
 ### [Jubilant Pharmova: Newspaper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4f77a4e5-2e74-43a0-8b82-49cdd53f7c93.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-11-05
 
+### [Sequent Scientific: Intimation regarding AGM](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9108a100-5918-43af-be51-f935e26f1114.pdf)
+Category: AGM/EGM | Sub: AGM | BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Sequent Scientific: Annual Report for the FY 2025-26](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0ce8b6c4-45bd-43a6-88ca-cf8f9595fc8e.pdf)
+Category: Others | Sub: Reg. 34 (1) Annual Report | BSE Code: 590086
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
 ### [Sequent Scientific: Newspaper Publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/747a15f9-dd06-4809-b06d-219f59f89703.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 590086
 
 **Source:** BSE Filing  **Date:** 2026-11-05
+
+### [Marksans Pharma: PFA Transcript of Q2 FY27 Earnings Conference Call](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3a1dba67-45c7-4bf8-9c58-933384d7acec.pdf)
+Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 524208
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Kilitch Drugs India Ltd: Submitting unaudited financials results for quarter ended 30.09.2026](https://www.bseindia.com/corporates/ann.html?scrip=524500)
+BSE Code: 524500
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Dev Labtech Venture Ltd: Unaudited Standalone and Consolidated Financial Results for the Half Year ended 30th September, 2026 along with Limited Review Report of Statutory Auditor.](https://www.bseindia.com/corporates/ann.html?scrip=543848)
+BSE Code: 543848
+
+**Source:** BSE Filing  **Date:** 2026-11-06
+
+### [Hamps Bio Ltd: Unaudited financial result for half year ended 30.09.2026 is attached herewith.](https://www.bseindia.com/corporates/ann.html?scrip=544312)
+BSE Code: 544312
+
+**Source:** BSE Filing  **Date:** 2026-11-06
 
 ---
 
@@ -97,11 +177,6 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 590086
 Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. Revenue from operations grew significantly to Rs 5,734 crore, up from Rs 4,900 crore a year prior. Additionally, new orders reached Rs 6,228 crore, a notable 38% increase year-over-year.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
-
-### [PhysicsWallah Q2 net profit more than doubles to nearly  ₹144 crore as revenue rises 18%](https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html)
-PhysicsWallah Q2 net profit more than doubles to ₹143.63 crore as revenue rises 18%, driven by online growth and higher NEET enrolments.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
 
 ### [BMW Industries Q2 Results: Net profit rise 43% YoY to Rs 21.62 crore](https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms)
 BMW Industries Ltd has reported an impressive 42.7 percent increase in net profit for the quarter ending on September 30. The firm's total income surged by 33 percent compared to the same quarter last fiscal year, while EBITDA rose by 25 percent, showcasing its resilience and growth. Notably, the new greenfield downstream steel complex in Bokaro commenced operations, with future plans focused on optimizing capacity utilization across these facilities.
@@ -113,15 +188,15 @@ Hindustan Construction Company reported a decline in consolidated net profit for
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Titan misses Q2 revenue estimates but beats profit view as jewellery demand holds up](https://www.livemint.com/companies/company-results/titan-misses-revenue-estimates-but-beats-profit-view-as-jewellery-demand-holds-up-11793890877911.html)
-Demand for gold coins and investment products remains subdued, even as Titan sees stronger traction in lower-caratage jewellery and 24% growth in its jewellery portfolio.
+### [Honasa Consumer eyes hair colour entry as Q2 net profit jumps 87% to  ₹73 crore](https://www.livemint.com/companies/honasa-consumer-eyes-hair-colour-entry-as-q2-net-profit-jumps-87-to-73-crore-11793964302074.html)
+Focus categories, including face cleansers, shampoos, face serums, suncare and moisturisers, grew over 40% during the quarter and accounted for more than 80% of its business.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-05
+**Source:** Mint - Pharma  **Date:** 2026-11-06
 
-### [Berger Paints misses Q2 profit estimates as raw material inflation squeezes margins](https://www.livemint.com/companies/company-results/berger-paints-misses-q2-profit-estimates-raw-material-inflation-squeezes-margins-11793884875033.html)
-Berger Paints’ September-quarter profit rose 5% to ₹216.88 crore, missing analyst estimates as raw-material costs surged faster than prices. Revenue grew 13.2%, while gross margins narrowed.&amp;nbsp;
+### [Hindalco beats Q2 estimates as strong metal prices offset rising input costs](https://www.livemint.com/companies/company-results/hindalco-beats-q2-estimates-as-strong-metal-prices-offset-rising-input-costs-11793962947194.html)
+The company reported an almost 59% jump in consolidated net profit to ₹7,532 crore in Q2, but a 39% rise in input costs during the quarter threatens to squeeze near-term margins.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-05
+**Source:** Mint - Pharma  **Date:** 2026-11-06
 
 ### [Largecap dhamaka! 6 bluechip stocks with upside of up to 48% to buy this Diwali](https://economictimes.indiatimes.com/markets/stocks/news/largecap-dhamaka-6-bluechip-stocks-with-upside-of-up-to-48-to-buy-this-diwali/slideshow/135595530.cms)
 As Samvat 2083 approaches, careful stock selection is vital due to global uncertainties. Religare Broking identifies six largecap stocks, such as Bajaj Finance and Mahindra Mahindra, that show promising upside this Diwali. With each stock displaying unique growth characteristics supporting their projected price targets, analysts stress the importance of sustainable earnings growth. A diversified portfolio is essential for effectively navigating the changing market dynamics.
@@ -133,10 +208,10 @@ Kotak Neo has spotlighted seven stocks that show considerable growth potential, 
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Jubilant Foodworks Q2 Results: Net Profit Rises 10% To Rs 70.2 Crore; Margin Rises Marginally](https://www.ndtvprofit.com/markets/jubilant-foodworks-q2-results-net-profit-rises-10-to-rs-70-2-crore-margin-rises-marginally-12292409#publisher=newsstand)
-Revenue has also risen by 11.5% to Rs 1,885 crore, versus Rs 1,690 crore in Q2 of FY26.
+### [Gland Pharma Q2 Results: Net profit jumps 58.2% YoY to Rs 291 crore, revenue rises 23.3% - Business Upturn](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS2RlRExadm8yTVB1NFlzVHBhUDVqNzdyS05PVE5ka1dUYjJaeUJVUFdXS3I0RGhjRVQ5TXh3WmN5bFZoaDFMSXVJVGcyWEd2NlQ3Q2VWRmdUSGJWQzFOeHNDNllNWDVRcERTckFqUXMzSWFIZHNCbVNRdG9fZGk0eWFCSVRMUXVGVGxMRFZFYXJSMGVLY1ZMNTVLOUFMeXE2Z1dZRDdLUXlQVVVpUzhvRWd4UnJERDFYWWhkX2gxYlNxV0NBdEkzR3VJTnBkVnVTbmp4eERodDVZRHhnS2Z4MzFIYzc?oc=5)
+Gland Pharma Q2 Results: Net profit jumps 58.2% YoY to Rs 291 crore, revenue rises 23.3% &nbsp;&nbsp; Business Upturn
 
-**Source:** NDTV Profit  **Date:** 2026-11-06
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-06
 
 ### [India’s new wealth rituals: What are millennials and Gen Z buying on Dhanteras?](https://economictimes.indiatimes.com/markets/stocks/news/indias-new-wealth-rituals-what-are-millennials-and-gen-z-buying-on-dhanteras/articleshow/135596463.cms)
 Dhanteras investing is evolving from physical gold purchases toward diversified digital portfolios. Younger investors are embracing gold ETFs, mutual funds, Bitcoin and tokenised assets while retaining the festival’s core goal of building wealth and financial security patiently.
@@ -153,25 +228,30 @@ Five Nifty500 stocks that gained over 8% on November 5 featured in StockEdge’s
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [M&amp;M Q2 consolidated PAT surges on strong SUV demand, beats Maruti and Hyundai](https://www.livemint.com/companies/company-results/mm-strong-suv-demand-maruti-hyundai-11793878483326.html)
-Company’s cost controls and pricing actions offset commodity inflation and rural demand weakness from an El Niño-hit monsoon.
+### [GIC Re’s NSE windfall masks weaker Q2 as flood claims, health push weigh](https://www.livemint.com/companies/company-results/gic-re-s-nse-windfall-masks-weaker-q2-as-flood-claims-health-push-weigh-11793963292081.html)
+The gain from the offer-for-sale in NSE’s IPO helped lift GIC Re’s investment income by11.8% to ₹4,238.26 crore
 
-**Source:** Mint - Pharma  **Date:** 2026-11-05
+**Source:** Mint - Pharma  **Date:** 2026-11-06
 
-### [Q2 Results Live: Siemens Net Profit Rises 4%, Jubilant FoodWorks Net Profit Up 10%; Voltas Also In Focus](https://www.ndtvprofit.com/markets/q2-results-live-updates-november-6-siemens-bosch-hindalco-voltas-among-223-companies-to-announce-earnings-today-12291338#publisher=newsstand)
-Q2 Results Live Market Blog
+### [Aurobindo Pharma Q2FY27 net profit rises 32.5% YoY to ₹11,238 crore - scanx.trade](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFppYWRMMW9kRUstM0VQdWpMcmRTc1YxbEdlOXpwc2cyUWQ4U0hucF9xZk9nakJDcnIyZThGa1RQWU9rQjhsRjVSUUZaLS1rRkpGT0tMMmhzQVFEelhhWm1ESmZzM0VERmlyRmlYU0Z4NEVqU3BtbmF4RExSd1VXZlc2dGFDMEJfMEUtUnNRNnpXcnM3U01sc0JLYVM0dVhzWnBfT0JqSFVqZUl0TXJoakF6RQ?oc=5)
+Aurobindo Pharma Q2FY27 net profit rises 32.5% YoY to ₹11,238 crore &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-11-06
+**Source:** GNews - Aurobindo  **Date:** 2026-11-06
 
-### [Bosch Q2 Results: Profit Rises 19%; Bonus Shares, Stock Split Declared | Details Inside](https://www.ndtvprofit.com/markets/bosch-q2-results-profit-rises-19-bonus-shares-stock-split-declared-details-inside-12292467#publisher=newsstand)
-Bosch reports 19% profit growth in Q2 FY27, approves bonus shares and a stock split.
+### [Aurobindo Pharma Q2 FY27: Record Revenue, Profit Up 32.5% - eHealth Magazine](https://news.google.com/rss/articles/CBMidEFVX3lxTE5xbU0wYUpIcW9kbG11M0hZenVsdXZMY1hMLWlEUTNrRnhyUEdCdXRocXlKbEEybGdQRkZ4WklCU29Oc253eU1OYUNPYkk4X281V3NhMzU1NUR1SDMyT2ZQY0wxVE11Q2ZFcjZvUjRwT05LZ0xk?oc=5)
+Aurobindo Pharma Q2 FY27: Record Revenue, Profit Up 32.5% &nbsp;&nbsp; eHealth Magazine
 
-**Source:** NDTV Profit  **Date:** 2026-11-06
+**Source:** GNews - Aurobindo  **Date:** 2026-11-06
 
-### [Aurobindo Pharma Q2 profit rises 32% to Rs 1,123.84 crore - Multibagg AI](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUpBYTA3WTVFRFlBSVIza1BtdGx5dlA1cXQ5dGtsQmNic0NoV2U4cnNSdHQ3WUlCTHJPYk5UQkctUHlENHJLM0dPazlob2JtMmRaQmNzY3VjNGlRNVFYRnd1ODdROE9SM0pNM0l5bnB1Y1UxLUU4NFhnSFY4NGFtWTZodkFJSTZTZlNBcTVyTGsxSzBKNy01TnVlVGpQZEZJVzg3Qk96RGp5VXBVbHZKaGl2SUFtTFVNbFE?oc=5)
-Aurobindo Pharma Q2 profit rises 32% to Rs 1,123.84 crore &nbsp;&nbsp; Multibagg AI
+### [RPG Life Sciences (NSE:RPGLIFE) H1 FY27 Revenue Up 16.2% to Rs 407.3 Crore, API Segment Grows 58.5% - Kalkine India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcDg4VE9tTlM1dFJsQ0U4N3dqczgwb0VFU1N4QlY5TVoyMmZFc2taZUtHdFBFQnV2ZFpLSWhGT0pYTU9kcDkyLUJoM3h6QWxMUFVla0hVdTIxNEJRUTBFQmtUQXZDX0ZDUEVzSWZtbXpqQXdFTjhvWjB5eV9WSTZ4S1JoX0N0Wm5hcGp2NEUwRGhsNkRqMVdOLVlUU0ZBZFFySnJZcG5DN2lrc2ZzWEhZalplLVNGOFdUUU16dGdKeGdKRDVOMHFmRzFJRWIwUXNs?oc=5)
+RPG Life Sciences (NSE:RPGLIFE) H1 FY27 Revenue Up 16.2% to Rs 407.3 Crore, API Segment Grows 58.5% &nbsp;&nbsp; Kalkine India
 
-**Source:** GNews - Aurobindo  **Date:** 2026-11-05
+**Source:** GNews - India Pharma  **Date:** 2026-11-06
+
+### [Fredun Pharma H1 FY27: Revenue Rs 495.88 Crore, Up 87% - Kalkine India](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSVRPTS0zN0JwMUdFVldhWGR0U0U2eXVDX2pkV2d4VXpGMnA0cnJnR002QUpFV1dXTDRVX3ljdmR4OGV5ZThzQWRPZmtVT1dMdUhKYTZrNjh2eDZNM3YwVDZpbnIwY0NuOGhJcUxsRDhXdXh1UkhWSy1HLTFpVFBwMEVqdG81MTBSdGkwQlh5NmxLRWdnZUFHYXJMNXZXaHl1SWRaRVlFWmxFWVJmb0JIZlVNdXBnejg1Q2s3dEJpRzNnblA2anhQWXJTVklhTXNRMGNuRUhMd1dDMnNKOWhXV3gyNi0yb25qTVF0eQ?oc=5)
+Fredun Pharma H1 FY27: Revenue Rs 495.88 Crore, Up 87% &nbsp;&nbsp; Kalkine India
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-06
 
 ### [Ipca Laboratories Limited Reports Earnings Results for the Second Quarter and Six Months Ended September 30, 2026 - www.marketscreener.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTkdtdXo5SHVJZ2FwSUI4OHc3bDdTNDlZb1lGSWM0ZG9RTWxxcnZqQUFXVmJRbndHY0Y1RmJiT3o5bDJZeUx3XzVuU3ZodVNaSmFHSmdqV2ZLQXg2cW1ibXFJdy1lSDV1Q01YUFpkYVc2a2JSYjhwSHdfdU1LYUVudDVEa2xFUHpKQlI1bDVfeDdtOEZkOU14SXRnbUlJUnpvRlRYXzNORzFtbC1pOHl6aHdmaUp4al92R1NDRU9fazZGSXZjUTNmNFNLaXVUNHpBM0l3dG5FeHpUSHM5T0tFb3JNUXdyWUhh?oc=5)
 Ipca Laboratories Limited Reports Earnings Results for the Second Quarter and Six Months Ended September 30, 2026 &nbsp;&nbsp; www.marketscreener.com
@@ -195,7 +275,12 @@ Blue Jet Healthcare (NSE:BLUEJET): What Do Its Q2 FY27 Standalone Results Reveal
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (6)
+
+### [China blocks SoftBank’s $5.4 billion ABB robotics deal: How Beijing is tightening its grip on strategic technologies](https://www.livemint.com/companies/news/china-blocks-softbank-s-5-4-billion-abb-robotics-deal-how-beijing-is-tightening-its-grip-on-strategic-technologies-11793977670665.html)
+China has blocked SoftBank’s $5.4 billion acquisition of ABB’s robotics business, citing concerns over strategic technology and data security. The move follows Beijing’s decision to unwind Meta’s $2 billion-plus acquisition of AI startup Manus, signalling tighter scrutiny of foreign investments.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-06
 
 ### [Musk's $470 million political bet: Why Tesla, SpaceX's Texas expansion faces a regulatory test after US midterms](https://www.livemint.com/companies/people/musks-470-million-political-bet-why-tesla-spacexs-texas-expansion-faces-a-regulatory-test-after-us-midterms-11793931940497.html)
 Elon Musk's $470 million bet on Republicans has raised questions over Tesla and SpaceX's Texas expansion after Democrats won the US midterms. Investors fear tighter data-centre regulations could delay projects, increase costs and complicate a potential merger.
@@ -207,37 +292,42 @@ Iveco lost €45 million in the September quarter, its second quarterly loss thi
 
 **Source:** Mint - Pharma  **Date:** 2026-11-06
 
-### [Emami weighs more acquisitions as digital-first brands zoom](https://www.livemint.com/companies/emami-weighs-more-acquisitions-as-digital-first-brands-zoom-11793877744647.html)
-This year, Emami acquired IncNut, owner of the skincare brands SkinKraft and Vedix, as well aloe-vera juice brand Alo Fruit.
+### [Delhi High Court upholds BharatPe’s veto rights in Unity SFB capital raise dispute](https://www.livemint.com/companies/news/delhi-high-court-upholds-bharatpe-s-veto-rights-in-unity-sfb-capital-raise-dispute-11793968106023.html)
+The court dismissed Unity SFB's appeal, ruling that the joint venture bank cannot alter its capital structure or dilute BharatPe’s 49% stake without its prior consent.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-05
+**Source:** Mint - Pharma  **Date:** 2026-11-06
 
-### [Jio’s global ambitions: How US giants Comcast, Charter could help Mukesh Ambani's telecom company expand overseas](https://www.livemint.com/companies/news/jio-global-ambitions-how-us-giants-comcast-and-charter-could-help-mukesh-ambani-telecom-company-expand-overseas-11793879285761.html)
-Jio Platforms is in talks with US cable giants Comcast and Charter to license its wireless broadband technology. How could the proposed partnerships help Mukesh Ambani expand overseas?
+### [Jose Mourinho Reacts To Cristiano Ronaldo's Portugal Retirement: 'His Career Is Not Over'](https://www.ndtvprofit.com/sports/jose-mourinho-reacts-to-cristiano-ronaldos-portugal-retirement-his-career-is-not-over-12294578#publisher=newsstand)
+Cristiano Ronaldo celebrating a goal.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-05
+**Source:** NDTV Profit  **Date:** 2026-11-06
+
+### [Shrinking Fleet, Mounting Cancellations, 83% On-Time Misses, And Refund Woes: Inside SpiceJet's Struggle To Keep Flying](https://www.ndtvprofit.com/business/shrinking-fleet-mounting-cancellations-83-delays-and-refund-woes-inside-spicejets-struggle-to-keep-flying-12294491#publisher=newsstand)
+DGCA, or Directorate General of Civil Aviation's, September data shows that SpiceJet cancelled over 20% of its scheduled flights. This is against an industry average of 1.15%. In August as well, its cancellation rate was above 20%.
+
+**Source:** NDTV Profit  **Date:** 2026-11-06
 
 ---
 
 ## 🏭 Operations & Approvals (5)
 
+### [Amid Ramayana release, PVR INOX launches Sattvik menu: No onion, no garlic kuttu tacos, khichdi and more](https://www.livemint.com/companies/amid-ramayana-release-pvr-inox-launches-sattvik-menu-no-onion-no-garlic-kuttu-tacos-khichdi-and-more-11793987363788.html)
+PVR INOX Ltd is offering a curated all-vegetarian menu to celebrate Ramayana release. It is also offering a special collection of Rudraksha which moviegoers can take home.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-06
+
+### [Frontier Raas expands retail footprint with new Ahmedabad store; Kangana Ranaut attends launch](https://www.livemint.com/companies/news/frontier-raas-expands-retail-footprint-with-new-ahmedabad-store-kangana-ranaut-attends-launch-11793986816273.html)
+Indian ethnic and occasionwear brand Frontier Raas inaugurated its new store in Ahmedabad on November 1, 2026, marking another step in its retail expansion.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-11-06
+
+### [Zomato launches limitless delivery; how the new service works and what it offers — check details here](https://www.livemint.com/companies/news/zomato-launches-limitless-delivery-for-customers-how-the-new-service-works-and-what-it-offers-check-details-here-11793982900095.html)
+Zomato has launched Limitless Delivery feature in seven Indian cities, allowing customers to order from restaurants up to 40 km away. Details here.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-06
+
 ### [Hertz Shares Plunge as Car Renter Warns It’s Running Low on Cash](https://www.livemint.com/companies/hertz-shares-plunge-as-car-renter-warns-it-s-running-low-on-cash-11793905693517.html)
 Hertz Global Holdings Inc. shares plummeted after the car renter cautioned it expects to end the year with less cash and borrowing capacity than previously expected.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
-
-### [KFC launches themed menu and more as it teams up with Marvel's Doctor Doom for Avengers Doomsday campaign worldwide](https://www.livemint.com/companies/kfc-launches-themed-menu-and-more-as-it-teams-up-with-marvels-doctor-doom-for-avengers-doomsday-campaign-worldwide-11793902124607.html)
-KFC to team up with Marvel in its most expansive collaboration to date. Check when and where it will be available.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
-
-### [Jio launches voice-only plans from  ₹147: How do prices compare with Airtel and Vi?](https://www.livemint.com/companies/news/jio-launches-voice-only-plans-from-147-how-do-prices-compare-with-airtel-and-vi-11793897722541.html)
-Jio's voice-only prepaid offerings start at ₹147, which comes with a validity of 22 days. At the higher end, the company offers a ₹1,748 plan with a validity of 336 days.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
-
-### [What CashKaro co-founder revealed on raising  ₹130 crore for her startup while battling kidney failure](https://www.livemint.com/companies/people/what-cashkaro-co-founder-revealed-on-raising-130-crore-for-her-startup-while-battling-kidney-failure-11793881993466.html)
-Swati Bhargava revealed that she underwent a kidney transplant while CashKaro was raising funds for its Series C round.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-05
 
@@ -248,12 +338,17 @@ Pharma stocks rally: Aurobindo, Divi's, Glenmark, Symbiotec hit new highs &nbsp;
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (6)
 
 ### [Beyond gold: What $340 billion in crypto flows says about India's investment preferences this Dhanteras](https://economictimes.indiatimes.com/markets/stocks/news/beyond-gold-what-340-billion-in-crypto-flows-says-about-indias-investment-preferences-this-dhanteras/articleshow/135596165.cms)
 Gold remains central to Indian household savings, but high prices are pushing investors toward ETFs and digital gold instead of physical holdings. Crypto is emerging as a separate portfolio option rather than replacing gold, reflecting a broader shift toward digital ownership and diversification.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
+
+### [IDBI Bank stake sale: ‘Very, very remote’ chance of finding another buyer at  ₹52,000 crore, says DIPAM Secretary Chawla](https://www.livemint.com/companies/news/idbi-bank-stake-sale-very-very-remote-chance-of-finding-another-buyer-at-52-000-crore-says-dipam-secretary-chawla-11793971089575.html)
+After weighing cancellation, accepting the existing offer and seeking revised bids, the Core Group of Secretaries on Disinvestment chose to invite improved offers for IDBI Bank to maximise the transaction value, DIPAM Secretary Arunish Chawla said.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-06
 
 ### [Nvidia CEO Jensen Huang loses $15 billion as AI-linked stock sell-off knocks him down to 13th on billionaire list](https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-loses-15-billion-as-ai-linked-stock-sell-off-knocks-him-down-to-13th-on-billionaire-list-11793952730913.html)
 Nvidia CEO Jensen Huang lost $15.1 billion as AI-linked stocks tumbled after Democrats’ midterm victories. The sell-off dragged down major technology shares, wiping out $2.5 trillion from the US stock market on Thursday.
@@ -270,45 +365,30 @@ Anthropic IPO: Three major investors who plan to take part in the offering told 
 
 **Source:** Mint - Pharma  **Date:** 2026-11-06
 
-### [Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says](https://www.livemint.com/companies/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says-11793901964710.html)
-Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
-
-### [Revolut confirms $115 billion valuation after latest share sale, up from $75 billion in less than a year](https://www.livemint.com/companies/news/revolut-confirms-115-billion-valuation-after-latest-share-sale-up-from-75-billion-in-less-than-a-year-11793896537484.html)
-The secondary share sale, which began in July, allowed existing investors, including employees, to sell their holdings to other investors. The transaction did not involve the issuance of new shares by Revolut.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
-
-### [Adani Ports to enter Europe with €2.56 billion buyout of Evos](https://www.livemint.com/companies/news/adani-ports-to-enter-europe-with-2-56-billion-buyout-of-evos-11793883536082.html)
-The company will pay €1.18 billion in cash to buy 100% of Evos over 15 months, sealing its biggest buyout to date by enterprise value.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-05
-
-### [PVR Clarifies After INOX Juice Counter Shut Down In Bengaluru Mall After Complaint Over Cups Used To Serve Drinks](https://www.ndtvprofit.com/india/food-safety-crackdown-pvr-clarifies-after-inox-juice-counter-shut-down-in-bengaluru-mall-after-complaint-over-cups-used-to-serve-drinks-12290536#publisher=newsstand)
-Photographs shared with the post showed the counter's entrance criss-crossed with tape, with officers standing beside it holding the notice.
+### [Foreign Investors Change Course After A Rs 90,000 Crore Sell-Off. What's Driving The U-Turn?](https://www.ndtvprofit.com/markets/foreign-investors-change-course-after-a-rs-90-000-crore-sell-off-whats-driving-the-u-turn-12294316#publisher=newsstand)
+Foreign investors return to Indian equities after pulling out nearly Rs 90,000 crore.
 
 **Source:** NDTV Profit  **Date:** 2026-11-06
 
 ---
 
-## 📰 Industry & Policy News (13)
+## 📰 Industry & Policy News (12)
 
 ### [Who is Venugopal Dhoot? Former Videocon promoter declared ‘bankrupt’ by NCLT Mumbai bench over  ₹12,668-cr SBI default](https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html)
 The NCLT Mumbai bench declared former Videocon Industries promoter Venugopal Dhoot ‘bankrupt’ after accepting SBI’s petition over loan defaults of ₹12,668 crore. A bankruptcy trustee will administer the proceedings.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-06
 
-### [Divis Labs Share Price Live Updates: Divis Labs Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-06-nov-2026/liveblog/135591251.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-06-nov-2026/liveblog/135591251.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Cipla Share Price Live Updates: Cipla's Daily Change and Volatility](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-06-nov-2026/liveblog/135591218.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-06-nov-2026/liveblog/135591218.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Recent Price Action](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-06-nov-2026/liveblog/135591027.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-06-nov-2026/liveblog/135591027.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys Trading Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-06-nov-2026/liveblog/135591009.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-06-nov-2026/liveblog/135591009.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
 ### [Maxwell Engineering shares list at 90% premium. Here's how HGS, other 2 SME issues debuted](https://economictimes.indiatimes.com/markets/stocks/news/maxwell-engineering-shares-list-at-90-premium-heres-how-hgs-other-2-sme-issues-debuted/articleshow/135594255.cms)
@@ -321,32 +401,27 @@ India's IPO landscape has showcased remarkable performance, with numerous stocks
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Current Price Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-06-nov-2026/liveblog/135591337.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-06-nov-2026/liveblog/135591337.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-06
 
-### [Claude Wants To Become Your Personal Finance Assistant. Here's What It Can And Cannot Do](https://www.ndtvprofit.com/technology/claude-wants-to-become-your-personal-finance-assistant-heres-what-it-can-and-cannot-do-12292804#publisher=newsstand)
-From tracking monthly expenses to identifying recurring bills, Claude's new feature aims to make personal finance easier to understand.
+### [Walleye to Return $2 Billion to Clients in Stocks Trading Reset](https://www.livemint.com/companies/walleye-to-return-2-billion-to-clients-in-stocks-trading-reset-11793990809278.html)
+Walleye Capital plans to return about $2 billion to clients following its decision to cut back on equities trading.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-06
+
+### [Move Over Bugatti, BYD's Electric Hypercar Yangwang U9 Breaks 500 Kmph Barrier With New World Record — Watch](https://www.ndtvprofit.com/business/move-over-bugatti-byds-electric-hypercar-yangwang-u9-breaks-500-kmph-barrier-with-new-world-record-watch-12294625#publisher=newsstand)
+BYD's Yangwang U9 Xtreme clocked 503.17 kmph in Abu Dhabi, setting a new production car record
 
 **Source:** NDTV Profit  **Date:** 2026-11-06
 
-### [Yogesh Lakhani-Led Bright Outdoor Media Makes BSE And NSE Main Board Debut](https://www.ndtvprofit.com/markets/bright-outdoor-media-limited-makes-its-debut-on-the-main-boards-of-bse-and-nse-12292503#publisher=newsstand)
-The firm's Bright 360 initiative focuses on expanding beyong conventional outdoor advertising.
+### [Scene Box Office Collection Day 1: Suriya Starrer Gets A Positive Start With Good Audience Response](https://www.ndtvprofit.com/entertainment/scene-box-office-collection-day-1-suriya-starrer-gets-a-positive-start-with-good-audience-response-12294548#publisher=newsstand)
+Scene released in theatres on November 6, 2026.
 
 **Source:** NDTV Profit  **Date:** 2026-11-06
 
-### ['Looking to Marry Someone With $150k In Gains': Investor Jokes He Has $150k in Losses To Set Off](https://www.ndtvprofit.com/trending/looking-to-marry-someone-with-150k-in-gains-investor-jokes-he-has-150k-in-losses-to-set-off-12292313#publisher=newsstand)
-An investor's capital-loss marriage joke highlights how US couples filing jointly can offset capital gains with losses, although tax benefits come with shared liabilities and complex filing rules.
+### ['I Saw My Ram Ji On Screen': Vivek Oberoi Shares Ramayana Reaction, Praises Cast And Team](https://www.ndtvprofit.com/entertainment/i-saw-my-ram-ji-on-screen-vivek-oberoi-shares-ramayana-reaction-praises-cast-and-team-12293281#publisher=newsstand)
+Vivek Oberoi plays Vidyutjihva in Nitesh Tiwari’s Ramayana.
 
 **Source:** NDTV Profit  **Date:** 2026-11-06
-
-### [Stock Market Highlights: Sensex Jumps 1,718 Points, Nifty 50 Ends Samvat 2082 Above 25,000](https://www.ndtvprofit.com/markets/stock-market-crash-live-gift-nifty-sensex-nifty-fall-dhanteras-2026-nasdaq-nikkei-kospi-crude-oil-prices-gold-rate-today-12290492#publisher=newsstand)
-Stock Market Highlights: Nifty Midcap 100 eased 0.02% and the Nifty Smallcap 100 indices declined 0.82%.
-
-**Source:** NDTV Profit  **Date:** 2026-11-06
-
-### [ENNATURE BIO PHARMA LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster](https://news.google.com/rss/articles/CBMingFBVV95cUxPNzJOU3pJeklnRHpaNHJkVDVjbE5mODduZDctUTZxd3ozSUo4Wm5tR2NMdEJTSXdaLWJDNkxvOHZiVUtvR2lhb01lOFduR2lwMXRtOFh0OFVKZVhXZk5vSy1vOElwbU1FNkZQQTBlMlVkZXlWbWJOOVVzTkhRbGNGU1NKdlZtUDY0cjdXOC1XaC1TMUdGdWNlb0FIanNXQQ?oc=5)
-ENNATURE BIO PHARMA LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes &nbsp;&nbsp; Equitymaster
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-05
 
 ---
