@@ -1,13 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-11-09
 
-> 62 items · 2026-11-09 12:30 UTC
+> 64 items · 2026-11-09 21:58 UTC
 
-## 📊 BSE / NSE Filings (9)
-
-### [Natco Pharma: Umiya Tubes Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Un-audited Limited reviewed Financial ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/95a5d3f4-d7f0-48ea-af50-02e5033d085d.pdf)
-Category: Board Meeting | Sub: Board Meeting | BSE Code: 539798
-
-**Source:** BSE Filing  **Date:** 2026-11-09
+## 📊 BSE / NSE Filings (7)
 
 ### [Divis Lab: As Enclosed](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6bf2bc1b-e834-4e3f-a4d4-cd67422ef974.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 532488
@@ -29,6 +24,11 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-11-09
 
+### [Sanofi India: The Company will be participating in the analyst/institutional investor conferences/meetings on 18th and 19th November 2026 as per enclosed schedule.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/dfe10250-1d80-4d73-8087-2a6b334c69c1.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-11-09
+
 ### [Medico Remedies Ltd: Unaudited Standalone Financial Results for Quarter ended 30th September, 2026 along with Auditors limited review report.](https://www.bseindia.com/corporates/ann.html?scrip=540937)
 BSE Code: 540937
 
@@ -39,21 +39,9 @@ BSE Code: 590030
 
 **Source:** BSE Filing  **Date:** 2026-11-09
 
-### [Umiya Tubes Ltd: Umiya Tubes Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Un-audited Limited reviewed Financial ....](https://www.bseindia.com/corporates/ann.html?scrip=539798)
-BSE Code: 539798
-
-**Source:** BSE Filing  **Date:** 2026-11-09
-
-### [Medico Remedies Ltd: 1.Unaudited Standalone Financial Results for the quarter ended 30th September 2026 alongwith Auditors'
-Limited Review Report thereon;
-2. Appointment of M/s V. J. Talati & Co. as the Cost ....](https://www.bseindia.com/corporates/ann.html?scrip=540937)
-BSE Code: 540937
-
-**Source:** BSE Filing  **Date:** 2026-11-09
-
 ---
 
-## 💰 Results & Financials (14)
+## 💰 Results & Financials (16)
 
 ### [Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore](https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms)
 Nuvama Wealth Management Ltd achieved a consolidated net profit of Rs 303.5 crore for Q2 FY27. The company saw a revenue increase of 20.35% to Rs 1,366 crore for the same quarter. Client assets reached Rs 5.5 lakh crore, reflecting a 25% year-on-year growth. Wealth management, asset services, and capital markets drove this substantial growth. The company demonstrated strong operating profits with a return on equity remaining robust at 29%.
@@ -100,8 +88,8 @@ Divis joins ₹3 trn market cap club; rallies 15% in 2 days post Q2 results &nbs
 
 **Source:** GNews - Divi's  **Date:** 2026-11-09
 
-### [Divi’s Laboratories shares gain another 5% after Q2 results. Here’s why Jefferies raised target price by 2 - The Economic Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdlpKVFlGSDdsVjc2QlV4M2lEbENQNS1MM3JDYlNJMHFBWVdpT0Rxcl9aLTV0aE03WDNBa3ZDN1JCQzRZWlFKdW1NVnluVXJfeHRaV2l3bkdydmszLU5oZ0RiVTBYVVhqYWk2cU9sc0JQWXQ1by1pNHhFbkFGZmZjOFBrcDRoOHUyaHhpd0JGZUN3dGRiZ19paElBa3pneVJXcHZTbVR6OTNaaXFWc0I3b0hWV2ZXcVJnUV91dEJRMnJnRE5MM1padF94cm9yUlFtQ0M5RWJyQ2RZbXJmVWo3U1EzaEdENVI3SDltejRQMkRfVHhwcmVCcFYtZVc0U3F6QU80ZFlfeVbSAY4CQVVfeXFMT053Rm5ERkN6RnlaemFSRERfN1Vua3g3UTYwZzg0V0d5ejZvUTUyVHJYOFVFaDQ5Rmxoc3R6ZzJ1QkZqTEpRaXlzZm56X05hOVdqcWV0TUFWVDVRdjNGZVh3Snd3bnJhdlBPSlhWVF9XVHpBUHE1Rk1vYkJ5VWdYT2dGdko2c1h1cFZfS0hIZUNFUjZTZkMxcml0MF9vb0JieVlERkxnTWZ2ZmlCWGFjOE1LWUYxRjNjb3JCX1ZUS2tnWHhUeEprdV9RbkpfS3I2UmpweGEtRWRONTF1RUt2OWVkRjNtVjBLM3JqM2ZvOEJzaHowRDdud0ZkaV9mTkxtMXdlejNfdTgyNFJiSnd3?oc=5)
-Divi’s Laboratories shares gain another 5% after Q2 results. Here’s why Jefferies raised target price by 2 &nbsp;&nbsp; The Economic Times
+### [Divi's Laboratories shares hit record high rising 84% YTD; buy, sell or hold after Q2 results 2026? Brokerages report - Livemint](https://news.google.com/rss/articles/CBMijwJBVV95cUxOb01YNFJjd0x1TzhiUDFoLWZhSXM3bjBVamhQZ2wwY2RNRjYwWmhDd0pONjduM3h0c3hWUDk0SXpZUm1lMHhGaHNVV284eTZSazZJYkJJcEpyODQtLVNkbE9vaENXeVl6SF9CSjZZbmFmRUsxR0lrLXVhQlNHR1Z6WUxDbHRqWEVwc2xBYU4zbGRVa3lrajA4WHhoTC1xeS1aVmJOSHFXalJBZDZmLWZKSWdhajk1ZXp4U3N0Nl9XX2xFM19qaGZSd3VWMmZwX2tELVNsalRmNFBsc0t0Z1FSU0RNV01WNjhUOFJGN0F5ZG9hUkJ4OE5DU1RzcmxaQ18teHhOV3FqTXhCdVpkR3I00gGUAkFVX3lxTFAwTzh0SkRWQjcwS2R2Q0x2T1ZDVnowRDlrdUtYS0tHNDVBajZzMHdnVm5RbGprRjNJR0FZb193NHZ2TTFfR3BTYm9xbUI0MXk1cVRkZXhvX0tkTHY1Q01VWWsyYVowVlhtRG1xR1BrNnpBWlV6ajNRSUUzcGVSNjdTRTQ1a1dOLW9CSFc2QjE0anRDYjdOZnBuMnd5ZlJnTjBIRDByQjNId3NHM0NGbFZvWFFwc3FKYkREYjBEdGhpaU9xdmJXRDc5SXZrb05oNTRJY1hrOHhNTTNVZjZWRm9fV1dKTjh3Slc3aGJfUU9hcThacjFuOWI3M3kyWlA3TUI0RFc1QjNqWmRvZXRqdDhXdTlXbw?oc=5)
+Divi's Laboratories shares hit record high rising 84% YTD; buy, sell or hold after Q2 results 2026? Brokerages report &nbsp;&nbsp; Livemint
 
 **Source:** GNews - Divi's  **Date:** 2026-11-09
 
@@ -110,8 +98,8 @@ NIFTY Pharma rallies nearly 3% to hit fresh new peak; Divi’s Labs, Gland Pharm
 
 **Source:** GNews - Divi's  **Date:** 2026-11-09
 
-### [Divi's Laboratories shares hit record high rising 84% YTD; buy, sell or hold after Q2 results 2026? Brokerages report - Livemint](https://news.google.com/rss/articles/CBMijwJBVV95cUxOb01YNFJjd0x1TzhiUDFoLWZhSXM3bjBVamhQZ2wwY2RNRjYwWmhDd0pONjduM3h0c3hWUDk0SXpZUm1lMHhGaHNVV284eTZSazZJYkJJcEpyODQtLVNkbE9vaENXeVl6SF9CSjZZbmFmRUsxR0lrLXVhQlNHR1Z6WUxDbHRqWEVwc2xBYU4zbGRVa3lrajA4WHhoTC1xeS1aVmJOSHFXalJBZDZmLWZKSWdhajk1ZXp4U3N0Nl9XX2xFM19qaGZSd3VWMmZwX2tELVNsalRmNFBsc0t0Z1FSU0RNV01WNjhUOFJGN0F5ZG9hUkJ4OE5DU1RzcmxaQ18teHhOV3FqTXhCdVpkR3I00gGUAkFVX3lxTFAwTzh0SkRWQjcwS2R2Q0x2T1ZDVnowRDlrdUtYS0tHNDVBajZzMHdnVm5RbGprRjNJR0FZb193NHZ2TTFfR3BTYm9xbUI0MXk1cVRkZXhvX0tkTHY1Q01VWWsyYVowVlhtRG1xR1BrNnpBWlV6ajNRSUUzcGVSNjdTRTQ1a1dOLW9CSFc2QjE0anRDYjdOZnBuMnd5ZlJnTjBIRDByQjNId3NHM0NGbFZvWFFwc3FKYkREYjBEdGhpaU9xdmJXRDc5SXZrb05oNTRJY1hrOHhNTTNVZjZWRm9fV1dKTjh3Slc3aGJfUU9hcThacjFuOWI3M3kyWlA3TUI0RFc1QjNqWmRvZXRqdDhXdTlXbw?oc=5)
-Divi's Laboratories shares hit record high rising 84% YTD; buy, sell or hold after Q2 results 2026? Brokerages report &nbsp;&nbsp; Livemint
+### [Divi’s Laboratories shares gain another 5% after Q2 results. Here’s why Jefferies raised target price by 2 - The Economic Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdlpKVFlGSDdsVjc2QlV4M2lEbENQNS1MM3JDYlNJMHFBWVdpT0Rxcl9aLTV0aE03WDNBa3ZDN1JCQzRZWlFKdW1NVnluVXJfeHRaV2l3bkdydmszLU5oZ0RiVTBYVVhqYWk2cU9sc0JQWXQ1by1pNHhFbkFGZmZjOFBrcDRoOHUyaHhpd0JGZUN3dGRiZ19paElBa3pneVJXcHZTbVR6OTNaaXFWc0I3b0hWV2ZXcVJnUV91dEJRMnJnRE5MM1padF94cm9yUlFtQ0M5RWJyQ2RZbXJmVWo3U1EzaEdENVI3SDltejRQMkRfVHhwcmVCcFYtZVc0U3F6QU80ZFlfeVbSAY4CQVVfeXFMT053Rm5ERkN6RnlaemFSRERfN1Vua3g3UTYwZzg0V0d5ejZvUTUyVHJYOFVFaDQ5Rmxoc3R6ZzJ1QkZqTEpRaXlzZm56X05hOVdqcWV0TUFWVDVRdjNGZVh3Snd3bnJhdlBPSlhWVF9XVHpBUHE1Rk1vYkJ5VWdYT2dGdko2c1h1cFZfS0hIZUNFUjZTZkMxcml0MF9vb0JieVlERkxnTWZ2ZmlCWGFjOE1LWUYxRjNjb3JCX1ZUS2tnWHhUeEprdV9RbkpfS3I2UmpweGEtRWRONTF1RUt2OWVkRjNtVjBLM3JqM2ZvOEJzaHowRDdud0ZkaV9mTkxtMXdlejNfdTgyNFJiSnd3?oc=5)
+Divi’s Laboratories shares gain another 5% after Q2 results. Here’s why Jefferies raised target price by 2 &nbsp;&nbsp; The Economic Times
 
 **Source:** GNews - Divi's  **Date:** 2026-11-09
 
@@ -125,9 +113,29 @@ Divi's Laboratories Q2 Review: Goldman Sachs, Jefferies, JPMorgan Raise Target P
 
 **Source:** GNews - Divi's  **Date:** 2026-11-09
 
+### [FDA Adds Warning Label To Obesity Drugs For Eye Condition](https://www.ndtvprofit.com/world/fda-adds-warning-label-to-obesity-drugs-for-eye-condition-12305158#publisher=newsstand)
+The US Food and Drug Administration will now require GLP-1 drugs including Novo's Wegovy and Ozempic and Lilly's Mounjaro, Zepbound and Foundayo to carry warnings that they may increase the risk of non-arteritic anterior ischemic optic neuropathy, or NAION.
+
+**Source:** NDTV Profit  **Date:** 2026-11-09
+
+### [Compugen: Q3 Earnings Snapshot - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0wwWHcxS2JHdnVDTUk5QjNja0NGbDRMNXJjbFlDNU9mOHpqSVBaS1hkUXBXQUtzblBmLVNjWHlBc09yaHRMVDViWFRHUTFDY1k1eWFYdFVZTXRxTE1nLS14TXgxc1NfU3R1TjZEdVIxazVEb1Z4cER2MjhpWFVreDdKOF8?oc=5)
+Compugen: Q3 Earnings Snapshot &nbsp;&nbsp; Yahoo Finance Singapore
+
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-09
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (5)
+
+### [Brazils Braskem creditors, shareholders target Wednesday deadline for debt deal, sources say](https://www.livemint.com/companies/brazils-braskem-creditors-shareholders-target-wednesday-deadline-for-debt-deal-sources-say-11794253700070.html)
+BRASKEM-BRAZIL/ (PI
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
+
+### [Nvidia chips, Alibaba ties and Jensen Huang scandal: Inside Alice Huang's $100 million-plus pitch](https://www.livemint.com/companies/news/nvidia-chips-alibaba-ties-and-jensen-huang-scandal-inside-alice-huangs-100-million-plus-pitch-11794237553842.html)
+Alice Huang reportedly pitched a multi-million-dollar data centre project using Nvidia GPU access and Alibaba ties. Report reveals details of her business dealings amid the Jensen Huang controversy.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
 
 ### [From a simple China TV reporter to top biz leader in Singapore, how Alice Huang came so close to NVIDIA CEO Jensen Huang](https://www.livemint.com/companies/news/from-a-simple-china-tv-reporter-to-top-biz-leader-in-singapore-how-alice-huang-came-so-close-to-nvidia-ceo-jensen-huang-11794207707848.html)
 The New York Times reports that US intelligence agencies suspect Alice Huang had ties to China’s Ministry of State Security and sought information about Nvidia. Jensen Huang initially said his interactions with her were normal business dealings.&amp;nbsp;
@@ -144,14 +152,24 @@ M&#038;A deal value declined by 55.8 per cent, while venture capital funding dec
 
 **Source:** Express Pharma  **Date:** 2026-11-09
 
-### [NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks - Upstox](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmpvWTEtVzZQaFRJT0YtMm5SVnh0VDV4QTJBTXczT2FtcnJPS0tlUm9YRUd2RlZzaHI4dWJ6QVRlLWVPYlpvTUFTYzBPWDZwemtBQ0lPVnd1bVphSWszdW1ublpubThqYTdvbUQwY2JlZm5fTFIweUJINHFYT3dIdTJ3OHVITUdXejg0LTduQXUzRF9mY2ljNnAzZWRpMEVRTXFpeUlGZjdKUS1TTGZwNXVSODZ3bVJ1d09rSC1Cb0VEbUVmOWN6dVJaaHlFeDl0T250QVdRQ2NGUmxTZ19z?oc=5)
-NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&amp;T, PVR Inox, Divi's Labs among top buzzing stocks &nbsp;&nbsp; Upstox
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-09
-
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (6)
+
+### [UK boy's tomato-growing hobby turns into booming business, with orders coming from as far away as Australia](https://www.livemint.com/companies/news/uk-boys-tomato-growing-hobby-turns-into-booming-business-with-orders-coming-from-as-far-away-as-australia-11794240788080.html)
+Jacob's journey from growing a few plants during the pandemic to running a business with thousands of plants highlights how a childhood interest has developed into an entrepreneurial venture with an expanding customer base.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
+
+### [Nvidia’s Jensen Huang faces board scrutiny: Can the chipmaker remove its CEO? Here’s what the board can and cannot do](https://www.livemint.com/companies/news/nvidias-jensen-huang-faces-board-scrutiny-can-the-chipmaker-remove-its-ceo-here-s-what-the-board-can-and-cannot-do-11794239847524.html)
+Nvidia's board has launched an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence effort. Here's what the company's bylaws say about removing him as CEO and director.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
+
+### [What is Megaspeed? The Nvidia partner at the centre of Jensen Huang’s China espionage controversy](https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html)
+What is Megaspeed, the Singapore-based Nvidia chip buyer linked to Jensen Huang's alleged 'honeytrap' scandal? Here's why it is under US scrutiny.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
 
 ### [Jensen Huang controversy: Megaspeed denies report on illegal Nvidia chip transfers to China, hints at legal action](https://www.livemint.com/companies/news/nvidia-chip-controversy-megaspeed-denies-report-on-illegal-transfers-to-china-says-investigations-found-no-violations-11794218691521.html)
 The controversy has also renewed attention on Nvidia's efforts to expand chip sales to China despite US export restrictions designed to limit Beijing's access to advanced semiconductor technology.
@@ -168,14 +186,9 @@ Demand for AI servers, chips, and other data centre infrastructure is becoming a
 
 **Source:** Mint - Pharma  **Date:** 2026-11-09
 
-### [Nvidia Board to Probe Spying Case After CEO Admits Infidelity](https://www.livemint.com/companies/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity-11794169375335.html)
-Nvidia Corp.’s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted by a foreign espionage plot after he admitted to employees that he was unfaithful to his wife.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-08
-
 ---
 
-## 📉 Analyst & Brokerage Calls (6)
+## 📉 Analyst & Brokerage Calls (7)
 
 ### [Hindustan Coca-Cola IPO filings reveal Thums Up is outperforming Coke across 10 key Indian states](https://www.livemint.com/companies/news/hindustan-coca-cola-ipo-filings-reveal-thums-up-is-outperforming-coke-across-10-key-indian-states-11794214255906.html)
 Coca-Cola bottler Hindustan Coca-Cola Holdings has filed for an IPO, structured entirely as an offer for sale. The company serves around 1.7 million retail outlets and sells 41 beverages across three categories. Coca-Cola holds 60% of HCCH, with Jubilant Beverages owning the remaining 40%.
@@ -187,6 +200,11 @@ FIIs reduced stakes in 235 BSE smallcap companies for three consecutive quarters
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
+### [BDR Pharma buys majority stake in Acme’s oral solids formulations business](https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html)
+Existing investors, including private equity firm PAG, are selling their stakes in Acme's oral solids formulations business in a transaction that is expected to value the business at about $250 million.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
+
 ### [Microsoft buyouts: ‘Concerned workers’ write open letter to management, urge rethink of ‘speed-at-all-costs’ AI push](https://www.livemint.com/companies/news/microsoft-buyouts-concerned-workers-write-open-letter-to-management-urge-rethink-of-speed-at-all-costs-ai-push-11794210875850.html)
 Current and former Microsoft employees are challenging the company’s fast-moving AI strategy, calling for greater worker input and an end to tying AI use to rewards or reprimands. The letter comes amid job uncertainty and a voluntary buyout offer for eligible employees in four countries.
 
@@ -197,33 +215,33 @@ Available retail categories at The Maharaja Shop include electronics, luggage, t
 
 **Source:** Mint - Pharma  **Date:** 2026-11-09
 
-### [Nvidia's 'China Problem': A Short Seller Flagged Jensen Huang's Megaspeed Ties in May. Nobody Listened](https://www.ndtvprofit.com/business/nvidias-china-problem-a-short-seller-flagged-jensen-huangs-megaspeed-ties-in-may-nobody-listened-12303620#publisher=newsstand)
-Nvidia CEO Jensen Huang faces renewed scrutiny over the chipmaker's alleged China exposure.
+### [Buy, Sell Or Hold: Divi's Labs, Tata Power, Kalyan Jewellers, Reliance Industries, L&T And Shriram Finance — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-divis-labs-tata-power-kalyan-jewellers-reliance-industries-l-t-and-shriram-finance-ask-profit-12304863#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
 
 **Source:** NDTV Profit  **Date:** 2026-11-09
 
-### [Nvidia's Fall May Hit Indian Investors Too, And Some Paid A 50% Premium For It](https://www.ndtvprofit.com/markets/nvidias-fall-may-hit-indian-investors-too-and-some-paid-a-50-premium-for-it-12303354#publisher=newsstand)
-For Indian ETF holders, that drop has not yet fully reached the NAV.
+### [Lakhs Of Points Gone Overnight: Amex Cardholders Allege Retroactive Rewards Clawback](https://www.ndtvprofit.com/personal-finance/lakhs-of-points-gone-overnight-amex-cardholders-allege-retroactive-rewards-clawback-12304922#publisher=newsstand)
+Amex India has removed points linked to cancelled cards, citing a technical issue. Cardholders question the clawback of rewards held in pooled accounts.
 
 **Source:** NDTV Profit  **Date:** 2026-11-09
 
 ---
 
-## 📰 Industry & Policy News (25)
+## 📰 Industry & Policy News (23)
 
-### [Divis Labs Share Price Live Updates: Divis Labs Trading Insights](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669678.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669678.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
-### [Cipla Share Price Live Updates: Cipla's Recent Trading Activity](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-09-nov-2026/liveblog/135669234.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-09-nov-2026/liveblog/135669234.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's stock price settles at Rs 1904.5](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-09-nov-2026/liveblog/135669141.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-09-nov-2026/liveblog/135669141.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Trading Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-09-nov-2026/liveblog/135669136.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-09-nov-2026/liveblog/135669136.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys maintains upward trajectory](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-09-nov-2026/liveblog/135669128.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-09-nov-2026/liveblog/135669128.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
 ### [Who is Jensen Huang’s wife? Meet Lori Huang - What is her net worth, education and how did the couple meet?](https://www.livemint.com/companies/people/who-is-jensen-huang-s-wife-meet-lori-huang-what-is-her-net-worth-education-and-how-did-the-couple-meet-11794202781355.html)
@@ -239,11 +257,13 @@ Revised MRPs reported for 1,225 formulations across 121 drugs, with estimated an
 ### [Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month](https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Market Performance Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670255.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670255.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-09
 
-### [TCS Share Price Live Updates: TCS Shares Report a Decrease](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-09-nov-2026/liveblog/135669063.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-09
+### [‘Nvidia has a significant China problem’: Did this hedge fund foresee the Jensen, Alice Huang controversy 6 months ago?](https://www.livemint.com/companies/news/nvidia-has-a-significant-china-problem-did-this-hedge-fund-foresee-the-jensen-alice-huang-controversy-6-months-ago-11794224482064.html)
+A previous report by Culper Research has resurfaced amid an investigation into Nvidia CEO Jensen Huang’s admitted affair with Alice Huang, a former Megaspeed executive identified as a suspected Chinese spy. Details here.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-09
 
 ### [Vedanta bets on captive bauxite amid pricing dispute with Odisha Mining Corp](https://www.livemint.com/companies/vedanta-bets-on-captive-bauxite-amid-pricing-dispute-with-odisha-mining-corp-11793969808137.html)
 The company received a long-pending consent to operate its Sijimali bauxite mine in Odisha in September and now plans to begin production this financial year itself, targeting 1 million tonnes of output. The production is expected to rise to 5-6 million tonnes in FY28.
@@ -254,11 +274,6 @@ The company received a long-pending consent to operate its Sijimali bauxite mine
 Nvidia CEO Jensen Huang apologized to his family and colleagues after admitting infidelity, as the company’s board investigates reports of a possible foreign intelligence effort. Huang said he would cooperate, while the board affirmed its confidence in him.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-09
-
-### [Rs 1 Crore Retirement Corpus: Why It May Not Be Enough For Today's 30-Year-Olds](https://www.ndtvprofit.com/personal-finance/rs-1-crore-retirement-corpus-why-it-may-not-be-enough-for-todays-30-year-olds-12303254#publisher=newsstand)
-A retirement fund cannot be built around a fixed figure that applies to every individual.
-
-**Source:** NDTV Profit  **Date:** 2026-11-09
 
 ### [Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock? - TradingView](https://news.google.com/rss/articles/CBMigAJBVV95cUxPSV9ZTjF5dWItTDZESVNzTXFtNnZIN1pQcHh6TW53YzdCUlg3blFaZnNoNWp4R19QNGJ0eHVuVnBHR3YxTzVDd2xudVlWeXJmVHV1QVo0ZDNvR1EtWWF3UjM5RGd2azZvQjFwenFtV1FsRFlOdV8zMEhEU09XalhaVVJFaVhSemxNVEE2VVZ4Zk5qYVV1ZV9mejVWSGt2LTczbHNPMWhDaTJkc1VoZzZqWGJiQWdXUzdFRkJRc3JDeXVlR1VVV0hZUUdrMVlHdDVLVnBueGowRDhiMmdSb0dZMzFQQjNyMHUwUXgyeFJwcEpIOUgzd1A5ZEpVNW5nV2lr?oc=5)
 Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock? &nbsp;&nbsp; TradingView
@@ -275,38 +290,28 @@ SPARC Share Price: Sun Pharma Advanced Research Shares &nbsp;&nbsp; Univest
 
 **Source:** GNews - Sun Pharma  **Date:** 2026-11-09
 
-### [Jensen Huang On Way Out? The 1958 Psychology Theory That Could Save Nvidia CEO’s Job](https://www.ndtvprofit.com/business/jensen-huang-on-way-out-the-1958-psychology-theory-that-could-save-nvidia-ceos-job-12303577#publisher=newsstand)
-Replacing Jensen Huang could create a succession challenge for Nvidia.
+### [Saudi Arabia Says East-West Oil Pipeline Targeted In 'Medina', Month After Repair](https://www.ndtvprofit.com/world/saudi-arabia-says-east-west-oil-pipeline-targeted-in-medina-month-after-repair-12305020#publisher=newsstand)
+Saudi Arabia's East-West pipeline was targeted in Medina, but oil operations remained unaffected.
 
 **Source:** NDTV Profit  **Date:** 2026-11-09
 
-### ['It's Ridiculous': Ryan Ten Doeschate Questions Yashasvi Jaiswal's Absence From India's ODI Plans](https://www.ndtvprofit.com/sports/ryan-ten-doeschate-questions-yashasvi-jaiswals-absence-from-indias-odi-plans-its-ridiculous-12303653#publisher=newsstand)
-Despite scoring 285 runs in just six ODIs at an average of 71.25, Jaiswal has struggled to secure a regular place in India's limited-overs setup.
+### [Nvidia Probe Into CEO Affair Raises Thorny Questions for AI](https://www.ndtvprofit.com/technology/nvidia-probe-into-ceo-affair-raises-thorny-questions-for-ai-12305023#publisher=newsstand)
+Nvidia Corp. Chief Executive Officer Jensen Huang.
 
 **Source:** NDTV Profit  **Date:** 2026-11-09
 
-### ['Our Dogs Alerted Us': Vivek Agnihotri Shares Diwali Fire Scare, Questions Mumbai Mayor On Safety Measures](https://www.ndtvprofit.com/india/vivek-agnihotri-shares-diwali-fire-scare-questions-mumbai-mayor-on-safety-measures-our-dogs-alerted-us-12303540#publisher=newsstand)
-Vivek Agnihotri recounts a Diwali fire scare at home, urges Mumbai Mayor to enforce safety rules.
+### [Anjali Anand Recalls Her Shah Rukh Khan Obsession: 'I Had A Whole Chapter Om Shanti Om Rough Book'](https://www.ndtvprofit.com/entertainment/anjali-anand-recalls-her-shah-rukh-khan-obsession-i-had-a-whole-chapter-om-shanti-om-rough-book-12304232#publisher=newsstand)
+Anjali Anand was last seen in Dhamaal 4.
 
 **Source:** NDTV Profit  **Date:** 2026-11-09
 
-### [MakeMyTrip's India Arm Gets SEBI Nod To Float IPO](https://www.ndtvprofit.com/markets/makemytrips-india-arm-gets-sebi-nod-to-float-ipo-12303491#publisher=newsstand)
-MakeMyTrip (India) Ltd (MMT India) had filed draft papers with Sebi in July through the confidential route. After examining the draft documents, the regulator issued its final observations on November 6.
-
-**Source:** NDTV Profit  **Date:** 2026-11-09
-
-### [Is Jensen Huang’s Nvidia Job At Risk? Yale Expert Puts His Survival Odds At 50-50](https://www.ndtvprofit.com/business/is-jensen-huang-s-nvidia-job-at-risk-yale-expert-puts-his-survival-odds-at-50-50-12303362#publisher=newsstand)
-The investigation has raised questions about Nvidia's leadership succession.
-
-**Source:** NDTV Profit  **Date:** 2026-11-09
-
-### [GAIL (India) Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit](https://news.google.com/rss/articles/CBMibkFVX3lxTFBTNkwxVjNKOFZySUd2QjhpemdVN2YxdFZ5OExOdXk4d29WWTBlZkJNUGpxQ2hSN0t2ejlIT3ZXTUJkSWpQM0JDbG11WWpuNng2OE9KcG13VHphalJsLWJXWGFvZVlhMWo0YmxXajNB?oc=5)
-GAIL (India) Ltd. Share Price, Stock Price - NSE/BSE Live &nbsp;&nbsp; NDTV Profit
+### [Stock market holiday: Will NSE and BSE remain closed on Tuesday, November 10? Check list of holidays this month - Upstox](https://news.google.com/rss/articles/CBMihgJBVV95cUxPc3JEYmc1SUlWTmlZcjFuVHBZWG93Umd2ckVpdHY4eDRENzQzWXZrR2dQWVJ0LTllQTc4N0tldmQza1h2RFRXcnVjZmxiVk9JZ3RVU3dJR1BrWVFjUmRKME9ycUZIOFh3WDdRNlM4M193LVl1aHJaVEhyOWRJa19pOWlieEZsZFVzeEhUZ09hOUxIWEREbWl2ZXNPT2xCWHI3aWRLV3NXbEJScmlxMEdIQXVTRHJtRWFPZHFBYjZlZERRRlk1ZlVITjJKbnJzZE5adFpKNXJnaHYyOTVTZGNfSURZbjdXZFpUVTVudmFlXzJTdkhXN2pVeS1ZNlpxVnFjVW9YOUhB?oc=5)
+Stock market holiday: Will NSE and BSE remain closed on Tuesday, November 10? Check list of holidays this month &nbsp;&nbsp; Upstox
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-09
 
-### [Morepen Labs Enters US Prescription Generics Market; Shares Rise 4.31% - HDFC Sky](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnAxU282Z1ZfNUZWdkdFYWdrdFdZSnRpSGx5cGREbF9VVlBFaUFXU3ppRVJENDJhTWxWbUVfenR3M1BOUGVGc2MxQllHeS1zampKdXZjZ2w0eml1RUFNQzFGMWZnb0NjN0l0NjVMVlZBY0M4cEcxdWtIcFVWUzlGeWJIMjJsSGFXZEZjaEUtWERzYUQ5SVFwaERyN1VELWZidDV3?oc=5)
-Morepen Labs Enters US Prescription Generics Market; Shares Rise 4.31% &nbsp;&nbsp; HDFC Sky
+### [Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5)
+Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains &nbsp;&nbsp; INDIA New England News
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-09
 
@@ -319,5 +324,10 @@ Market wrap, Nov 9: SENSEX rises 107 pts, NIFTY50 ends at 25,044 as PSU Bank, ph
 Aarti Drugs shares defy weak market sentiment; skyrocket 11% today | Here's why; stock returns, performance &nbsp;&nbsp; Livemint
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-09
+
+### [Up 118% in 6 months! This volume shocker pharma stock skyrockets 14% despite weak trends on Dalal Street Do you own? - IndiaIPO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVzNjZTVxTFVlNkZ0eEtROEVTaG1vOTduOUM0ekRzV2c3SXBUcWlFcnJILVBxS3hSRnM2MmJMaFBIb2Y4WklZQjdOSVE1UzdXbWNjd256TUF0aEVQbkNjbHNIS0x6aEZxZlhqVGtoaUFtekdDUFpSY20yanlsSkdWNk4xM2FoZkh6OXJucHZiZXFmc1l2U18ycnZIUV9DMW5sc0xZb25GVHFuWUZCTWNhRXRuRzgtdWRCYXMzb3M1LTk1VTRyUlNVTGtxODA1cTRnYlRDSS1SZGdxYk05UkVUdXZR?oc=5)
+Up 118% in 6 months! This volume shocker pharma stock skyrockets 14% despite weak trends on Dalal Street Do you own? &nbsp;&nbsp; IndiaIPO
+
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-09
 
 ---
