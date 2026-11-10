@@ -1,6 +1,6 @@
 # 🏥 India Pharma Investor Digest — 2026-11-10
 
-> 44 items · 2026-11-10 12:05 UTC
+> 43 items · 2026-11-10 19:20 UTC
 
 ## 📊 BSE / NSE Filings (10)
 
@@ -14,8 +14,13 @@ Category: Board Meeting | Sub: Board Meeting | BSE Code: 524752
 
 **Source:** BSE Filing  **Date:** 2026-11-10
 
-### [Oxygenta Pharmaceutical Ltd: Outcome of Board Meeting held on Tuesday i.e. 10th November, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=524636)
-BSE Code: 524636
+### [Skybiotech Healthcare Ltd: Outcome of Board Meeting to approve un-audited Financial Results for the half Year ended on 30th September 2026](https://www.bseindia.com/corporates/ann.html?scrip=512036)
+BSE Code: 512036
+
+**Source:** BSE Filing  **Date:** 2026-11-10
+
+### [Dr. Reddy's Laboratories: Intimation of Analyst meet](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1e603ac3-d5e0-41e5-b1b8-330c28b19a5a.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-11-10
 
@@ -44,51 +49,51 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-11-09
 
-### [Oxygenta Pharmaceutical Ltd: Un-audited Financial Results for the Quarter and Half-year ended 30.09.2026.](https://www.bseindia.com/corporates/ann.html?scrip=524636)
-BSE Code: 524636
-
-**Source:** BSE Filing  **Date:** 2026-11-10
-
-### [Decipher Labs Ltd: Decipher Labs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 1. Unaudited Standalone and Consolidated ....](https://www.bseindia.com/corporates/ann.html?scrip=524752)
-BSE Code: 524752
+### [Skybiotech Healthcare Ltd: Unaudited Results for the quarter ended on 30th September 2026](https://www.bseindia.com/corporates/ann.html?scrip=512036)
+BSE Code: 512036
 
 **Source:** BSE Filing  **Date:** 2026-11-10
 
 ---
 
-## 💰 Results & Financials (5)
-
-### [Cochin Shipyard Q2 Results: Net Profit Falls 50% To Rs 54 Crore As Margins Contract, Revenue Up 11.7%](https://www.ndtvprofit.com/business/cochin-shipyard-q2-results-net-profit-falls-50-to-rs-53-8-crore-as-margins-contract-revenue-rises-11-7-12307427#publisher=newsstand)
-Cochin Shipyard announced an interim dividend of Rs 3 per share alongside its September quarter results. The company reported a 50% YoY decline in net profit to Rs 53.8 crore, despite an 11.7% increase in revenue.
-
-**Source:** NDTV Profit  **Date:** 2026-11-10
+## 💰 Results & Financials (3)
 
 ### [FPIs turn net buyers; pour Rs 53,739 crore in D-Street in Nov so far](https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-pour-rs-53739-crore-in-d-street-in-nov-so-far/articleshow/135708381.cms)
 In November, foreign investors reversed a trend of selling by making substantial purchases of Indian equities. This shift followed a global sell-off triggered by AI developments affecting markets worldwide, including the US and Asia. The allure of strong domestic earnings growth alongside attractive valuations in large-cap stocks reignited investor interest in India, particularly in the financial services and technology sectors, with noteworthy activity also seen in the debt market.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-10
 
-### [Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus](https://www.ndtvprofit.com/markets/q2-results-live-updates-november-10-kalyan-jewellers-mrf-cochin-shipyard-among-44-companies-to-announce-earnings-today-12306507#publisher=newsstand)
-Q2 Results Live Market Blog
+### [Up to 12,000% growth! 181 companies more than doubled profits in Q2 earnings boom for India Inc - The Economic Times](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQjhqRjh1NkJXYVVnYzdyYU1UdnJUNVdLbWlMTnhvbWY2R2VjV2dJa2hQSEdGYy1jQk4xbWhnRGlady0yMzJpcmRwSkJib3RobGFONkRMbGM3QWtvTW93XzAtU0kxbmxsOVAtRmNSWC0talVibUpaUHJ5Unk4SE03eEF1Q0ZRNWEyRnNmNFR4dU9nNEw5QVIyZ1R5ZHUwV0hFVE1jbVdJSElyYVdQMU9EcXlFcm1RYnQwSDJlcnRISHczVUM4NjRMalhOZllTTjFRWHR2REJKTFVPTnA1Z2g2UW9lSk9lYnZPXy01WW42S0tsM2hUbHhRd1VELWMxd2fSAYQCQVVfeXFMTlMyTy1IZ2FUczg5RzlTRGJaNnpXMF9ydDF6Mk1TcVRYMklNN0JmX0otYkJ4c3M5cFRiZU9OdGZ0LVVieXNSWlRoUmduX0lkeEVFZ0pPcVk1cThmQ1ZQaW41M1NwVExURHJUZE5zVFlqUFlCSldXX1prQVNYWVpYelV4Z1IwLUh1c0ZjZE1ISUM1NkFMemZhU21CXzZZdlNOd013V2lWbmdQWHdybFhQeFN2NTJyNTJWNXhTVGhTcFkyRGN4UjJfZWNhMVRvMzBnQVkxMGswell2WlBIdk1CVm9vOTk1XzdOMDJnaUY2bFNFamQ1c3VodDFvRlF1OTk0SEJyZTc?oc=5)
+Up to 12,000% growth! 181 companies more than doubled profits in Q2 earnings boom for India Inc &nbsp;&nbsp; The Economic Times
 
-**Source:** NDTV Profit  **Date:** 2026-11-10
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-10
 
 ### [Q2 Earnings Scorecard: Which sectors outperformed and which fell behind? - The Economic Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOFFZblRjQ3FFZ1hmdUU3bm1od3lWbjVPMU1XQlJYS3hTOWRfaEdOSUpwRkJhT1RiM3B0ZHJZSFpsM3JkeGh4SGdOSTF3YXJMejlVOTZTWEZQTFBmOXFQLUxiclBFVFIyYlByX3ZaV0gtdUdnTFV3YWFvQUJaUlNQQkdQVkJSRXFzbnJHRHZQaUZ6RG5ZTGdfZFRHTnNuQkNqcWpRZU5mbFk4WUMzSHEtNmROSWRLWTY5T3JvVHk3eExCWV9oRmllUVkxbHNqVGZaTzM4WndTU0x5ZmVBaGM0VjVDVWVSNEpaamI4dlBLQjZKSXZNMm1GaG9oZWbSAYICQVVfeXFMUGtKRmxodGtBaDdBODd5V1NicUJ5U01pWUlBQjkyd1p4TXhDQWFlVWdJLUhrRnB3SHNCQUhwd0NhX0F1Q3hSbWZSMXVMUm1XNUV3OVB2T2Z3dTFDcVhCUGV6UjdGTFRzSnJ1WWp4ZzQ2U1NwLUM4UWtvTzdpeGFqOFdoNFJkSS1VbDMyWWstTlhtV2V1eVdzMTRZNExPRE4tMC1PS3RWOUwzY2RSOG9weUpjWHhPQ1B2Z0x1ZDlfNEo3bW5sdGxUQ2UydG5EcnBFV0xUQkUxdk9hc09wbF9ldW9RckxHVFB4cVlQeWpKSFh6S2gwYld1UlNfX3A0aURmQmJB?oc=5)
 Q2 Earnings Scorecard: Which sectors outperformed and which fell behind? &nbsp;&nbsp; The Economic Times
 
 **Source:** GNews - Pharma Q Results  **Date:** 2026-11-10
 
-### [Compugen: Q3 Earnings Snapshot - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0wwWHcxS2JHdnVDTUk5QjNja0NGbDRMNXJjbFlDNU9mOHpqSVBaS1hkUXBXQUtzblBmLVNjWHlBc09yaHRMVDViWFRHUTFDY1k1eWFYdFVZTXRxTE1nLS14TXgxc1NfU3R1TjZEdVIxazVEb1Z4cER2MjhpWFVreDdKOF8?oc=5)
-Compugen: Q3 Earnings Snapshot &nbsp;&nbsp; Yahoo Finance Singapore
-
-**Source:** GNews - Pharma Q Results  **Date:** 2026-11-09
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
+## 🤝 Deals, M&A & Partnerships (8)
 
 ### [What’s in it for SageOne and ASK in the acquisition?](https://www.livemint.com/companies/news/whats-in-it-for-sageone-and-ask-in-the-acquisition-investors-investment-deal-11794249837681.html)
 The acquisition gives SageOne access to a larger distribution network while bringing in founder Samit Vartak to help address ASK’s investment performance challenges.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
+
+### [Troubles mount for Jensen Huang? Nvidia CEO summoned by US lawmakers over affair with Chinese ‘spy’ Alice Huang](https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html)
+Three Republican House committee chairs have asked Nvidia CEO Jensen Huang to attend a closed-door briefing on Nov 18 about the company’s security protocols and his reported ties to Alice Huang, a former Megaspeed executive under investigation for allegedly helping China access restricted AI chips.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
+
+### [Who is Ketan Sodha? From failed first crop to  ₹44 lakh in sales, Mumbai man's strawberry farming journey](https://www.livemint.com/companies/news/who-is-ketan-sodha-from-failed-first-crop-to-rs-44-lakh-in-sales-mumbai-mans-strawberry-farming-journey-11794316272276.html)
+Ketan Sodha, a 57-year-old entrepreneur from Mumbai, has taken an unconventional route into agriculture, transforming himself from a businessman dealing in agricultural land into a strawberry farmer in Mahabaleshwar, Maharashtra.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
+
+### [Blackstone to invest  ₹5,000 crore in IIFL Finance for 16% stake](https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html)
+Blackstone will invest ₹5,000 crore in IIFL Finance for a 16% stake on a fully diluted basis, giving the lender a stronger capital base to expand its secured lending business. The deal, part of a ₹6,414-crore fundraise, marks a major private equity bet on India's NBFC sector.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-10
 
@@ -112,30 +117,6 @@ BRASKEM-BRAZIL/ (PI
 
 **Source:** Mint - Pharma  **Date:** 2026-11-09
 
-### [Nvidia chips, Alibaba ties and Jensen Huang scandal: Inside Alice Huang's $100 million-plus pitch](https://www.livemint.com/companies/news/nvidia-chips-alibaba-ties-and-jensen-huang-scandal-inside-alice-huangs-100-million-plus-pitch-11794237553842.html)
-Alice Huang reportedly pitched a multi-million-dollar data centre project using Nvidia GPU access and Alibaba ties. Report reveals details of her business dealings amid the Jensen Huang controversy.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-09
-
-### [Sandpapergate Row: Mitchell Starc Breaks Silence After Usman Khawaja's Explosive Claims](https://www.ndtvprofit.com/sports/sandpapergate-row-mitchell-starc-breaks-silence-after-usman-khawajas-explosive-claims-12307559#publisher=newsstand)
-Khawaja's upcoming autobiography, Sabr, has reignited debate over Australia's infamous 2018 ball-tampering controversy.
-
-**Source:** NDTV Profit  **Date:** 2026-11-10
-
----
-
-## 💸 Corporate Actions (2)
-
-### [Ashok Leyland Dividend: Board To Mull Payout On November 14 | Details Inside](https://www.ndtvprofit.com/markets/ashok-leyland-dividend-board-to-mull-payout-on-november-14-details-inside-12307321#publisher=newsstand)
-Ashok Leyland is set to consider an interim dividend for FY27. The company last declared a dividend of Rs 2.50 per share in June 2026.
-
-**Source:** NDTV Profit  **Date:** 2026-11-10
-
-### [Cochin Shipyard Dividend: PSU Declares Interim Dividend Of Rs 3/Share — Check Record Date](https://www.ndtvprofit.com/markets/cochin-shipyard-dividend-psu-declares-interim-dividend-of-rs-3-share-check-record-date-12307550#publisher=newsstand)
-Cochin Shipyard declares Rs 3 interim dividend; November 16 fixed as the record date.
-
-**Source:** NDTV Profit  **Date:** 2026-11-10
-
 ---
 
 ## 🏭 Operations & Approvals (5)
@@ -145,53 +126,63 @@ Timex has launched a limited-edition Marlin California Dial watch in the US, fea
 
 **Source:** Mint - Pharma  **Date:** 2026-11-10
 
+### [Tesla, SpaceX CEO Musk praises former friend Google co-founder Larry Page’s vision for future of computing: Here’s why](https://www.livemint.com/companies/people/tesla-spacex-ceo-musk-praises-former-friend-google-co-founder-larry-page-s-vision-for-future-of-computing-here-s-why-11794312418963.html)
+Elon Musk backed Larry Page’s prediction that 99.999% of global computing capacity may eventually move into space. The shift could be driven by AI infrastructure demands and data centre regulations, despite the former friends’ past fallout over AI.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
+
 ### [Will the Chinese spy scandal cost Jensen Huang his job and can Nvidia find a successor to its founder-CEO?](https://www.livemint.com/companies/news/will-the-chinese-spy-scandal-cost-jensen-huang-his-job-and-can-nvidia-find-a-successor-to-its-founderceo-11794298479439.html)
 The controversy surrounding Nvidia CEO Jensen Huang has put his leadership under scrutiny. An investigation is underway, with the FBI, a class-action lawsuit and possible congressional inquiries also in the picture. Potential successors include executives Ian Buck and Colette Kress, and Bill Dally.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-10
 
-### [UK boy's tomato-growing hobby turns into booming business, with orders coming from as far away as Australia](https://www.livemint.com/companies/news/uk-boys-tomato-growing-hobby-turns-into-booming-business-with-orders-coming-from-as-far-away-as-australia-11794240788080.html)
-Jacob's journey from growing a few plants during the pandemic to running a business with thousands of plants highlights how a childhood interest has developed into an entrepreneurial venture with an expanding customer base.
+### [CCI Clears Advent International's Rs 3,150 Crore Investment In Yatharth Hospital](https://www.ndtvprofit.com/business/cci-clears-advent-internationals-rs-3-150-crore-investment-in-yatharth-hospital-12309350#publisher=newsstand)
+The investment will provide growth capital to Yatharth Hospitals to fund its expansion plans and strengthen its healthcare network across the country, while allowing Advent to expand its footprint in India's fast-growing hospital and healthcare services market.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-09
+**Source:** NDTV Profit  **Date:** 2026-11-10
 
-### [Nvidia’s Jensen Huang faces board scrutiny: Can the chipmaker remove its CEO? Here’s what the board can and cannot do](https://www.livemint.com/companies/news/nvidias-jensen-huang-faces-board-scrutiny-can-the-chipmaker-remove-its-ceo-here-s-what-the-board-can-and-cannot-do-11794239847524.html)
-Nvidia's board has launched an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence effort. Here's what the company's bylaws say about removing him as CEO and director.
+### [Jeff Bezos To Jensen Huang: Five Scandals When CEOs' Private Lives Become A Corporate Risk](https://www.ndtvprofit.com/world/from-jeff-bezos-to-jensen-huang-when-ceos-private-lives-become-a-corporate-risk-12309261#publisher=newsstand)
+From Bezos to Huang, relationship controversies have put tech CEOs under corporate scrutiny.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-09
-
-### [What is Megaspeed? The Nvidia partner at the centre of Jensen Huang’s China espionage controversy](https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html)
-What is Megaspeed, the Singapore-based Nvidia chip buyer linked to Jensen Huang's alleged 'honeytrap' scandal? Here's why it is under US scrutiny.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-09
+**Source:** NDTV Profit  **Date:** 2026-11-10
 
 ---
 
 ## 📉 Analyst & Brokerage Calls (3)
+
+### [New World’s Top Shareholder Seeks $637 Million Bank Loan](https://www.livemint.com/companies/new-world-s-top-shareholder-seeks-637-million-bank-loan-11794336025734.html)
+Chow Tai Fook Enterprises Ltd., an investment arm of Hong Kong’s billionaire Cheng family, is seeking about HK$5 billion ($637 million) in fresh funding from banks, according to people familiar with the matter.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
+
+### [Mukul Agrawal buys office space in Lodha’s Worli project for  ₹163 crore](https://www.livemint.com/companies/news/mukul-agrawal-buys-office-space-in-lodhas-worli-project-for-163-crore-11794298508734.html)
+Param Capital founder and ace investor Mukul Agrawal has bought 20,000 sq. ft across the entire 46th floor of Lodha Promina, as the Mumbai developer expands its commercial office portfolio.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
 
 ### [Yes Bank AT-1 bondholders still await clarity on their money nearly a month after SC verdict](https://www.livemint.com/companies/news/yes-bank-at-1-bondholders-still-await-clarity-on-their-money-nearly-a-month-after-sc-verdict-11794213239487.html)
 Investors are still waiting for Yes Bank to restore their ₹8,415 crore AT-1 bond investments nearly a month after the Supreme Court overturned the 2020 write-off.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-10
 
-### [BDR Pharma buys majority stake in Acme’s oral solids formulations business](https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html)
-Existing investors, including private equity firm PAG, are selling their stakes in Acme's oral solids formulations business in a transaction that is expected to value the business at about $250 million.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-09
-
-### [War Premium Fades: Brent Slips Below $90 After Two Months As Trump's Iran Pivot Triggers Crude Selloff](https://www.ndtvprofit.com/markets/oil-below-90-brent-hits-nearly-two-month-low-as-trumps-iran-pivot-triggers-crude-selloff-12307554#publisher=newsstand)
-Brent crude futures fell 3.3%, to $89.3 a barrel on Tuesday, while US West Texas Intermediate crude futures declined 2.6% to settle at $84.1. Crude prices have witnessed massive drop this month, with prices tumbling from the six-month high reached at the end of October.
-
-**Source:** NDTV Profit  **Date:** 2026-11-10
-
 ---
 
-## 📰 Industry & Policy News (12)
+## 📰 Industry & Policy News (14)
 
 ### [Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore](https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms)
 Bajaj Finance has allotted 5.74 crore warrants to its promoter, Bajaj Finserv, for Rs 5,799 crore. The special committee of the board approved the issue at an issue price of Rs 1,010 per warrant. Each warrant is convertible into an equivalent number of equity shares of the company. A minimum of 25 percent of the consideration is payable at allotment, while the remaining 75 percent will be payable later.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-10
+
+### [Anthropic IPO: Check OpenAI, Amazon, Alphabet, Pentagon connection; how CEO Amodei’s housemates, sister too related](https://www.livemint.com/companies/news/anthropic-ipo-check-openai-amazon-alphabet-pentagon-connection-how-ceo-amodei-s-housemates-sister-too-related-11794329869622.html)
+Founded in 2021 by former OpenAI employees, the Claude developer counts Amazon, Alphabet, Microsoft and Nvidia among its major backers
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
+
+### [‘Lori took care of everything’: Nvidia CEO Jensen Huang’s old remarks about his wife resurface after affair admission](https://www.livemint.com/companies/news/lori-took-care-of-everything-nvidia-ceo-jensen-huang-s-old-remarks-about-his-wife-resurface-after-affair-admission-11794322278848.html)
+Huang earlier spoke about the sacrifices his wife made while he was building Nvidia. He described Lori as the person who took care of their family while he focused on his professional ambitions.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-10
 
 ### [Anthropic IPO to raise as much as $64.4](https://www.livemint.com/companies/anthropic-ipo-to-raise-as-much-as-644-11794308720307.html)
 Anthropic’s IPO could raise as much as $64.4 billion, according to a draft prospectus seen by Reuters.&amp;nbsp;
@@ -213,35 +204,35 @@ Tata Power has accused an arbitrator and former employees of undisclosed ties an
 
 **Source:** Mint - Pharma  **Date:** 2026-11-10
 
-### [‘Nvidia has a significant China problem’: Did this hedge fund foresee the Jensen, Alice Huang controversy 6 months ago?](https://www.livemint.com/companies/news/nvidia-has-a-significant-china-problem-did-this-hedge-fund-foresee-the-jensen-alice-huang-controversy-6-months-ago-11794224482064.html)
-A previous report by Culper Research has resurfaced amid an investigation into Nvidia CEO Jensen Huang’s admitted affair with Alice Huang, a former Megaspeed executive identified as a suspected Chinese spy. Details here.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-09
-
 ### [Results: Divi's Laboratories Limited Exceeded Expectations And The Consensus Has Updated Its Estimates - Simply Wall St](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTUhfMDJDYnpUUFZ5TFl1SS01aXExaFppWnY5RXozZUpWcUpsZjFZOFdJQkxnZ2sySElyMTA0NUNOY3FzQURUYmpqejRZWEFfVlRMSF9aZERaOFIzYXo5aFNqckpqUGQ5SVk4bEpUN283YURHTTBMZ0RZS2l4QjZxOGlUTktwZXhyQ2J1RnBqWFdOdE5sN1llX0QxSXZ1cnlXa2p2OTNtSG1zbDZQOVBFVEtqdkZLbWdSb1h2NUhIVkVsZ3ZwT2Zyc09vLVBjU1NYWExPaEtVOEdPV1V0WUNoTHV2dUJNb3VHT0sxRTNMM3NlUdIB9wFBVV95cUxPcTNuYld2UHdlUExidHE4Q0xoT2NTLXhVOXFPYWZJdDA2aXd1a0NQanVKM3RiVmpfOW9lRmlTQU9OUzIyUm94aEl0VFM4S1dhMnM3LWVWVTFRa1ZPSEZiZE1iNV9USkJWeWc2SjZRblhfVElzeGtGWVhkd0tWeEpsUG5WQ3lhVndIcEc0YTl6c2dyQ0RXZlR2ZjFURW13LTFOVm1PV0l2SmlxYnVLQmhCLW1mS3RlN3ZWYmxzYzJOUXBFc1JJY05RUGFHekszbVVMa2ViYUhnVmxDR0NMeTlHcExxMXRhUmpnOTFnNWFzQXJLS0lybllv?oc=5)
 Results: Divi's Laboratories Limited Exceeded Expectations And The Consensus Has Updated Its Estimates &nbsp;&nbsp; Simply Wall St
 
 **Source:** GNews - Divi's  **Date:** 2026-11-10
 
-### [From Sachin Tendulkar To Jay Shah: Sporting Fraternity Shares Diwali Wishes](https://www.ndtvprofit.com/sports/from-sachin-tendulkar-to-jay-shah-sporting-fraternity-shares-diwali-wishes-12307815#publisher=newsstand)
-Members of the sporting fraternity took to social media to share their Diwali wishes and messages of peace, happiness and prosperity.
+### [Nvidia Sinks 6%, Extends Losses For Second Session As Jensen Huang's Affair Deepens China Worries](https://www.ndtvprofit.com/markets/nvidia-sinks-6-extends-losses-for-second-session-as-jensen-huangs-affair-deepens-china-worries-12309735#publisher=newsstand)
+Nvidia CEO Jensen Huang faces fresh scrutiny as allegations deepen concerns over China ties.
 
 **Source:** NDTV Profit  **Date:** 2026-11-10
 
-### [MRF Steps Up Price Hikes, Cost Cuts To Weather Raw Material Shock Amid Logistics Squeeze](https://www.ndtvprofit.com/markets/mrf-steps-up-price-hikes-cost-cuts-to-weather-raw-material-shock-amid-logistics-squeeze-12307802#publisher=newsstand)
-MRF steps up price hikes and cost cuts as raw material and logistics expenses remain high.
+### [Salman Khan Drops Maatrubhumi Trailer, Shares Release Date Of Galwan-Inspired Film](https://www.ndtvprofit.com/entertainment/maatrubhumi-trailer-out-salman-khan-returns-in-uniform-for-galwan-war-drama-12309759#publisher=newsstand)
+Inspired by the 2020 Galwan Valley clash, the film features Salman Khan as Colonel Bikkumalla Santosh Babu, with Chitrangda Singh in a key role.
 
 **Source:** NDTV Profit  **Date:** 2026-11-10
 
-### [Nvidia Shares Edge Higher In Pre-Market Trade After $1.57 Trillion Rout Amid Jensen Huang's Affair Row](https://www.ndtvprofit.com/markets/nvidia-shares-edge-higher-in-pre-market-trade-after-1-57-trillion-rout-amid-jensen-huangs-affair-row-12307645#publisher=newsstand)
-Nvidia shares rose 1.8% in pre-market trading after Monday's fall. The chipmaker has lost $1.57 trillion in market value since its October peak.
+### [Fabricated, Malicious Attacks': India Rejects Khalistani Terrorist Pannun's US Civil Lawsuit](https://www.ndtvprofit.com/india/fabricated-malicious-attacks-india-rejects-khalistani-terrorist-pannuns-us-civil-lawsuit-12309658#publisher=newsstand)
+India has rejected the lawsuit as frivolous after the US State Department sent court summonses to the Indian side through diplomatic channels.
 
 **Source:** NDTV Profit  **Date:** 2026-11-10
 
-### [Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5)
-Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains &nbsp;&nbsp; INDIA New England News
+### [Post-Diwali Smog Trap: Satellite Pictures Capture North India Vanishing Under Grey Haze](https://www.ndtvprofit.com/india/post-diwali-smog-trap-satellite-pictures-capture-north-india-vanishing-under-grey-haze-12309246#publisher=newsstand)
+The haze is particularly dense over Delhi, Uttar Pradesh and the Himalayan states, including Uttarakhand, Himachal Pradesh and Jammu and Kashmir.
 
-**Source:** GNews - India Pharma  **Date:** 2026-11-09
+**Source:** NDTV Profit  **Date:** 2026-11-10
+
+### [Bulgaria Highway Tragedy: 11 Dead, 50 Injured — What Triggered The Multi-Vehicle Pile-Up? Five Questions Answered](https://www.ndtvprofit.com/world/bulgaria-highway-tragedy-11-dead-50-injured-what-triggered-the-multi-vehicle-pile-up-12309066#publisher=newsstand)
+The accident occurred on the A1 motorway, which connects the capital Sofia with the Black Sea city of Burgas.
+
+**Source:** NDTV Profit  **Date:** 2026-11-10
 
 ### [Stock market closed today for Diwali-Balipratipada; NSE, BSE trading to resume on Wednesday - NewsDrum](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRGZaUmhmUjgzSUZmUVpkLW9WOUdWSDNHNFAwWlJBR0lNTTN6M194ZUw5MDhHVDNqQTR2Y0xHRklzNWdFdGMzekVyZmIzd08yZWZGZTZ3R3FqYi1WV3BiemxTZzkydl9EbXNTUWh3VkFhQ0ZKRzFsVVFROVBsVVBrbktRbUI4Z0ZVOEVtalR6ZUFXZ1oyaW1QY2Fzc0pZTFlNamcweE5NODYwX2JhTUtPaDlzcWlJZDJIRm94WGZNQ2tHOE1NWXZhWTN6SdIBywFBVV95cUxNRGZaUmhmUjgzSUZmUVpkLW9WOUdWSDNHNFAwWlJBR0lNTTN6M194ZUw5MDhHVDNqQTR2Y0xHRklzNWdFdGMzekVyZmIzd08yZWZGZTZ3R3FqYi1WV3BiemxTZzkydl9EbXNTUWh3VkFhQ0ZKRzFsVVFROVBsVVBrbktRbUI4Z0ZVOEVtalR6ZUFXZ1oyaW1QY2Fzc0pZTFlNamcweE5NODYwX2JhTUtPaDlzcWlJZDJIRm94WGZNQ2tHOE1NWXZhWTN6SQ?oc=5)
 Stock market closed today for Diwali-Balipratipada; NSE, BSE trading to resume on Wednesday &nbsp;&nbsp; NewsDrum
