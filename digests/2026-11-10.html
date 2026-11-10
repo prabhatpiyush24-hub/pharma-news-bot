@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Pharma Digest — 2026-11-10</title>
+<style>
+  :root{--bg:#f0f4f8;--surface:#fff;--border:#dde3ea;--primary:#1a3a5c;
+        --accent:#1565c0;--muted:#607d8b;--green:#1a7a4a;--red:#c0392b;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+       background:var(--bg);color:#1a1a2e;line-height:1.6;}
+
+  /* Header */
+  header{background:var(--primary);color:#fff;padding:1.2rem 2rem;
+          display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.8rem;}
+  header h1{font-size:1.4rem;font-weight:700;}
+  header .meta{font-size:.82rem;opacity:.8;}
+
+  /* Tabs */
+  .tabs{background:#122740;padding:0 1rem;overflow-x:auto;display:flex;
+         scrollbar-width:none;border-top:1px solid rgba(255,255,255,.08);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{background:none;border:none;color:rgba(255,255,255,.65);
+            padding:.65rem 1rem;font-size:.8rem;cursor:pointer;white-space:nowrap;
+            border-bottom:3px solid transparent;transition:all .18s;}
+  .tab-btn:hover{color:#fff;background:rgba(255,255,255,.06);}
+  .tab-btn.active{color:#fff;border-bottom-color:#64b5f6;font-weight:600;}
+
+  /* Layout */
+  .container{max-width:1400px;margin:0 auto;padding:1.5rem 1rem;}
+  .section{margin-bottom:2rem;}
+  h2{font-size:1.1rem;font-weight:700;color:var(--primary);
+      border-left:4px solid var(--accent);padding-left:.75rem;
+      margin-bottom:.9rem;display:flex;align-items:center;gap:.5rem;}
+  .count{background:var(--accent);color:#fff;border-radius:99px;
+          font-size:.7rem;padding:.1rem .45rem;}
+  .note{font-size:.8rem;color:var(--muted);margin-bottom:.75rem;}
+  .legend{font-size:.78rem;font-weight:600;}
+  .green-leg{color:var(--green);}
+  .red-leg  {color:var(--red);}
+
+  /* Stock table */
+  .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);}
+  .stock-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .stock-table th{background:var(--primary);color:#fff;padding:.6rem .75rem;
+                   text-align:left;white-space:nowrap;font-weight:600;}
+  .stock-table td{padding:.5rem .75rem;border-bottom:1px solid var(--border);
+                   white-space:nowrap;}
+  .stock-table tbody tr:last-child td{border-bottom:none;}
+  .stock-table tbody tr:hover td{background:#f0f6ff;}
+  .stock-table tr.near-high td{background:#e8f5e9;}
+  .stock-table tr.near-low  td{background:#fdecea;}
+  .co-name{max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .num{text-align:right;font-variant-numeric:tabular-nums;font-family:'SF Mono',Consolas,monospace;}
+
+  /* News cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.85rem;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:9px;
+         padding:.95rem;display:flex;flex-direction:column;gap:.4rem;
+         transition:box-shadow .15s;}
+  .card:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);}
+  .card-title{font-weight:600;color:var(--accent);text-decoration:none;
+               font-size:.88rem;line-height:1.45;}
+  .card-title:hover{text-decoration:underline;}
+  .card-summary{font-size:.8rem;color:#444;line-height:1.5;}
+  .card-meta{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap;margin-top:.15rem;}
+  .badge{color:#fff;font-size:.7rem;padding:.12rem .45rem;border-radius:4px;font-weight:500;}
+  .date{font-size:.7rem;color:var(--muted);}
+
+  footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.78rem;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🏥 India Pharma Investor Digest</h1>
+    <div class="meta">NSE · BSE · News · Filings</div>
+  </div>
+  <div class="meta">2026-11-10 &nbsp;·&nbsp; 0 stocks &nbsp;·&nbsp; 44 news items</div>
+</header>
+<nav class="tabs" id="tabNav"><button class="tab-btn" onclick="showTab('tab_stocks')" id="btn-tab_stocks">📈 Stocks (0)</button><button class="tab-btn" onclick="showTab('tab___BSE___NSE_Filings')" id="btn-tab___BSE___NSE_Filings">📊 BSE / NSE Filings (10)</button><button class="tab-btn" onclick="showTab('tab___Results___Financials')" id="btn-tab___Results___Financials">💰 Results & Financials (5)</button><button class="tab-btn" onclick="showTab('tab___Deals__M_A___Partnerships')" id="btn-tab___Deals__M_A___Partnerships">🤝 Deals, M&A & Partnerships (7)</button><button class="tab-btn" onclick="showTab('tab___Corporate_Actions')" id="btn-tab___Corporate_Actions">💸 Corporate Actions (2)</button><button class="tab-btn" onclick="showTab('tab___Operations___Approvals')" id="btn-tab___Operations___Approvals">🏭 Operations & Approvals (5)</button><button class="tab-btn" onclick="showTab('tab___Analyst___Brokerage_Calls')" id="btn-tab___Analyst___Brokerage_Calls">📉 Analyst & Brokerage Calls (3)</button><button class="tab-btn" onclick="showTab('tab___Industry___Policy_News')" id="btn-tab___Industry___Policy_News">📰 Industry & Policy News (12)</button></nav>
+<div class="container">
+  
+    <div class="section" id="tab_stocks">
+      <h2>📈 Indian Pharma — NSE Stock Prices <span class="count">0</span></h2>
+      <p class="note">
+        Prices in ₹ (INR) &nbsp;·&nbsp; Source: Yahoo Finance / NSE &nbsp;·&nbsp; As of 2026-11-10
+        &nbsp;&nbsp;
+        <span class="legend green-leg">■ Near 52W High</span>
+        &nbsp;
+        <span class="legend red-leg">■ Near 52W Low</span>
+      </p>
+      <div class="table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Company</th>
+              <th class="num">Price (₹)</th>
+              <th class="num">Change %</th>
+              <th class="num">Change (₹)</th>
+              <th class="num">Prev Close</th>
+              <th class="num">Day High</th>
+              <th class="num">Day Low</th>
+              <th class="num">52W High</th>
+              <th class="num">52W Low</th>
+              <th class="num">Mkt Cap</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  
+        <div class="section" id="tab___BSE___NSE_Filings">
+          <h2>📊 BSE / NSE Filings <span class="count">10</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/95a5d3f4-d7f0-48ea-af50-02e5033d085d.pdf" target="_blank" rel="noopener">Natco Pharma: Umiya Tubes Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Un-audited Limited reviewed Financial ....</a>
+              <p class='card-summary'>Category: Board Meeting | Sub: Board Meeting | BSE Code: 539798</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/88b6abd3-3c2b-4dba-95eb-9d21efa2bf9b.pdf" target="_blank" rel="noopener">Wockhardt: Decipher Labs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 1. Unaudited Standalone and Consolidated ....</a>
+              <p class='card-summary'>Category: Board Meeting | Sub: Board Meeting | BSE Code: 524752</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=524636" target="_blank" rel="noopener">Oxygenta Pharmaceutical Ltd: Outcome of Board Meeting held on Tuesday i.e. 10th November, 2026.</a>
+              <p class='card-summary'>BSE Code: 524636</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/6bf2bc1b-e834-4e3f-a4d4-cd67422ef974.pdf" target="_blank" rel="noopener">Divis Lab: As Enclosed</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 532488</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/ac72245f-425b-413e-a90c-3aefe3cc11fa.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Intimation of investors / analysts meet to be held on 17.11.2026.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/99ab726f-5a6c-40ed-97ca-80f45e051817.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Intimation of investor / analysts meet to be held on 16.09.2026.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/13d0454c-072e-458c-b8ee-672598a7ae6f.pdf" target="_blank" rel="noopener">Biocon: We wish to inform the Exchanges that Motilal Oswal Financial Services Limited (''the Company'') through its representatives will be participating in Analysts/Investors Meetings/Conferences.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532892</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/dfe10250-1d80-4d73-8087-2a6b334c69c1.pdf" target="_blank" rel="noopener">Sanofi India: The Company will be participating in the analyst/institutional investor conferences/meetings on 18th and 19th November 2026 as per enclosed schedule.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=524636" target="_blank" rel="noopener">Oxygenta Pharmaceutical Ltd: Un-audited Financial Results for the Quarter and Half-year ended 30.09.2026.</a>
+              <p class='card-summary'>BSE Code: 524636</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=524752" target="_blank" rel="noopener">Decipher Labs Ltd: Decipher Labs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 1. Unaudited Standalone and Consolidated ....</a>
+              <p class='card-summary'>BSE Code: 524752</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Results___Financials">
+          <h2>💰 Results & Financials <span class="count">5</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/cochin-shipyard-q2-results-net-profit-falls-50-to-rs-53-8-crore-as-margins-contract-revenue-rises-11-7-12307427#publisher=newsstand" target="_blank" rel="noopener">Cochin Shipyard Q2 Results: Net Profit Falls 50% To Rs 54 Crore As Margins Contract, Revenue Up 11.7%</a>
+              <p class='card-summary'>Cochin Shipyard announced an interim dividend of Rs 3 per share alongside its September quarter results. The company reported a 50% YoY decline in net profit to Rs 53.8 crore, despite an 11.7% increase in revenue.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-pour-rs-53739-crore-in-d-street-in-nov-so-far/articleshow/135708381.cms" target="_blank" rel="noopener">FPIs turn net buyers; pour Rs 53,739 crore in D-Street in Nov so far</a>
+              <p class='card-summary'>In November, foreign investors reversed a trend of selling by making substantial purchases of Indian equities. This shift followed a global sell-off triggered by AI developments affecting markets worldwide, including the US and Asia. The allure of strong domestic earnings growth alongside attractive</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/q2-results-live-updates-november-10-kalyan-jewellers-mrf-cochin-shipyard-among-44-companies-to-announce-earnings-today-12306507#publisher=newsstand" target="_blank" rel="noopener">Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus</a>
+              <p class='card-summary'>Q2 Results Live Market Blog</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOFFZblRjQ3FFZ1hmdUU3bm1od3lWbjVPMU1XQlJYS3hTOWRfaEdOSUpwRkJhT1RiM3B0ZHJZSFpsM3JkeGh4SGdOSTF3YXJMejlVOTZTWEZQTFBmOXFQLUxiclBFVFIyYlByX3ZaV0gtdUdnTFV3YWFvQUJaUlNQQkdQVkJSRXFzbnJHRHZQaUZ6RG5ZTGdfZFRHTnNuQkNqcWpRZU5mbFk4WUMzSHEtNmROSWRLWTY5T3JvVHk3eExCWV9oRmllUVkxbHNqVGZaTzM4WndTU0x5ZmVBaGM0VjVDVWVSNEpaamI4dlBLQjZKSXZNMm1GaG9oZWbSAYICQVVfeXFMUGtKRmxodGtBaDdBODd5V1NicUJ5U01pWUlBQjkyd1p4TXhDQWFlVWdJLUhrRnB3SHNCQUhwd0NhX0F1Q3hSbWZSMXVMUm1XNUV3OVB2T2Z3dTFDcVhCUGV6UjdGTFRzSnJ1WWp4ZzQ2U1NwLUM4UWtvTzdpeGFqOFdoNFJkSS1VbDMyWWstTlhtV2V1eVdzMTRZNExPRE4tMC1PS3RWOUwzY2RSOG9weUpjWHhPQ1B2Z0x1ZDlfNEo3bW5sdGxUQ2UydG5EcnBFV0xUQkUxdk9hc09wbF9ldW9RckxHVFB4cVlQeWpKSFh6S2gwYld1UlNfX3A0aURmQmJB?oc=5" target="_blank" rel="noopener">Q2 Earnings Scorecard: Which sectors outperformed and which fell behind? - The Economic Times</a>
+              <p class='card-summary'>Q2 Earnings Scorecard: Which sectors outperformed and which fell behind? &amp;nbsp;&amp;nbsp; The Economic Times</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Pharma Q Results</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0wwWHcxS2JHdnVDTUk5QjNja0NGbDRMNXJjbFlDNU9mOHpqSVBaS1hkUXBXQUtzblBmLVNjWHlBc09yaHRMVDViWFRHUTFDY1k1eWFYdFVZTXRxTE1nLS14TXgxc1NfU3R1TjZEdVIxazVEb1Z4cER2MjhpWFVreDdKOF8?oc=5" target="_blank" rel="noopener">Compugen: Q3 Earnings Snapshot - Yahoo Finance Singapore</a>
+              <p class='card-summary'>Compugen: Q3 Earnings Snapshot &amp;nbsp;&amp;nbsp; Yahoo Finance Singapore</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Pharma Q Results</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Deals__M_A___Partnerships">
+          <h2>🤝 Deals, M&A & Partnerships <span class="count">7</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/whats-in-it-for-sageone-and-ask-in-the-acquisition-investors-investment-deal-11794249837681.html" target="_blank" rel="noopener">What’s in it for SageOne and ASK in the acquisition?</a>
+              <p class='card-summary'>The acquisition gives SageOne access to a larger distribution network while bringing in founder Samit Vartak to help address ASK’s investment performance challenges.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/qantas-to-bring-850-jobs-to-india-via-outsourcing-deal-with-accenture-aussie-unions-raise-concerns-report-11794304046434.html" target="_blank" rel="noopener">Qantas to bring 850 jobs to India via outsourcing deal with Accenture; Aussie unions raise concerns: Report</a>
+              <p class='card-summary'>Qantas plans to outsource 850 head-office jobs to Accenture under a multiyear agreement, with most work expected to be handled in India. The changes aim to modernise technology and prepare for AI, while the airline says it will explore redeployment and retraining.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/why-tesla-is-set-to-refund-deposit-money-of-many-customers-of-this-car-elon-musk-reveals-11794295811650.html" target="_blank" rel="noopener">Why Tesla is set to refund deposit money of many customers of this car, Elon Musk reveals</a>
+              <p class='card-summary'>Tesla CEO Elon Musk said the company will refund deposits to many Cybertruck buyers as orders exceed production capacity. Tesla plans to wind down production by mid-2027 and redirect factory capacity towards its Cybercab autonomous vehicle.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html" target="_blank" rel="noopener">Donald Trump says FBI is investigating Jensen Huang’s affair with alleged Chinese spy as trouble mounts for Nvidia CEO</a>
+              <p class='card-summary'>US President Donald Trump says the FBI is looking into allegations involving Nvidia CEO Jensen Huang and a Singapore-based businesswoman suspected of links to Chinese intelligence. Nvidia’s board has launched an inquiry into whether Huang was a target of foreign intelligence.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/brazils-braskem-creditors-shareholders-target-wednesday-deadline-for-debt-deal-sources-say-11794253700070.html" target="_blank" rel="noopener">Brazils Braskem creditors, shareholders target Wednesday deadline for debt deal, sources say</a>
+              <p class='card-summary'>BRASKEM-BRAZIL/ (PI</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidia-chips-alibaba-ties-and-jensen-huang-scandal-inside-alice-huangs-100-million-plus-pitch-11794237553842.html" target="_blank" rel="noopener">Nvidia chips, Alibaba ties and Jensen Huang scandal: Inside Alice Huang's $100 million-plus pitch</a>
+              <p class='card-summary'>Alice Huang reportedly pitched a multi-million-dollar data centre project using Nvidia GPU access and Alibaba ties. Report reveals details of her business dealings amid the Jensen Huang controversy.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/sports/sandpapergate-row-mitchell-starc-breaks-silence-after-usman-khawajas-explosive-claims-12307559#publisher=newsstand" target="_blank" rel="noopener">Sandpapergate Row: Mitchell Starc Breaks Silence After Usman Khawaja's Explosive Claims</a>
+              <p class='card-summary'>Khawaja's upcoming autobiography, Sabr, has reignited debate over Australia's infamous 2018 ball-tampering controversy.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Corporate_Actions">
+          <h2>💸 Corporate Actions <span class="count">2</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/ashok-leyland-dividend-board-to-mull-payout-on-november-14-details-inside-12307321#publisher=newsstand" target="_blank" rel="noopener">Ashok Leyland Dividend: Board To Mull Payout On November 14 | Details Inside</a>
+              <p class='card-summary'>Ashok Leyland is set to consider an interim dividend for FY27. The company last declared a dividend of Rs 2.50 per share in June 2026.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/cochin-shipyard-dividend-psu-declares-interim-dividend-of-rs-3-share-check-record-date-12307550#publisher=newsstand" target="_blank" rel="noopener">Cochin Shipyard Dividend: PSU Declares Interim Dividend Of Rs 3/Share — Check Record Date</a>
+              <p class='card-summary'>Cochin Shipyard declares Rs 3 interim dividend; November 16 fixed as the record date.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Operations___Approvals">
+          <h2>🏭 Operations & Approvals <span class="count">5</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/timex-marlin-california-dial-watch-launched-priced-at-roughly-28-000-here-s-how-to-buy-special-features-and-more-11794292447527.html" target="_blank" rel="noopener">Timex Marlin California dial watch launched, priced at roughly  ₹28,000: Here’s how to buy, special features and more</a>
+              <p class='card-summary'>Timex has launched a limited-edition Marlin California Dial watch in the US, featuring a black dial with Roman and Arabic numerals. Priced at $299 (approximately ₹28,085), the hand-wound mechanical watch is limited to just 200 individually numbered pieces.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/will-the-chinese-spy-scandal-cost-jensen-huang-his-job-and-can-nvidia-find-a-successor-to-its-founderceo-11794298479439.html" target="_blank" rel="noopener">Will the Chinese spy scandal cost Jensen Huang his job and can Nvidia find a successor to its founder-CEO?</a>
+              <p class='card-summary'>The controversy surrounding Nvidia CEO Jensen Huang has put his leadership under scrutiny. An investigation is underway, with the FBI, a class-action lawsuit and possible congressional inquiries also in the picture. Potential successors include executives Ian Buck and Colette Kress, and Bill Dally.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/uk-boys-tomato-growing-hobby-turns-into-booming-business-with-orders-coming-from-as-far-away-as-australia-11794240788080.html" target="_blank" rel="noopener">UK boy's tomato-growing hobby turns into booming business, with orders coming from as far away as Australia</a>
+              <p class='card-summary'>Jacob's journey from growing a few plants during the pandemic to running a business with thousands of plants highlights how a childhood interest has developed into an entrepreneurial venture with an expanding customer base.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidias-jensen-huang-faces-board-scrutiny-can-the-chipmaker-remove-its-ceo-here-s-what-the-board-can-and-cannot-do-11794239847524.html" target="_blank" rel="noopener">Nvidia’s Jensen Huang faces board scrutiny: Can the chipmaker remove its CEO? Here’s what the board can and cannot do</a>
+              <p class='card-summary'>Nvidia's board has launched an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence effort. Here's what the company's bylaws say about removing him as CEO and director.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html" target="_blank" rel="noopener">What is Megaspeed? The Nvidia partner at the centre of Jensen Huang’s China espionage controversy</a>
+              <p class='card-summary'>What is Megaspeed, the Singapore-based Nvidia chip buyer linked to Jensen Huang's alleged 'honeytrap' scandal? Here's why it is under US scrutiny.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Analyst___Brokerage_Calls">
+          <h2>📉 Analyst & Brokerage Calls <span class="count">3</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/yes-bank-at-1-bondholders-still-await-clarity-on-their-money-nearly-a-month-after-sc-verdict-11794213239487.html" target="_blank" rel="noopener">Yes Bank AT-1 bondholders still await clarity on their money nearly a month after SC verdict</a>
+              <p class='card-summary'>Investors are still waiting for Yes Bank to restore their ₹8,415 crore AT-1 bond investments nearly a month after the Supreme Court overturned the 2020 write-off.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html" target="_blank" rel="noopener">BDR Pharma buys majority stake in Acme’s oral solids formulations business</a>
+              <p class='card-summary'>Existing investors, including private equity firm PAG, are selling their stakes in Acme's oral solids formulations business in a transaction that is expected to value the business at about $250 million.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/oil-below-90-brent-hits-nearly-two-month-low-as-trumps-iran-pivot-triggers-crude-selloff-12307554#publisher=newsstand" target="_blank" rel="noopener">War Premium Fades: Brent Slips Below $90 After Two Months As Trump's Iran Pivot Triggers Crude Selloff</a>
+              <p class='card-summary'>Brent crude futures fell 3.3%, to $89.3 a barrel on Tuesday, while US West Texas Intermediate crude futures declined 2.6% to settle at $84.1. Crude prices have witnessed massive drop this month, with prices tumbling from the six-month high reached at the end of October.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Industry___Policy_News">
+          <h2>📰 Industry & Policy News <span class="count">12</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms" target="_blank" rel="noopener">Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore</a>
+              <p class='card-summary'>Bajaj Finance has allotted 5.74 crore warrants to its promoter, Bajaj Finserv, for Rs 5,799 crore. The special committee of the board approved the issue at an issue price of Rs 1,010 per warrant. Each warrant is convertible into an equivalent number of equity shares of the company. A minimum of 25 p</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/anthropic-ipo-to-raise-as-much-as-644-11794308720307.html" target="_blank" rel="noopener">Anthropic IPO to raise as much as $64.4</a>
+              <p class='card-summary'>Anthropic’s IPO could raise as much as $64.4 billion, according to a draft prospectus seen by Reuters.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/jensen-huang-said-nvidia-could-be-of-great-service-to-china-before-spy-allegations-surfaced-11794305918288.html" target="_blank" rel="noopener">Jensen Huang said Nvidia could 'be of great service' to China before spy allegations surfaced</a>
+              <p class='card-summary'>Before allegations involving a woman US officials reportedly believe was a Chinese intelligence asset surfaced, Nvidia CEO Jensen Huang told Fortune that China represented a ‘large and growing’ opportunity for the chipmaker.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropic-sends-out-69-3-billion-ipo-details-then-retracts-tells-banks-they-will-update-new-figures-11794280119925.html" target="_blank" rel="noopener">Anthropic sends out $69.3 billion IPO details, then retracts, tells banks they will update new figures</a>
+              <p class='card-summary'>Anthropic reportedly circulated and then retracted details of its planned IPO, including a proposed sale of 867 million shares at $70 to $80 each. The company said the pricing information was inaccurate and would be updated. Investors have discussed valuations of $1.1 trillion to $1.3 trillion.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html" target="_blank" rel="noopener">Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR</a>
+              <p class='card-summary'>Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data in its dispute with Kleros Capital. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest, and an order to seize shares in two Tata Power arms.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidia-has-a-significant-china-problem-did-this-hedge-fund-foresee-the-jensen-alice-huang-controversy-6-months-ago-11794224482064.html" target="_blank" rel="noopener">‘Nvidia has a significant China problem’: Did this hedge fund foresee the Jensen, Alice Huang controversy 6 months ago?</a>
+              <p class='card-summary'>A previous report by Culper Research has resurfaced amid an investigation into Nvidia CEO Jensen Huang’s admitted affair with Alice Huang, a former Megaspeed executive identified as a suspected Chinese spy. Details here.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTUhfMDJDYnpUUFZ5TFl1SS01aXExaFppWnY5RXozZUpWcUpsZjFZOFdJQkxnZ2sySElyMTA0NUNOY3FzQURUYmpqejRZWEFfVlRMSF9aZERaOFIzYXo5aFNqckpqUGQ5SVk4bEpUN283YURHTTBMZ0RZS2l4QjZxOGlUTktwZXhyQ2J1RnBqWFdOdE5sN1llX0QxSXZ1cnlXa2p2OTNtSG1zbDZQOVBFVEtqdkZLbWdSb1h2NUhIVkVsZ3ZwT2Zyc09vLVBjU1NYWExPaEtVOEdPV1V0WUNoTHV2dUJNb3VHT0sxRTNMM3NlUdIB9wFBVV95cUxPcTNuYld2UHdlUExidHE4Q0xoT2NTLXhVOXFPYWZJdDA2aXd1a0NQanVKM3RiVmpfOW9lRmlTQU9OUzIyUm94aEl0VFM4S1dhMnM3LWVWVTFRa1ZPSEZiZE1iNV9USkJWeWc2SjZRblhfVElzeGtGWVhkd0tWeEpsUG5WQ3lhVndIcEc0YTl6c2dyQ0RXZlR2ZjFURW13LTFOVm1PV0l2SmlxYnVLQmhCLW1mS3RlN3ZWYmxzYzJOUXBFc1JJY05RUGFHekszbVVMa2ViYUhnVmxDR0NMeTlHcExxMXRhUmpnOTFnNWFzQXJLS0lybllv?oc=5" target="_blank" rel="noopener">Results: Divi's Laboratories Limited Exceeded Expectations And The Consensus Has Updated Its Estimates - Simply Wall St</a>
+              <p class='card-summary'>Results: Divi's Laboratories Limited Exceeded Expectations And The Consensus Has Updated Its Estimates &amp;nbsp;&amp;nbsp; Simply Wall St</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Divi's</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/sports/from-sachin-tendulkar-to-jay-shah-sporting-fraternity-shares-diwali-wishes-12307815#publisher=newsstand" target="_blank" rel="noopener">From Sachin Tendulkar To Jay Shah: Sporting Fraternity Shares Diwali Wishes</a>
+              <p class='card-summary'>Members of the sporting fraternity took to social media to share their Diwali wishes and messages of peace, happiness and prosperity.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/mrf-steps-up-price-hikes-cost-cuts-to-weather-raw-material-shock-amid-logistics-squeeze-12307802#publisher=newsstand" target="_blank" rel="noopener">MRF Steps Up Price Hikes, Cost Cuts To Weather Raw Material Shock Amid Logistics Squeeze</a>
+              <p class='card-summary'>MRF steps up price hikes and cost cuts as raw material and logistics expenses remain high.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/nvidia-shares-edge-higher-in-pre-market-trade-after-1-57-trillion-rout-amid-jensen-huangs-affair-row-12307645#publisher=newsstand" target="_blank" rel="noopener">Nvidia Shares Edge Higher In Pre-Market Trade After $1.57 Trillion Rout Amid Jensen Huang's Affair Row</a>
+              <p class='card-summary'>Nvidia shares rose 1.8% in pre-market trading after Monday's fall. The chipmaker has lost $1.57 trillion in market value since its October peak.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5" target="_blank" rel="noopener">Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News</a>
+              <p class='card-summary'>Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains &amp;nbsp;&amp;nbsp; INDIA New England News</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-09</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNRGZaUmhmUjgzSUZmUVpkLW9WOUdWSDNHNFAwWlJBR0lNTTN6M194ZUw5MDhHVDNqQTR2Y0xHRklzNWdFdGMzekVyZmIzd08yZWZGZTZ3R3FqYi1WV3BiemxTZzkydl9EbXNTUWh3VkFhQ0ZKRzFsVVFROVBsVVBrbktRbUI4Z0ZVOEVtalR6ZUFXZ1oyaW1QY2Fzc0pZTFlNamcweE5NODYwX2JhTUtPaDlzcWlJZDJIRm94WGZNQ2tHOE1NWXZhWTN6SdIBywFBVV95cUxNRGZaUmhmUjgzSUZmUVpkLW9WOUdWSDNHNFAwWlJBR0lNTTN6M194ZUw5MDhHVDNqQTR2Y0xHRklzNWdFdGMzekVyZmIzd08yZWZGZTZ3R3FqYi1WV3BiemxTZzkydl9EbXNTUWh3VkFhQ0ZKRzFsVVFROVBsVVBrbktRbUI4Z0ZVOEVtalR6ZUFXZ1oyaW1QY2Fzc0pZTFlNamcweE5NODYwX2JhTUtPaDlzcWlJZDJIRm94WGZNQ2tHOE1NWXZhWTN6SQ?oc=5" target="_blank" rel="noopener">Stock market closed today for Diwali-Balipratipada; NSE, BSE trading to resume on Wednesday - NewsDrum</a>
+              <p class='card-summary'>Stock market closed today for Diwali-Balipratipada; NSE, BSE trading to resume on Wednesday &amp;nbsp;&amp;nbsp; NewsDrum</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-10</span>
+              </div>
+            </div></div>
+        </div>
+</div>
+<footer>
+  Auto-generated by india-pharma-digest &nbsp;·&nbsp;
+  2026-11-10 12:05 UTC &nbsp;·&nbsp;
+  Data: Yahoo Finance, BSE, NSE, Economic Times, Moneycontrol
+</footer>
+<script>
+  function showTab(id) {
+    document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    var el  = document.getElementById(id);
+    var btn = document.getElementById('btn-' + id);
+    if (el)  el.style.display  = 'block';
+    if (btn) btn.classList.add('active');
+    // Scroll tab button into view
+    if (btn) btn.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  }
+  document.addEventListener('DOMContentLoaded', function() { showTab('tab_stocks'); });
+</script>
+</body>
+</html>
