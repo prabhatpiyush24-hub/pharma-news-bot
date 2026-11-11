@@ -1,18 +1,33 @@
 # 🏥 India Pharma Investor Digest — 2026-11-11
 
-> 39 items · 2026-11-11 11:42 UTC
+> 45 items · 2026-11-11 19:17 UTC
 
-## 📊 BSE / NSE Filings (6)
+## 📊 BSE / NSE Filings (12)
+
+### [Natco Pharma: The Board Meeting to be held on 13/11/2026 has been revised to 14/11/2026 The Board Meeting earlier scheduled to be held on 13/11/2026 has been revised to 14/11/2026 inter-alia to consider ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/37d75e19-f88a-4aa6-a70b-dbb00f45dc03.pdf)
+Category: Company Update | Sub: Board Meeting Rescheduled | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-11-11
 
 ### [Wockhardt: Decipher Labs Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 1. Unaudited Standalone and Consolidated ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/88b6abd3-3c2b-4dba-95eb-9d21efa2bf9b.pdf)
 Category: Board Meeting | Sub: Board Meeting | BSE Code: 524752
 
 **Source:** BSE Filing  **Date:** 2026-11-10
 
+### [Dr. Reddy's Laboratories: Copies of newspaper publication](https://www.bseindia.com/xml-data/corpfiling/AttachLive/2ac4ae1c-a4cd-42d4-9396-f88315a8dc3e.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 500124
+
+**Source:** BSE Filing  **Date:** 2026-11-11
+
 ### [Dr. Reddy's Laboratories: Intimation of Analyst meet](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1e603ac3-d5e0-41e5-b1b8-330c28b19a5a.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500124
 
 **Source:** BSE Filing  **Date:** 2026-11-10
+
+### [Aurobindo Pharma: Intimation of classification of US FDA inspection at Lannet Company LLC, a wholly owned subsidiary of Aurobindo Pharma USA Inc., a wholly owned subsidiary of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5fed9f26-6ea0-4185-b4f5-761281cc448d.pdf)
+Category: Company Update | Sub: General | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-11-11
 
 ### [Aurobindo Pharma: Submission of Earning Call Transcript for Q2FY27.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/4c92f4c7-ebac-42ef-ac50-128393096d5a.pdf)
 Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 524804
@@ -24,19 +39,34 @@ Category: Company Update | Sub: General | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-11-11
 
-### [Dhampur Bio Organics Ltd: Dhampur Bio Organics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 1. Audited Standalone ....](https://www.bseindia.com/corporates/ann.html?scrip=543593)
-BSE Code: 543593
+### [Jubilant Pharmova: Intimation on Schedule of Meetings with Analyst(s)/institutional Investor(s)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/58c7bc93-be6f-455a-9d67-3d36b25bb44e.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-11-11
 
-### [Bafna Pharmaceuticals Ltd: We hereby inform you that the Board of Directors in its Meeting held on November 11, 2026 inter-alia considered and approved the  Unaudited Financial Results of the Company along with the ....](https://www.bseindia.com/corporates/ann.html?scrip=532989)
-BSE Code: 532989
+### [Jubilant Pharmova: Earnings Call Transcript for Q2 FY27](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a3719704-c268-4679-8fc4-95e288a7c702.pdf)
+Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 532523
+
+**Source:** BSE Filing  **Date:** 2026-11-11
+
+### [Pharmaids Pharmaceuticals Ltd: Submission of unaudited financial results for quarter and half year ended 30th September 2026](https://www.bseindia.com/corporates/ann.html?scrip=524572)
+BSE Code: 524572
+
+**Source:** BSE Filing  **Date:** 2026-11-11
+
+### [Vivo Bio Tech Ltd: Please find enclosed](https://www.bseindia.com/corporates/ann.html?scrip=511509)
+BSE Code: 511509
+
+**Source:** BSE Filing  **Date:** 2026-11-11
+
+### [Novelix Pharmaceuticals Ltd: Submission of unaudited financial results for the quarter and half year ended September, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=536565)
+BSE Code: 536565
 
 **Source:** BSE Filing  **Date:** 2026-11-11
 
 ---
 
-## 💰 Results & Financials (7)
+## 💰 Results & Financials (9)
 
 ### [Lifestyle brand Nicobar eyes  ₹1,000 crore revenue in 5-6 years](https://www.livemint.com/companies/news/nicobar-targets-rs-1000-crore-revenue-expansion-store-growth-11794329907305.html)
 Nicobar is targeting 25-30% revenue growth this year and plans to add seven to ten stores annually, expanding retail and corporate gifting while funding growth through internal cash flows.
@@ -53,49 +83,44 @@ Seven Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner o
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [Power Mech Projects Q2 Results: Net Profit Rises, Revenue Jumps 20%; Margin Narrows](https://www.ndtvprofit.com/markets/power-mech-projects-q2-results-net-profit-rises-revenue-jumps-20-percent-margin-narrows-12312034#publisher=newsstand)
-Power Mech Q2 results
-
-**Source:** NDTV Profit  **Date:** 2026-11-11
-
 ### [Policy shifts test pharma’s resilience](https://www.expresspharma.in/policy-shifts-test-pharmas-resilience/)
 Will policy changes on affordability, ethical marketing and incentives translate into meaningful outcomes for patients while allowing the industry to remain sustainable? The post Policy shifts test pharma&#8217;s resilience appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-11-11
 
-### [Bajaj Hindusthan Sugar Q2: Net Loss Widens To Rs 121 Crore, Revenue Falls 16%](https://www.ndtvprofit.com/business/bajaj-hindusthan-sugar-q2-net-loss-widens-to-rs-121-crore-revenue-falls-16-12311964#publisher=newsstand)
-The company's board approved the sale of its entire 100% stake in wholly owned subsidiary Bajaj Hindusthan (Singapore) Private Limited for $6.26 million, or approximately Rs 60.1 crore.
+### [AI Spending Fears Concerns Its Investors. Thompson Reuter’s Fix Is A $500 Million Buyback](https://www.ndtvprofit.com/markets/ai-spending-fears-concerns-its-investors-thompson-reuter-s-fix-is-a-500-million-buyback-12314383#publisher=newsstand)
+Woodbridge, Thomson Reuters' controlling shareholder, will participate proportionally.
 
 **Source:** NDTV Profit  **Date:** 2026-11-11
 
-### [Q2 Results Live: Garden Reach Profit Rises 12%; Bajaj Hindusthan Sugar Loss Widens; Tata Power, GRSE, Hind Copper In Focus](https://www.ndtvprofit.com/markets/q2-results-today-live-updates-tata-power-grse-hindustan-copper-among-companies-announcing-september-quarter-earnings-12310483#publisher=newsstand)
+### [Q2 Results Highlights: Hindustan Copper Profit Rises 47%; Cupid's Revenue More Than Doubles; Tata Power Profit Up 49%](https://www.ndtvprofit.com/markets/q2-results-today-live-updates-tata-power-grse-hindustan-copper-among-companies-announcing-september-quarter-earnings-12310483#publisher=newsstand)
 Q2 Results Live Blog: Track Updates
+
+**Source:** NDTV Profit  **Date:** 2026-11-11
+
+### [Scene Box Office Collection Day 6: Suriya Starrer Maintains Strong Pace, Check Earnings](https://www.ndtvprofit.com/entertainment/scene-box-office-collection-day-6-suriya-starrer-maintains-strong-pace-check-earnings-12314353#publisher=newsstand)
+Scene released in theatres on November 6, 2026.
+
+**Source:** NDTV Profit  **Date:** 2026-11-11
+
+### [Shubman Gill, Rishabh Pant Slip In ICC Rankings; Axar, Arshdeep And Gurnoor Make ODI Gains](https://www.ndtvprofit.com/sports/shubman-gill-rishabh-pant-slip-in-icc-rankings-axar-arshdeep-and-gurnoor-make-odi-gains-12314363#publisher=newsstand)
+Rahmat's fifth Test century helped him move past Shubman Gill, Aiden Markram and Kamindu Mendis, while Axar Patel and Arshdeep Singh also climbed in the ODI bowling list.
+
+**Source:** NDTV Profit  **Date:** 2026-11-11
+
+### [One Visa, A Whole Year Of Treatment: India's Big Play For Medical Tourists](https://www.ndtvprofit.com/india/one-visa-a-whole-year-of-treatment-indias-big-play-for-medical-tourists-12314222#publisher=newsstand)
+India offers one-year multiple-entry medical visas to attract foreign patients and attendants.
 
 **Source:** NDTV Profit  **Date:** 2026-11-11
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (1)
 
 ### [Shriram General bets on agents, vehicle makers despite proposed Irdai commission curbs](https://www.livemint.com/companies/news/shriram-general-insurance-growth-plans-advisor-hiring-oem-partnerships-fy27-11794388081763.html)
 The insurer plans to add 10,500 financial advisors and expand partnerships with vehicle makers in H2 FY27, even as proposed commission caps threaten to reshape the economics of both channels.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-11
-
-### [Troubles mount for Jensen Huang? Nvidia CEO summoned by US lawmakers over affair with Chinese ‘spy’ Alice Huang](https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html)
-Three Republican House committee chairs have asked Nvidia CEO Jensen Huang to attend a closed-door briefing on Nov 18 about the company’s security protocols and his reported ties to Alice Huang, a former Megaspeed executive under investigation for allegedly helping China access restricted AI chips.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
-
-### [Who is Ketan Sodha? From failed first crop to  ₹44 lakh in sales, Mumbai man's strawberry farming journey](https://www.livemint.com/companies/news/who-is-ketan-sodha-from-failed-first-crop-to-rs-44-lakh-in-sales-mumbai-mans-strawberry-farming-journey-11794316272276.html)
-Ketan Sodha, a 57-year-old entrepreneur from Mumbai, has taken an unconventional route into agriculture, transforming himself from a businessman dealing in agricultural land into a strawberry farmer in Mahabaleshwar, Maharashtra.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
-
-### [Blackstone to invest  ₹5,000 crore in IIFL Finance for 16% stake](https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html)
-Blackstone will invest ₹5,000 crore in IIFL Finance for a 16% stake on a fully diluted basis, giving the lender a stronger capital base to expand its secured lending business. The deal, part of a ₹6,414-crore fundraise, marks a major private equity bet on India's NBFC sector.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
 
 ---
 
@@ -106,50 +131,72 @@ Bajaj Finance Ltd. is gearing up for a major share sale aimed at raising an impr
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [Tesla, SpaceX CEO Musk praises former friend Google co-founder Larry Page’s vision for future of computing: Here’s why](https://www.livemint.com/companies/people/tesla-spacex-ceo-musk-praises-former-friend-google-co-founder-larry-page-s-vision-for-future-of-computing-here-s-why-11794312418963.html)
-Elon Musk backed Larry Page’s prediction that 99.999% of global computing capacity may eventually move into space. The shift could be driven by AI infrastructure demands and data centre regulations, despite the former friends’ past fallout over AI.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
-
 ### [How consumers’ demand for transparency will raise the scientific standard of dermocosmetics](https://www.expresspharma.in/how-consumers-demand-for-transparency-will-raise-the-scientific-standard-of-dermocosmetics/)
 Professor Dr. Gabriel Serrano, Founder, Sesderma shares insights on how global formulations may not always address the needs of Indian skin types, and why precision dermatology and delivery can address these gaps, in an email interaction with Viveka Roychowdhury The post How consumers&#8217; demand for transparency will raise the scientific standard of dermocosmetics appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-11-11
 
----
+### [At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks - Business Standard](https://news.google.com/rss/articles/CBMizwFBVV95cUxORTR6T3NuWXFaZDhwbl9HcmhfREhRT29BZ3VqWWR5aTJpZkRlT1lxRlM1YThkM05iM0I5TF8xamlaT0RkcTNXNTFQUVZVUGxQak5UX1pSRkdQLXhJWnU5MlFtR0NhaVl2VXRJYnV5Z1Znai1GUzl1dXl1NUhiSDBMOGhRekI0XzRoRkRobFphb1lWVnFQZkVhakp2dlVjNV9WdFdxbXFfLVRYWVZJY3JQVUYyNlNTZWlBREdoa1E0VlZ1Z25YdTBxdGgxMzN3elnSAdQBQVVfeXFMUHlVbHZtdFRJOU1EWWc5S0hSNGdPVWFCcDdocVJuUnVmbzFIUmVlTlFlS0U5S2xTTXZtck9oQmNMYkVnQ1VYZXhZaVdKZHpOUDJUTTNwVzhaS09wNmdRdlVRVTluejVLQ251VEFRVXBkUVdua2hsRE43bzdZUW5tVWhVZlNiUjhXaGpzelFSQkNFTTZOQmFCLWY2bGlaNTV0U3JuQ3Nmbzg4MzhFQVVwRUsyRnZHR3dzRFZVbW9sWjVBWnRUZzdmRGRKSVJpZ29tZVFwNW8?oc=5)
+At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks &nbsp;&nbsp; Business Standard
 
-## 📉 Analyst & Brokerage Calls (2)
-
-### [New World’s Top Shareholder Seeks $637 Million Bank Loan](https://www.livemint.com/companies/new-world-s-top-shareholder-seeks-637-million-bank-loan-11794336025734.html)
-Chow Tai Fook Enterprises Ltd., an investment arm of Hong Kong’s billionaire Cheng family, is seeking about HK$5 billion ($637 million) in fresh funding from banks, according to people familiar with the matter.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
-
-### [Mukul Agrawal buys office space in Lodha’s Worli project for  ₹163 crore](https://www.livemint.com/companies/news/mukul-agrawal-buys-office-space-in-lodhas-worli-project-for-163-crore-11794298508734.html)
-Param Capital founder and ace investor Mukul Agrawal has bought 20,000 sq. ft across the entire 46th floor of Lodha Promina, as the Mumbai developer expands its commercial office portfolio.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
+**Source:** GNews - India Pharma  **Date:** 2026-11-11
 
 ---
 
-## 📰 Industry & Policy News (17)
+## 📉 Analyst & Brokerage Calls (7)
 
-### [Dr Reddys Share Price Live Updates: Current Trading Status of Dr. Reddys](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-11-nov-2026/liveblog/135725513.cms)
+### [Yes Bank bondholders press for compliance with Supreme Court's AT-1 order](https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms)
+Yes Bank bondholders filed a contempt petition in the Supreme Court regarding the restoration of AT-1 bonds. The Supreme Court upheld a ruling that set aside the lender's write-off of 84 billion rupees in bonds. Axis Trustee Services, representing the bondholders, asked for directions to enforce the court's ruling. Yes Bank had not complied with the restoration order, prompting the trustee's legal action.
+
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Trading Price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-11-nov-2026/liveblog/135723390.cms)
+### [Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms)
+Indian equities opened higher on positive global cues but surrendered gains amid rising bond yields and hawkish Fed commentary. Smallcaps outperformed as risk appetite improved. Analysts highlighted stock-specific opportunities, including Astra Microwave and Neogen, for Thursday's trading session.
+
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [Cipla Share Price Live Updates: Cipla's Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-11-nov-2026/liveblog/135723256.cms)
+### [Fairfax Financial likely to exit IIFL Finance, sources say](https://economictimes.indiatimes.com/markets/stocks/news/fairfax-financial-likely-to-exit-iifl-finance-sources-say/articleshow/135738516.cms)
+Canada's Fairfax Financial Holdings intends to divest its nearly 11% stake in IIFL Finance soon. The sale aims to raise funds for acquiring a significant stake in IDBI Bank from the Indian government. Fairfax's current share in IIFL Finance is valued at approximately 30 billion rupees, or $320 million. Additionally, Fairfax is attempting to improve its stake in IIFL Capital through an open offer.
+
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [Divis Labs Share Price Live Updates: Divis Labs Trading Update](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-11-nov-2026/liveblog/135723250.cms)
+### [Tata Power says Singapore shares pledged with banks, safe from immediate seizure](https://www.livemint.com/companies/news/tata-power-singapore-high-court-renewable-energy-power-kleros-11794404371600.html)
+The Singapore High Court has directed the city's sheriff to attach and sell Tata Power's shares in Bhira Investments Pte. Ltd. and Tata Power International Pte. Ltd to recover the $650 million it owes Kleros Capital as part of an arbitration award over a coal project in Russia.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-11
+
+### [Singapore Airlines' $2 billion cabin upgrade: From double beds to sliding doors, and bigger screens — here's what's new](https://www.livemint.com/companies/news/singapore-airlines-2-billion-cabin-upgrade-from-double-beds-to-sliding-doors-and-bigger-screens-heres-whats-new-11794396781343.html)
+The airline is investing more than S$2 billion in the cabin makeover, with upgrades focused on passenger comfort, privacy, entertainment and personalisation.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-11
+
+### [Moody's Hikes India's FY27 GDP Growth Estimate To 7% On Investment, Consumption Dynamics](https://www.ndtvprofit.com/economy/moodys-hikes-indias-fy27-gdp-growth-estimate-to-7-on-improving-investment-dynamics-robust-consumption-12312622#publisher=newsstand)
+In its Global Macro Outlook 2027-28, Moody's, however, said that near-term risks to growth persist as household consumption remains vulnerable to "intensifying and broadening price pressures", with headline inflation close to the upper end of the RBI's inflation target range.
+
+**Source:** NDTV Profit  **Date:** 2026-11-11
+
+### [Trade Setup For Nov 12: Nifty Faces Resistance At 25,500; Will Overbought Zone Trigger Pullback?](https://www.ndtvprofit.com/markets/trade-setup-for-nov-12-nifty-faces-resistance-at-25-500-will-overbought-zone-trigger-pullback-12314176#publisher=newsstand)
+Trade Setup For Nov 12: Market analysts highlighted that Nifty is trading in the overbought zone, indicating the possibility of a mild retracement towards the 25,00024,800 levels.
+
+**Source:** NDTV Profit  **Date:** 2026-11-11
+
+---
+
+## 📰 Industry & Policy News (13)
+
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-11-nov-2026/liveblog/135725513.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-11-nov-2026/liveblog/135723489.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-11-nov-2026/liveblog/135723390.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
-### [L&amp;T Share Price Live Updates: L&amp;T Shares: Today's Price Movement](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-11-nov-2026/liveblog/135723475.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-11-nov-2026/liveblog/135723256.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-11
+
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-11-nov-2026/liveblog/135723250.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-11
+
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-11-nov-2026/liveblog/135723489.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-11
 
 ### [Qualcomm begins layoffs in India: How many jobs are at risk, what's the severance package, benefits offered to employees](https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html)
@@ -167,23 +214,13 @@ Alice Huang, a former Megaspeed executive, is alleged to have assisted a network
 
 **Source:** Mint - Pharma  **Date:** 2026-11-11
 
-### [Anthropic IPO: Check OpenAI, Amazon, Alphabet, Pentagon connection; how CEO Amodei’s housemates, sister too related](https://www.livemint.com/companies/news/anthropic-ipo-check-openai-amazon-alphabet-pentagon-connection-how-ceo-amodei-s-housemates-sister-too-related-11794329869622.html)
-Founded in 2021 by former OpenAI employees, the Claude developer counts Amazon, Alphabet, Microsoft and Nvidia among its major backers
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
-
-### [‘Lori took care of everything’: Nvidia CEO Jensen Huang’s old remarks about his wife resurface after affair admission](https://www.livemint.com/companies/news/lori-took-care-of-everything-nvidia-ceo-jensen-huang-s-old-remarks-about-his-wife-resurface-after-affair-admission-11794322278848.html)
-Huang earlier spoke about the sacrifices his wife made while he was building Nvidia. He described Lori as the person who took care of their family while he focused on his professional ambitions.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-10
-
 ### [BDR Pharma to acquire controlling stake in Acme’s oral solid formulations business from PAG](https://www.expresspharma.in/bdr-pharma-to-acquire-controlling-stake-in-acmes-oral-solid-formulations-business-from-pag/)
 PAG, together with Acme’s founder Viral Shah, to retain and scale the sterile injectables business, Immacule Lifesciences The post BDR Pharma to acquire controlling stake in Acme’s oral solid formulations business from PAG appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-11-11
 
-### [Cars For Government Officials: EVs Become Default Choice; Check Price Cap For Petrol, Diesel And Hybrid Vehicles](https://www.ndtvprofit.com/india/cars-for-government-officials-evs-become-default-choice-check-price-cap-for-petrol-diesel-and-hybrid-vehicles-12312074#publisher=newsstand)
-The lower ceiling covers petrol, diesel and hybrid models. The revised instructions take effect immediately, according to an office memorandum.
+### [Stocks To Watch Today: Adani Enterprises, Tata Power, Bajaj Finance, Aurobindo Pharma, Cupid & More](https://www.ndtvprofit.com/markets/stocks-to-watch-today-adani-enterprises-tata-power-bajaj-finance-aurobindo-pharma-cupid-more-12314332#publisher=newsstand)
+Here's a look at stocks that are likely to be in focus during the trading session on Thursday.
 
 **Source:** NDTV Profit  **Date:** 2026-11-11
 
@@ -197,13 +234,8 @@ Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja En
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-11
 
-### [Stock Market Highlights: Sensex Jumps 773 Points, Nifty 50 Ends Above 25,250; IndiGo, M&M, Trent Top Gainers](https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-crude-oil-prices-gold-rate-today-silver-price-us-iran-war-banks-it-stocks-12310823#publisher=newsstand)
-Nifty Smallcap 100 surged 1.67% and the Nifty Midcap 100 index gained 0.6%.
-
-**Source:** NDTV Profit  **Date:** 2026-11-11
-
-### [Zerodha Says Glitch At BSE Temporarily Stalled F&O Price Updates Across Brokers](https://www.ndtvprofit.com/markets/zerodha-says-glitch-at-bse-temporarily-stalled-f-o-price-updates-across-brokers-12312112#publisher=newsstand)
-Zerodha flagged a BSE-related glitch affecting F&O price updates across brokers on Wednesday.
+### [From 'Huang's Honeypot' To A Spy Decision Tree: Internet Can't Stop Making Memes On Jensen Huang Controversy](https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221#publisher=newsstand)
+Jensen Huang's Meme
 
 **Source:** NDTV Profit  **Date:** 2026-11-11
 
