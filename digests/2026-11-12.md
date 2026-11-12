@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-11-12
 
-> 73 items · 2026-11-12 12:09 UTC
+> 77 items · 2026-11-12 19:34 UTC
 
-## 📊 BSE / NSE Filings (14)
+## 📊 BSE / NSE Filings (13)
 
 ### [Natco Pharma: The Board Meeting to be held on 13/11/2026 has been revised to 14/11/2026 The Board Meeting earlier scheduled to be held on 13/11/2026 has been revised to 14/11/2026 inter-alia to consider ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/37d75e19-f88a-4aa6-a70b-dbb00f45dc03.pdf)
 Category: Company Update | Sub: Board Meeting Rescheduled | BSE Code: 539798
@@ -39,6 +39,11 @@ Category: Company Update | Sub: General | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-11-11
 
+### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 15 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, please find enclosed the Transcript of the Investors/Analysts Conference ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7955178b-fd00-4757-b7ff-6fadbc3a5e21.pdf)
+Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 500825
+
+**Source:** BSE Filing  **Date:** 2026-11-12
+
 ### [Jubilant Pharmova: Intimation on Schedule of Meetings with Analyst(s)/institutional Investor(s)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/58c7bc93-be6f-455a-9d67-3d36b25bb44e.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 532523
 
@@ -64,19 +69,9 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500271
 
 **Source:** BSE Filing  **Date:** 2026-11-12
 
-### [Parnax Lab Ltd: Please find enclosed herewith the Results for the Quarter and Half Year Ended September 30, 2026.](https://www.bseindia.com/corporates/ann.html?scrip=506128)
-BSE Code: 506128
-
-**Source:** BSE Filing  **Date:** 2026-11-12
-
-### [Chemtech Industrial Valves Ltd: Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI LODR Regulations, 2015") and our letter ....](https://www.bseindia.com/corporates/ann.html?scrip=537326)
-BSE Code: 537326
-
-**Source:** BSE Filing  **Date:** 2026-11-12
-
 ---
 
-## 💰 Results & Financials (17)
+## 💰 Results & Financials (15)
 
 ### [Zee Entertainment approves Rs 600-crore share buyback at Rs 91 apiece; promoters to stay out](https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-approves-rs-600-crore-share-buyback-at-rs-91-apiece-promoters-to-stay-out/articleshow/135767979.cms)
 Zee Entertainment has approved a Rs 600 crore share buyback at Rs 91 per share, a 24% premium over its latest NSE closing price. The company will repurchase up to 6.59 crore shares through the tender offer route, with November 25 fixed as the record date. Promoters will not participate.
@@ -88,6 +83,16 @@ Tata Power achieved a 33% year-on-year increase in net profit for the second qua
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
+### [Maharashtra couple earns up to  ₹50 lakh revenue growing saffron without soil in a 400 sq ft room, here's how they did it](https://www.livemint.com/companies/maharashtra-couple-earns-up-to-50-lakh-revenue-growing-saffron-without-soil-in-a-400-sq-ft-room-heres-how-they-did-it-11794500845890.html)
+A couple from Nagpur in Maharashtra began their saffron-growing business by investing around ₹55 lakh. They bought around 100 saffron bulbs from Kashmir and planted them in their house. Here's what happened next.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Ola Electric struggles to stem declining revenue, worsening unit economics](https://www.livemint.com/companies/company-results/ola-electric-struggles-to-stem-declining-revenue-worsening-unit-economics-evs-cell-plant-tvs-ather-hero-bajaj-11794486896087.html)
+Ola Electric's revenue falls 39% year-on-year to ₹421 crore in the September quarter, while adjusted Ebitda margins worsened to -58.5%, despite a narrowing of losses to ₹362 crore.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
 ### [Foxconn forecasts ‘double-digit’ 2027 revenue growth; Chairman Young Liu says ‘AI will be most important growth driver’](https://www.livemint.com/companies/news/foxconn-forecasts-double-digit-2027-revenue-growth-chairman-young-liu-says-ai-will-be-most-important-growth-driver-11794479750810.html)
 Hon Hai, also know as Foxconn, expects double-digit revenue growth in 2027, citing strong demand for AI servers and networking equipment. Chairman Young Liu called AI the company’s biggest growth engine.&amp;nbsp;
 
@@ -97,21 +102,6 @@ Hon Hai, also know as Foxconn, expects double-digit revenue growth in 2027, citi
 The German-Indian joint venture expects ₹300 crore revenue from its new Bhopal plant and plans to double capacity by 2029 as it looks to replace imports, particularly from China.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Jensen Huang Salary: How much does the Nvidia CEO get paid? All about the base salary, bonus, stock, and other perks](https://www.livemint.com/companies/people/jensen-huang-salary-how-much-does-the-nvidia-ceo-get-paid-all-about-the-base-salary-bonus-stock-and-other-perks-11794463195744.html)
-Nvidia CEO Jensen Huang reported $36.3 million in compensation for 2026, down 27% from the previous year. His package included salary, performance-based stock awards and a cash bonus. The filing also detailed a new revenue-linked bonus plan and Huang’s 3.58% stake in Nvidia.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Q2 Results Live: Ola Electric Narrows Loss Rs 362 Crore, Revenue Falls; Oil India Profit Falls 36%, Declares Dividend](https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand)
-Q2 results live updates
-
-**Source:** NDTV Profit  **Date:** 2026-11-12
-
-### [Oil India Q2 Results: Profit Drops By A Third, Margins Shrink. Shareholders Still Get Rs 7 Dividend](https://www.ndtvprofit.com/markets/oil-india-q2-results-profit-drops-by-a-third-margins-shrink-shareholders-still-get-rs-7-dividend-12316998#publisher=newsstand)
-Oil India's revenue fell 8% to Rs 11,535 crore.
-
-**Source:** NDTV Profit  **Date:** 2026-11-12
 
 ### [Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern](https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms)
 Five stocks in the Nifty500 with a change of more than 5% appeared on the ‘White Marubozu’ bullish scanner, according to StockEdge’s technical scan data.
@@ -123,13 +113,8 @@ Anthropic is gearing up for its highly anticipated IPO, aiming to raise as much 
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
-### [Vinfast’s Green SM runs into trouble with taxi unions in Bengaluru - Why is the app-based EV cab facing opposition?](https://www.livemint.com/companies/news/vinfasts-green-sm-runs-into-trouble-with-taxi-unions-in-bengaluru-why-is-the-app-based-ev-cab-is-facing-opposition-11794467011226.html)
-VinFast’s Green SM has received approval to launch its electric cab service in Bengaluru, following debuts in Delhi-NCR and Hyderabad. Local taxi unions oppose the move, citing concerns about low fares, driver earnings, and vehicle compliance.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Who are Jensen Huang's children, Madison and Spencer? Former pastry chef and cocktail bar owner making $2.55mn at Nvidia](https://www.livemint.com/companies/people/who-are-jensen-huangs-children-madison-and-spencer-former-pastry-chef-and-cocktail-bar-owner-making-2-55mn-at-nvidia-11794459559662.html)
-Nvidia filings show Jensen Huang’s children, Madison and Spencer, received a combined compensation of $2.55 million in FY26. Madison leads marketing for physical AI platforms, while Spencer directs robotics product strategy. Both followed unconventional career paths before joining Nvidia.
+### [IBM to end H-1B visa and green card sponsorship for most consulting roles amid Trump's immigration crackdown — Report](https://www.livemint.com/companies/news/ibm-to-end-h-1b-visa-and-green-card-sponsorship-for-most-consulting-roles-amid-trumps-immigration-crackdown-report-11794505557647.html)
+The development comes amid increased scrutiny of employment-based immigration programmes under the Trump administration, particularly the H-1B visa programme, which allows US employers to hire skilled foreign professionals in specialised occupations.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
@@ -148,52 +133,32 @@ Tata Steel, Divi's Labs In Focus After Q2 Results; HDFC Securities Sees Up To 34
 
 **Source:** GNews - Divi's  **Date:** 2026-11-12
 
-### [Page Industries Hits 10% Lower Circuit As Q2 Results Disappoint. Here's Why Investors Are Selling](https://www.ndtvprofit.com/markets/page-industries-hits-10-lower-circuit-as-q2-results-disappoint-heres-why-investors-are-selling-12316642#publisher=newsstand)
-The sudden decline erased a significant portion of its recent market value.
+### [Rishabh Pant, KL Rahul Or Axar Patel? Aakash Chopra Raises Delhi Capitals' Captaincy Question](https://www.ndtvprofit.com/sports/rishabh-pant-kl-rahul-or-axar-patel-aakash-chopra-raises-delhi-capitals-captaincy-question-12319518#publisher=newsstand)
+Delhi have several batting options, but questions over their fast bowlers and expensive signings remain ahead of the new season.
 
 **Source:** NDTV Profit  **Date:** 2026-11-12
 
-### [Pat Cummins' Tense Exchange With Wife Goes Viral As Usman Khawaja Reopens Sandpapergate Controversy](https://www.ndtvprofit.com/sports/pat-cummins-tense-exchange-with-wife-goes-viral-as-usman-khawaja-reopens-sandpapergate-controversy-12316714#publisher=newsstand)
-Cummins is preparing to address questions about Khawaja's claims that the entire Australian team knew about the sandpaper plan during the Cape Town Test.
+### [5 Or More Unpaid Challans? Patna Traffic Police Moves To Cancel Driving Licences](https://www.ndtvprofit.com/india/5-or-more-unpaid-challans-patna-traffic-police-moves-to-cancel-driving-licences-12319434#publisher=newsstand)
+Motorists can check their pending challans through the official e-Challan portal using their vehicle, challan or driving licence number.
 
 **Source:** NDTV Profit  **Date:** 2026-11-12
 
-### [Ramayana Box Office Collection Day 8 Live: Ranbir's Film Off To A Good Start, Check Earnings](https://www.ndtvprofit.com/entertainment/ramayana-box-office-collection-day-8-live-check-ranbir-sai-and-yash-films-earnings-12316026#publisher=newsstand)
-Ramayana' inches closer to another worldwide milestone.
+### [Earnings To Watch: Amber Enterprises India Ltd (NSE:AMBER) Q2 2027 -- GF Value Sees 103% Upside - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxONmo2SVlBMXJyRUhpazhKLVk5R1ZZNFItLVNRa2F0Y0hCVXdadURtbWlDaUVRMERsckdtZDNycUQxaWdCdGM1Wm9kMjYxWVltam00WFRIbTVWb1pxUWxZOG91M3pjSENEUUJyRGp5dGpHSWtvNXBjdHk0QjMyV3NWazItN3RTZHhKZkZYQ1BtbnpBeWs1NFdOX2JwQ3pnMGp3VEN3bGp3?oc=5)
+Earnings To Watch: Amber Enterprises India Ltd (NSE:AMBER) Q2 2027 -- GF Value Sees 103% Upside &nbsp;&nbsp; Yahoo Finance
 
-**Source:** NDTV Profit  **Date:** 2026-11-12
+**Source:** GNews - India Pharma  **Date:** 2026-11-12
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
+## 🤝 Deals, M&A & Partnerships (3)
 
 ### [Adani Group's  ₹26,000 crore Evos deal: What the Dutch firm's acquisition means for its global ports business](https://www.livemint.com/companies/news/adani-groups-rs-26-000-crore-evos-deal-what-the-dutch-firms-acquisition-means-for-its-global-ports-business-11794473176610.html)
 Adani Group plans to fund half of its ₹26,000-crore acquisition of Dutch liquid storage operator Evos through equity, with the rest coming from loans. The deal will expand Adani Ports' presence in European markets and strengthen its global logistics business.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
-### [Indian companies ramp up overseas dealmaking amid growth push: JPMorgan](https://www.livemint.com/companies/news/indian-companies-ramp-up-overseas-dealmaking-amid-growth-push-jpmorgan-investment-deals-acquisitions-11794388870843.html)
-Indian companies are becoming larger and increasingly confident in pursuing overseas acquisitions, say JPMorgan Chase &amp;amp; Co.'s co-heads of India investment banking.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Who could replace Jensen Huang? Meet the frontrunners for Nvidia's top job](https://www.livemint.com/companies/people/who-could-replace-jensen-huang-meet-the-frontrunners-for-nvidias-top-job-11794460473547.html)
-Nvidia's board is weighing Jensen Huang's future amid mounting controversy. With no designated successor, internal executives Ian Buck, Colette Kress and Madison Huang, along with external tech leaders, could feature in succession discussions.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [SpaceX signs $69 million deal with Singulus for 100 GW of solar equipment for Musk’s planned Starmind satellite network](https://www.livemint.com/companies/news/spacex-signs-69-million-deal-with-singulus-for-100-gw-of-solar-equipment-for-musk-s-planned-starmind-satellite-network-11794457729510.html)
-SpaceX has contracted Germany’s Singulus Technologies to supply equipment for a Texas production line making high-performance heterojunction solar cells for Starmind satellites. The first line is expected in first half of 2027, with production planned to scale as SpaceX expands manufacturing.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Who is Kimberly Powell? What we know about the Nvidia executive with whom CEO Jensen Huang had an extramarital affair](https://www.livemint.com/companies/people/who-is-kimberly-powell-what-we-know-about-the-nvidia-executive-with-whom-ceo-jensen-huang-had-an-extramarital-affair-11794449089054.html)
-Nvidia CEO Jensen Huang faces new allegations of an affair with Kimberly Powell, Vice President, Healthcare, according to The New York Times. The report says they were filmed together at a conference hotel and that Huang’s security team offered the person who recorded it a nondisclosure agreement.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Exide, Amara Raja rush to monetize $1 billion Li-ion cell lines as investor questions mount](https://www.livemint.com/companies/news/exide-industries-amara-raja-lithium-ion-cells-11794400315622.html)
-Sluggish EV adoption and long testing cycles force India’s leading battery makers into telecom and energy storage projects for quick cash flow while big automaker orders remain pending.
+### [Adani's Kutch Copper signs MoU with Chile's Codelco for copper exploration: What does the deal involve?](https://www.livemint.com/companies/news/adanis-kutch-copper-signs-mou-with-chiles-codelco-for-copper-exploration-what-does-the-deal-involve-11794484306278.html)
+Adani Group’s Kutch Copper and Chile’s Codelco have agreed to assess Kaburkaala copper project in northern Chile. The pact could link Chilean deposits with Mundra smelter, supporting long-term copper supplies for India, prioritising sustainable exploration, safety and environmental compliance.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
@@ -204,7 +169,17 @@ Indigenously developed through in-house R&#038;D, the product marks a significan
 
 ---
 
-## 💸 Corporate Actions (1)
+## 💸 Corporate Actions (3)
+
+### [The Sunil Mittal interview: Airtel debt-free by 2029. Buybacks next?](https://www.livemint.com/companies/people/the-sunil-mittal-interview-airtel-debt-free-by-2029-buybacks-next-11794474276268.html)
+After 50 years of building businesses, Sunil Bharti Mittal expects Airtel to be debt-free by 2029. With the balance sheet getting stronger, could share buybacks be the telecom giant's next big move? Mittal also discusses AI, data centres and the next phase of growth.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Zee Entertainment announces  ₹600 crore buyback at 24% premium](https://www.livemint.com/companies/news/zee-entertainment-announces-600-crore-buyback-at-24-premium-investment-11794486221572.html)
+The buyback comes as Zee seeks to restore investor confidence amid concerns over advertising growth, profitability and rising content investments.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
 
 ### [Lupin launches biosimilar Ranibizumab in European market](https://www.expresspharma.in/lupin-launches-biosimilar-ranibizumab-in-european-market/)
 Ranibizumab is a recombinant humanized IgG1 monoclonal antibody fragment that binds and inhibits vascular endothelial growth factor A. The post Lupin launches biosimilar Ranibizumab in European market appeared first on Express Pharma .
@@ -213,25 +188,25 @@ Ranibizumab is a recombinant humanized IgG1 monoclonal antibody fragment that bi
 
 ---
 
-## 🏭 Operations & Approvals (7)
+## 🏭 Operations & Approvals (9)
+
+### [Alice Huang’s China links: Firms related to her promised Nvidia Blackwell chips to DeepSeek despite US ban, report says](https://www.livemint.com/companies/people/alice-huang-s-china-links-firms-related-to-her-promised-nvidia-blackwell-chips-to-deepseek-despite-us-ban-report-says-11794505719511.html)
+Companies linked to Alice Huang have reportedly invested in DeepSeek and promised to supply it with Nvidia's advanced Blackwell processors. The reported arrangement has raised questions about US export restrictions, although it remains unclear whether the chips have been delivered.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Chinese traders stay confident of Nvidia GPU supply despite Jensen Huang scandal as prices ease](https://www.livemint.com/companies/news/chinese-traders-stay-confident-of-nvidia-gpu-supply-despite-jensen-huang-scandal-as-prices-ease-11794503328195.html)
+Nvidia announced that Jensen Huang had resigned as president, chief executive and board member with immediate effect after the board accepted his resignation. The Chinese traders’ calm view of supply, sits against this sudden leadership change at the world’s leading AI chip maker.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [ReNew, CleanMax announce investments totalling  ₹1.3 trillion into data centres, green energy space in Andhra Pradesh](https://www.livemint.com/companies/news/renew-cleanmax-investments-rs-1-3-trillion-data-centres-green-energy-andhra-pradesh-renewable-energy-11794490757000.html)
+ReNew commits ₹80,000 crore for a green data centre and solar component plants, while CleanMax plans ₹50,000 crore in clean energy to power an AI compute hub.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
 
 ### [Tata Steel targets 10 million tonnes of domestic iron ore sales this year as captive curbs ease](https://www.livemint.com/companies/news/tata-steel-iron-ore-sales-india-surplus-mining-capacity-11794471287044.html)
 The steelmaker is monetizing surplus mining capacity while testing imported ore blends ahead of 2030 mine expirations and targeting up to ₹10,000 crore in annual India cost savings.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [India bans lithium-ion battery black mass exports: What led to the move and what happens next?](https://www.livemint.com/companies/news/india-bans-lithium-ion-battery-black-mass-exports-what-led-to-the-move-and-what-happens-next-11794466823336.html)
-India has banned exports of lithium-ion battery black mass to secure raw material for domestic recyclers. What prompted the move, how will it strengthen critical mineral recovery, and what challenges lie ahead?
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Where is Alice Huang? Alleged Chinese spy in Jensen Huang extramarital affair scandal reportedly living in Beijing](https://www.livemint.com/companies/news/where-is-alice-huang-alleged-chinese-spy-in-jensen-huang-extramarital-affair-scandal-reportedly-living-in-beijing-11794454574543.html)
-Alice Huang, whose background and business history are opaque, reportedly returned to China and is living in Beijing. US officials suspect she was recruited to approach Nvidia leadership and help Chinese companies access advanced chips.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Jensen Huang scandal: Nvidia India staff lose $600 million on paper](https://www.livemint.com/companies/nvidia-india-employee-stock-options-restricted-stock-units-rsus-jensen-huang-11794408485394.html)
-Nvidia share price has tumbled since Founder CEO Jensen Huang's extramarital affairs have surfaced, eroding the value of employees' stock awards.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
@@ -245,14 +220,24 @@ From CDMO expansion to digital quality systems, the Goa Pharma Summit, hosted by
 
 **Source:** Express Pharma  **Date:** 2026-11-12
 
-### [Dr Reddys Labs Standalone September 2026 Net Sales at Rs 5,572.60 crore, up 20.66% Y-o-Y - Moneycontrol.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLTBaVFREaS03SmxHNWNFcEtDMnp4cFFZdVc2VjA3Y1doWlhsMDRDeFhfNEM0bmF4WVJHUWdodURmcHNBN21XUXlZdFBsb1hPak9KWnc4UkNubTNXT1Awa3I2OFNVckZ5alotZ3JGaFdySnJIbVZsRFQzYkRMWlJYVzRWR055YUFwMzJLdGlqeWp3YmJKbS1sUzVRa0VHLVQzWm9MWC1kQXdGTTFWamZwN2ZtbVFoOVhmMm9JaVhiM1dudEdzTHMzblIxUVUxbGNoTW1aVTI2OHNvMEJ5ZEpHZWxNbS1FUdIB6wFBVV95cUxPWDBmNEF4OEd3Q3YxdXBPSlE0cW9oQkZIQnBpRmtYOUxaalNDa2xiUG5YanR4WVZ2RXM0N1FoLV9FSEdBZ21CWjBxZS1sRlBMUmhidl9FYlhydmljLWFZSDA3dEUtcENTZC0taFRteU9iSHVoLXVnaS1nQWJEMzhUOUJTYXZjRl9BN1E4bVY1TlBGRHN1TUlOX2xydTFFb0NqTDhKWGEwMDlGQzNscWRWN28xSGp3Q0NvRWRrSnoxV2tIUEY5QU9XbWZPNkJka0dJQ0R4djYyb2JEUmduLV9jbDhkenN0dDNEMndB?oc=5)
-Dr Reddys Labs Standalone September 2026 Net Sales at Rs 5,572.60 crore, up 20.66% Y-o-Y &nbsp;&nbsp; Moneycontrol.com
+### ['Profound’ And 'Immeasurable’: Nvidia’s Farewell To Huang Skips The Scandal That Ended His Reign](https://www.ndtvprofit.com/business/profound-and-immeasurable-nvidia-s-farewell-to-huang-skips-the-scandal-that-ended-his-reign-12319374#publisher=newsstand)
+Nvidia's board has remained silent on the controversy surrounding Jensen Huang's exit.
 
-**Source:** GNews - Dr Reddys  **Date:** 2026-11-12
+**Source:** NDTV Profit  **Date:** 2026-11-12
+
+### [Jensen Huang Resigns As Nvidia CEO Amid Extramarital Affair Scandal](https://www.ndtvprofit.com/business/jensen-huang-resigns-as-nvidia-ceo-amid-extramarital-affair-scandal-12318247#publisher=newsstand)
+The board thanked Huang for his "immeasurable contributions to the company and the industry."
+
+**Source:** NDTV Profit  **Date:** 2026-11-12
+
+### [CAG Launches India's Biggest-Ever Power Sector Audit As Discom Losses Hit Rs 3.42 Lakh Crore](https://www.ndtvprofit.com/india/cag-launches-indias-biggest-ever-power-sector-audit-as-discom-losses-hit-rs-3-42-lakh-crore-12319355#publisher=newsstand)
+The nationwide exercise will begin with 39 discoms and examine five years of performance, including financial losses, debt and operational efficiency.
+
+**Source:** NDTV Profit  **Date:** 2026-11-12
 
 ---
 
-## 📉 Analyst & Brokerage Calls (6)
+## 📉 Analyst & Brokerage Calls (8)
 
 ### [Unique Picks: 9 stocks held by just one MF scheme in October, rally up to 144% YTD](https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-9-stocks-held-by-just-one-mf-scheme-in-october-rally-up-to-144-ytd/slideshow/135763800.cms)
 ETMarkets identified 36 stocks held by just one mutual fund scheme each, with equity MF holdings exceeding Rs 10 crore. More than half have gained in CY26, while nine stocks have rallied 50% to 145%, including two that more than doubled.
@@ -264,13 +249,23 @@ In November, foreign institutional investors unexpectedly shifted to become net 
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
-### [Ankura Hospitals attracts PE interest for its ongoing $100 million round](https://www.livemint.com/companies/news/ankura-hospitals-100-million-fundraise-general-atlantic-goldman-sachs-11794449907010.html)
-General Atlantic, Goldman Sachs Private Equity and Motilal Oswal Alternates are among investors evaluating Ankura’s fundraise, which includes a partial or full exit by existing shareholders.
+### [Banco BPM to Review Credit Agricole Bid, Seeks ‘Adequate Value’](https://www.livemint.com/companies/banco-bpm-to-review-credit-agricole-bid-seeks-adequate-value-11794508487552.html)
+Banco BPM SpA said it will review Credit Agricole SA’s proposal to combine their Italian banking operations, and said it will seek “adequate value” for shareholders.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
-### [Why Are US Stock Futures Down? Three Reasons, And Nvidia Is Only The First](https://www.ndtvprofit.com/markets/why-are-us-stock-futures-down-three-reasons-and-nvidia-is-only-the-first-12317027#publisher=newsstand)
-Nvidia shares slide as leadership uncertainty and broader tech selling weigh on US stock futures.
+### [Do Nvidia bylaws allow its board to remove Jensen Huang amid China spy controversy? Here's what we know](https://www.livemint.com/companies/people/do-nvidia-bylaws-allow-its-board-to-remove-jensen-huang-amid-china-spy-controversy-heres-what-we-know-11794487320793.html)
+Nvidia's bylaws allow its board to remove CEO Jensen Huang at any time, with or without cause, through a majority vote of directors. However, removing him as CEO would not automatically cost him his board seat, which requires a separate shareholder vote under different rules.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Buy, Sell Or Hold: ONFC, PFC, TVS Motor, Laurus Labs, Tata Steel And Kalyan Jewellers — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-onfc-pfc-tvs-motor-laurus-labs-tata-steel-and-kalyan-jewellers-ask-profit-12319396#publisher=newsstand)
+Market experts shared buy, sell and hold recommendations for an array of stocks.
+
+**Source:** NDTV Profit  **Date:** 2026-11-12
+
+### [Gold Price Slumps To Lowest In Over A Year. What's Triggering The Selloff?](https://www.ndtvprofit.com/commodities/gold-price-slumps-to-lowest-in-over-a-year-whats-triggering-the-selloff-12318860#publisher=newsstand)
+Gold prices fell 3.28% to $3,856.78 an ounce.
 
 **Source:** NDTV Profit  **Date:** 2026-11-12
 
@@ -286,25 +281,75 @@ NSE shares: Brokerage initiates coverage with 'Buy'; highlights valuation discou
 
 ---
 
-## 📰 Industry & Policy News (21)
+## 📰 Industry & Policy News (26)
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddys shows positive movement in the market](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-nov-2026/liveblog/135754002.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-nov-2026/liveblog/135754002.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
-### [Divis Labs Share Price Live Updates: Divis Labs Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-12-nov-2026/liveblog/135753606.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-12-nov-2026/liveblog/135753606.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
-### [Cipla Share Price Live Updates: Cipla's Market Performance Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-12-nov-2026/liveblog/135753318.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-12-nov-2026/liveblog/135753318.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's Recent Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-12-nov-2026/liveblog/135753044.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-12-nov-2026/liveblog/135753044.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
-### [Apollo Hospital Share Price Live Updates: Apollo Hospital's Stock Performance Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-12-nov-2026/liveblog/135752861.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-12-nov-2026/liveblog/135752861.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-12
 
 ### [Blackstone targets Dubai's $1 trillion wealth market as it looks to attract Gulf's richest investors](https://www.livemint.com/companies/news/blackstone-targets-dubais-1-trillion-wealth-market-as-it-looks-to-attract-gulfs-richest-investors-11794479149885.html)
 The firm's top private wealth executives held their first-ever gathering in Dubai on Wednesday, pitching investment products, including private credit and infrastructure, to more than 100 high-net-worth individuals.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month](https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-4-stocks-hitting-52-week-highs-rally-up-to-22-in-a-month/slideshow/135769519.cms)
+Four BSE 100 stocks, including Punjab National Bank, Federal Bank and Kotak Mahindra Bank, hit fresh 52-week highs, with monthly gains ranging from 10% to 22%.
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-12
+
+### [Nvidia next CEO: Who’s Jay Puri? Harvard alumnus Indian-origin techie grad to succeed Jensen Huang? Strongest candidate](https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html)
+Amid the high-stakes leadership shuffle, several names have emerged as frontrunners, including Indian-origin Jay Puri, who is being considered a strong candidate.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [‘Extraordinarily difficult period’: Nvidia's new CEO Kress reassures staff after Jensen Huang's exit | Read full email](https://www.livemint.com/companies/people/extraordinarily-difficult-period-nvidias-new-ceo-kress-reassures-staff-after-jensen-huangs-exit-read-full-email-11794504102783.html)
+Nvidia's interim CEO Colette Kress has reassured employees after Jensen Huang's exit, calling it an ‘extraordinarily difficult period’. In her first email, she thanked staff for their resilience, expressed confidence in the company's future and urged them to move forward together.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Jensen Huang resigns: From extramarital affairs to China links, how the Nvidia controversy unfolded | Timeline](https://www.livemint.com/companies/news/jensen-huang-resigns-from-extramarital-affairs-to-china-links-how-the-nvidia-scandal-unfolded-timeline-11794499235145.html)
+The company's official statement doesn't mention the reason for Jensen's resignation. However, under Nvidia's bylaws, Huang can be removed 'with or without cause' by a majority vote of the directors, Reuters reported earlier.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Nvidia turns to CFO Colette Kress to steady ship after Jensen Huang exit](https://www.livemint.com/companies/people/nvidia-turns-to-cfo-colette-kress-to-steady-ship-after-jensen-huang-exit-11794498763925.html)
+In naming Colette Kress as interim CEO, Nvidia is making a classic move for a company in crisis.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Jensen Huang resigns: Meet the Nvidia board members who decided his fate after affair reports](https://www.livemint.com/companies/people/jensen-huang-resigns-meet-the-nvidia-board-members-who-decided-his-fate-after-affair-reports-11794497815725.html)
+The Nvidia Corp. board of directors who met to decide Chief Executive Officer Jensen Huang’s fate ahead of his ouster on Thursday have a range of backgrounds, from running Taco Bell’s international operations to academic research involving a jellyfish.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Who is Harvey C Jones? NVIDIA appoints first-ever board chair as Jensen Huang resigns from board, CEO post](https://www.livemint.com/companies/people/who-is-harvey-c-jones-nvidia-appoints-first-ever-board-chair-as-jensen-huang-resigns-from-board-ceo-post-11794493778070.html)
+NVIDIA appointed longtime board member Harvey C. Jones as its first board chair, while announcing that CEO Jensen Huang would step down and CFO Colette Kress would serve as interim CEO. The company said it would seek a permanent CEO from internal and external candidates.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Jensen Huang, face of the AI boom, ousted as Nvidia CEO after multiple affairs](https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-11794491910708.html)
+Nvidia CFO Colette Kress will take over as interim CEO. Harvey Jones, who previously led Synopsys, has been named chairman.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Nvidia CEO Jensen Huang resigns, tech giant appoints Colette Kress as Interim CEO](https://www.livemint.com/companies/news/nvidia-ceo-jensen-huang-resigns-tech-giant-appoints-colette-kress-as-interim-ceo-report-11794491647631.html)
+Nvidia co-founder Jensen Huang has stepped down as CEO, president and board member amid reports of alleged extramarital affairs, including one with a businesswoman suspected by US authorities of ties to Chinese intelligence. Details here.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-12
+
+### [Could Jensen Huang exit Nvidia? Board reportedly works with outside firm to identify potential replacements](https://www.livemint.com/companies/news/could-jensen-huang-exit-nvidia-board-reportedly-works-with-outside-firm-to-identify-potential-replacements-11794488343068.html)
+Nvidia board is also reportedly considering the possibility of appointing an interim chief executive while searching for a permanent replacement.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
@@ -313,53 +358,38 @@ Kang Wei, a former Chinese fund manager and Alice Huang’s husband, had busines
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
-### [Nvidia's Jensen Huang has no obvious successor: Why that could become a problem for AI giant](https://www.livemint.com/companies/people/nvidias-jensen-huang-has-no-obvious-successor-why-that-could-become-a-problem-for-the-ai-giant-11794458435895.html)
-Nvidia's leadership faces scrutiny as controversies surrounding Jensen Huang raise succession concerns. With no publicly identified successor, questions are emerging over whether the AI chip giant can sustain its growth and technological dominance without its founder.
+### [Sun Pharma Advanced Research gets NSE, BSE nod for promoter reclassification - scanx.trade](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQk9EM29EMGRkaXdpQnVPcXRVZ3NsX3NXaFdZWXZxb0twRnlqQVlBS1NzQUtjcXdGRGdHVlpObTd2LXdUcVFNVVFZdWFDekFTRUJ3NmJYaG43dGZKaEtSYW5nVy1fVFhtbHI4a1FoRWFlUm8xQTZDTXRSbkRnOEtnQUJpRTNfQmplcUktTWs3Ym5teWNmSk5UdEdXaGFkeWg3cW1JY1htY0ZndzgyVUl3WA?oc=5)
+Sun Pharma Advanced Research gets NSE, BSE nod for promoter reclassification &nbsp;&nbsp; scanx.trade
 
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [India’s consumer AI startups win VC backing, but retention remains the big test](https://www.livemint.com/companies/start-ups/india-consumer-ai-startups-investors-user-retention-monetization-11794399504317.html)
-Venture capital investors are increasing bets on Indian consumer AI startups, with companies across personal finance, wellness, education and recruitment attracting fresh capital.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Elon Musk is ready to hire Nvidia CEO Jensen Huang even after WSJ, NYT reports of affairs, ouster — Check latest update](https://www.livemint.com/companies/people/elon-musk-ready-hire-nvidia-ceo-jensen-huang-even-after-wsj-nyt-reports-second-affairs-board-ouster-check-latest-updates-11794455804044.html)
-Billionaire Elon Musk has indicated that he is ready to hire Jensen Huang even after the WSJ and NYT reported that the Nvidia board is considering ousting the chief executive. Check the latest updates…&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Nvidia on lookout for new CEO as more Jensen Huang affairs surface](https://www.livemint.com/companies/people/nvidia-on-lookout-for-new-ceo-as-more-jensen-huang-affairs-surface-11794453682860.html)
-The Nvidia board is working with an outside firm to identify potential replacements for CEO Jensen Huang following reports of multiple extramarital affairs.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Nvidia may oust Jensen Huang after second affair with employee, board working with outside firm to identify successor](https://www.livemint.com/companies/news/nvidia-may-oust-jensen-huang-after-second-affair-with-employee-board-working-with-outside-firm-to-identify-successor-11794445527518.html)
-Reports allege Nvidia CEO Jensen Huang had affairs with senior executives, prompting the board to consider his future and reportedly explore interim and permanent successors. The claims have also led to an investor lawsuit and possible congressional scrutiny.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Poundland owner Gordon Brothers urged to back extension of creditor protection](https://www.livemint.com/companies/poundland-owner-gordon-brothers-urged-to-back-extension-of-creditor-protection-11794424239150.html)
-POUNDLAND-OUTLOOK/ (PIX):Poundland owner Gordon Brothers urged to back extension of creditor protection
-
-**Source:** Mint - Pharma  **Date:** 2026-11-11
+**Source:** GNews - India Pharma  **Date:** 2026-11-12
 
 ### [Stocks to Watch Today: Bajaj Finance, Tata Power, Mishra Dhatu Nigam, Aurobindo Pharma, ITC, Aditya... - Moneycontrol.com](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcDlWT2psaEdqTE1qUkViLWN2cnNLemlNb3cxUEFWTEtrblJqNUYtZ2MwR3lrcWZSTW8yOWV6QmU3VFdDWVYtcDA5c1BTRnFTZFNvSjRPQzZsbzZiamc3M1lUSnJrQU9iR1JTVS1YZUNURmRTTy0wOWV2RGRxbnB6T0lTemZLOC1mb29MZnZzWEt6cS1QSW1BSFIwWnFMbGRVQmxZbi14WjRXbGhKM0RuVGdocXlxN1MtdS1EaFJwcEVSYUNUWFRYLWFpNzR1WWtZNmpwSUE0N3NWMWFuWlQyYnVuTHlHeEo5YzhOcUVTZGRGd1NwM0wxby1ZZ1liaWFXSUxMR3QtbHpsTG5zLVJ3cjhGMHR1R0lQVmJhZzdEUkhKRENQTnJ0Ml9GONIBsAJBVV95cUxPa2EtaVdWZzc1QnNGUTlaRUxqNW5ESm4wVm5rWm9FQXlOczZHWlNMemhnNi02VHY3VDBqT0VFY3VzaVhaSzdTRHdYdU1VaW1XOUZjTjZGLWdTbG1vSWhlMTU5cFlsMVVTWWhuMXZhTjdzWktWM09JdmtIcWZoZnBEdDdsaTVjdHo4WnBKLS0xUEJzcU9NVXg2YnduRkFvQXlpWUZXWnhxeDlJSDhQTmpTQVJhSWhRRmlrOE55RVhpWnJmTEgxVzdxMW1FQXJicU11eURDbkQ1eUt0T2FleGpfcXdCeXc5SHNGZTJnSTgwMDlBX3Z3OGYzSEZIRy0zN1htckNqcXpMbnEzWmIxdldodDBFeHBrbVk5WXk5b21WZFFoaktwOWpxS19tbnJaWTYw?oc=5)
 Stocks to Watch Today: Bajaj Finance, Tata Power, Mishra Dhatu Nigam, Aurobindo Pharma, ITC, Aditya... &nbsp;&nbsp; Moneycontrol.com
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-11
 
-### [Dr. Reddy's DRREDDY Lost Share Certificate Notice Nov 2026 - Kalkine India](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWhXUEFFbVNJSjFQaEJTZDY3cjZmUUQ5V1NHOHVPSjhjeTk2c09ubnlTZE9fOEhfNGk2bENnQUpYQ2dZV2I4em14Rzl5bzZER0tqVEczZm12REpaaFVKakNtckdHYnVxeUlxaGhhWmhaaWpjZ2lfbVZlZDhZZlJyVzRnZV9nWjdteWNXWU4tblIyckc1M1FnTWlDZ1pseHRhaHdzLXYtNFl6Q2FnWjc5Ukx2RjJyeGpHcU9lb2lKWnNkLWFiUks5dkRINnI?oc=5)
-Dr. Reddy's DRREDDY Lost Share Certificate Notice Nov 2026 &nbsp;&nbsp; Kalkine India
+### [Perplexity CEO Praises Jensen Huang: 'Your Grit, Perseverance Should Always Be Remembered'](https://www.ndtvprofit.com/business/perplexity-ceo-aravind-srinivas-praises-jensen-huang-your-grit-perseverance-should-always-be-remembered-12319494#publisher=newsstand)
+Perplexity CEO Aravind Srinivas pays tribute to Jensen Huang after his sudden Nvidia exit.
 
-**Source:** GNews - India Pharma  **Date:** 2026-11-11
+**Source:** NDTV Profit  **Date:** 2026-11-12
 
-### [Sensex rebounds over 280 points, Nifty tops 25,300; Bajaj twins gain, M&M, Sun Pharma fall - NewsDrum](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWJkYmJma2Z3VE1SYmtPaW01amM0UmFpSEhSSnZfd3BoVWVMWW1QN0sxZ1R1MHJIUVNZb25nQ1UzTHh2Y2owUHVZMnh5RGtPcHc4Y0dVcDNCbnVGd1RSQ1AwWlVLWXlMWTE3N2NfajN0Z1hZU2ZYdHFiZ2Y5QlJoS0thU2RxX1ZLLW81OXVsbVdKVmpaNkJ4V09BUWNVYmM1NEZvcmhacGNwcDVhQkhiWi10SWxqNjBnaExocGpYWm41Nlpr0gHEAUFVX3lxTE9NYmRiYmZrZndUTVJia09pbTVqYzRSYWlISFJKdl93cGhVZUxZbVA3SzFnVHUwckhRU1lvbmdDVTNMeHZjajBQdVkyeHlEa09wdzhjR1VwM0JudUZ3VFJDUDBaVUtZeUxZMTc3Y19qM3RnWFlTZlh0cWJnZjlCUmhLS2FTZHFfVkstbzU5dWxtV0pWalo2QnhXT0FRY1ViYzU0Rm9yaFpwY3BwNWFCSGJaLXRJbGo2MGdoTGhwalhabjU2Wms?oc=5)
-Sensex rebounds over 280 points, Nifty tops 25,300; Bajaj twins gain, M&amp;M, Sun Pharma fall &nbsp;&nbsp; NewsDrum
+### [Nvidia After Huang: What Changes, Who's In Charge And What It Means For Investors](https://www.ndtvprofit.com/business/nvidia-after-huang-what-changes-who-s-in-charge-and-what-it-means-for-investors-12319185#publisher=newsstand)
+Nvidia CEO Jensen Huang has resigned after 33 years.
 
-**Source:** GNews - India Pharma  **Date:** 2026-11-12
+**Source:** NDTV Profit  **Date:** 2026-11-12
 
-### [Stock Market Highlights: Sensex Ends Flat, Nifty 50 At 25,300 Led By Financials; HDFC Life, Bajaj Finance Top Gainers](https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-today-nifty-50-gold-rate-today-silver-price-crude-oil-prices-rupee-us-iran-war-12315295#publisher=newsstand)
-Broader markets outperformed, as the Nifty Smallcap 100 index rallied 1.12% and the Nifty Midcap 100 index gained 0.85%.
+### [Nvidia Faces DOJ Antitrust Probe As Fallout From Jensen Huang's Exit Widens: Report](https://www.ndtvprofit.com/business/nvidia-faces-doj-antitrust-probe-as-fallout-from-jensen-huangs-exit-widens-report-12319210#publisher=newsstand)
+Nvidia shares fell more than 13% at the open on Thursday, after Jensen Huang resigned.
+
+**Source:** NDTV Profit  **Date:** 2026-11-12
+
+### [India's First Known Snail-Eating Frog Among 5 New Species Found In Himalayas](https://www.ndtvprofit.com/science/indias-first-known-snail-eating-frog-among-5-new-species-found-in-himalayas-12319028#publisher=newsstand)
+India's eastern Himalayas yield five new frog species after years of scientific research.
+
+**Source:** NDTV Profit  **Date:** 2026-11-12
+
+### ['Legend Replaces A Legend': Trump Wants Tim Cook To Run Nvidia After Jensen Huang's Exit](https://www.ndtvprofit.com/business/from-apple-to-nvidia-trump-wants-tim-cook-to-run-nvidia-after-jensen-huangs-exit-12318901#publisher=newsstand)
+File image of Apple ex-CEO Tim Cook
 
 **Source:** NDTV Profit  **Date:** 2026-11-12
 
@@ -372,15 +402,5 @@ Bright Outdoor Media Moves To BSE, NSE Main Boards After Rs 155 Cr FY26 &nbsp;&n
 Hindustan Copper fined ₹14.43 lakh by BSE and NSE for governance lapses &nbsp;&nbsp; scanx.trade
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-11
-
-### [HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMiywFBVV95cUxONUl3Q09ETHRmVWxIQV9qMHkyTzh5NW1JU1JJMVFaV2JEZG4yWVVHOU5HcEZEOFdNSXRSSEFiUEtDWTFHcmgyU0FOMU9OZnZqMHkwQk02Nk9VV1ZIVUNKcDB1U1JEX0h6TVBoSHhHZlNrTkJpdVc1VnNzZldDQ0l0RHRiNWM0RjhuTTZsc3ZwU2tmUE9kRjljLTJjdXVJcGxVQ2NQekJWSGQ2R3NzaGlkRnpKS2RpZlcwMnBtbUJKNllYbWtlamlwemUwQQ?oc=5)
-HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026 &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-12
-
-### [Sensex gives up over 400 points from day's high; insurers rally, IT stocks drag - NewsDrum](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU5zMGl3Vl9PY0FkUEhiWXpUcjMtNV9wZjFQUlRfeVpMZmFuM1ZOT2Y4U1kySDk5V29XTElJSlBtRFA2b25oS2FPVVNpZm42cjFGamFWRXFDcTJYcUtsTWVWclNXNHNFT2M1c2c1cnA2LVpLdFBKUndtcjdMRTU5T0l1bWlaMDZBY2xzVVdNMF81ak5UQng3SDZwZ0hjR1JvN0FxRlJWQ3l0Y3VvcjlBVURQYnB0NVJYckHSAboBQVVfeXFMTzlOczBpd1ZfT2NBZFBIYll6VHIzLTVfcGYxUFJUX3laTGZhbjNWTk9mOFNZMkg5OVdvV0xJSUpQbURQNm9uaEthT1VTaWZuNnIxRmphVkVxQ3EyWHFLbE1lVnJTVzRzRU9jNXNnNXJwNi1aS3RQSlJ3bXI3TEU1OU9JdW1pWjA2QWNsc1VXTTBfNWpOVEJ4N0g2cGdIY0dSbzdBcUZSVkN5dGN1b3I5QVVEUGJwdDVSWHJB?oc=5)
-Sensex gives up over 400 points from day's high; insurers rally, IT stocks drag &nbsp;&nbsp; NewsDrum
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-12
 
 ---
