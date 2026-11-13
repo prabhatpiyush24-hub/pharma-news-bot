@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-11-13
 
-> 70 items · 2026-11-13 11:52 UTC
+> 56 items · 2026-11-13 19:14 UTC
 
-## 📊 BSE / NSE Filings (9)
+## 📊 BSE / NSE Filings (11)
 
 ### [FDC Limited: Update on outcome of the Board Meeting in accordance with the SEBI(Listing Obligations and Disclosure Requirements) Regulations, 2015 is attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/105e2646-5023-4829-920d-056d71880df9.pdf)
 Category: Company Update | Sub: General | BSE Code: 524230
@@ -21,6 +21,11 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
 
 ### [Divis Lab: submission of transcript of Q2Fy27 earnings call held on November 07, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0858614-67cd-466a-a0fa-649ac8abbba9.pdf)
 Category: Company Update | Sub: Earnings Call Transcript | BSE Code: 532488
+
+**Source:** BSE Filing  **Date:** 2026-11-13
+
+### [Biocon: We wish to inform the Exchange that the Finance Committee (''the Committee'') of the Board of Directors (''the Board'') of the Company at its Meeting held on Friday, November 13, 2026 has, ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a1352f45-aeca-40e9-b461-413303a38c83.pdf)
+Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-11-13
 
@@ -49,9 +54,24 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500271
 
 **Source:** BSE Filing  **Date:** 2026-11-12
 
+### [Qualitek Labs Ltd: As per attached information](https://www.bseindia.com/corporates/ann.html?scrip=544091)
+BSE Code: 544091
+
+**Source:** BSE Filing  **Date:** 2026-11-13
+
 ---
 
-## 💰 Results & Financials (15)
+## 💰 Results & Financials (12)
+
+### [MAN Industries PAT rises to Rs 82 cr in Q2](https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms)
+MAN Industries (India) Ltd has announced a substantial increase in consolidated profit after tax during the September quarter. The company's revenue from operations also saw a notable rise year-on-year, reflecting strong performance. The acquisition of National Pipe Company has positively impacted scale and profitability for the firm. Shipping disruptions in the Strait of Hormuz temporarily affected revenue but shipments are being executed.
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-13
+
+### [JLR cuts margin, revenue guidance as restructuring weighs on Tata Motors](https://www.livemint.com/companies/company-results/jlr-cuts-margin-revenue-guidance-as-restructuring-weighs-on-tata-motors-11794576780763.html)
+JLR’s losses and subdued margins have continued to weigh on Tata Motors PV’s financial performance since the demerger in October 2025.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-13
 
 ### [Jagatjit Industries Q2 net loss narrows to Rs 4 cr, revenue rises 90%](https://economictimes.indiatimes.com/markets/stocks/earnings/jagatjit-industries-q2-net-loss-narrows-to-rs-4-cr-revenue-rises-90/articleshow/135801327.cms)
 Jagatjit Industries Ltd has reported a net loss of Rs 3.96 crore for the second quarter of FY27, significantly improving from Rs 27.91 crore lost during the same period last year. Total income surged to Rs 195.43 crore, up from Rs 103.11 crore. In the first half of FY27, the company posted an overall net loss of Rs 12.23 crore, a decrease from Rs 37.81 crore.
@@ -63,16 +83,6 @@ CFO Jatin Dalal said slow revenue growth could force the IT giant—which employ
 
 **Source:** Mint - Pharma  **Date:** 2026-11-13
 
-### [Maharashtra couple earns up to  ₹50 lakh revenue growing saffron without soil in a 400 sq ft room, here's how they did it](https://www.livemint.com/companies/maharashtra-couple-earns-up-to-50-lakh-revenue-growing-saffron-without-soil-in-a-400-sq-ft-room-heres-how-they-did-it-11794500845890.html)
-A couple from Nagpur in Maharashtra began their saffron-growing business by investing around ₹55 lakh. They bought around 100 saffron bulbs from Kashmir and planted them in their house. Here's what happened next.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Natco Pharma Q2 Results: Net Profit Falls 61% To Rs 203 Crore, Revenue Declines 29%; Stock Tumbles 3%](https://www.ndtvprofit.com/markets/natco-pharma-q2-results-net-profit-falls-61-percent-to-rs-203-crore-revenue-declines-29-stock-tumbles-3-12321558#publisher=newsstand)
-Natco Pharma Declares Q2 Results
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
 ### [MSCI rejig: Which stocks may see the biggest inflows &amp; outflows?](https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms)
 In a significant update, MSCI has revealed modifications to its indices, impacting several Indian stocks starting November 30. This shift is predicted to boost India's representation within the MSCI Emerging Markets Index. Notable stocks like Coforge and LIC are anticipated to attract considerable investments, while PI Industries may experience a decline.
 
@@ -83,10 +93,10 @@ On November 12, nine stocks in the Nifty500 that rose over 5.5% appeared on the 
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-13
 
-### [IBM to end H-1B visa and green card sponsorship for most consulting roles amid Trump's immigration crackdown — Report](https://www.livemint.com/companies/news/ibm-to-end-h-1b-visa-and-green-card-sponsorship-for-most-consulting-roles-amid-trumps-immigration-crackdown-report-11794505557647.html)
-The development comes amid increased scrutiny of employment-based immigration programmes under the Trump administration, particularly the H-1B visa programme, which allows US employers to hire skilled foreign professionals in specialised occupations.
+### [Aurobindo Pharma stock: Q2 profit rises 32.5% on record revenue - ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVVEQlVsdktpeVV4RS05S1JuR2MzeUh0UXJxanZBd2JLcFdjUjVCbFVkR1VtTEtPZzlLM3l5WEx6aGppNktvQlNKUG90a1l1VTBlcUdfRWpTZzdOTFJGMDVHZnFJY19UeGxwUkFiRC1ralNUTURwMVpiNTI3emgwaFRjVlJaclJPVHEtdnVUUWFzLXRYSjRCWnR6WGFmeV9oQ0lQZENHdWs3Q1RwbEN3NHdfamJ2V1U4bDJFTg?oc=5)
+Aurobindo Pharma stock: Q2 profit rises 32.5% on record revenue &nbsp;&nbsp; ad-hoc-news.de
 
-**Source:** Mint - Pharma  **Date:** 2026-11-12
+**Source:** GNews - Aurobindo  **Date:** 2026-11-13
 
 ### [Natco Pharma Q2 results: Net profit declines 60.8% to ₹202.6 crore - Business Standard](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWowM0c4NTMtQWNObWxuZWQtamkyOUVxNkF2MElmUnh2c1M1b0dCdFRxYWR6OVc2QXcyVENLZGw0bnk3VzNmb1V6cDFfUlViSXU3OG1KZkNrb2xrMVE2SGpFR0NsWTBWUDFWN1h6czF4dktWdEZtZjQtS2tDZmNMd0FZeGl3QWpMRlVVeHFMT1BpSFhrblJEeXFyeG1XS0VFU0EzT0Z3aVVFUkpRdmFyckFlT2YyOHpBaEtBSG00b2ZsQXdyUThZSnVRNVFBdElrRi1mVTQtWURuS3FQYWfSAeMBQVVfeXFMTTR4eDlhLXBJRDMtc1d6THRNLU9WODJCai1IY0JJalNHcXdZM1FYRnc1LV95V2FvRDlaZkJZaEFZbVFMVERiTDBNN2w5RlI0WTMyelRQeWNacVE0ZEp5QVB3TmRMNmE5eTVKZC1iUzNidkpOS1cydUZIUjRnRnRoNWpHX1RkZlNZUjRCSmxlYmZSbUE5RGQxMDhUaXlRMUZzaEE3MnNxY29Ta1dSVGZobmpnckxSbGZONmkxU1BrZ2dsSThUUkMzZ2hjcVY5czI3SnBvUW5BNlNyckNqY0lLTmhXYXc?oc=5)
 Natco Pharma Q2 results: Net profit declines 60.8% to ₹202.6 crore &nbsp;&nbsp; Business Standard
@@ -98,18 +108,13 @@ Arun Patel, Founder and Partner, Arunasset Investment Services, explains how Ind
 
 **Source:** Express Pharma  **Date:** 2026-11-13
 
-### [Grasim Industries Q2 Results: Net Profit Nearly Triples To Rs 2,306 Crore; One-Time Loss Of Rs 825 Crore](https://www.ndtvprofit.com/markets/grasim-industries-q2-results-net-profit-nearly-triples-to-rs-2-306-crore-one-time-loss-of-rs-825-crore-q2-earnings-bse-sensex-12321579#publisher=newsstand)
-Grasim Industries Declares Q2 Results
+### [Deepak Fertilisers Q2 Results: Profit Surges 85% To Rs 394 Crore As Margins Expand, Revenue Up 11%](https://www.ndtvprofit.com/markets/deepak-fertilisers-q2-results-profit-surges-85-to-rs-394-crore-as-margins-expand-revenue-up-11-12323802#publisher=newsstand)
+Strong operating performance drives an 85% jump in quarterly profit, while EBITDA margins expand 710 basis points to 22.5%, signalling improved profitability.
 
 **Source:** NDTV Profit  **Date:** 2026-11-13
 
-### [Black Box Q2 FY27 Results: Revenue Rises 22% to ₹1,936 Crore; Order Backlog Tops US$1 Billion - India CSR](https://news.google.com/rss/articles/CBMickFVX3lxTE5lSHRYdmhTQzhzZVM4cmVrdHBybnAwRm1hMEYzU29KMC1FbTJMbWZiQXByai13M1BQVmx2Q2ZtWEJReXZTc3ItNGhzMm0tbXVIWHFNZm1NTlprOU96TnNYbERWMWdRWkFxV181U2c4UDRjdw?oc=5)
-Black Box Q2 FY27 Results: Revenue Rises 22% to ₹1,936 Crore; Order Backlog Tops US$1 Billion &nbsp;&nbsp; India CSR
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-13
-
-### [Q2 Results Live: Grasim Industries Profit Nearly Triples To Rs 2,306 Crore, Natco Pharma Profit Plunges 61%; Eicher Motors Also In Focus](https://www.ndtvprofit.com/markets/q2-results-live-updates-november-13-grasim-industries-eicher-motors-abb-india-natco-pharma-among-companies-to-announce-earnings-today-12320989#publisher=newsstand)
-Q2 Results Live Market Blog
+### [CMS Info Q2 Results: Cash Logistics Firm's Profit Climbs As Income Crosses Rs 660 Crore](https://www.ndtvprofit.com/business/cms-info-q2-results-cash-logistics-firms-profit-climbs-as-income-crosses-rs-660-crore-12324148#publisher=newsstand)
+The company had earned a profit of Rs 73 crore in the corresponding quarter of the preceding fiscal.
 
 **Source:** NDTV Profit  **Date:** 2026-11-13
 
@@ -118,19 +123,9 @@ Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Resu
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-13
 
-### [Weizmann Limited (NSE:WEIZMANIND) Announces Q2 FY27 Unaudited Financial Results Publication - Kalkine Media](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnlqR2UyQlZXc1h4THBnWVVwMVVQNTN6YnQyT2NFR3BWZkFkNGVVOTN0UEh4Nzdhb0pEMnJ6TEFUZFhqU2t5am5nMFM4Q0VoczdKVnVMcHBaaUt6ZnZUUFdabXM3UWVQZnFfcThSWkRRVmZRRFNBeGxzTC1RUnoxMEwxckdUOGxFUlp3clp0Y2h6VFdUYzZtRVgwOUtOakQwNGM3MklzZl9PRDNwUVF1Yi1sUmlrYlVJNkNuX3JrWWhKMDFsQUdiUGc2YUhqZ0o5?oc=5)
-Weizmann Limited (NSE:WEIZMANIND) Announces Q2 FY27 Unaudited Financial Results Publication &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-13
-
-### [MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis - Kalkine Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXItY09qOTlORzljWmxVVnVqVlF3TkdiQnNZdnRZRGZCNGE5eVhxQ1lva2RNWkpfanJJRk5tM0djRnRZUGZCYUN3b2FHaWZPOFY0bThERmRVMkZlMy1scUNhU3gzQkowQXlCNXJaREM2SXBCWnMzdzZ0MHA0WnVZakhIS3pSNlU3Tnd1SWZKYV9ycll2LWROMFQ2ZUZqcUVleFcwSmEwMWtobkxUei05NWhpaG00dWE4Q3MwSmJHMlhpaW9fT3UxeHRhcUtMUkk?oc=5)
-MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-13
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (4)
+## 🤝 Deals, M&A & Partnerships (5)
 
 ### [Blackstone emerges frontrunner to buy Actis-owned BluPine at $1.8 billion valuation](https://www.livemint.com/companies/news/blackstone-blupine-energy-acquisition-deal-11794486377121.html)
 For Blackstone, the acquisition deal for BluPine Energy, comes at a time when it has stepped up efforts to build a large infrastructure portfolio in India.
@@ -139,6 +134,11 @@ For Blackstone, the acquisition deal for BluPine Energy, comes at a time when it
 
 ### [Elon Musk's SpaceX-Tesla mega merger could be announced in December: What could derail the deal?](https://www.livemint.com/companies/news/elon-musks-spacex-tesla-mega-merger-could-be-announced-in-december-what-could-derail-the-deal-11794535491532.html)
 SpaceX and Tesla are advancing merger talks, with an announcement potentially coming as early as December. The proposed deal could create the world's biggest corporate combination, but regulatory hurdles, Tesla's China operations and US national security concerns could complicate the transaction.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-13
+
+### [Why Jensen Huang will lose  ₹900 crore after Nvidia exit — just 0.08% of his  ₹11.5 lakh crore fortune](https://www.livemint.com/companies/people/why-jensen-huang-will-lose-900-crore-after-nvidia-exit-just-0-08-of-his-11-5-lakh-crore-fortune-11794573203343.html)
+Jensen Huang is set to forfeit ₹900 crore ($108 million) in unvested Nvidia stock awards following his reported exit. The amount is just 0.08% of his estimated ₹11.5 lakh crore fortune, with nearly 97% of his wealth tied to Nvidia shares.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-13
 
@@ -154,16 +154,17 @@ The project aims to systematically document, identify and conserve the medicinal
 
 ---
 
-## 💸 Corporate Actions (1)
+## 🏭 Operations & Approvals (4)
 
-### [The Sunil Mittal interview: Airtel debt-free by 2029. Buybacks next?](https://www.livemint.com/companies/people/the-sunil-mittal-interview-airtel-debt-free-by-2029-buybacks-next-11794474276268.html)
-After 50 years of building businesses, Sunil Bharti Mittal expects Airtel to be debt-free by 2029. With the balance sheet getting stronger, could share buybacks be the telecom giant's next big move? Mittal also discusses AI, data centres and the next phase of growth.
+### [Reliance to invest  ₹1 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants](https://www.livemint.com/companies/news/reliance-to-invest-rs-1-lakh-crore-in-andhra-pradesh-plans-3-lakh-job-opportunities-with-biogas-plants-11794593546518.html)
+Anant Ambani confirmed Reliance's planned ₹1 lakh crore investment in Andhra Pradesh to set up compressed biogas (CBG) plants. Ambani also said Jio would work with the Indian School of Agriculture to train farmers in rural areas.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-12
+**Source:** Mint - Pharma  **Date:** 2026-11-13
 
----
+### [Sembcorp Green Infra IPO: Temasek-backed renewable energy company gets SEBI nod for  ₹3,750 crore public issue](https://www.livemint.com/companies/sembcorp-green-infra-ipo-temasek-backed-renewable-energy-company-gets-sebi-nod-for-3-750-crore-public-issue-11794574597354.html)
+Temasek-backed Sembcorp Green Infra has received SEBI approval for its ₹3,750 crore IPO, entirely comprising a fresh issue. The company plans to use the proceeds to repay existing debt as it expands its renewable energy portfolio.
 
-## 🏭 Operations & Approvals (7)
+**Source:** Mint - Pharma  **Date:** 2026-11-13
 
 ### [Microsoft Outlook outage: Efforts underway to restore Outlook, Teams and Copilot; when will services return?](https://www.livemint.com/companies/news/microsoft-outlook-outage-efforts-underway-to-restore-outlook-teams-and-copilot-when-will-services-return-11794545705910.html)
 Microsoft is identifying alternative measures to increase infrastructure capacity amid continuing traffic-management imbalances.
@@ -175,69 +176,36 @@ Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war s
 
 **Source:** Mint - Pharma  **Date:** 2026-11-12
 
-### [Alice Huang’s China links: Firms related to her promised Nvidia Blackwell chips to DeepSeek despite US ban, report says](https://www.livemint.com/companies/people/alice-huang-s-china-links-firms-related-to-her-promised-nvidia-blackwell-chips-to-deepseek-despite-us-ban-report-says-11794505719511.html)
-Companies linked to Alice Huang have reportedly invested in DeepSeek and promised to supply it with Nvidia's advanced Blackwell processors. The reported arrangement has raised questions about US export restrictions, although it remains unclear whether the chips have been delivered.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Chinese traders stay confident of Nvidia GPU supply despite Jensen Huang scandal as prices ease](https://www.livemint.com/companies/news/chinese-traders-stay-confident-of-nvidia-gpu-supply-despite-jensen-huang-scandal-as-prices-ease-11794503328195.html)
-Nvidia announced that Jensen Huang had resigned as president, chief executive and board member with immediate effect after the board accepted his resignation. The Chinese traders’ calm view of supply, sits against this sudden leadership change at the world’s leading AI chip maker.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [ReNew, CleanMax announce investments totalling  ₹1.3 trillion into data centres, green energy space in Andhra Pradesh](https://www.livemint.com/companies/news/renew-cleanmax-investments-rs-1-3-trillion-data-centres-green-energy-andhra-pradesh-renewable-energy-11794490757000.html)
-ReNew commits ₹80,000 crore for a green data centre and solar component plants, while CleanMax plans ₹50,000 crore in clean energy to power an AI compute hub.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Your Aadhaar Is Being Misused: How Can You Check Authentication History And Protect It?](https://www.ndtvprofit.com/personal-finance/your-aadhaar-is-being-misused-how-can-you-check-authentication-history-and-protect-it-12321560#publisher=newsstand)
-The online facility covers authentication activity from the last six months.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
-### [India's October Trade Deficit Widens To $39.88 Billion](https://www.ndtvprofit.com/economy/indias-october-trade-deficit-widens-to-39-88-billion-12321533#publisher=newsstand)
-India's merchandise exports hit a record $49.47 billion in October, rising 45% year-on-year, but a 16.5% increase in imports pushed the trade deficit beyond expectations to $39.88 billion.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
 ---
 
-## 📉 Analyst & Brokerage Calls (5)
-
-### [Adani Ent Share Price Live Updates: Adani Enterprises Declines Below EMA Threshold](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-13-nov-2026/liveblog/135787308.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-13
+## 📉 Analyst & Brokerage Calls (2)
 
 ### [Meet Omni Bridgeway, the litigation funder eyeing up to a $260 million windfall from Tata Power arbitration award](https://www.livemint.com/companies/news/omni-bridgeway-litigation-funder-tata-power-arbitration-payout-11794546306156.html)
 The Sydney-listed litigation financier bankrolled Kleros Capital’s $6.4 million legal battle against Tata Power—and could walk away with a 40x return if Singapore’s apex court upholds the award.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-13
 
-### [Banco BPM to Review Credit Agricole Bid, Seeks ‘Adequate Value’](https://www.livemint.com/companies/banco-bpm-to-review-credit-agricole-bid-seeks-adequate-value-11794508487552.html)
-Banco BPM SpA said it will review Credit Agricole SA’s proposal to combine their Italian banking operations, and said it will seek “adequate value” for shareholders.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
 ### [Mankind Pharma (NSE:MANKIND) Announces KFin Technologies RTA Corporate Office Relocation: What Shareholders Should Know - Kalkine Media](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc0xINmx4RlBVUnlXSzgybVBqaDV6MUhmVVdWblhyVGJ5YWJxX1NjcXF2Zy1HYXdobEx5R0gxUVEtbEV0QUlEX01JZTNsVlBSZEZkc0VKUWIxbW9kcUo1MndVMWgyUGlreS1hd0xGYmMzWkRrNUh0UjBvUnpaUkQyMEN2ZTROaENNMDRQeG1WTmw5c2ZwOVkyUENnMmE5M1h6TTN3MHByRDRGU21zUW1aV2ZSUlFMa08tREpWZl9Eb0pGSXViWkloZkZQNm5ycFNmeFNxVV84Z2ZhRzBVUGdWRGlaX2FkclFUWkMwV0xCRHF0ZUNX?oc=5)
 Mankind Pharma (NSE:MANKIND) Announces KFin Technologies RTA Corporate Office Relocation: What Shareholders Should Know &nbsp;&nbsp; Kalkine Media
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-13
 
-### [Is The Spy Narrative Falling Apart? US Intelligence Yet To Establish If Alice Huang Spied On Nvidia For China: Report](https://www.ndtvprofit.com/business/is-the-spy-narrative-falling-apart-us-intelligence-yet-to-establish-if-alice-spied-on-nvidia-for-china-12321318#publisher=newsstand)
-Alice Huang's Singapore-based company, Megaspeed, is a major buyer of Nvidia chips.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
 ---
 
-## 📰 Industry & Policy News (29)
+## 📰 Industry & Policy News (22)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's trading day ends with a price of Rs 1876.0](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-13-nov-2026/liveblog/135787400.cms)
+### [Mutlibaggers: 7 stocks held by 100+ MF schemes in October rally up to 300% in FY27](https://economictimes.indiatimes.com/markets/stocks/news/mutlibaggers-7-stocks-held-by-100-mf-schemes-in-october-rally-up-to-300-in-fy27/slideshow/135802136.cms)
+An ETMarkets analysis identified seven stocks held by over 100 mutual fund schemes that have more than doubled in FY27 so far. Sterlite Technologies led with 303% gains, followed by Welspun Corp, Ather Energy and Laurus Labs.
+
 **Source:** Economic Times - Markets  **Date:** 2026-11-13
 
-### [Cipla Share Price Live Updates: Cipla's Current Market Price](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-13-nov-2026/liveblog/135787068.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-13-nov-2026/liveblog/135787400.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-13
 
-### [Divis Labs Share Price Live Updates: Divis Labs Daily Price Change](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-13-nov-2026/liveblog/135787061.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-13-nov-2026/liveblog/135787068.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-13
+
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-13-nov-2026/liveblog/135787061.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-13
 
 ### [NPPA directs monitoring of trade margin rationalisation on 137 anti-cancer drugs](https://www.expresspharma.in/nppa-directs-monitoring-of-trade-margin-rationalisation-on-137-anti-cancer-drugs/)
@@ -245,7 +213,7 @@ State Drug Controllers asked to monitor revised prices and submit action taken r
 
 **Source:** Express Pharma  **Date:** 2026-11-13
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv ends the day at Rs 1858.2](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-13-nov-2026/liveblog/135787160.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-13-nov-2026/liveblog/135787160.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-13
 
 ### [More trouble for Jensen Huang? Third reported affair—involving another Nvidia employee—emerges after CEO’s exit](https://www.livemint.com/companies/people/more-trouble-for-jensen-huang-third-reported-affair-involving-another-nvidia-employee-emerges-after-ceo-s-exit-11794565293548.html)
@@ -288,68 +256,28 @@ A major Microsoft outage disrupted Outlook, Teams, Copilot and Microsoft 365 ser
 
 **Source:** Mint - Pharma  **Date:** 2026-11-13
 
-### [Nvidia next CEO: Who’s Jay Puri? Harvard alumnus Indian-origin techie grad to succeed Jensen Huang? Strongest candidate](https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html)
-Amid the high-stakes leadership shuffle, several names have emerged as frontrunners, including Indian-origin Jay Puri, who is being considered a strong candidate.
+### [NPPA Enforces Price Cap Monitoring on 137 Anti-Cancer Drugs - Pragativadi](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnRQeXRhbzFJOUFQbWhJdWRyMVlHZlNPZ3pVZXBzTngxbDdDNUx4eDJaZ0tPQWRQQ09vSERXZWdjYnI2YUVvT0VtamotZExaYmE0TWotcGstRm5Pb3FTSXN4NHllYXI3dXVOazNzZUdIWjV2QmJDSGlPQVZfZ0Q1NzZPWTNQcXZ3QVpzZA?oc=5)
+NPPA Enforces Price Cap Monitoring on 137 Anti-Cancer Drugs &nbsp;&nbsp; Pragativadi
 
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [‘Extraordinarily difficult period’: Nvidia's new CEO Kress reassures staff after Jensen Huang's exit | Read full email](https://www.livemint.com/companies/people/extraordinarily-difficult-period-nvidias-new-ceo-kress-reassures-staff-after-jensen-huangs-exit-read-full-email-11794504102783.html)
-Nvidia's interim CEO Colette Kress has reassured employees after Jensen Huang's exit, calling it an ‘extraordinarily difficult period’. In her first email, she thanked staff for their resilience, expressed confidence in the company's future and urged them to move forward together.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Jensen Huang resigns: From extramarital affairs to China links, how the Nvidia controversy unfolded | Timeline](https://www.livemint.com/companies/news/jensen-huang-resigns-from-extramarital-affairs-to-china-links-how-the-nvidia-scandal-unfolded-timeline-11794499235145.html)
-The company's official statement doesn't mention the reason for Jensen's resignation. However, under Nvidia's bylaws, Huang can be removed 'with or without cause' by a majority vote of the directors, Reuters reported earlier.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Nvidia turns to CFO Colette Kress to steady ship after Jensen Huang exit](https://www.livemint.com/companies/people/nvidia-turns-to-cfo-colette-kress-to-steady-ship-after-jensen-huang-exit-11794498763925.html)
-In naming Colette Kress as interim CEO, Nvidia is making a classic move for a company in crisis.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Jensen Huang resigns: Meet the Nvidia board members who decided his fate after affair reports](https://www.livemint.com/companies/people/jensen-huang-resigns-meet-the-nvidia-board-members-who-decided-his-fate-after-affair-reports-11794497815725.html)
-The Nvidia Corp. board of directors who met to decide Chief Executive Officer Jensen Huang’s fate ahead of his ouster on Thursday have a range of backgrounds, from running Taco Bell’s international operations to academic research involving a jellyfish.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Who is Harvey C Jones? NVIDIA appoints first-ever board chair as Jensen Huang resigns from board, CEO post](https://www.livemint.com/companies/people/who-is-harvey-c-jones-nvidia-appoints-first-ever-board-chair-as-jensen-huang-resigns-from-board-ceo-post-11794493778070.html)
-NVIDIA appointed longtime board member Harvey C. Jones as its first board chair, while announcing that CEO Jensen Huang would step down and CFO Colette Kress would serve as interim CEO. The company said it would seek a permanent CEO from internal and external candidates.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-12
-
-### [Tata Sons Rejects Noel Tata's Demand For Boardroom Recording, Defends TVS-Hanno Disclosures](https://www.ndtvprofit.com/business/tata-sons-rejects-noel-tatas-demand-for-boardroom-recording-defends-tvs-hanno-disclosures-12321719#publisher=newsstand)
-Tata Sons rejects Noel Tata's request for the September 17 board meeting recording.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
-### [SpiceJet Receives Term Sheet With Investment Proposal Worth Rs 5,000 Crore: Sources](https://www.ndtvprofit.com/markets/spicejet-receives-term-sheet-with-investment-proposal-worth-rs-5-000-crore-sources-12321506#publisher=newsstand)
-SpiceJet had earlier announced that its board meeting is scheduled on November 18 to consider fundraising plan.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
+**Source:** GNews - India Pharma Policy  **Date:** 2026-11-13
 
 ### [Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation - Kalkine Media](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEIzOTZBa1dOanJ2U01pLVJVeWtjeG5pcldyS3NRNERSMnBXTWU0NjZtV1prdmk4dElxNnNHRVpvamozdWdsSnlDdjB2OHEwQXdmZHFfd0ZxTHRvOHRmZVpKRHNndUtoN25lcHlLS2RTa3hRWEY0c2NPQ1VDNHBKVmZXM2Q0eVU0aUpCNkRGM1Z0c0plclJCYTlzUnlFWWZ2d2w0cURwZzd1OFpaTTYyeERaQVUtMzRuRF9iakdYWWJ2UDEtd0FFYVJOTWxUTTRLbmhBTFpMdXVQUm9STjBsN2lhdw?oc=5)
 Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation &nbsp;&nbsp; Kalkine Media
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-13
 
+### [Tata Trustees Hit Back At Darius Khambata Over Tata Sons Listing Dispute](https://www.ndtvprofit.com/business/tata-trustees-hit-back-at-darius-khambata-over-tata-sons-listing-dispute-question-governance-12323904#publisher=newsstand)
+The latest letter has widened divisions within Tata Trusts over Tata Sons' proposed listing.
+
+**Source:** NDTV Profit  **Date:** 2026-11-13
+
 ### [Mankind Pharma RTA to shift corporate office in December 2026 - scanx.trade](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2ItRGFPbThXT1kwNlRMb1BOXzBoMldoVTNvOGVFQUVabEtBRUFudzdLdFBfNHU5LTFjejdwTmxFdGFsY3M1dFpJZGZDRFhZb3ZZU2p3eUVzOXF6bGlLalZFQ2dxaGFFY0N4VW5qWlhkVWdJV3VMdWNnOXZPb25hNkxBSjlKS0JkZHpYN2RnVG5JaWluc2dkNXM1R21BSkFFMzlCTzlUZnhwZ1pvQUFKWVNB?oc=5)
 Mankind Pharma RTA to shift corporate office in December 2026 &nbsp;&nbsp; scanx.trade
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-13
 
-### [Stock Market Highlights: Sensex Falls 318 Points, Nifty 50 Ends Below 25,200; Shriram Fin, Tata Motors PV, Grasim Top Losers](https://www.ndtvprofit.com/markets/stock-market-today-sensex-today-nifty-50-gold-rate-today-silver-price-rupee-nvidia-cpi-inflation-12320402#publisher=newsstand)
-Nifty Smallcap 100 and the Nifty Midcap 100 indices shed 0.2% each.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
-### [Microsoft Shares Outage Update: Working On Multiple Fronts To Alleviate Impact, Address Current Blocker](https://www.ndtvprofit.com/technology/microsoft-shares-outage-update-working-on-multiple-fronts-to-alleviate-impact-address-current-blocker-12321523#publisher=newsstand)
-Outlook, Teams and Copilot were among the affected services, with users unable to open mailboxes and email delivery delayed.
-
-**Source:** NDTV Profit  **Date:** 2026-11-13
-
-### [Investing For 25 Years? NPS, EPF Or Both: What Makes More Sense?](https://www.ndtvprofit.com/personal-finance/investing-for-25-years-nps-epf-or-both-what-makes-more-sense-12321365#publisher=newsstand)
-One can diversify between NPS and EPF to create a healthy investment portfolio.
+### [JLR Slashes Margin Guidance To 2-3%, Bets On 'Core’ Double-Digit Growth In FY28](https://www.ndtvprofit.com/markets/jlr-slashes-margin-guidance-to-2-3-bets-on-core-double-digit-growth-in-fy28-12324126#publisher=newsstand)
+JLR reported an adjusted EBIT margin of 1.1% and free cash outflow of &#163;540 million
 
 **Source:** NDTV Profit  **Date:** 2026-11-13
 
@@ -358,8 +286,8 @@ Markets fall in early trade after 3-day rally; Sensex tumbles 460 points &nbsp;&
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-13
 
-### [Market wrap, Nov 13: Indices snap winning streak; SENSEX falls 319 pts, NIFTY50 ends at 25,144; Shriram Fin top loser - Upstox](https://news.google.com/rss/articles/CBMiggJBVV95cUxPY0p5ZUNCSGRGTWdHY2JTYUluNGVwamFrOE1POHBFWi1YTWF3amNNQUg2UWM1azNkOE5FM1VLcmtETjZXLWU0ZWM3OERicDJHUXFQck5aNmJ2Z0lZRDBYZG1oSjdYM25XenJXbGtUUHJoNHhJZl8tMC15bVo5b21qNklWY2hNVEw5bzNnZXg0TnZ5akIzWEo4emluUDdZUFpKVHNVLWNvX3ZCbXNMdlEzUkZQU3AxYXZVOHFiNUNfUHEyNVp1LW40T1JLLXBjQm9sc3ZMc1FoTTdlUVpKZDhOTkpFeTllNWZDVGZObkNqUXNDRzllR2RyX2FLMnhNYVJVclE?oc=5)
-Market wrap, Nov 13: Indices snap winning streak; SENSEX falls 319 pts, NIFTY50 ends at 25,144; Shriram Fin top loser &nbsp;&nbsp; Upstox
+### [Indian Renewable Energy Stocks Witness Mixed Trading as Sensex Falls 0.4% on November 13 - SolarQuarter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpCdU9GbmY2bHZHTDZRWmVIN090cXNKY1ZFMW1OTnVaM2tBOTZpSWhKYjVNekZrUGJZN0N4OXEyTFZnYVdXNGFsMV8yeGtXdHEyTHNPTXpLaDJuRU44RkhwUlJnMGtHWmRUMGg4UF8xNmlzYy1BMEllUjlQR1V4S0lWRWU0cXNRVV8wSkxhWlRrMUQ3M195UjdUQXlFRXUzeW9GVVZFNHo3cGRWNDJwQVlpcWNYR2h4TDlubC1ycGdNdw?oc=5)
+Indian Renewable Energy Stocks Witness Mixed Trading as Sensex Falls 0.4% on November 13 &nbsp;&nbsp; SolarQuarter
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-13
 
