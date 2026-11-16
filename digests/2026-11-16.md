@@ -1,13 +1,23 @@
 # 🏥 India Pharma Investor Digest — 2026-11-16
 
-> 55 items · 2026-11-16 12:26 UTC
+> 67 items · 2026-11-16 21:40 UTC
 
-## 📊 BSE / NSE Filings (3)
+## 📊 BSE / NSE Filings (6)
 
 ### [Marksans Pharma: Intimation of sad demise of Promoter and Chairman Emeritus of the Company](https://www.bseindia.com/xml-data/corpfiling/AttachLive/22fd65c4-e830-4252-9178-a923709323d1.pdf)
 Category: Company Update | Sub: Demise | BSE Code: 524208
 
 **Source:** BSE Filing  **Date:** 2026-11-15
+
+### [Cipla: Please find enclosed disclosure.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f067bd3-c93d-4a54-b918-4c9309bcec25.pdf)
+Category: Company Update | Sub: General | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-11-16
+
+### [Cipla: Postal Ballot Notice dated 27th October, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/53a8bfef-b296-49e4-aaff-c2cdba26d4d5.pdf)
+Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500087
+
+**Source:** BSE Filing  **Date:** 2026-11-16
 
 ### [Lupin: Notice of Postal Ballot dated November 03, 2026, along with Explanatory Statement.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/6b76afcf-7b75-42cd-8d3f-f0ea8b039d73.pdf)
 Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500257
@@ -19,9 +29,14 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-11-16
 
+### [Parmax Pharma Ltd: Unaudited Financial results for quarter and half year ended 30.09.2026](https://www.bseindia.com/corporates/ann.html?scrip=540359)
+BSE Code: 540359
+
+**Source:** BSE Filing  **Date:** 2026-11-16
+
 ---
 
-## 💰 Results & Financials (5)
+## 💰 Results & Financials (6)
 
 ### [Michigan pension fund drags Intel to court after 29% stock plunge in a day wiped out $140 billion in market value](https://www.livemint.com/companies/news/michigan-pension-fund-drags-intel-to-court-after-29-stock-plunge-in-a-day-wiped-out-140-billion-in-market-value-11794795451046.html)
 Intel shareholders have filed a proposed class action, alleging the company concealed how slowing PC sales and excess inventory would hurt revenue. The suit says Intel disclosed the problems too late, before its stock plunged 28.6% in one day, wiping out about $140 billion in market value.
@@ -33,13 +48,13 @@ The recent market activity indicates a bullish trend, albeit with minor profit b
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [India's Unemployment Rate Dips to 4.9% In October. Women Drove The Improvement](https://www.ndtvprofit.com/economy/indias-unemployment-rate-dips-to-4-9-in-october-women-drove-the-improvement-12333618#publisher=newsstand)
-The participation rate was 55.7%.
+### [License To Thrill: A Brief History Of Every Actors' Tenure As James Bond](https://www.ndtvprofit.com/entertainment/license-to-thrill-a-brief-history-of-every-actors-tenure-as-james-bond-12335602#publisher=newsstand)
+Pattinson will be the first actor to play both the superhero Batman and James Bond.
 
 **Source:** NDTV Profit  **Date:** 2026-11-16
 
-### ['He's Not Very Happy There': Irfan Pathan On Yashasvi Jaiswal's RR Future](https://www.ndtvprofit.com/sports/hes-not-very-happy-there-irfan-pathan-on-yashasvi-jaiswals-rr-future-12333482#publisher=newsstand)
-A possible Jaiswal-Varun Chakaravarthy swap has sparked discussion, with Pathan rating the proposed deal highly and Rayudu backing Jaiswal for LSG captaincy.
+### [Who Will Be Robert Pattinson's Bond Girl? Margaret Qualley Leads Sydney Sweeney and Zendaya in Early Bets](https://www.ndtvprofit.com/entertainment/who-will-be-robert-pattinsons-bond-girl-margaret-qualley-leads-sydney-sweeney-and-zendaya-in-early-bets-12335667#publisher=newsstand)
+From left: Margaret Qualley, Sydney Sweeney and Zendaya
 
 **Source:** NDTV Profit  **Date:** 2026-11-16
 
@@ -48,36 +63,38 @@ Fredun Pharmaceuticals hosts Q2FY27 earnings call on Nov 16 &nbsp;&nbsp; scanx.t
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-16
 
+### [Sensex may rise 16% by December 2027 on earnings recovery: Morgan Stanley - Business Standard](https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnR2LVN1a0RhRVNMd2pNVFpIbTFnWEN0a2wyMVZHTHRwTk5DREVrZFBhbzBOeEh1QlVsWUU5OUhRNTUtMW5QTUVWR0NJcV90M2JSQnpnTy1VN1V0YzcxMGdmNWw2b2ZJbjMtT2FJY2JWNm1QZmplSDRQSHE5YkZIaDdmQUxoLVE0Y1hsdVo4SWVRRlJRdVNEd2c0b0xEM3k1cEhzcjZXZUd0RDlRb1hVUWFVQmhkOXVBVnoyY2M5UUFZbUFlTDUyLXAyQdIB0AFBVV95cUxPNXM4dWZ1ZllRU1lmbXVnak9JR1hERzhLUHAtT3lnM29mb0RjX1dfbXIxN0EtbU5QclZ1bmFLOGxFLVlCekRHNjYyZjRyZHRLSUpVeFNwQ29ERDhOdjFBMDMySFcyc3N2cWVvY05JRTNXRVhSTGNsSXItWFNuWmRpX2NMaWFqcnNjMVlPLTBqcVVwYnVMLWdTME9TeXdJTlR1T1FRTEFhaXFGMFBnNVZ4dWl4VG9fdi1MaktRSFM3QVZTc0d1NnFHaHctNEFxZlY5?oc=5)
+Sensex may rise 16% by December 2027 on earnings recovery: Morgan Stanley &nbsp;&nbsp; Business Standard
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-16
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (5)
+## 🤝 Deals, M&A & Partnerships (4)
 
-### [State Bank of India Share Price Live Updates: Announcement under Regulation 30 (LODR)-Updates on Acquisition](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-16-nov-2026/liveblog/135870828.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-16
+### [IDBI-Fairfax deal | Bank staff unions press RBI to block takeover, announce December 3 strike: What are their concerns?](https://www.livemint.com/companies/news/idbifairfax-deal-bank-employee-unions-press-rbi-to-block-takeover-announce-december-3-strike-what-are-their-concerns-11794846041336.html)
+IDBI Bank employee unions have asked the RBI to advise the government and LIC to suspend the disinvestment process and abandon the proposed transfer of control to a foreign entity.
 
-### [Jensen Huang controversy triggers fresh US push to block advanced AI chip exports to China — Report](https://www.livemint.com/companies/jensen-huang-controversy-triggers-fresh-us-push-to-block-advanced-ai-chip-exports-to-china-report-11794745222099.html)
-Democrats and Republicans are backing bills to curb sensitive chip exports and give Congress greater powers to review and block deals approved by the Trump administration.
+**Source:** Mint - Pharma  **Date:** 2026-11-16
 
-**Source:** Mint - Pharma  **Date:** 2026-11-15
+### [Who is Arun Nambiar? Former X India business head joins Uber Advertising to lead national agency strategy](https://www.livemint.com/companies/people/who-is-arun-nambiar-former-x-india-business-head-joins-uber-advertising-to-lead-national-agency-strategy-11794835905872.html)
+Arun Nambiar, former X India Business Head at Aleph Group, has joined Uber Advertising as Head of Agency, India. He will lead national agency strategy and partnerships. Nambiar previously held advertising and sales roles at X, Twitter, Httpool, Sony Pictures Networks India and Disney.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [BITS Pilani raises  ₹507 crore for endowment fund in 23 months, eyes  ₹939 crore target: Group VC V Ramgopal Rao](https://www.livemint.com/companies/bits-pilani-raises-507-crore-for-endowment-fund-in-23-months-eyes-939-crore-target-group-vc-v-ramgopal-rao-11794834116735.html)
+Annual alumni donations also touched a record ₹82 crore in the financial year 2025-26, registering a 43% increase over the previous year. The amount is nearly 90 times the annual contributions recorded when the Alumni Relations Office was established in FY18.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
 
 ### [Embattled Jensen Huang is discussing comeback as Nvidia CEO amid mounting pressure on board to reinstate him: Report](https://www.livemint.com/companies/people/embattled-jensen-huang-is-discussing-comeback-as-nvidia-ceo-amid-mounting-pressure-on-board-to-reinstate-him-report-11794791966079.html)
 A campaign is reportedly underway to reinstate Jensen Huang as Nvidia CEO days after his resignation amid allegations of extramarital relationships. Tech executives, investors and employees have voiced support, and allies are seeking White House backing.&amp;nbsp;
 
 **Source:** Mint - Pharma  **Date:** 2026-11-16
 
-### [Qualcomm layoffs: Who gets 4 months' salary and extra compensation under reported exit deal?](https://www.livemint.com/companies/news/qualcomm-layoffs-who-gets-4-months-salary-and-extra-compensation-under-reported-exit-deal-11794758015590.html)
-Qualcomm's India layoffs could affect 1,000 employees. Reports suggest affected staff may get up to four months' salary as severance, plus additional payouts.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-15
-
-### [Tom Cruise’s Famous Christmas Cake Isn’t Made Just For Him And Oprah Winfrey Just Found Out The Truth About](https://www.ndtvprofit.com/entertainment/tom-cruise-s-famous-christmas-cake-comes-from-a-bakery-you-can-actually-order-from-12332270#publisher=newsstand)
-The revelation came during a recent episode of The Oprah Podcast.
-
-**Source:** NDTV Profit  **Date:** 2026-11-16
-
 ---
 
-## 💸 Corporate Actions (3)
+## 💸 Corporate Actions (2)
 
 ### [Following Accor split, Treebo targets 3,500-4,000 hotels in five years](https://www.livemint.com/companies/news/accor-split-treebo-target-3500-to-4000-hotels-11794802537569.html)
 The hotel company is doubling down on the ₹1,000-3,000 room-rate segment, where it sees an opportunity to organize a fragmented market through technology and centralized distribution.
@@ -89,24 +106,39 @@ While the company's October rights issue of ₹1,000 crore, of which it has rais
 
 **Source:** Mint - Pharma  **Date:** 2026-11-16
 
-### [Kilitch Drugs (India) Corrects EGM Notice Typographical Error - Multibagg AI](https://news.google.com/rss/articles/CBMirAFBVV95cUxOazhYWVpfaG5Hc2RXb3lZNWg5VXBGTWtacFVSOUZSaXdSQUF3blVyTVNPRHZSNDlOc21BTGJaaUFQRFhVaU1COTdZMEVRN1VMMDhaUWNhbmZZS2tSUlIwZTlfWWt4UUJDYUJwb2FsMGZhZm9iYXcwM2wwNEtiRTZzWHVfR1NkMnVFNWVxWHNCdEtoVXJjRFdmOWNPcFNNaWt0RHowY1FiNnFBSlg1?oc=5)
-Kilitch Drugs (India) Corrects EGM Notice Typographical Error &nbsp;&nbsp; Multibagg AI
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-16
-
 ---
 
-## 🏭 Operations & Approvals (12)
+## 🏭 Operations & Approvals (18)
 
-### [IIFCL tightens loan terms as Yotta's debt tops $1.4 billion](https://www.livemint.com/companies/news/as-yotta-debt-crosses-1-4b-with-new-iifcl-loan-for-noida-dc-lenders-grow-wary-11794711701363.html)
-While Yotta will initially rent out Nvidia’s B300 GPUs, these chips will have to be eventually purchased by Darshan Hiranandani, promoter of Yotta, as per the terms set by IIFCL.
+### [India's investments in US Treasuries jump USD 38.4 bn in Jun-Aug amid FCNR flows](https://economictimes.indiatimes.com/markets/stocks/news/indias-investments-in-us-treasuries-jump-usd-38-4-bn-in-jun-aug-amid-fcnr-flows/articleshow/135888824.cms)
+India's investment in US Treasury securities increased by USD 38.4 billion due to FCNR(B) deposits during three months. The Reserve Bank of India introduced a special facility to encourage these foreign currency deposits. This facility led to significant inflows, improving India's foreign exchange reserves substantially. Experts suggest that investment in US Treasuries may slow down due to the closure of the FCNR(B) window. India's reserves grew to USD 740.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-16
+**Source:** Economic Times - Markets  **Date:** 2026-11-16
 
 ### [Sebi may propose raising FPI beneficial ownership threshold to 25%; plans consultation paper](https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-propose-raising-fpi-beneficial-ownership-threshold-to-25-plans-consultation-paper/articleshow/135883637.cms)
 The Securities and Exchange Board of India (Sebi) is contemplating raising the beneficial ownership stake for foreign portfolio investors from 10 percent to 25 percent. This proposed change aims to simplify compliance and bring India in line with global standards. A consultation paper will be released shortly to collect input from stakeholders on easing regulations.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
+
+### [NCDRC upholds  ₹20 lakh fine on Exporters India for listing explosive substances](https://www.livemint.com/companies/news/ncdrc-upholds-20-lakh-fine-on-exporters-india-for-listing-explosive-substances-11794842574984.html)
+Rejecting the B2B portal’s intermediary defence, the panel ruled that online marketplaces cannot bypass due diligence when hosting regulated and hazardous products.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [Hindustan Zinc’s  ₹80,000-crore expansion: The big bet to double its metal output and ride India’s infrastructure boom](https://www.livemint.com/companies/news/hindustan-zinc-s-rs-80-000-crore-expansion-the-big-bet-to-double-its-metal-output-and-ride-india-s-infrastructure-boom-11794833054778.html)
+The company's board of directors approved the HZL 2.0 Growth Programme, which will increase its existing metal production capacity of 1.1 MTPA by approximately 1 MTPA.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [Sri Lankan firm bags $75 million NTPC contract to set up 57 MW Andaman power plant: All you need to know](https://www.livemint.com/companies/news/sri-lankan-firm-bags-75-million-ntpc-contract-to-set-up-57-mw-andaman-power-plant-all-you-need-to-know-11794833915556.html)
+Sri Lankan firm Lakdhanavi has secured a $75 million contract from India's NTPC to build a 57 MW power plant at Hope Town in Port Blair. The project aims to strengthen the islands' electricity infrastructure, improve energy security through LNG infrastructure and support economic development.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [Amazon loses 40 internet satellites after Boeing-Lockheed’s Vulcan rocket fails- Here’s what happened](https://www.livemint.com/companies/amazon-loses-40-internet-satellites-after-boeing-lockheed-s-vulcan-rocket-fails-here-s-what-happened-11794830130676.html)
+Amazon, meanwhile, acknowledged the risks associated with space launches and expressed confidence in its launch partner.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
 
 ### [What to know about Super Micro Computer as Singapore probes alleged diversion of Nvidia AI servers to China](https://www.livemint.com/companies/news/what-to-know-about-super-micro-computer-as-singapore-probes-alleged-diversion-of-nvidia-ai-servers-to-china-11794827597913.html)
 The case has acquired fresh significance amid growing scrutiny of how restricted Nvidia AI chips continue to reach Chinese entities despite Washington's export restrictions.
@@ -123,49 +155,54 @@ PE-VC funds raised a record $29.5 billion in the first 10 months of 2026, drawin
 
 **Source:** Mint - Pharma  **Date:** 2026-11-16
 
-### [With nine portfolio firms eyeing IPOs, Oister Global launches  ₹600 cr deep-tech fund](https://www.livemint.com/companies/start-ups/oister-global-deep-tech-fund-rs-600-crore-startup-ipo-plans-11794646321044.html)
-Nearly 9 of the 17-18 companies across Oister Global’s three ACE funds, such as Kuku FM, OfBusiness, and Bombay Shaving Company, are looking to list
+### [Biocon Gets U.S. FDA Approval for Pebrilzo™ (pertuzumab-qcay) Injection, a Biosimilar to Perjeta - Business Wire](https://news.google.com/rss/articles/CBMijwJBVV95cUxOT2psNFVUVHdWV2dQb0dFV2oyaDJQMFhXYXRjNndUWTlpQ2ZZQ0NBbEJiaWFSSzZCamc2UTNjUVZycFZ6bGRJaG9udlA3dlNJcGJVZHExcTRLcGU5eEtZM040N2VUejl1SmRtVkd3bUttNTFWOUQ4T0hHOXdlWHozTHJDSEF5SEd0enQ1b005Q0dTQ1lmYzZzcVhodzBaWDdrMk5sdndRbWlmM21xN0hSWkJEUjVUN2IxcEtacnlydDFtMlg3Z19DYU1jUERZSEd6bnJjVGg0ZUswc2RLWEdpTnBzZDRNY3RNalpid3VhZTUxZllRR3NmXzB5MmdUYThIMlJTWEpoRWY3NmFCZjdR?oc=5)
+Biocon Gets U.S. FDA Approval for Pebrilzo™ (pertuzumab-qcay) Injection, a Biosimilar to Perjeta &nbsp;&nbsp; Business Wire
 
-**Source:** Mint - Pharma  **Date:** 2026-11-16
+**Source:** GNews - India Pharma  **Date:** 2026-11-16
 
-### [Jio explores Indian launch partners for satellite constellation; rocket capacity a hurdle](https://www.livemint.com/companies/news/jio-satellites-skyroot-spacex-tariffs-satcom-cosmos-11794737248227.html)
-Jio is exploring domestic partners to launch satellites for a planned broadband constellation, with an initial batch of about 390 and a longer-term goal of 1,600. The effort could boost India’s private space sector, though limited launch capacity and high costs remain hurdles.
+### [NPPA extends knee implant price ceiling till January 2027 amid mark-up row - Business Standard](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzBVNVozemlUVTE0cW9CTjB6WnFzdG9BaUQ5UHBGS3Mzc2lFeW11VE9CNDRvQW1xVFNGY2xtdEhaR0psUEh4UGphS0wxWlhIT09TWUtHektibUtzdDh3ZlF2T0JSemFlRFNBdElaUE9td3VDNXhZMDNKOUlGUDFFVy11MkIzNUcxeWZkSEh0eXRSMVBYYVVrTmw4SkhEWEQyRUczODNCZU9PNG56b3hxLWJTRG9iQWpldFZlb3FfZ1NQSDQyX1NIVl83aTV0ZEk30gHWAUFVX3lxTE9TaVBYbEJ2MzdtSjYyYURXbnFKOXNXYThSVU8xR2FOZ2JxYzJod1BYMFgzVVBNYVB3dzktdG5ZTTh4WkhtZ1pfS2pzU19rZmt1UmZDVC15X3NLYS14eE90dVlWNFVjelo4dHY1bDdyc0ZCYWtqck1QM1k5aVR3OHoyU0pkMG5qcGY4RUZVdl9UUkZ6b1U2Q2NHd19BY2MtdHBBUHJZU0RzWWtORGxOMkVueVZEY0RKeERrMi10OWc1U0lRQVpSY3oxUEd0VEFGMGNqbzI0Tnc?oc=5)
+NPPA extends knee implant price ceiling till January 2027 amid mark-up row &nbsp;&nbsp; Business Standard
 
-**Source:** Mint - Pharma  **Date:** 2026-11-16
-
-### [ULA Vulcan Rocket Launches With Its First Amazon Leo Payload](https://www.livemint.com/companies/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload-11794767538933.html)
-United Launch Alliance launched its Vulcan rocket for the first time in nine months, a long-awaited return for a vehicle plagued by delays and technical mishaps.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-15
-
-### [‘Nvidia needs a dramatic shake-up’: Why Scott Bessent wants an outsider as CEO after Jensen Huang scandal](https://www.livemint.com/companies/news/nvidia-needs-a-dramatic-shake-up-why-scott-bessent-wants-an-outsider-as-ceo-after-jensen-huang-scandal-11794766164762.html)
-Scott Bessent questioned Nvidia’s corporate culture and its alleged role in facilitating the sale of advanced artificial intelligence (AI) chips to Chinese entities through shell companies, including those based in Singapore.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-15
+**Source:** GNews - India Pharma Policy  **Date:** 2026-11-16
 
 ### [Pharma stocks under pressure; Laurus, Sai Life, Divi's slide up to 10% - Business Standard](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMWYxcjFhNGUtRUZoeV9vSjZDc0pQc2pfLUhvZnotS1MzeXJGTEowNjRzTVZpSGcxMDNyVDM0aDFQOFFWZ0NxOWNGdFVLWFdacXJyWHVZR3BIZHBmNk1xSmZtd1hqdzFDS3V2OU5ybE5hdW9hWmtwNEtzLU42dnl6cGpYcWlOVHd6QjZSa015c00wTkRKd1ZMTDVMdFAwbkZoWHRfeURydkg3S0k3a1d2RF9TdXpWemVhTzg5ZXJQdUc3UzMxUjUtVXRteXRpUdIB0wFBVV95cUxPdjBxYzBpT0RGRVFjUFJBNUxDRlA4TWh4bHJWQlpOZm95OUVjWDN2eVprbTdsMnMyakJ6WC1xaTVlSlpPbE41ODUtX3RTblRfM3prNFdRWkg2UEV6VUVlMDlHdW9ndGlESzNXNEY5bnk5dVNJZDd0aEF3NGRRYXphd285VUZibW90T3g4YVR4SUdzTWFNM250cks3NVVXMzhwc1dQUkNLcllSVGZuZ1pIdS1LWUg3Y3dKRlNvcldicTIxakh4RkxtWVpxZHVlcDRlREZv?oc=5)
 Pharma stocks under pressure; Laurus, Sai Life, Divi's slide up to 10% &nbsp;&nbsp; Business Standard
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-16
 
-### [Two Delhi Students Develop Cheap Air Purifiers For Schools, Plan Nationwide Expansion](https://www.ndtvprofit.com/education/two-delhi-students-develop-cheap-air-purifiers-for-schools-plan-nationwide-expansion-12333744#publisher=newsstand)
-Two Delhi Students Develop Cheap Air Purifiers For Schools, Plan Nationwide Expansion
+### [Export Duty On Diesel Raised By Rs 2.5/Litre, ATF By Rs 1.5; Petrol Levy Stays Nil](https://www.ndtvprofit.com/business/export-duty-on-diesel-raised-by-rs-2-5-litre-atf-by-rs-1-5-petrol-levy-stays-nil-12335628#publisher=newsstand)
+The duty on petrol exports remains nil.
 
 **Source:** NDTV Profit  **Date:** 2026-11-16
+
+### ['Confident, Capable, Committed': Anand Mahindra Praises 3 Women Engineers Powering Company's Manufacturing Revolution](https://www.ndtvprofit.com/trending/anand-mahindra-praises-3-women-engineers-powering-companys-manufacturing-revolution-confident-capable-committed-12334964#publisher=newsstand)
+Anand Mahindra praises three women powering manufacturing at Mahindra's Chakan plant in Pune.
+
+**Source:** NDTV Profit  **Date:** 2026-11-16
+
+### [Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn - Business Standard](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmx1WF9OVG5INGRFWWRpNDBjbEhaWGJZcWp4bHBQdkw5cWlPSGRrV3RDRHM3bGt4RDRnX1Q3OThtaDFzV1VNX2FxZzNxMjJjQjFIUGVmZXFuU2JkQjFoUlBIMnkzWDlYUlRiVWw1bWVrT1o5bVRkTTY2b25iQUdPMF9CYkh4OXFzZWRpRlkzWmt6SG4yXzBFMml6bGhyWnQzQjRDZVBUTWZXc1NSS1lCVzZDOGFQM0d0Mk1WWkF3YVlZT1RTOXpvb2pnSVhFOFV4ZzBQLUZ30gHbAUFVX3lxTE5wZm1lLTVacWt4bzRVOTY4VDVPa2U0OTAtbWhxamxXRS02WERkN000b3pqZUZMMHFubGllT0J2ZnIzUk5FWV9tY1gzU2cyeDBsbWlaY1czS3B3NTAwNmY3V3JqQTJYQjN0UWd0S2s2clpEZmdVQm1tNXlVUG9kMm5WT0ZuX3RNSjZrMTFvQUNKUXpsMHpWQ0c2NURBZkU1VkdNSVIyRDZXYndPUkRBOUI1aUVkVHdrb1hPTEJuOTU0SHNYQW5KVU1IdW1rWGNwUXJCRVNoUUR0WDlxOA?oc=5)
+Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn &nbsp;&nbsp; Business Standard
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-16
 
 ### [Geojit analyst bullish on Allied Blenders, 2 pharma stocks; here's why - Business Standard](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYi1jZi1mSFVsd1l3ell6R0taaGstN2dMWkhVQTFQNmZnNmJPUm9sclQ5UzEzQ1ZDMEhhRUJleEFLSTZEOHM0SFJSOUZTWHBUZG9rTE9ZSWFaUXg2WjBwWGNSRnI0TjQ5NXBPUlczY3VFRFdHbE9zR0VNVkItRk1DMzV4c2htNTQ1UEIzTHRHMVBrUHVPV0RpMngzQU9zWEdHN0ItRklxUHJzaEo0S2dyN191dWFucTY0R3VQeXo5S2U0TGpfbzZoRmVkSVRydGc40gHWAUFVX3lxTE9tYWE2WjJxemczenJfOWtfa1NfZHlUd3ZxeHZtMko5SXJUVVR2UFp0SVViaVpwUW94Y1NqTjdTMUhBbHZpYmxDSHhUeEEzWDVmOEJuRlZaTnl5WS1fOFZ5Y3did05KMnRtM3pGRzRyLWNvMTFWaEdOVjY2T2pzMl9CaHRCT1oxU3ozQmkxRi05SHpfV2lfRE9fUkpqM19vaGFPb0NZYU5YYVpPRjhFSHUxUkxoY29VeDJ3ZVg4cnlxeHd4OXY3WFpRTHQ4XzZIYTk0cklHWFE?oc=5)
 Geojit analyst bullish on Allied Blenders, 2 pharma stocks; here's why &nbsp;&nbsp; Business Standard
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-16
 
+### [Sebi sets up expert panel to review IPO, FPO and capital-raising norms - Business Standard](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT2xqRlZ3M0pmekxXeHhYajZXSU91aFhIMGlkaE1aOW9Sdml4XzkzdFhSLXYzbVV4TGpzOEdBb1BLU2hta1p0TXlvdnlLMnZqVW9iamk2OEZrOHFMTFZ3YmF6VWkwcHRfeDNVMnlWNnZhS2hkOXZjWEdydW1sX0JxdERzZkwzQk1IU19CRDhJbzFUdVpDZWdFWG41N0U3TW1PWVZpdzRBa2c5RVVsUWJ2alh3WmljZXcxMERpc3prV25UOHhDcmRDSDVhaGVJSkxORVHSAdcBQVVfeXFMTXVOU21ZSm1VSExnblNQWERwWWFUZTRxZExuNTdqUGJfdUJCSk0wNllCcmNoYUNKMHlrT2xMTjlYMTlwMnhwR2JUQnhLd0YwN1RfemwwS3oyZ1pxaElfQTVLaGJ1RVk1VHdMMFJ4WG03QUF4NTRnVjVlQ0tMb1A1dmtESGRZSXJHS3REOWl5bWNQVmduc2RaQmZERWZWWk9xYVJEWlV5VkNWRmIyaUFpS3J2RWRHamNOdHVGOHIxaU1CQll6QVFRSjNwUThRTmxvZ1NMT0Z3QVE?oc=5)
+Sebi sets up expert panel to review IPO, FPO and capital-raising norms &nbsp;&nbsp; Business Standard
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-16
+
+### [Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips - Business Standard](https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5)
+Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips &nbsp;&nbsp; Business Standard
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-16
+
 ---
 
-## 📉 Analyst & Brokerage Calls (6)
-
-### [AI makes 2 Indian-origin founders world’s youngest self-made billionaires worth  ₹40,000 crore each, beats Zuckerberg](https://www.livemint.com/companies/ai-makes-2-indian-origin-founders-world-s-youngest-self-made-billionaires-worth-40-000-crore-each-beats-zuckerberg-11794748301344.html)
-AI startup Mercor's three co-founders- Hiremath, chief technology officer; Midha, board chairman; and Brendan Foody, chief executive officer, hold 21% stakes in the company individually. Here's everything about them.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-15
+## 📉 Analyst & Brokerage Calls (5)
 
 ### [Amid ‘bring back Jensen Huang’ chorus, a look at CEOs who made dramatic returns to firms they were ousted from | List](https://www.livemint.com/companies/people/amid-bring-back-jensen-huang-chorus-a-look-at-ceos-who-made-dramatic-returns-to-firms-they-were-ousted-from-list-11794812861454.html)
 Jensen Huang may seek to return as Nvidia CEO, according to reports, with influential allies and shareholders supporting the possibility. His potential comeback will mirror those of Steve Jobs at Apple, Sam Altman at OpenAI and Jack Dorsey at Twitter.
@@ -182,10 +219,10 @@ Anthropic’s planned IPO has become a major test for the AI industry, with tech
 
 **Source:** Mint - Pharma  **Date:** 2026-11-16
 
-### [‘The kitchen is at the heart of every household’: Why Ajinkya Rahane invested in cookware brand Ember](https://www.livemint.com/companies/news/the-kitchen-is-at-the-heart-of-every-household-why-ajinkya-rahane-invested-in-cookware-brand-ember-11794762992860.html)
-The investment marks Rahane's latest foray into India's startup ecosystem, adding another consumer-focused business to his investment portfolio.
+### [Can You Transfer Your Mutual Funds To Your Spouse Without Selling Them? 8 Points To Know](https://www.ndtvprofit.com/personal-finance/can-you-transfer-your-mutual-funds-to-your-spouse-without-selling-them-12334271#publisher=newsstand)
+A mutual fund investment can be transferred to your spouse as a gift.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-15
+**Source:** NDTV Profit  **Date:** 2026-11-16
 
 ### [Under Rs 1962 Stocks to Buy in Nov 2026: Top 5 Picks - Univest](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZLVhBOGE4QWtvQjFyMmxaa3dYWFFib0U4MmhTQTlnS0lDalY5V1UybkJuWmNuOUxFaWl2bmJkXzJTMmFMRGhNS1ZqbHN0X0F5U2ZKNWpyWk9JM1ZvOW9OdERR?oc=5)
 Under Rs 1962 Stocks to Buy in Nov 2026: Top 5 Picks &nbsp;&nbsp; Univest
@@ -194,41 +231,65 @@ Under Rs 1962 Stocks to Buy in Nov 2026: Top 5 Picks &nbsp;&nbsp; Univest
 
 ---
 
-## 📰 Industry & Policy News (21)
+## 📰 Industry & Policy News (26)
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma's stock closes at Rs 1864.5](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-16-nov-2026/liveblog/135871948.cms)
+### [Sebi sets up sub-group under PMAC to review key IPO norms; NSE's Chauhan to head panel](https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-sub-group-under-pmac-to-review-key-ipo-norms-nses-chauhan-to-head-panel/articleshow/135890467.cms)
+Sebi has established a sub-group within its Primary Market Advisory Committee aimed at reassessing regulations related to IPOs and fundraising. The initiative seeks to streamline compliance requirements to foster easier access to capital markets. Key focal points include promoter capital lock-in terms, pricing strategies, and due diligence obligations. The group will evaluate relevant Sebi circulars for potential modifications, with final recommendations to be presented to the PMAC for review.
+
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [Dr Reddys Share Price Live Updates: Dr. Reddy's Laboratories reports a closing price of Rs 1374.9](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-16-nov-2026/liveblog/135871006.cms)
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-16-nov-2026/liveblog/135871948.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [Divis Labs Share Price Live Updates: Divis Labs reports a closing price of Rs 11059.0](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-16-nov-2026/liveblog/135870965.cms)
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-updates-16-nov-2026/liveblog/135871006.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [Apollo Hospital Share Price Live Updates: Market Performance of Apollo Hospital](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-16-nov-2026/liveblog/135870808.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-16-nov-2026/liveblog/135870965.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [Cipla Share Price Live Updates: Cipla Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-16-nov-2026/liveblog/135870697.cms)
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-16-nov-2026/liveblog/135870808.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [TVS dispute takes legal turn: Lakshmi Venu sends partition notice to father Venu Srinivasan](https://www.livemint.com/companies/tvs-dispute-takes-legal-turn-lakshmi-venu-sends-partition-notice-to-father-venu-srinivasan-11794821921142.html)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-16-nov-2026/liveblog/135870697.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-16
+
+### [TVS family feud takes legal turn as Lakshmi stakes her claim](https://www.livemint.com/companies/tvs-dispute-takes-legal-turn-lakshmi-venu-sends-partition-notice-to-father-venu-srinivasan-11794821921142.html)
 The dispute within the TVS family is moving toward court after Lakshmi Venu sent her father a legal notice seeking a fair share of family assets. She says no division of her immediate family’s property was completed and alleges her brother Sudarshan received preferential treatment.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [Retain capital gains tax on equities, economists tell FM Sitharaman ahead of Budget 2027-28](https://economictimes.indiatimes.com/markets/stocks/news/retain-capital-gains-tax-on-equities-economists-tell-fm-sitharaman-ahead-of-budget-2027-28/articleshow/135890410.cms)
+Economists recently met with Finance Minister Nirmala Sitharaman to discuss the upcoming Union Budget for 2027-28. They recommended keeping the capital gains tax on equities, opposing industry requests for its abolition. Meeting discussions highlighted the economic improvements and private investment growth, emphasizing the importance of fiscal prudence. Additionally, they suggested boosting the MSME and labor-intensive sectors for employment opportunities.
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-16
+
+### [Sebi forms panel to simplify capital-raising rules](https://economictimes.indiatimes.com/markets/stocks/news/sebi-forms-panel-to-simplify-capital-raising-rules/articleshow/135889803.cms)
+India's markets regulator has established a 10-member panel to review regulations concerning capital raising by companies. The panel, chaired by Ashish Chauhan of NSE, includes executives from various financial institutions. It will assess eligibility criteria, lock-in periods, and rules for securities allocation and allotment. Furthermore, the group will examine disclosure requirements for initial public offerings and follow-on offers. This initiative aims to simplify regulations and enhance ac
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-16
 
 ### [PNB among 4 stocks hitting 52-week highs; stock rallies up to 24% in a month](https://economictimes.indiatimes.com/markets/stocks/news/pnb-among-4-stocks-hitting-52-week-highs-stock-rallies-up-to-24-in-a-month/slideshow/135888569.cms)
 Four BSE 100 stocks, including PNB, Eternal, Federal Bank and Kotak Mahindra Bank, touched fresh 52-week highs. Here's how much these stocks have gained over the past month.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [Coal India Share Price Live Updates: Coal India's 3rd big windfall in a year? How Mahanadi Coalfields IPO could unlock Rs 8,964 crore](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135871357.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870849.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-16
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Recent Performance Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870849.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-16
+### [L3Harris Finds Itself Back in the Spotlight After ATC Meltdown](https://www.livemint.com/companies/l3harris-finds-itself-back-in-the-spotlight-after-atc-meltdown-11794853869122.html)
+L3Harris Technologies Inc. faces renewed scrutiny after US officials said the company may have been at fault for a nationwide grounding of all flights Friday evening, the latest corporate drama to befall the defense giant in recent months.
 
-### [Power Grid Share Price Live Updates: Power Grid shares finish at Rs 261.35](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-live-updates-16-nov-2026/liveblog/135870833.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-16
+**Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [Jensen Huang’s return bid hits wall: US Treasury chief Scott Bessent pushes Nvidia board to hire outsider CEO](https://www.livemint.com/companies/news/jensen-huang-s-return-bid-hits-wall-us-treasury-chief-scott-bessent-pushes-nvidia-board-to-hire-outsider-ceo-11794835225807.html)
+US Treasury Secretary Scott Bessent has called for a ‘dramatic’ leadership change at the chipmaker, urging its board to look outside the company for a successor.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
+
+### [Elon Musk, Tim Sweeney want Jensen Huang back at Nvidia as CEO: Who else is backing his return? Full list](https://www.livemint.com/companies/news/elon-musk-tim-sweeney-want-jensen-huang-back-at-nvidia-as-ceo-who-else-is-backing-his-return-full-list-11794829006898.html)
+Elon Musk, Tim Sweeney, Garry Tan and several major investors are backing Jensen Huang's possible return as Nvidia CEO. An online campaign has gathered over 158,000 signatures as the company faces a leadership crisis.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-16
 
 ### [Who is Madison Huang? Why Jensen Huang’s daughter is in spotlight at Nvidia amid CEO succession speculation](https://www.livemint.com/companies/people/who-is-madison-huang-why-jensen-huang-s-daughter-is-in-spotlight-at-nvidia-amid-ceo-succession-speculation-11794826174350.html)
 Madison Huang, daughter of Nvidia co-founder Jensen Huang, is attracting attention amid the company's leadership transition. From training as a chef and working in luxury marketing to leading physical AI product marketing at Nvidia, could her growing role put her in spotlight amid succession debate?
@@ -255,33 +316,38 @@ Dr Simta Jadhav, VP, Raay Neopharma, highlights how AI, formulation-led research
 
 **Source:** Express Pharma  **Date:** 2026-11-16
 
+### [Cipla says DRI conducts search at Mumbai office, Bhiwandi depot over imported drug - CNBC TV18](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0dRU3I4Q01tR1UwSzlWdGtreEtDS3BKTmk0WGpUYUYtMlZHRGx5ZDl0ZmVIMUFQeEp6RzhocVo4YXBpeTRNVGRHOVFSME56MWxQMk9hcGFLOEhSVy1JRXN6TVh0TlpPOEdjRkJmZV9KNTZIa1pQdHlQSmlKNk50M0tBdjZNYlRZZFV5b2poY1JDSHRaMllYZml2OGNQWnIwbUY2bDNMRU5QMVJRR3FCamxNMXN0dWNQcDgyOW5JOTR3R0tsRXVIcjhXN0tiQlpCaEhYeWNiajJzeE9rSlHSAeMBQVVfeXFMTjZibDg1dlVsdS1fVEFfV2pSbUJnNEd5ZEZ6ZzFUQXFVc0NEMktmZEFEVE5EaXU4VVppOVZ2U25SYlJ2Q3F3eXY4cmhJY1dEVGdMaVZZYVFCNXV6RTJRRXpVRzIzQjhHaDJiM2hmbWhDbmN3Ql9FZFJPemVaOC1jdDM0N2pKYXRpbzBiTk56dm4yb19QUk9ka3c0Qm5pQlI2Sl90U2FwaGdJbjVwNTlrSl9RVTBiZzlNeXNWZjlJOWxiMDdZcDNJWTFrNjVJZnJqOWtGSUtHcURkZU5wV2RBMDB2UnM?oc=5)
+Cipla says DRI conducts search at Mumbai office, Bhiwandi depot over imported drug &nbsp;&nbsp; CNBC TV18
+
+**Source:** GNews - Cipla  **Date:** 2026-11-16
+
+### [Stocks To Watch Today: Tech Mahindra, BSE, Capri Global, Karnataka Bank And Pace Digitek](https://www.ndtvprofit.com/markets/stocks-to-watch-today-tech-mahindra-bse-capri-global-karnataka-bank-and-pace-digitek-12335702#publisher=newsstand)
+Here are the notable corporate announcements that came after Monday's market hours.
+
+**Source:** NDTV Profit  **Date:** 2026-11-16
+
+### [Nvidia Board Shuts The Door On Jensen Huang's Return As CEO: Report](https://www.ndtvprofit.com/business/nvidia-board-shuts-the-door-on-jensen-huangs-return-as-ceo-report-12335668#publisher=newsstand)
+Huang resigned last week as Nvidia's president, CEO and board member after 33 years at the helm of the company he co-founded.
+
+**Source:** NDTV Profit  **Date:** 2026-11-16
+
+### [Meganet IPO: Indian AI Infra Player, With Nvidia And AMD As Sourcing Partners, Eyes Rs 740 Crore](https://www.ndtvprofit.com/markets/meganet-ipo-indian-ai-infra-player-with-nvidia-and-amd-as-sourcing-partners-eyes-rs-740-crore-in-d-street-debut-12335363#publisher=newsstand)
+Meganet is seeking to tap India's expanding AI and data centre market.
+
+**Source:** NDTV Profit  **Date:** 2026-11-16
+
 ### [Germany vs Netherlands Live Streaming: When And Where To Watch UEFA Nations League Match On TV, Online?](https://www.ndtvprofit.com/sports/germany-vs-netherlands-live-streaming-when-and-where-to-watch-uefa-nations-league-match-on-tv-online-12331033#publisher=newsstand)
 Germany will host Group A2 leaders Netherlands in their final league-phase fixture of the 2026-27 UEFA Nations League campaign.
 
 **Source:** NDTV Profit  **Date:** 2026-11-16
 
-### [Punjabi Woman Celebrates Chhath Puja In UK With Bihari Family, Wins Hearts Online](https://www.ndtvprofit.com/trending/punjabi-woman-celebrates-chhath-puja-in-uk-with-bihari-family-wins-hearts-online-12333589#publisher=newsstand)
-An Indian woman living in the UK shared a glimpse of last year's Chhath Puja celebrations, saying preparations are underway to observe the festival again this year.
+### [Orchid Pharma pays ₹2,000 fine to NSE and BSE for annual report delay - scanx.trade](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2hab3dPR0lMajUtS1d2cnlrWHI1bjRrOVVyZWw3VnlNUk1jcGYxeGhBTEdZWTN4d3M2U1lrcUMtanFQQmZmX0NVSFZJN3N6cTZOYlhRa2g0TlZ2WGEyZ3ZTLVBQNVRyaFRHYnhlbU9qTEZYRHhDZTVjNFpNaldsLVZHOENaS2dWSjBtMW56OGNYV1FEbWJ1Wk5TUk03d1dTdk9kX000d203RTNPWmlEd20tajU?oc=5)
+Orchid Pharma pays ₹2,000 fine to NSE and BSE for annual report delay &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-11-16
+**Source:** GNews - India Pharma  **Date:** 2026-11-16
 
-### [US Universities Top Indian Students' List Of Go-To Destinations To Pursue Higher Education](https://www.ndtvprofit.com/education/us-universities-top-indian-students-list-of-go-to-destinations-to-pursue-higher-education-12333644#publisher=newsstand)
-Despite rising education costs and students visa uncertainty, American universities attract Indian students because of their research facilities.
-
-**Source:** NDTV Profit  **Date:** 2026-11-16
-
-### [Solving Modern Isolation: The Rise Of Community-First Co-Living In Tech Capitals](https://www.ndtvprofit.com/business/solving-modern-isolation-the-rise-of-community-first-co-living-in-tech-capitals-12333476#publisher=newsstand)
-Rather than confining residents to isolated private rooms, Colive properties feature expansive communal areas, including gaming zones, cozy lounge rooms, open-air terraces, and collaborative co-working hubs.
-
-**Source:** NDTV Profit  **Date:** 2026-11-16
-
-### [Zuckerberg Can't Be Fired? Why Jensen Huang's Nvidia Exit Puts Spotlight On Meta's New Stock Plan](https://www.ndtvprofit.com/business/zuckerberg-cant-be-fired-why-jensen-huangs-nvidia-exit-puts-spotlight-on-metas-new-stock-plan-12333377#publisher=newsstand)
-Meta's Mark Zuckerberg may not step down as easily as his peer Jensen Huang did.
-
-**Source:** NDTV Profit  **Date:** 2026-11-16
-
-### [Coal India's Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share | Check GMP, issue details, key dates - Livemint](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWldnZTBsSm03cTdELXV3U1NEb1NyRnRxTDhocUR4UWZTSG5la0ZlQlZTTTlaUkhCcnEzR1Ewd2xDb0VaYUxQZGNlclFHYVczbEg1WjR5TzBKeS1pRlF1TXd4X0ZLcEk5bTRuVzR1Q3JrSzR5LV85emxqdURMU1l3T1lfSUVwOUs0ZC1oVlJMa1NTX2RLR3ZyVnFmT3pNdXRjNTNiTGdzRlZlS1JSUFBnWXRwSFRQcERLR2RzVm5fRW1BdVo4TmdMemNfWjdvcDBHY1NmSDB0LTRzQnF3ajBsMlBNRXlDRGtYSEg0S2Itb0l2cUpydjlrZWZVUdIBgAJBVV95cUxPNTg4TWc4U3BjR2VTU2xBd1hTY0hla2hYSXZFcTNpSC1LWllRUWM2NW1PSG5WY25xaEhjSG1RdmJSTVhmSUtaekU4b1BFbENmT3dIMTh1RGtkVWxJOUZvR3dzQzZONUF5VmpoYi1JYTJpcnFIWWZNaW5iUUZvbjRuZ0lWZEstblJBUUluZ2dWcEc2NG5qRjlCRGdFUy1hN0lVMXkzUXNKaGdkdnh6OXE4VHUwYTdGMHRocjZXR0h3S0VyTjR5bmQxX095ZkRJUlZBemdLcTVOTnFtaVJ1YkNqLS1UQWhxX3phMDF2UGF4LWlJYU1wVklNVzlfWGVCc1V6?oc=5)
-Coal India's Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share | Check GMP, issue details, key dates &nbsp;&nbsp; Livemint
+### [Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets - INDIA New England News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGRLWUtGWVVyMW1pVkwyVU9YaXR1a28yZ1JTcXAwTDNxcVAwb1c1X3NFMExTSVk5enhwdkZIb05hYlZ0eFktLU5hMmRBYk8wS0dDQjVxZlkxM3VqY01VcDZORDIxaThPcWdpaDNaYmdqdXV1dkt4YUNtYzh2SkhkWTE5LUVKejIwaTUtRWxXX1ptZml4X0dKTHJxVGNLQ0VDdDFkRmZR?oc=5)
+Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets &nbsp;&nbsp; INDIA New England News
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-16
 
