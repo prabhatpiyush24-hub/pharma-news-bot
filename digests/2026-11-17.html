@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Pharma Digest — 2026-11-17</title>
+<style>
+  :root{--bg:#f0f4f8;--surface:#fff;--border:#dde3ea;--primary:#1a3a5c;
+        --accent:#1565c0;--muted:#607d8b;--green:#1a7a4a;--red:#c0392b;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+       background:var(--bg);color:#1a1a2e;line-height:1.6;}
+
+  /* Header */
+  header{background:var(--primary);color:#fff;padding:1.2rem 2rem;
+          display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.8rem;}
+  header h1{font-size:1.4rem;font-weight:700;}
+  header .meta{font-size:.82rem;opacity:.8;}
+
+  /* Tabs */
+  .tabs{background:#122740;padding:0 1rem;overflow-x:auto;display:flex;
+         scrollbar-width:none;border-top:1px solid rgba(255,255,255,.08);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{background:none;border:none;color:rgba(255,255,255,.65);
+            padding:.65rem 1rem;font-size:.8rem;cursor:pointer;white-space:nowrap;
+            border-bottom:3px solid transparent;transition:all .18s;}
+  .tab-btn:hover{color:#fff;background:rgba(255,255,255,.06);}
+  .tab-btn.active{color:#fff;border-bottom-color:#64b5f6;font-weight:600;}
+
+  /* Layout */
+  .container{max-width:1400px;margin:0 auto;padding:1.5rem 1rem;}
+  .section{margin-bottom:2rem;}
+  h2{font-size:1.1rem;font-weight:700;color:var(--primary);
+      border-left:4px solid var(--accent);padding-left:.75rem;
+      margin-bottom:.9rem;display:flex;align-items:center;gap:.5rem;}
+  .count{background:var(--accent);color:#fff;border-radius:99px;
+          font-size:.7rem;padding:.1rem .45rem;}
+  .note{font-size:.8rem;color:var(--muted);margin-bottom:.75rem;}
+  .legend{font-size:.78rem;font-weight:600;}
+  .green-leg{color:var(--green);}
+  .red-leg  {color:var(--red);}
+
+  /* Stock table */
+  .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);}
+  .stock-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .stock-table th{background:var(--primary);color:#fff;padding:.6rem .75rem;
+                   text-align:left;white-space:nowrap;font-weight:600;}
+  .stock-table td{padding:.5rem .75rem;border-bottom:1px solid var(--border);
+                   white-space:nowrap;}
+  .stock-table tbody tr:last-child td{border-bottom:none;}
+  .stock-table tbody tr:hover td{background:#f0f6ff;}
+  .stock-table tr.near-high td{background:#e8f5e9;}
+  .stock-table tr.near-low  td{background:#fdecea;}
+  .co-name{max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .num{text-align:right;font-variant-numeric:tabular-nums;font-family:'SF Mono',Consolas,monospace;}
+
+  /* News cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.85rem;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:9px;
+         padding:.95rem;display:flex;flex-direction:column;gap:.4rem;
+         transition:box-shadow .15s;}
+  .card:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);}
+  .card-title{font-weight:600;color:var(--accent);text-decoration:none;
+               font-size:.88rem;line-height:1.45;}
+  .card-title:hover{text-decoration:underline;}
+  .card-summary{font-size:.8rem;color:#444;line-height:1.5;}
+  .card-meta{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap;margin-top:.15rem;}
+  .badge{color:#fff;font-size:.7rem;padding:.12rem .45rem;border-radius:4px;font-weight:500;}
+  .date{font-size:.7rem;color:var(--muted);}
+
+  footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.78rem;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🏥 India Pharma Investor Digest</h1>
+    <div class="meta">NSE · BSE · News · Filings</div>
+  </div>
+  <div class="meta">2026-11-17 &nbsp;·&nbsp; 34 stocks &nbsp;·&nbsp; 72 news items</div>
+</header>
+<nav class="tabs" id="tabNav"><button class="tab-btn" onclick="showTab('tab_stocks')" id="btn-tab_stocks">📈 Stocks (34)</button><button class="tab-btn" onclick="showTab('tab___BSE___NSE_Filings')" id="btn-tab___BSE___NSE_Filings">📊 BSE / NSE Filings (7)</button><button class="tab-btn" onclick="showTab('tab___Results___Financials')" id="btn-tab___Results___Financials">💰 Results & Financials (15)</button><button class="tab-btn" onclick="showTab('tab___Deals__M_A___Partnerships')" id="btn-tab___Deals__M_A___Partnerships">🤝 Deals, M&A & Partnerships (6)</button><button class="tab-btn" onclick="showTab('tab___Operations___Approvals')" id="btn-tab___Operations___Approvals">🏭 Operations & Approvals (11)</button><button class="tab-btn" onclick="showTab('tab___Analyst___Brokerage_Calls')" id="btn-tab___Analyst___Brokerage_Calls">📉 Analyst & Brokerage Calls (3)</button><button class="tab-btn" onclick="showTab('tab___Industry___Policy_News')" id="btn-tab___Industry___Policy_News">📰 Industry & Policy News (30)</button></nav>
+<div class="container">
+  
+    <div class="section" id="tab_stocks">
+      <h2>📈 Indian Pharma — NSE Stock Prices <span class="count">34</span></h2>
+      <p class="note">
+        Prices in ₹ (INR) &nbsp;·&nbsp; Source: Yahoo Finance / NSE &nbsp;·&nbsp; As of 2026-11-17
+        &nbsp;&nbsp;
+        <span class="legend green-leg">■ Near 52W High</span>
+        &nbsp;
+        <span class="legend red-leg">■ Near 52W Low</span>
+      </p>
+      <div class="table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Company</th>
+              <th class="num">Price (₹)</th>
+              <th class="num">Change %</th>
+              <th class="num">Change (₹)</th>
+              <th class="num">Prev Close</th>
+              <th class="num">Day High</th>
+              <th class="num">Day Low</th>
+              <th class="num">52W High</th>
+              <th class="num">52W Low</th>
+              <th class="num">Mkt Cap</th>
+            </tr>
+          </thead>
+          <tbody>
+        <tr class="">
+          <td><strong>LAURUSLABS</strong></td>
+          <td class="co-name">Laurus Labs</td>
+          <td class="num"><strong>₹2,338.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +5.32%</td>
+          <td class="num" style="color:#1a7a4a">+₹118.00</td>
+          <td class="num">₹2,220.00</td>
+          <td class="num">₹2,348.80</td>
+          <td class="num">₹2,214.80</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.3L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SOLARA</strong></td>
+          <td class="co-name">Solara Active Pharma</td>
+          <td class="num"><strong>₹666.30</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +5.25%</td>
+          <td class="num" style="color:#1a7a4a">+₹33.25</td>
+          <td class="num">₹633.05</td>
+          <td class="num">₹673.00</td>
+          <td class="num">₹633.95</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹3.2K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>CAPLIPOINT</strong></td>
+          <td class="co-name">Caplin Point Laboratories</td>
+          <td class="num"><strong>₹2,247.10</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -4.25%</td>
+          <td class="num" style="color:#c0392b">₹-99.70</td>
+          <td class="num">₹2,346.80</td>
+          <td class="num">₹2,387.50</td>
+          <td class="num">₹2,202.60</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹17.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GLAND</strong></td>
+          <td class="co-name">Gland Pharma</td>
+          <td class="num"><strong>₹3,248.40</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -4.18%</td>
+          <td class="num" style="color:#c0392b">₹-141.60</td>
+          <td class="num">₹3,390.00</td>
+          <td class="num">₹3,395.90</td>
+          <td class="num">₹3,222.40</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹53.6K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ERIS</strong></td>
+          <td class="co-name">Eris Lifesciences</td>
+          <td class="num"><strong>₹1,361.30</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +3.28%</td>
+          <td class="num" style="color:#1a7a4a">+₹43.20</td>
+          <td class="num">₹1,318.10</td>
+          <td class="num">₹1,371.20</td>
+          <td class="num">₹1,300.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹18.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>MAXHEALTH</strong></td>
+          <td class="co-name">Max Healthcare</td>
+          <td class="num"><strong>₹1,030.90</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +2.08%</td>
+          <td class="num" style="color:#1a7a4a">+₹21.00</td>
+          <td class="num">₹1,009.90</td>
+          <td class="num">₹1,039.00</td>
+          <td class="num">₹1,013.45</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.0L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GRANULES</strong></td>
+          <td class="co-name">Granules India</td>
+          <td class="num"><strong>₹815.50</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +2.07%</td>
+          <td class="num" style="color:#1a7a4a">+₹16.55</td>
+          <td class="num">₹798.95</td>
+          <td class="num">₹824.50</td>
+          <td class="num">₹793.30</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹22.2K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SANOFI</strong></td>
+          <td class="co-name">Sanofi India</td>
+          <td class="num"><strong>₹3,223.90</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.77%</td>
+          <td class="num" style="color:#c0392b">₹-58.00</td>
+          <td class="num">₹3,281.90</td>
+          <td class="num">₹3,281.90</td>
+          <td class="num">₹3,215.90</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹7.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>IPCALAB</strong></td>
+          <td class="co-name">IPCA Laboratories</td>
+          <td class="num"><strong>₹1,834.40</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.67%</td>
+          <td class="num" style="color:#c0392b">₹-31.10</td>
+          <td class="num">₹1,865.50</td>
+          <td class="num">₹1,880.50</td>
+          <td class="num">₹1,822.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹46.5K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>LALPATHLAB</strong></td>
+          <td class="co-name">Dr. Lal PathLabs</td>
+          <td class="num"><strong>₹1,980.20</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.53%</td>
+          <td class="num" style="color:#c0392b">₹-30.80</td>
+          <td class="num">₹2,011.00</td>
+          <td class="num">₹2,015.50</td>
+          <td class="num">₹1,971.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹33.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>AJANTPHARM</strong></td>
+          <td class="co-name">Ajanta Pharma</td>
+          <td class="num"><strong>₹3,312.50</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.43%</td>
+          <td class="num" style="color:#c0392b">₹-48.10</td>
+          <td class="num">₹3,360.60</td>
+          <td class="num">₹3,384.20</td>
+          <td class="num">₹3,304.90</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹41.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>LUPIN</strong></td>
+          <td class="co-name">Lupin</td>
+          <td class="num"><strong>₹1,950.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.35%</td>
+          <td class="num" style="color:#c0392b">₹-26.70</td>
+          <td class="num">₹1,976.70</td>
+          <td class="num">₹1,984.80</td>
+          <td class="num">₹1,947.40</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹89.2K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>METROPOLIS</strong></td>
+          <td class="co-name">Metropolis Healthcare</td>
+          <td class="num"><strong>₹567.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.25%</td>
+          <td class="num" style="color:#c0392b">₹-7.15</td>
+          <td class="num">₹574.15</td>
+          <td class="num">₹576.45</td>
+          <td class="num">₹566.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹11.8K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GLAXO</strong></td>
+          <td class="co-name">GSK Pharma India</td>
+          <td class="num"><strong>₹2,687.60</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +1.23%</td>
+          <td class="num" style="color:#1a7a4a">+₹32.60</td>
+          <td class="num">₹2,655.00</td>
+          <td class="num">₹2,721.80</td>
+          <td class="num">₹2,663.70</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹45.5K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>MARKSANS</strong></td>
+          <td class="co-name">Marksans Pharma</td>
+          <td class="num"><strong>₹306.10</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -1.21%</td>
+          <td class="num" style="color:#c0392b">₹-3.75</td>
+          <td class="num">₹309.85</td>
+          <td class="num">₹309.20</td>
+          <td class="num">₹302.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹13.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ZYDUSLIFE</strong></td>
+          <td class="co-name">Zydus Lifesciences</td>
+          <td class="num"><strong>₹1,204.20</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +1.02%</td>
+          <td class="num" style="color:#1a7a4a">+₹12.20</td>
+          <td class="num">₹1,192.00</td>
+          <td class="num">₹1,213.00</td>
+          <td class="num">₹1,194.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.2L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>INDOCO</strong></td>
+          <td class="co-name">Indoco Remedies</td>
+          <td class="num"><strong>₹224.98</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.95%</td>
+          <td class="num" style="color:#c0392b">₹-2.16</td>
+          <td class="num">₹227.14</td>
+          <td class="num">₹227.55</td>
+          <td class="num">₹224.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹2.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>FDC</strong></td>
+          <td class="co-name">FDC Limited</td>
+          <td class="num"><strong>₹375.90</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.92%</td>
+          <td class="num" style="color:#c0392b">₹-3.50</td>
+          <td class="num">₹379.40</td>
+          <td class="num">₹380.00</td>
+          <td class="num">₹375.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹6.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>BIOCON</strong></td>
+          <td class="co-name">Biocon</td>
+          <td class="num"><strong>₹359.40</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.77%</td>
+          <td class="num" style="color:#c0392b">₹-2.80</td>
+          <td class="num">₹362.20</td>
+          <td class="num">₹363.15</td>
+          <td class="num">₹358.40</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹58.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ALKEM</strong></td>
+          <td class="co-name">Alkem Laboratories</td>
+          <td class="num"><strong>₹5,175.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.76%</td>
+          <td class="num" style="color:#1a7a4a">+₹39.00</td>
+          <td class="num">₹5,136.00</td>
+          <td class="num">₹5,259.00</td>
+          <td class="num">₹5,144.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹61.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>DRREDDY</strong></td>
+          <td class="co-name">Dr. Reddy's Laboratories</td>
+          <td class="num"><strong>₹1,388.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.73%</td>
+          <td class="num" style="color:#1a7a4a">+₹10.10</td>
+          <td class="num">₹1,377.90</td>
+          <td class="num">₹1,388.90</td>
+          <td class="num">₹1,368.70</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.2L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>NATCOPHARM</strong></td>
+          <td class="co-name">Natco Pharma</td>
+          <td class="num"><strong>₹822.90</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.69%</td>
+          <td class="num" style="color:#c0392b">₹-5.75</td>
+          <td class="num">₹828.65</td>
+          <td class="num">₹842.95</td>
+          <td class="num">₹821.05</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹16.1K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>APOLLOHOSP</strong></td>
+          <td class="co-name">Apollo Hospitals</td>
+          <td class="num"><strong>₹8,712.50</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.67%</td>
+          <td class="num" style="color:#c0392b">₹-58.50</td>
+          <td class="num">₹8,771.00</td>
+          <td class="num">₹8,819.00</td>
+          <td class="num">₹8,712.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.3L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>GLENMARK</strong></td>
+          <td class="co-name">Glenmark Pharmaceuticals</td>
+          <td class="num"><strong>₹2,615.80</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.65%</td>
+          <td class="num" style="color:#c0392b">₹-17.10</td>
+          <td class="num">₹2,632.90</td>
+          <td class="num">₹2,648.00</td>
+          <td class="num">₹2,600.20</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹73.8K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>ABBOTINDIA</strong></td>
+          <td class="co-name">Abbott India</td>
+          <td class="num"><strong>₹25,815.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.64%</td>
+          <td class="num" style="color:#c0392b">₹-165.00</td>
+          <td class="num">₹25,980.00</td>
+          <td class="num">₹26,135.00</td>
+          <td class="num">₹25,620.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹54.9K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>DIVISLAB</strong></td>
+          <td class="co-name">Divis Laboratories</td>
+          <td class="num"><strong>₹11,150.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.63%</td>
+          <td class="num" style="color:#1a7a4a">+₹70.00</td>
+          <td class="num">₹11,080.00</td>
+          <td class="num">₹11,207.50</td>
+          <td class="num">₹11,030.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹3.0L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>MANKIND</strong></td>
+          <td class="co-name">Mankind Pharma</td>
+          <td class="num"><strong>₹2,610.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.63%</td>
+          <td class="num" style="color:#c0392b">₹-16.60</td>
+          <td class="num">₹2,626.60</td>
+          <td class="num">₹2,640.00</td>
+          <td class="num">₹2,610.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>TORNTPHARM</strong></td>
+          <td class="co-name">Torrent Pharmaceuticals</td>
+          <td class="num"><strong>₹4,668.80</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.48%</td>
+          <td class="num" style="color:#c0392b">₹-22.40</td>
+          <td class="num">₹4,691.20</td>
+          <td class="num">₹4,686.50</td>
+          <td class="num">₹4,626.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.8L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>CIPLA</strong></td>
+          <td class="co-name">Cipla</td>
+          <td class="num"><strong>₹1,388.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.47%</td>
+          <td class="num" style="color:#c0392b">₹-6.50</td>
+          <td class="num">₹1,394.50</td>
+          <td class="num">₹1,399.40</td>
+          <td class="num">₹1,383.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.1L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>WOCKPHARMA</strong></td>
+          <td class="co-name">Wockhardt</td>
+          <td class="num"><strong>₹2,008.90</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.22%</td>
+          <td class="num" style="color:#1a7a4a">+₹4.40</td>
+          <td class="num">₹2,004.50</td>
+          <td class="num">₹2,049.70</td>
+          <td class="num">₹1,992.00</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹32.6K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SUNPHARMA</strong></td>
+          <td class="co-name">Sun Pharmaceutical</td>
+          <td class="num"><strong>₹1,870.00</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.13%</td>
+          <td class="num" style="color:#1a7a4a">+₹2.50</td>
+          <td class="num">₹1,867.50</td>
+          <td class="num">₹1,888.00</td>
+          <td class="num">₹1,860.60</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹4.5L Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>PFIZER</strong></td>
+          <td class="co-name">Pfizer India</td>
+          <td class="num"><strong>₹3,814.00</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.11%</td>
+          <td class="num" style="color:#c0392b">₹-4.30</td>
+          <td class="num">₹3,818.30</td>
+          <td class="num">₹3,872.90</td>
+          <td class="num">₹3,797.50</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹17.4K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>SUVEN</strong></td>
+          <td class="co-name">Suven Pharmaceuticals</td>
+          <td class="num"><strong>₹268.65</strong></td>
+          <td class="num" style="color:#c0392b;font-weight:600">▼ -0.09%</td>
+          <td class="num" style="color:#c0392b">₹-0.25</td>
+          <td class="num">₹268.90</td>
+          <td class="num">₹272.65</td>
+          <td class="num">₹266.05</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹7.6K Cr</td>
+        </tr>
+        <tr class="">
+          <td><strong>AUROPHARMA</strong></td>
+          <td class="co-name">Aurobindo Pharma</td>
+          <td class="num"><strong>₹1,794.10</strong></td>
+          <td class="num" style="color:#1a7a4a;font-weight:600">▲ +0.01%</td>
+          <td class="num" style="color:#1a7a4a">+₹0.10</td>
+          <td class="num">₹1,794.00</td>
+          <td class="num">₹1,811.00</td>
+          <td class="num">₹1,785.90</td>
+          <td class="num">—</td>
+          <td class="num">—</td>
+          <td class="num">₹1.0L Cr</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </div>
+  
+        <div class="section" id="tab___BSE___NSE_Filings">
+          <h2>📊 BSE / NSE Filings <span class="count">7</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/408ffeaa-847f-413e-aff9-b67423052ce5.pdf" target="_blank" rel="noopener">Cipla: Newspaper advertisement for Notice of Postal Ballot and e-voting information.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f067bd3-c93d-4a54-b918-4c9309bcec25.pdf" target="_blank" rel="noopener">Cipla: Please find enclosed disclosure.</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 500087</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/53a8bfef-b296-49e4-aaff-c2cdba26d4d5.pdf" target="_blank" rel="noopener">Cipla: Postal Ballot Notice dated 27th October, 2026.</a>
+              <p class='card-summary'>Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500087</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/31779ef7-22e5-491d-a4b1-9be11e0354df.pdf" target="_blank" rel="noopener">Lupin: Newspaper Publication regarding the Notice of Postal Ballot and Remote E-Voting.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/6b76afcf-7b75-42cd-8d3f-f0ea8b039d73.pdf" target="_blank" rel="noopener">Lupin: Notice of Postal Ballot dated November 03, 2026, along with Explanatory Statement.</a>
+              <p class='card-summary'>Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 500257</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/df648178-477f-4a8c-bfcd-0d78b8e4eaaf.pdf" target="_blank" rel="noopener">Jubilant Pharmova: Press Release</a>
+              <p class='card-summary'>Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/corporates/ann.html?scrip=540359" target="_blank" rel="noopener">Parmax Pharma Ltd: Unaudited Financial results for quarter and half year ended 30.09.2026</a>
+              <p class='card-summary'>BSE Code: 540359</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Results___Financials">
+          <h2>💰 Results & Financials <span class="count">15</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/bsnl-losses-q2-4g-rollout-telecom-earnings-11794892357602.html" target="_blank" rel="noopener">BSNL's losses widen in Q2 as revenue slips, 4G rollout pushes up costs</a>
+              <p class='card-summary'>BSNL's consolidated net loss widened to ₹1,532 crore in the September quarter, compared with ₹1,106 crore a year earlier and ₹1,280 crore in the preceding quarter.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-limit-leveraged-stock-bets-to-curb-volatility-report/articleshow/135920460.cms" target="_blank" rel="noopener">Sebi may limit leveraged stock bets to curb volatility: Report</a>
+              <p class='card-summary'>India's markets regulator is exploring potential limits on leveraged stock purchases amid increasing retail participation. Concerns have arisen as margin-funded stock bets have reached record levels in recent months. Discussions are ongoing regarding hard limits tied to a company's free float to man</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/traders-pour-cash-into-blackrocks-india-etf-as-ai-rout-deepens/articleshow/135909707.cms" target="_blank" rel="noopener">Traders pour cash into BlackRock’s India ETF as AI rout deepens</a>
+              <p class='card-summary'>Investors poured over $316 million into BlackRock’s iShares MSCI India ETF last week, its largest weekly inflow since June 2025, as AI-related volatility drove diversification away from technology-heavy markets. Strong Indian equities, lower oil prices and improving earnings boosted sentiment, while</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/itc-among-6-stocks-showing-white-marubozu-pattern/slideshow/135909511.cms" target="_blank" rel="noopener">ITC among 6 stocks showing White Marubozu pattern</a>
+              <p class='card-summary'>Six Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 17, indicating strong upward price momentum during the trading session.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/company-results/nvidia-to-declare-q3-results-first-after-ceo-jensen-huang-s-exit-and-growing-pushback-against-ai-buildout-11794886324117.html" target="_blank" rel="noopener">Nvidia to declare Q3 results, first after CEO Jensen Huang’s exit and growing pushback against AI buildout</a>
+              <p class='card-summary'>Nvidia’s earnings call comes at a pivotal moment: interim CEO Colette Kress will face questions following Jensen Huang’s departure. Investors are also monitoring Nvidia’s aggressive AI investments, future sales guidance and chip sales, as concerns grow about profitability and data-center expansion.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/church-dwight-india-launch-premium-products-online-customers-11794828579954.html" target="_blank" rel="noopener">US FMCG major Church &amp;amp; Dwight plans India launch with premium products for online customers</a>
+              <p class='card-summary'>The maker of Arm &amp;amp;amp; Hammer home care goods and Trojan condoms is aiming for an early-2027 launch in India with four products across niches including acne patches and dry shampoo.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/from-making-vaccines-to-inventing-them-indias-next-challenge/" target="_blank" rel="noopener">From making vaccines to inventing them: India’s next challenge</a>
+              <p class='card-summary'>Ajay Mahipal, Co-Founder and General Partner, HealthKois, examines what it will take to bridge this gap, from patient capital and industry-academia collaboration to regulatory predictability, and build a globally competitive vaccine discovery ecosystem The post From making vaccines to inventing them</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/beyond-expiry-dates-building-a-more-transparent-and-traceable-medicine-supply-chain/" target="_blank" rel="noopener">Beyond expiry dates: Building a more transparent and traceable medicine supply chain</a>
+              <p class='card-summary'>Devashish Singh, Co-founder and CEO of MrMed, highlights how end-to-end medicine traceability can strengthen supply-chain accountability, improve medicine safety and ensure critical medicines can be tracked from manufacturer to patient The post Beyond expiry dates: Building a more transparent and tr</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/when-patient-burden-becomes-a-regulatory-risk/" target="_blank" rel="noopener">When patient burden becomes a regulatory risk</a>
+              <p class='card-summary'>Ian Fisher, Head of Development Analytics at IQVIA, explains how assessing patient burden early in clinical trial design can help sponsors improve trial execution, preserve data quality and support regulatory decisions The post When patient burden becomes a regulatory risk appeared first on Express </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/from-lab-to-market-bridging-indias-pharma-innovation-gap/" target="_blank" rel="noopener">From lab to market: Bridging India’s pharma innovation gap</a>
+              <p class='card-summary'>Dr Richa Dayaramani, Scientist Grade F at NIPER Ahmedabad, discusses the gaps between academia and industry, the challenges of scaling research, and how stronger industry partnerships, quality systems and commercialisation pathways can help India build its innovation ecosystem, in an interview with </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/nvidia-q3-earnings-tonight-beyond-jensen-huangs-exit-5-make-or-break-factors-investors-will-track-12339003#publisher=newsstand" target="_blank" rel="noopener">Nvidia Q3 Earnings Today: $109 Billion Isn't The Number To Watch. These 5 Metrics Are</a>
+              <p class='card-summary'>Nvidia is preparing to report its first quarterly results since Jensen Huang stepped down.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/sports/shocked-ashwin-slams-pat-cummins-over-sandpapergate-claims-he-discredited-usman-khawaja-12339215#publisher=newsstand" target="_blank" rel="noopener">'Shocked' Ashwin Slams Pat Cummins Over Sandpapergate Claims: 'He Discredited Usman Khawaja'</a>
+              <p class='card-summary'>The 2018 Cape Town scandal has resurfaced after Khawaja's autobiography claimed that knowledge of the ball-tampering plan extended beyond three players.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/india/delhi-to-patna-in-4-5-hours-delhi-to-guwahati-in-8-hours-all-about-indias-new-bullet-train-corridor-12338905#publisher=newsstand" target="_blank" rel="noopener">Delhi To Patna In 4.5 Hours, Delhi To Guwahati In 8 Hours: All About India’s New Bullet Train Corridor</a>
+              <p class='card-summary'>India's 1,500-km bullet train corridor will connect Delhi with Patna, Siliguri and Guwahati.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/entertainment/robert-pattinson-twilight-scene-goes-viral-after-james-bond-casting-here-is-why-12338899#publisher=newsstand" target="_blank" rel="noopener">Robert Pattinson's Twilight Scene From 2008 Goes Viral After James Bond Casting — Here's Why</a>
+              <p class='card-summary'>Robert Pattinson played Edward Cullen in the Twilight franchise.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/probe-began-in-2024-us-shares-megaspeed-timeline-that-raises-new-questions-for-nvidia-before-earnings-12338706#publisher=newsstand" target="_blank" rel="noopener">'Probe Began In 2024': US Shares Megaspeed Timeline That Raises New Questions For Nvidia Before Earnings</a>
+              <p class='card-summary'>Investigators from the Commerce Deparment made a request for Nvidia's records in May 2025.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Deals__M_A___Partnerships">
+          <h2>🤝 Deals, M&A & Partnerships <span class="count">6</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/pb-balaji-drove-tata-motors-out-of-debt-jlr-is-dragging-it-back-in-11794823794702.html" target="_blank" rel="noopener">PB Balaji drove Tata Motors out of debt. JLR is dragging it back in</a>
+              <p class='card-summary'>After a debt-free demerger, Tata Motors Passenger Vehicles is back in debt, burning cash, and facing mounting pressure on profitability, largely due to its British subsidiary Jaguar Land Rover.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/who-is-kunal-bahl-meet-ex-microsoft-employee-whose-h-1b-visa-rejection-led-him-to-co-found-snapdeal-titan-capital-11794896574617.html" target="_blank" rel="noopener">Who is Kunal Bahl? Meet ex-Microsoft employee whose H-1B visa rejection led him to co-found Snapdeal, Titan Capital</a>
+              <p class='card-summary'>An H-1B visa rejection while working at Microsoft in the US prompted Kunal Bahl to return to India. He went on to co-found Snapdeal, establish investment firm Titan Capital and back hundreds of startups, becoming a prominent figure in the country's entrepreneurial ecosystem.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/idbifairfax-deal-bank-employee-unions-press-rbi-to-block-takeover-announce-december-3-strike-what-are-their-concerns-11794846041336.html" target="_blank" rel="noopener">IDBI-Fairfax deal | Bank staff unions press RBI to block takeover, announce December 3 strike: What are their concerns?</a>
+              <p class='card-summary'>IDBI Bank employee unions have asked the RBI to advise the government and LIC to suspend the disinvestment process and abandon the proposed transfer of control to a foreign entity.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/who-is-arun-nambiar-former-x-india-business-head-joins-uber-advertising-to-lead-national-agency-strategy-11794835905872.html" target="_blank" rel="noopener">Who is Arun Nambiar? Former X India business head joins Uber Advertising to lead national agency strategy</a>
+              <p class='card-summary'>Arun Nambiar, former X India Business Head at Aleph Group, has joined Uber Advertising as Head of Agency, India. He will lead national agency strategy and partnerships. Nambiar previously held advertising and sales roles at X, Twitter, Httpool, Sony Pictures Networks India and Disney.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/bits-pilani-raises-507-crore-for-endowment-fund-in-23-months-eyes-939-crore-target-group-vc-v-ramgopal-rao-11794834116735.html" target="_blank" rel="noopener">BITS Pilani raises  ₹507 crore for endowment fund in 23 months, eyes  ₹939 crore target: Group VC V Ramgopal Rao</a>
+              <p class='card-summary'>Annual alumni donations also touched a record ₹82 crore in the financial year 2025-26, registering a 43% increase over the previous year. The amount is nearly 90 times the annual contributions recorded when the Alumni Relations Office was established in FY18.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/iifl-finance-block-deal-fih-mauritius-to-sell-13-stake-in-370-million-clean-out-trade-floor-price-set-at-rs-611-12339132#publisher=newsstand" target="_blank" rel="noopener">IIFL Finance Block Deal: FIH Mauritius To Sell 13% Stake In Rs 3,454-Crore Clean-Out Trade; Check Floor Price</a>
+              <p class='card-summary'>IIFL Finance Block Deal Alert: FIH Mauritius Investments Ltd, an investment arm of Fairfax India Holdings Corporation, is set to offload its entire 13.25% stake in IIFL Finance Ltd through a secondary market block deal valued at approximately Rs 3,454.2 crore ($370 million).</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Operations___Approvals">
+          <h2>🏭 Operations & Approvals <span class="count">11</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/who-is-suzanne-nora-johnson-goldman-sachs-veteran-to-lead-nvidia-s-new-national-security-committee-11794915061437.html" target="_blank" rel="noopener">Who is Suzanne Nora Johnson? Goldman Sachs veteran to lead Nvidia’s new national security committee</a>
+              <p class='card-summary'>Nvidia has appointed Goldman Sachs veteran Suzanne Nora Johnson to chair its new National Security and Export Control Oversight Committee. The panel will monitor national security policies and export compliance as US restrictions on advanced AI chip exports to China face growing scrutiny.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidia-warns-customers-over-us-bill-targeting-chinas-access-to-ai-chips-via-overseas-data-centres-report-11794913175903.html" target="_blank" rel="noopener">Nvidia flags legal risks for chip buyers over China's access to AI chips via overseas data centres: Report</a>
+              <p class='card-summary'>Nvidia reportedly had warned buyers that the proposed Remote Access Security Act (RASA) would give the US government broader powers to regulate access to cloud services, similar to physical hardware exports.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/amazons-7-billion-green-energy-india-investment-4-projects-3-states-934-mw-capacity-and-power-for-3-5-million-homes-11794909333504.html" target="_blank" rel="noopener">Amazon's $7 billion green energy India investment: 4 projects, 3 states, 934 MW capacity and power for 3.5 million homes</a>
+              <p class='card-summary'>The latest commitment comes on top of the $4 billion the e-commerce major has already contracted in renewable energy investments in India, positioning it among the country's leading corporate purchasers of carbon-free electricity.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/ncdrc-upholds-20-lakh-fine-on-exporters-india-for-listing-explosive-substances-11794842574984.html" target="_blank" rel="noopener">NCDRC upholds  ₹20 lakh fine on Exporters India for listing explosive substances</a>
+              <p class='card-summary'>Rejecting the B2B portal’s intermediary defence, the panel ruled that online marketplaces cannot bypass due diligence when hosting regulated and hazardous products.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/hindustan-zinc-s-rs-80-000-crore-expansion-the-big-bet-to-double-its-metal-output-and-ride-india-s-infrastructure-boom-11794833054778.html" target="_blank" rel="noopener">Hindustan Zinc’s  ₹80,000-crore expansion: The big bet to double its metal output and ride India’s infrastructure boom</a>
+              <p class='card-summary'>The company's board of directors approved the HZL 2.0 Growth Programme, which will increase its existing metal production capacity of 1.1 MTPA by approximately 1 MTPA.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/sri-lankan-firm-bags-75-million-ntpc-contract-to-set-up-57-mw-andaman-power-plant-all-you-need-to-know-11794833915556.html" target="_blank" rel="noopener">Sri Lankan firm bags $75 million NTPC contract to set up 57 MW Andaman power plant: All you need to know</a>
+              <p class='card-summary'>Sri Lankan firm Lakdhanavi has secured a $75 million contract from India's NTPC to build a 57 MW power plant at Hope Town in Port Blair. The project aims to strengthen the islands' electricity infrastructure, improve energy security through LNG infrastructure and support economic development.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzBVNVozemlUVTE0cW9CTjB6WnFzdG9BaUQ5UHBGS3Mzc2lFeW11VE9CNDRvQW1xVFNGY2xtdEhaR0psUEh4UGphS0wxWlhIT09TWUtHektibUtzdDh3ZlF2T0JSemFlRFNBdElaUE9td3VDNXhZMDNKOUlGUDFFVy11MkIzNUcxeWZkSEh0eXRSMVBYYVVrTmw4SkhEWEQyRUczODNCZU9PNG56b3hxLWJTRG9iQWpldFZlb3FfZ1NQSDQyX1NIVl83aTV0ZEk30gHWAUFVX3lxTE9TaVBYbEJ2MzdtSjYyYURXbnFKOXNXYThSVU8xR2FOZ2JxYzJod1BYMFgzVVBNYVB3dzktdG5ZTTh4WkhtZ1pfS2pzU19rZmt1UmZDVC15X3NLYS14eE90dVlWNFVjelo4dHY1bDdyc0ZCYWtqck1QM1k5aVR3OHoyU0pkMG5qcGY4RUZVdl9UUkZ6b1U2Q2NHd19BY2MtdHBBUHJZU0RzWWtORGxOMkVueVZEY0RKeERrMi10OWc1U0lRQVpSY3oxUEd0VEFGMGNqbzI0Tnc?oc=5" target="_blank" rel="noopener">NPPA extends knee implant price ceiling till January 2027 amid mark-up row - Business Standard</a>
+              <p class='card-summary'>NPPA extends knee implant price ceiling till January 2027 amid mark-up row &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma Policy</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3dYUURkaDlXZHJqOUpCaGFhd1hWUndTd1dPYXZabWFia3I2SW9rcHBpQklFMU1xWU1BekNPZHByNjl2QnZfUUJ2LTBNY3NNbTFlZHZwRVBNUXhWX2s2cGk0Y3JqdGkydUxYRFVQbHAtZzgxQU5DWHA0ZDl0dDNTeWNoaXBsUGtwZ1RiUnZJVnJhYVVTYm90b2FLRTVOSHVqRUJZcmQxaklBQldOcVpXSWNDeDVjS3E3ZTk5UkZjaXl4LXc3T3pITNIBzgFBVV95cUxOU295d3BoMk1IY1JwRXYyRldfVGlOcld4N1RVMUF1ZHduNXpPN082QzNnRjRfQmk0T29sMXhSNHVDdjRVelp1Ym81RXZmcjdwc2FNWVBUZmFmUVNveng3YWFUX1ZDNHJtWXd3S2Myc0JfSVRHbHQ2d2Iyejdvcy1hdzJUREJiNEVQZk1oVE10SUdja3pSX19DelZkMURXOHpLSk5ualIzY1FFQTlndDg3UkROdkxmb2lzTURIZjVQdmltbVI3b1p2VG1GNE1RUQ?oc=5" target="_blank" rel="noopener">Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL - Business Standard</a>
+              <p class='card-summary'>Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmx1WF9OVG5INGRFWWRpNDBjbEhaWGJZcWp4bHBQdkw5cWlPSGRrV3RDRHM3bGt4RDRnX1Q3OThtaDFzV1VNX2FxZzNxMjJjQjFIUGVmZXFuU2JkQjFoUlBIMnkzWDlYUlRiVWw1bWVrT1o5bVRkTTY2b25iQUdPMF9CYkh4OXFzZWRpRlkzWmt6SG4yXzBFMml6bGhyWnQzQjRDZVBUTWZXc1NSS1lCVzZDOGFQM0d0Mk1WWkF3YVlZT1RTOXpvb2pnSVhFOFV4ZzBQLUZ30gHbAUFVX3lxTE5wZm1lLTVacWt4bzRVOTY4VDVPa2U0OTAtbWhxamxXRS02WERkN000b3pqZUZMMHFubGllT0J2ZnIzUk5FWV9tY1gzU2cyeDBsbWlaY1czS3B3NTAwNmY3V3JqQTJYQjN0UWd0S2s2clpEZmdVQm1tNXlVUG9kMm5WT0ZuX3RNSjZrMTFvQUNKUXpsMHpWQ0c2NURBZkU1VkdNSVIyRDZXYndPUkRBOUI1aUVkVHdrb1hPTEJuOTU0SHNYQW5KVU1IdW1rWGNwUXJCRVNoUUR0WDlxOA?oc=5" target="_blank" rel="noopener">Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn - Business Standard</a>
+              <p class='card-summary'>Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT0VDZ3RuRDI2QlU4YTRlVjVtVXhIR0dTTWlnYmg3amk4cTViN1pTeEt0WWZpOWh0SC0ydWNjRHBPeF9fWkI1SzZWU3d4dzNaVm5xYzVNUnFnS2NtQXlDZ2JlRENLVXJvTTM1ZHdzR254OEhwTzhENHlWXzFkblIyZms2M0FhU1B2OXZFUnNLaE1XTWpKTEdySlhqWGUwc01vR05ZME1kYlRiY0J1YXczMEJYVk5TamFsNmFCa1JWTG1PMkVnbzFacFdVT3VidVF0XzZB?oc=5" target="_blank" rel="noopener">South Indian Bank Expands Presence with New Branch Launch in Bengaluru on 17 November 2026 - Kalkine Media</a>
+              <p class='card-summary'>South Indian Bank Expands Presence with New Branch Launch in Bengaluru on 17 November 2026 &amp;nbsp;&amp;nbsp; Kalkine Media</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjRiR2hVN1Y3b09OdFJSUTlIeHRGSkN1WGRRSTVhSndSVHhBOUlNNmxFN1ZEVDF4MjRkeXhvc24xa1VOMTUtcDdraUstZ0VtVWVFaElIdnZ6ZUxZLXZDM3Z0c21zb2NmREhiYjJVNlRnbmFXcC1LNXRxM3pmUS0xdjc3UTBlUm9DOEFmVXJFOWRRMWpPcllRVjc4N2wzZ1BDTzhsUEZpQXg5M1RuNDh0TlhDdUQ4d1RRUkZ2NFItV19Ubnh5d0ZNeVF4RlZzWFN2Ukx6QW1RbGNWQVhNRDBJUnNHeljSAeoBQVVfeXFMTW9SOXZlUlJuRjVKTk1uZElBUHpha2VpcVJDY2xNWVA4dnFackhzVUNQZVljZkZCMTJRS29mTDFzRm1OUmE3OUZiS0lUbk1DdFZaYS0yT3UyTVpfbXFEbk1kMTZHVXVQWE5WeU4xbWhheXoyVFRRUVZjNnctOXQ2ZGVuX3Npd3M3Z0VmQmVMS2FhRi1lTXBnWU9LY0dsa0xsZm1EU2FUbm5XaW9XdTk1ZUZ4VE1ya0JiSGU2ajFYMzNET2J0M0JiRDdrbzhHV1ZOLTNaZjN0aFFlRXFqZVprQmFDQUZJektiMFh3?oc=5" target="_blank" rel="noopener">6 of 10 NSE stocks remain below their December 2025 closing levels - Business Standard</a>
+              <p class='card-summary'>6 of 10 NSE stocks remain below their December 2025 closing levels &amp;nbsp;&amp;nbsp; Business Standard</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Analyst___Brokerage_Calls">
+          <h2>📉 Analyst & Brokerage Calls <span class="count">3</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/company-results/india-hotel-companies-growth-domestic-travel-weddings-corporate-events-11794851010570.html" target="_blank" rel="noopener">Hotel companies hold up despite a seasonal lull</a>
+              <p class='card-summary'>Domestic holidays, weddings and corporate events are keeping hotel rooms occupied, even as expensive airfares and geopolitical tensions weigh on some travel markets.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/who-is-jimmy-tata-meet-the-longest-serving-tata-trusts-trustee-and-why-is-he-backing-the-listing-of-tata-sons-11794891693885.html" target="_blank" rel="noopener">Who is Jimmy Tata? Meet the longest-serving Tata Trusts trustee and why is he backing the listing of Tata Sons</a>
+              <p class='card-summary'>Jimmy Tata, younger brother of Ratan Tata and a major Tata Sons shareholder, has backed listing the company and accused Tata Trusts Chairman Noel Tata of consolidating family control over the charitable trusts and their stake in the holding company.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/india/man-buys-rs-10-999-jacket-finds-it-torn-within-46-minutes-consumer-court-orders-store-to-pay-rs-31-000-12338770#publisher=newsstand" target="_blank" rel="noopener">Man Buys Rs 10,999 Jacket, Finds It Torn Within 46 Minutes; Consumer Court Orders Store To Pay Rs 31,000</a>
+              <p class='card-summary'>A Chandigarh man who found a tear in his new jacket on its very first outing has won a refund and compensation from the store.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Industry___Policy_News">
+          <h2>📰 Industry & Policy News <span class="count">30</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-17-nov-2026/liveblog/135908843.cms" target="_blank" rel="noopener">Dr Reddys Share Price Live Updates: Dr. Reddys records a small rise in share price</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-17-nov-2026/liveblog/135908759.cms" target="_blank" rel="noopener">Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-17-nov-2026/liveblog/135908331.cms" target="_blank" rel="noopener">Apollo Hospital Share Price Live Updates: Apollo Hospital's Daily Performance Update</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-17-nov-2026/liveblog/135907923.cms" target="_blank" rel="noopener">Divis Labs Share Price Live Updates: Divis Labs Stock Performance</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-17-nov-2026/liveblog/135907888.cms" target="_blank" rel="noopener">Cipla Share Price Live Updates: Cipla's Financial Snapshot</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/eternal-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-15-in-a-month/slideshow/135924700.cms" target="_blank" rel="noopener">Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month</a>
+              <p class='card-summary'>Five BSE 100 stocks, including Eternal, DLF and Kotak Mahindra Bank, touched fresh 52-week highs on Tuesday. Eternal led monthly gains with a 15% rally.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms" target="_blank" rel="noopener">FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%</a>
+              <p class='card-summary'>FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY27 so far, with gains ranging from 12% to 80%.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-17-nov-2026/liveblog/135908171.cms" target="_blank" rel="noopener">Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Price Update</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-updates-17-nov-2026/liveblog/135907865.cms" target="_blank" rel="noopener">JSW Steel Share Price Live Updates: JSW Steel's stock price rises marginally</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-live-updates-17-nov-2026/liveblog/135907849.cms" target="_blank" rel="noopener">ITC Share Price Live Updates: ITC Shares at Rs 293.85, Slight Decrease Observed</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/zero-delivery-fees-on-orders-above-rs-49-big-discounts-bistro-zomato-steps-up-competition-with-low-cost-toing-ownly-11794909026550.html" target="_blank" rel="noopener">Zero delivery fees on orders above  ₹49, big discounts, Bistro: Zomato steps up competition with low-cost Toing, Ownly</a>
+              <p class='card-summary'>Zomato is increasing discounts and offering free delivery to compete with lower-cost food delivery services such as Swiggy’s Toing and Rapido’s Ownly. While these platforms appeal to customers placing smaller, budget-conscious orders, Zomato and Swiggy remain more competitive for larger orders.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/know-nvidia-how-next-version-became-jensen-huang-s-ai-giant-and-what-does-green-colour-of-chipmaker-s-logo-signify-11794902356944.html" target="_blank" rel="noopener">Know Nvidia: How ‘next version’ became Jensen Huang’s AI giant and what green colour of chipmaker’s logo signifies</a>
+              <p class='card-summary'>Nvidia’s name combines the founders’ file label NV, meaning next version, with ‘invidia’, Latin for envy. The company nearly went bankrupt after its first chip failed, but a $5 million payment from Sega helped it recover. Its GPUs now power gaming, crypto mining and AI.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/warren-buffett-donates-5-47-bn-in-berkshire-hathaway-shares-as-thanksgiving-gift-gates-foundation-misses-out-again-11794894296023.html" target="_blank" rel="noopener">Warren Buffett donates $5.47 bn in Berkshire Hathaway shares as Thanksgiving gift, Gates Foundation misses out again</a>
+              <p class='card-summary'>Warren Buffett will donate about $5.47 billion in Berkshire Hathaway shares to four charities associated with his children. The 96-year-old plans to give away all his shares by 2034 and said he trusts his children to direct the grants. He retains about 13% of Berkshire.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/ipo-bound-jakson-green-acquires-ocior-energy-11794886419435.html" target="_blank" rel="noopener">IPO-bound Jakson Green acquires Ocior Energy</a>
+              <p class='card-summary'>Ocior Energy has a pipeline of green molecules projects under development in India, West Africa and North Africa.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/exnvidia-ceo-jensen-huang-s-daughter-madison-allegedly-berated-indian-origin-exec-jay-puri-here-s-how-he-responded-11794889927023.html" target="_blank" rel="noopener">Ex-Nvidia CEO Jensen Huang’s daughter Madison allegedly berated Indian-origin exec Jay Puri | Here’s how he responded</a>
+              <p class='card-summary'>A New York Times report has shed light on Madison Huang’s growing influence at Nvidia, her alleged clashes with senior executives and concerns over her authority following the resignation of her father, Jensen Huang.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidia-board-focused-on-investigation-no-discussion-of-bringing-back-jensen-huang-as-search-continues-for-new-ceo-11794878166892.html" target="_blank" rel="noopener">Nvidia board focuses on investigation, no discussion of bringing back Jensen Huang as search continues for new CEO</a>
+              <p class='card-summary'>Nvidia’s board says it is focused on investigating co-founder Jensen Huang’s ties to a Chinese business executive and has not discussed his possible return as CEO. The company is searching for a successor, with reports naming Arm chief Rene Haas as a potential candidate.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/mahanadi-coalfields-seeks-90-000-crore-valuation-in-8-981-crore-ipo-11794832350577.html" target="_blank" rel="noopener">Mahanadi Coalfields seeks  ₹90,000 crore valuation in  ₹8,981 crore IPO</a>
+              <p class='card-summary'>The share sale will open to institutional and retail investors on 19 November and close on 23 November, with a stock market listing expected on 27 November.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/l3harris-finds-itself-back-in-the-spotlight-after-atc-meltdown-11794853869122.html" target="_blank" rel="noopener">L3Harris Finds Itself Back in the Spotlight After ATC Meltdown</a>
+              <p class='card-summary'>L3Harris Technologies Inc. faces renewed scrutiny after US officials said the company may have been at fault for a nationwide grounding of all flights Friday evening, the latest corporate drama to befall the defense giant in recent months.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/jensen-huang-s-return-bid-hits-wall-us-treasury-chief-scott-bessent-pushes-nvidia-board-to-hire-outsider-ceo-11794835225807.html" target="_blank" rel="noopener">Jensen Huang’s return bid hits wall: US Treasury chief Scott Bessent pushes Nvidia board to hire outsider CEO</a>
+              <p class='card-summary'>US Treasury Secretary Scott Bessent has called for a ‘dramatic’ leadership change at the chipmaker, urging its board to look outside the company for a successor.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/when-health-data-crosses-borders-trust-must-travel-with-it/" target="_blank" rel="noopener">When health data crosses borders, trust must travel with it</a>
+              <p class='card-summary'>Pradeep Gupta, Partner, Deloitte India, explores how the DPDP Act, 2023, and DPDP Rules, 2025, are reshaping health data governance and why building trust must go hand in hand with enabling cross-border healthcare and research The post When health data crosses borders, trust must travel with it appe</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPWC05Y0JQM0o4QzZYTjQ3NGVYRHhyTzNpVmdfek5JZzRBWnNHOXNhb3Y2WVVBNktfMkZqTkdDY1JNS3pUcEkzcW0wMWZvTXZqaTZOS3V0S2hXdVF2ZHJDdmRFbUJQM0tGNDlTLUZYM3Fxd3NWZVBQdHZiRjRjZkM3bUFPekxuQjMzclA0WjJXbEJUVjhmSGJRVGZnQXFGS2NMYm1ENWJwU2k0S0xjTlRrbWlR?oc=5" target="_blank" rel="noopener">Gland Pharma schedules one-on-one meeting with ADIA on November 20 - scanx.trade</a>
+              <p class='card-summary'>Gland Pharma schedules one-on-one meeting with ADIA on November 20 &amp;nbsp;&amp;nbsp; scanx.trade</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNms3eUs0elFmQ0lKTFg0NDFFa1p1TVpLRHJ4TnNZWjM0Z1FqVXI4U0xfYzEtOVdHV1BiVXlCM2xUWXZIcUE2cWtSWDc0N0QtREJVUGgzcHhYOGRENHRBNHh4cXBqeVZOc1ByNEVKNFVpSzdsbjVheUFJNzlSS1RIUlFiUzMxeWh6UlZZV2ZTMDdBc1RLTjhJQTNFMjNGbEtvbXBSY0lmdlV5ZnV2RUtiY2hEZklZMk85aXptRkNxd0JEeFRxd2dzT19PV2VGRzVtQjBj?oc=5" target="_blank" rel="noopener">Cipla (NSE:CIPLA) Issues Postal Ballot Notice in Newspapers: Key Details and Compliance Update - Kalkine Media</a>
+              <p class='card-summary'>Cipla (NSE:CIPLA) Issues Postal Ballot Notice in Newspapers: Key Details and Compliance Update &amp;nbsp;&amp;nbsp; Kalkine Media</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0dRU3I4Q01tR1UwSzlWdGtreEtDS3BKTmk0WGpUYUYtMlZHRGx5ZDl0ZmVIMUFQeEp6RzhocVo4YXBpeTRNVGRHOVFSME56MWxQMk9hcGFLOEhSVy1JRXN6TVh0TlpPOEdjRkJmZV9KNTZIa1pQdHlQSmlKNk50M0tBdjZNYlRZZFV5b2poY1JDSHRaMllYZml2OGNQWnIwbUY2bDNMRU5QMVJRR3FCamxNMXN0dWNQcDgyOW5JOTR3R0tsRXVIcjhXN0tiQlpCaEhYeWNiajJzeE9rSlHSAeMBQVVfeXFMTjZibDg1dlVsdS1fVEFfV2pSbUJnNEd5ZEZ6ZzFUQXFVc0NEMktmZEFEVE5EaXU4VVppOVZ2U25SYlJ2Q3F3eXY4cmhJY1dEVGdMaVZZYVFCNXV6RTJRRXpVRzIzQjhHaDJiM2hmbWhDbmN3Ql9FZFJPemVaOC1jdDM0N2pKYXRpbzBiTk56dm4yb19QUk9ka3c0Qm5pQlI2Sl90U2FwaGdJbjVwNTlrSl9RVTBiZzlNeXNWZjlJOWxiMDdZcDNJWTFrNjVJZnJqOWtGSUtHcURkZU5wV2RBMDB2UnM?oc=5" target="_blank" rel="noopener">Cipla says DRI conducts search at Mumbai office, Bhiwandi depot over imported drug - CNBC TV18</a>
+              <p class='card-summary'>Cipla says DRI conducts search at Mumbai office, Bhiwandi depot over imported drug &amp;nbsp;&amp;nbsp; CNBC TV18</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Cipla</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/world/us-chip-curbs-force-xi-to-weigh-response-before-trump-summit-12339190#publisher=newsstand" target="_blank" rel="noopener">US Chip Curbs Force Xi To Weigh Response Before Trump Summit</a>
+              <p class='card-summary'>The restrictions threaten to overshadow Xi and Trump's meeting on the sidelines of the APEC summit.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/education/iit-madras-to-open-over-100-research-labs-for-public-to-visit-in-january-2027-register-by-november-30-12339171#publisher=newsstand" target="_blank" rel="noopener">IIT Madras To Open Over 100 Research Labs For Public To Visit In January 2027; Register By November 30</a>
+              <p class='card-summary'>IIT Madras To Open Over 100 Research Labs For Public To Visit In January 2027; Register By November 30</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/deutsche-bank-shares-drop-as-leak-reveals-582-million-in-suspicious-epstein-linked-payments-12338956#publisher=newsstand" target="_blank" rel="noopener">Deutsche Bank Shares Drop As Leak Reveals $582 Million In Suspicious Epstein-Linked Payments</a>
+              <p class='card-summary'>Deutsche Bank shares slide after leaked files expose $582 million in Epstein-linked payments.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2hab3dPR0lMajUtS1d2cnlrWHI1bjRrOVVyZWw3VnlNUk1jcGYxeGhBTEdZWTN4d3M2U1lrcUMtanFQQmZmX0NVSFZJN3N6cTZOYlhRa2g0TlZ2WGEyZ3ZTLVBQNVRyaFRHYnhlbU9qTEZYRHhDZTVjNFpNaldsLVZHOENaS2dWSjBtMW56OGNYV1FEbWJ1Wk5TUk03d1dTdk9kX000d203RTNPWmlEd20tajU?oc=5" target="_blank" rel="noopener">Orchid Pharma pays ₹2,000 fine to NSE and BSE for annual report delay - scanx.trade</a>
+              <p class='card-summary'>Orchid Pharma pays ₹2,000 fine to NSE and BSE for annual report delay &amp;nbsp;&amp;nbsp; scanx.trade</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-16</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW1EeFUwOTk2U29id2owMHQxd1ROeFdzRVRrQVZSZXBnQmZmdW5uZnlIYWUwcmcwVVhNTlBIcmkxUWI3d3d1Z3RSa2hENk5LQzlNRVV5TkNyN1lWZDRocFVPcndmbi0tWHEtWktOZXFtTlBDSzhCOXplelhmZ2ZSM0FaNE9DTlVEX1FZY2UwRTRrczFPTE9faERFOWxfUFhWdGN1d3NxNVp6bC13LW9XSEdnLWs2X20tQ1lFSm41R1JrV3RWeWJYbDdzU2ZtYWV0QWF2bEtsdzhMa3ZC?oc=5" target="_blank" rel="noopener">Narayana Hrudayalaya (NSE:NH) Announces Consecutive Institutional Investor Meetings in November 2026 - Kalkine Media</a>
+              <p class='card-summary'>Narayana Hrudayalaya (NSE:NH) Announces Consecutive Institutional Investor Meetings in November 2026 &amp;nbsp;&amp;nbsp; Kalkine Media</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUozY2NCd2FCaXIzZXdnb0Fld2Z5NGVyQVFzWjZQeDBPdlVuaGJYa2lIMm00aFhKdm9HMmU4cl8zMkdodEFibUJDUGhwczlJdm5UQjBJNjhnaXRZbjdOVDdlalROUUI3bFVNYjJDSjUwNzRJbDFPT1JHYjEtRWZCUnQ1QmlMdld5OUhtYlR5dzlKTGstZ0hINmdJUzJobzBJb2FVWWZ4X1QzV1hxVklwRVg0LW5JWXFHcldXNk1GOTNZUFpjTmJrTk9Ma1Y0bm8?oc=5" target="_blank" rel="noopener">Supreme Court Dismisses Rs 59.14 Crore GST Demand Against Sterling and Wilson (NSE:SWSOLAR) - Kalkine Media</a>
+              <p class='card-summary'>Supreme Court Dismisses Rs 59.14 Crore GST Demand Against Sterling and Wilson (NSE:SWSOLAR) &amp;nbsp;&amp;nbsp; Kalkine Media</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNdTlweFJ5M3owY0RkUks1S1VjYkEyeWNTcjNEeDlyNmgwUkdsdTY1SmI5ZFM0RFlVT1gxdTdsVkRrUjJQYTBPQ0FPVnlGeF9CVVpWeFRVamlid3V6MXY4dHkzMElsSXR3UUtYeGpFbVBydnpMMm0ydUtfcEE3Y0dJX3VHUmhUb0hRaDVsbmJDTlJwNGhxOVlpNGl2dHR6dDM4dnNRR01yZXRZWVB4UXRKUg?oc=5" target="_blank" rel="noopener">J.K. Shah Commerce Education set to list on BSE and NSE on November 18, 2026 - Business Upturn</a>
+              <p class='card-summary'>J.K. Shah Commerce Education set to list on BSE and NSE on November 18, 2026 &amp;nbsp;&amp;nbsp; Business Upturn</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-17</span>
+              </div>
+            </div></div>
+        </div>
+</div>
+<footer>
+  Auto-generated by india-pharma-digest &nbsp;·&nbsp;
+  2026-11-17 12:46 UTC &nbsp;·&nbsp;
+  Data: Yahoo Finance, BSE, NSE, Economic Times, Moneycontrol
+</footer>
+<script>
+  function showTab(id) {
+    document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    var el  = document.getElementById(id);
+    var btn = document.getElementById('btn-' + id);
+    if (el)  el.style.display  = 'block';
+    if (btn) btn.classList.add('active');
+    // Scroll tab button into view
+    if (btn) btn.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  }
+  document.addEventListener('DOMContentLoaded', function() { showTab('tab_stocks'); });
+</script>
+</body>
+</html>
