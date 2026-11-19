@@ -1,23 +1,13 @@
-# 🏥 India Pharma Investor Digest — 2026-11-18
+# 🏥 India Pharma Investor Digest — 2026-11-19
 
-> 69 items · 2026-11-18 20:01 UTC
+> 58 items · 2026-11-19 12:29 UTC
 
-## 📊 BSE / NSE Filings (6)
+## 📊 BSE / NSE Filings (4)
 
-### [Cipla: Please find enclosed intimation](https://www.bseindia.com/xml-data/corpfiling/AttachLive/48dcc818-fc46-4d83-bc0c-2046fb63649e.pdf)
-Category: Company Update | Sub: General | BSE Code: 500087
+### [Aurobindo Pharma: Submission of copy of notice published in newspapers.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/53006ee7-c377-4abc-b269-dcd7d04385c2.pdf)
+Category: Company Update | Sub: Newspaper Publication | BSE Code: 524804
 
-**Source:** BSE Filing  **Date:** 2026-11-17
-
-### [Cipla: Newspaper advertisement for Notice of Postal Ballot and e-voting information.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/408ffeaa-847f-413e-aff9-b67423052ce5.pdf)
-Category: Company Update | Sub: Newspaper Publication | BSE Code: 500087
-
-**Source:** BSE Filing  **Date:** 2026-11-17
-
-### [Lupin: Newspaper Publication regarding the Notice of Postal Ballot and Remote E-Voting.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/31779ef7-22e5-491d-a4b1-9be11e0354df.pdf)
-Category: Company Update | Sub: Newspaper Publication | BSE Code: 500257
-
-**Source:** BSE Filing  **Date:** 2026-11-17
+**Source:** BSE Filing  **Date:** 2026-11-19
 
 ### [Aurobindo Pharma: Submission of Postal Ballot Notice.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/bea545b1-3869-406a-8f05-3bdf4966a760.pdf)
 Category: AGM/EGM | Sub: Postal Ballot | BSE Code: 524804
@@ -36,76 +26,61 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523
 
 ---
 
-## 💰 Results & Financials (12)
+## 💰 Results & Financials (5)
 
-### [PSBs' net profit rises 17% to Rs 1.10 lakh cr in H1 FY27; business crosses Rs 300 lakh crore](https://economictimes.indiatimes.com/markets/stocks/news/psbs-net-profit-rises-17-to-rs-1-10-lakh-cr-in-h1-fy27-business-crosses-rs-300-lakh-crore/articleshow/135965650.cms)
-Public sector banks in India have reported a remarkable 16.9 percent rise in net profits during the first half of this fiscal year, reflecting a thriving financial environment. With total business reaching Rs 301.6 lakh crore, and a notable drop in the gross non-performing assets ratio to an unprecedented 1.69 percent, the banks are demonstrating improved stability.
+### [In GCC race, Cognizant bets on reskilling talent, Infosys on rewiring legacy tech](https://www.livemint.com/companies/news/cognizant-infosys-gccs-bengaluru-it-companies-11795009462357.html)
+Separated by less than $1 billion in annual revenue, the two IT rivals are taking sharply different routes to win over global capability centres—a bet that could break the deadlock between them.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Cognizant beats TCS, HCLTech: Tech giant bags seven-year contract worth  ₹16,313 crore from UK’s Network Rail | Details](https://www.livemint.com/companies/news/cognizant-beats-tcs-hcltech-tech-giant-bags-seven-year-contract-worth-rs-16-313-crore-from-uk-s-network-rail-details-11794984226018.html)
-Cognizant has been selected for a seven-year Network Rail contract worth £132.2 million, beating TCS, HCLTech and two global rivals. The deal adds to the IT services major’s recent UK wins amid steady revenue growth in the region.
+### [What lurks beneath India's strong quarterly earnings](https://www.livemint.com/companies/company-results/india-inc-q2-corporate-earnings-profit-revenue-11794995889259.html)
+Adjusted net profit of 3,835 companies rose 30% in Q2FY27, the fastest growth in three years, a Mint analysis showed. But rising input costs and limited pricing power could weigh on margins in the second half.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Nvidia Q3 results FY27: Revenue more than doubles to $115.8 billion; board begins CEO search, rules out Huang's return](https://www.livemint.com/companies/company-results/nvidia-q3-results-fy27-revenue-more-than-doubles-to-115-8-billion-board-begins-ceo-search-rules-out-huangs-return-11794961338156.html)
-Nvidia reported a 103% year-on-year rise in Q3 FY27 revenue to $115.8 billion and forecast $130 billion in Q4 revenue. The results come amid Jensen Huang's resignation, with CFO Colette Kress appointed interim CEO as the board searches for a permanent successor.
+### [Morgan Stanley is ‘overweight’ on these 9 largecap stocks. How many do you own?](https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-is-overweight-on-these-9-largecap-stocks-how-many-do-you-own/slideshow/135977398.cms)
+Morgan Stanley has given an overweight rating to nine major largecap stocks in India in light of current market dynamics. While several stocks faced downturns over the past year, some others experienced increases. The analysis stresses that for India to excel on a global scale, earnings growth is vital. Companies like Hyundai Motor and Trent saw significant declines, while Adani Power distinguished itself with impressive growth, underscoring varied market outcomes.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [How Ashish Kacholia, Radhakishan Damani, Madhusudan Kela and other ace investors reshuffled their portfolios in Q2](https://economictimes.indiatimes.com/markets/stocks/news/how-ashish-kacholia-radhakishan-damani-madhusudan-kela-and-other-ace-investors-reshuffled-their-portfolios-in-q2/slideshow/135953760.cms)
-Mukul Agrawal, Akash Bhanshali and Ashish Kacholia emerge as the biggest portfolio gainers among prominent individual investors in the September quarter. Meanwhile, Radhakishan Damani records the steepest decline. The analysis examines their portfolio values, top stock holdings and changes in shareholding across listed companies.
+### [Sterlite Technologies among 3 stocks showing White Marubozu pattern](https://economictimes.indiatimes.com/markets/stocks/news/sterlite-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135976918.cms)
+Three Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 19, indicating strong upward price momentum during the trading session.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Laurus Labs among 4 stocks showing White Marubozu pattern](https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-among-4-stocks-showing-white-marubozu-pattern/slideshow/135948126.cms)
-Four Nifty200 stocks featured in StockEdge’s White Marubozu bullish scanner on November 18, indicating strong buying momentum during the trading session. Laurus Labs led the list with a gain of over 5%.
+### [Amitabh Bachchan’s KBC question, Saif Ali Khan’s reaction: How Gowardhan Ghee found its new face](https://www.livemint.com/companies/people/amitabh-bachchan-s-kbc-question-saif-ali-khan-s-reaction-how-gowardhan-ghee-found-its-new-face-11795068022115.html)
+Saif Ali Khan has been named brand ambassador for Gowardhan Ghee, two years after winning a two-year supply on Kaun Banega Crorepati. The prize became a social media sensation, prompting the brand to turn the public’s interest into a marketing partnership.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
-
-### [Govt weighs tax tweaks to boost stock trading, curb derivatives: Report](https://economictimes.indiatimes.com/markets/stocks/news/govt-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives/articleshow/135953824.cms)
-The government is reviewing proposals to cut securities transaction tax on cash equities by 50% while raising levies on derivatives to curb speculative trading and encourage broader market participation. Officials are also considering a reduction in long-term capital gains tax. The recommendations will be presented to Finance Minister Nirmala Sitharaman ahead of Budget 2027.
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
-
-### [Global money rushes back into Indian stocks at record pace](https://economictimes.indiatimes.com/markets/stocks/news/global-money-rushes-back-into-indian-stocks-at-record-pace/articleshow/135950745.cms)
-Foreign investors have poured a record $9.61 billion into Indian equities so far in November, marking a sharp reversal after months of selling. Improving earnings prospects, easing crude prices and weakness in the global AI trade are driving renewed interest, with India emerging as one of Asia’s preferred equity markets.
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
-
-### [Ministry of Ayush to observe 9th Naturopathy Day on November 18](https://www.expresspharma.in/ministry-of-ayush-to-observe-9th-naturopathy-day-on-november-18/)
-The event in Karnataka will focus on preventive healthcare, healthy lifestyles and addressing obesity and lifestyle-related disorders under the theme ‘Prakritik Chikitsa, Swasth Bharat’. The post Ministry of Ayush to observe 9th Naturopathy Day on November 18 appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-11-18
-
-### [Post Scheme of Arrangement, India Glycols reports its first financial results for Q2 FY27, Revenue of Rs. 358.18 Crore and EBITDA of Rs. 39.34 Crore - TheWire.in](https://news.google.com/rss/articles/CBMikAJBVV95cUxNR3Q3RmtNdEtKVlJWYjk4Y281N19hTTY5QjVLTFBOenpIYVo2al82eHVYZ1dMOXM4bzNjMDhzRWU5VTRUWlpzX0xRMGg3YWJXaFVWVGxvOV9UN283VU93V01MaWhJd09yd193cm5DUms3eGctWXlzZjhSZl9jdEZpS1gtdzBKRXA5elcwY1hQV2wxN09mN0d5UXRwdVlHeGdTVG5HcF9IakwwUnF6OTl5TGMyTE9jVTdoX3NkZmxwaXVObzhVMC02cXh2enFBNjFEMEZaM0xpRTVjQmsxMU4xRFM4NW90elZ1WXNNQW9NblNzUkNQWktpZnJDSWFiRGZMUDF0ajR1UnR3Skc0WXVqUNIBlgJBVV95cUxPNV80NVlIb0kxV2o4eVkwUUo0QjFGYm8tem1HUE5ETmpmdmxvNENpclFpVHhSdGtBbGVRcmcxSnlIX0tqbnM3TExITUc3d1VWeVAzOVdYSVZKUjFzdWladkdyVUdSMkRwLTRuQWpDX2pibG9Ta0l5OUJ3WnhVaHUtMGZHTmxmUEJ4OHlSaF9WUHRaMzJ4UFlvY1ZaemVvb0ExV2lQNTJGYmJDQ3phSndYVm4zOGs5bWZQRGxDNGFqWTZ1N25Ua0RGeF9ZZEEwcnhFbzEzYlgwc1lQMGpMRUJ3X2ZnLXhtLUtxTEZZM0g3ZjBRZjhwN0JDRmFMdzFjWllSLWdvdDJ6bWNjT1EzOVpYeGdoSWZQQQ?oc=5)
-Post Scheme of Arrangement, India Glycols reports its first financial results for Q2 FY27, Revenue of Rs. 358.18 Crore and EBITDA of Rs. 39.34 Crore &nbsp;&nbsp; TheWire.in
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
-
-### [Ipca Laboratories stock: Q2 profit rises as margins widen - ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEZFT0hDaEZ3aG9qNzNlNm0yWGFLZlZ4WWtaZW9FdWVIaWFOekl3eWlnajgyd2E1S2RvMUs4MlZONFd3WlJjaHlhN1VLOFpiTDZVOUJUTlE5bUJGTGxlb0hLdEFDeHRRRTRlRG9WTXhfcUtJUGxlWExENTAwWHVPLTZVWDNNVmFVMy1Oc1dwSGhudmxkZmdMYlVsUGdSVkQ1dkljZFA1MXJaNkw3dmI5NUR2V285QQ?oc=5)
-Ipca Laboratories stock: Q2 profit rises as margins widen &nbsp;&nbsp; ad-hoc-news.de
-
-**Source:** GNews - IPCA Labs  **Date:** 2026-11-17
-
-### [Mookuthi Amman 2 Box Office Collection Day 13: Nayanthara Starrer Keeps Its Theatrical Run Going, Check Earnings](https://www.ndtvprofit.com/entertainment/mookuthi-amman-2-box-office-collection-day-13-nayanthara-starrer-keeps-its-theatrical-run-going-check-earnings-12345571#publisher=newsstand)
-Mookuthi Amman 2 released in theatres on November 6, 2026.
-
-**Source:** NDTV Profit  **Date:** 2026-11-18
-
-### [Lasa Supergenerics (NSE:LASA) Confirms Demat Compliance for Q1 FY27 Through Share Transfer Agent Certificate - Kalkine Media](https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGNKR3RFbkVfaldWRjZhaVBfNzY0b1FBX3FYT0tCVUl1V2V2NXBnUHBNUGdoOVF6OGUyU1lMdlZsNXlhN0M1b1BmTjluUVdreFBRQ2ZCTHUyanVRWlF2VElrQ2VEa0ZNOHJsYVZVSWRGcVJoWnB2YXZxZ3NCd3V5LU5UMnlEY0xXaVpBeG9JYjdJRktTcngzZ2hCZDBqUFd0TU50QlNobGZnRXRnVjdzaUtCMHlLdUdRV1hGZm9taElfX3VJTERRTXZWYjJLOTBJRDZ5UlZnUHZ1dzgxeVpPRDBXdG9yUmc?oc=5)
-Lasa Supergenerics (NSE:LASA) Confirms Demat Compliance for Q1 FY27 Through Share Transfer Agent Certificate &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
+## 🤝 Deals, M&A & Partnerships (11)
 
-### [Fractal Analytics eyes 20-25 startups in healthcare, AI engineering and agentic AI: What's driving the acquisition push?](https://www.livemint.com/companies/news/fractal-analytics-eyes-20-25-startups-in-healthcare-ai-engineering-and-agentic-ai-whats-driving-the-acquisition-push-11794994352172.html)
-Fractal Analytics is in talks with 20-25 startups for acquisitions across healthcare, agentic AI and engineering. Here's what the company hopes to gain.
+### [In growth push, Howden eyes insurance broker buyouts in India](https://www.livemint.com/companies/howden-insurance-broker-acquisition-irdai-11795001168771.html)
+Having taken full ownership of its Indian arm, Howden could consider acquisitions that add expertise and capabilities and not just scale, joining a growing list of global firms eyeing a bigger slice of India's insurance pie.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Piramal Pharma moves to take full ownership of Yapan Bio](https://www.expresspharma.in/piramal-pharma-moves-to-take-full-ownership-of-yapan-bio/)
+The acquisition will take Piramal Pharma’s shareholding from 74 per cent to 100 per cent, subject to completion The post Piramal Pharma moves to take full ownership of Yapan Bio appeared first on Express Pharma .
+
+**Source:** Express Pharma  **Date:** 2026-11-19
+
+### [Ambuja Neotia to invest about  ₹2,700 crore in hotels, almost triple room capacity](https://www.livemint.com/companies/news/ambuja-neotia-to-invest-about-2700-crore-hospitality-business-hotel-expansion-11795005410954.html)
+The Kolkata-based group plans to add capacity to its hotels business, largely in eastern India, while expanding its partnership with IHCL and building an asset-light boutique hotel business through Tree of Life.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Meta suspends plan to issue new shares to Mark Zuckerberg amid Delaware lawsuit: Why investors are challenging the deal](https://www.livemint.com/companies/news/meta-suspends-plan-to-issue-new-shares-to-mark-zuckerberg-amid-delaware-lawsuit-why-investors-are-challenging-the-deal-11795054218716.html)
+Meta has paused its plan to issue non-voting Class C shares to Mark Zuckerberg amid an investor lawsuit. The proposal would allow him to sell up to half of his stake over time without losing control of the social media giant.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Style Union parent Nexon raises  ₹485 crore from Venturi, Elev8 Venture](https://www.livemint.com/companies/news/style-union-parent-nexon-raises-485-crore-from-venturi-elev8-venture-11795013657417.html)
+The deal values the fashion retail chain at about ₹8,000 crore, a person with knowledge of the matter said.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ### [Intel layoffs: Fresh job cuts hit chipmaker, workforce falls to 81,100 as Lip-Bu Tan steps up restructuring](https://www.livemint.com/companies/news/intel-layoffs-fresh-job-cuts-hit-chipmaker-workforce-falls-to-81-100-as-lip-bu-tan-steps-up-restructuring-11795018413325.html)
 Intel has announced fresh job cuts as CEO Lip-Bu Tan pushes ahead with restructuring. The chipmaker's workforce has fallen to 81,100 amid mounting business challenges.
@@ -117,38 +92,49 @@ OpenAI’s head of Strategy and Global Affairs to lead commercial partnerships i
 
 **Source:** Mint - Pharma  **Date:** 2026-11-18
 
-### [Nvidia power shift: Colette Kress, Madison Huang and the battle over Jensen Huang's legacy](https://www.livemint.com/companies/people/nvidia-power-shift-colette-kress-madison-huang-and-the-battle-over-jensen-huangs-legacy-11795004372852.html)
-Nvidia's leadership transition has brought renewed attention to the relationship between interim CEO Colette Kress and Madison Huang, daughter of former CEO Jensen Huang. Kress had questioned financing and investment deals linked to Madison and Nico Caprez, even before Huang stepped down.
+### [Indegene joins C-CAMP-Imperial Indo-UK Life Science Corridor as first industry partner](https://www.expresspharma.in/indegene-joins-c-camp-imperial-indo-uk-life-science-corridor-as-first-industry-partner/)
+The partnership will focus on connecting research, entrepreneurship and industry, with initial priority areas including antimicrobial resistance, diagnostics, digital health, agritech, brain science and mental health. The post Indegene joins C-CAMP-Imperial Indo-UK Life Science Corridor as first industry partner appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** Express Pharma  **Date:** 2026-11-19
 
-### [Reliance vs Starlink: Ambani’s firm explores manufacturing partnerships to counter Musk’s satellite service | Details](https://www.livemint.com/companies/news/reliance-vs-starlink-ambani-s-firm-explores-manufacturing-partnerships-to-counter-musk-s-satellite-service-details-11794978152675.html)
-Reliance is reportedly exploring manufacturing partnerships with Indian firms and satellite imports from the US to build its planned 1,600-satellite broadband constellation, as it seeks to expand connectivity and strengthen India's strategic space capabilities.
+### [Pfizer, Starna Therapeutics enter exclusive licensing agreement for autoimmune diseases](https://www.expresspharma.in/pfizer-starna-therapeutics-enter-exclusive-licensing-agreement-for-autoimmune-diseases/)
+Starna to receive upfront payment of $330 million, eligible to receive up to $2.3 billion in milestone payments associated with certain development and commercial milestones, plus royalties on net sales of approved products The post Pfizer, Starna Therapeutics enter exclusive licensing agreement for autoimmune diseases appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** Express Pharma  **Date:** 2026-11-19
 
-### [Sun Pharma explores funding mix for $12 billion Organon deal - pharma.economictimes.indiatimes.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSGdEOTc5T2Z6czQ2UWl5LWplZDRHTjhqakhkakU4V3Y2YmZfdlF5WEtoZHpza1ZsTHYyNFctR2cySFZFN1lRMERPeGNBdlhRNWdhNC1zWTZfRDBMZ1ZlV2R5bW9ZVUc4WmNKN0NJN0t1cjJnWVVhdmJNNVRGRGFUeDVyNUd2MFFxR1hSV2Q3S2VEMWNCcVZKU1VubjZMREJHckliMktycHdvT0NHVUdMbmN0WGk2RENwYmZNdmtNTmo3b21xSWVrZHJWLXdqYURfRFUxUGhwN3oyWWVMMm8xZGVjY0Y?oc=5)
-Sun Pharma explores funding mix for $12 billion Organon deal &nbsp;&nbsp; pharma.economictimes.indiatimes.com
+### [VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger - scanx.trade](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVhLenhkM3dpM2M1TVk0dUNhS2RwT1M5eGhRRVcySW85Yl9MTU0yM0RNY1pmMzFiTlZzX0NoN1N6RlFuVUNZRkFHSmZ2Rm11T3N0R2pBRGNTRjNQOVhpRHNxOWUxLVpMUTVKVGxibnU2M29DamFSTHhTWXdzSDBQOG42TTFGejRFeTRNQXdhaEhDd3Qzb2NQcWxrTGlzNUNCY1BFOUdJclNlOXE3RExNMFBhdmhoM00?oc=5)
+VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger &nbsp;&nbsp; scanx.trade
 
-**Source:** GNews - India Pharma M&A  **Date:** 2026-11-17
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
----
+### [Petrol Pump Dealers Meet Oil Minister Today With One Demand: Higher Margins](https://www.ndtvprofit.com/markets/petrol-pump-dealers-meet-oil-minister-today-with-one-demand-higher-margins-12348686#publisher=newsstand)
+Petrol dealers are pushing for an early revision of margins.
 
-## 💸 Corporate Actions (1)
-
-### [Dalmia Bharat to consider share buyback at Nov 23 board meeting](https://economictimes.indiatimes.com/markets/stocks/news/dalmia-bharat-to-consider-share-buyback-at-nov-23-board-meeting/articleshow/135966836.cms)
-Dalmia Bharat, India's fourth-largest cement manufacturer, will hold a board meeting on November 23. The meeting will focus on a proposal for a buyback of fully paid-up equity shares. Specific details regarding the buyback size, price, and number of shares have not been disclosed yet. The company also plans to expand its cement capacity to 75 million tonnes per annum by FY28.
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
 ---
 
 ## 🏭 Operations & Approvals (8)
 
-### [SpiceJet board approves up to Rs 5,500 crore fundraise amid operational challenges; stock hits 5% upper circuit](https://economictimes.indiatimes.com/markets/stocks/news/spicejet-board-approves-up-to-rs-5500-crore-fundraise-to-support-fleet-expansion-drive-revival/articleshow/135958224.cms)
-SpiceJet's board of directors announced a fundraising plan to raise up to Rs 5,500 crore. The airline's shares have surged significantly, hitting the upper circuit for six consecutive sessions. Flight cancellations and operational disruptions have caused significant challenges for SpiceJet in recent days. The airline is focusing on rebuilding capacity and ensuring operational reliability going forward. The fundraising aims to strengthen its financial position and support fleet expansion efforts.
+### [KKR picks up minority stake in Gentari’s India renewables business](https://www.livemint.com/companies/news/kkr-acquires-minority-stake-in-gentari-renewables-india-11795068988820.html)
+The investment will provide growth capital to Gentari’s India platform, which has about 8 GW of operating, under-construction and contracted renewable energy capacity.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Intel lands first 18A chip customer, takes on TSMC: Who is its first chip customer? Apple, Nvidia in focus](https://www.livemint.com/companies/news/intel-lands-first-18a-chip-customer-takes-on-tsmc-who-is-its-first-chip-customer-apple-nvidia-in-focus-11795049374013.html)
+Intel says it has signed its first external customer for its 18A-P chipmaking process, a milestone in its bid to compete with TSMC. The customer remains unnamed, while Apple, Nvidia, Amazon, Microsoft and Google are among potential clients seeking additional chipmaking capacity.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Allana bets on meat-sourcing edge to crack India's pet-food market](https://www.livemint.com/companies/news/allana-bets-on-meat-sourcing-edge-to-crack-indias-pet-food-market-11794988551156.html)
+The 161-year-old B2B meat exporter is building consumer brands Bowlers and Purrfeto, leveraging its processing network as FMCG companies intensify competition in the pet-food market.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Wise CEO questions RBI’s  ₹25 lakh cap on cross-border fintech payments](https://www.livemint.com/companies/news/wise-ceo-questions-rbi-s-25-lakh-cap-on-cross-border-fintech-payments-11795003830944.html)
+Kristo Käärmann says the limit makes it harder for Indian exporters to bring money home, even as Wise moves $15 billion, or about 10% of India’s inward remittances, into the country
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ### [Meet Amruda Nair, granddaughter of The Leela founder Captain CP Krishnan Nair who launched Araiya Hotels &amp; Resorts](https://www.livemint.com/companies/people/meet-amruda-nair-granddaughter-of-the-leela-founder-captain-cp-krishnan-nair-who-launched-araiya-hotels-resorts-11795016627692.html)
 Amruda Nair founded Araiya Hotels &amp;amp; Resorts in 2018, focusing on destination-led luxury and experiences. The company aims to reach 40 hotels over the next five years, she revealed in a new interview with Hotelier India.
@@ -160,207 +146,160 @@ The 760,000-tonne facility, expected to be commissioned by 2029, will supply gre
 
 **Source:** Mint - Pharma  **Date:** 2026-11-18
 
-### [Who is Deepak Rajawat? Former Vistara executive appointed Air India Express CEO amid ambitious fleet expansion plans](https://www.livemint.com/companies/news/air-india-express-names-cfo-deepak-rajawat-as-ceo-as-budget-carrier-bets-on-expansion-11794992207078.html)
-Air India Express has appointed Deepak Rajawat, its current finance chief, as the budget carrier's chief executive officer.
+### [Alkem Laboratories ALKEM US FDA Warning Letter Daman Plant 2026 - Kalkine India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUdFVnZWSmVXZk4ySS1lSm9HUDVNSUdJVnlSbnhlaHMxTHVNcXFRMzRZV3ZLR0NRUGVkTm1EY2hDNkt6Vi0yUVFWSjFQZ1lVeGtaS0pXeFlkTlIwMF91ZU9feXZxcGxHdjZKckpHMDF4WDZsUG1UNGdIMlhJOTBTY2JHQWFKWTZtWjFxU3VZYm5vWUxyYS1SNHJzM0pGZnc0X0hLQVcyclFzSXBiLURCTzI3VlNjLW42X3dqOTVlWGFOZ2FMbUw4Sms3WmNCV1lrOVE?oc=5)
+Alkem Laboratories ALKEM US FDA Warning Letter Daman Plant 2026 &nbsp;&nbsp; Kalkine India
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** GNews - India Pharma Export  **Date:** 2026-11-19
 
-### [Tata Steel's 40 mtpa domestic capacity target slips by upto five years](https://www.livemint.com/companies/news/tata-steel-40-million-tonne-capacity-target-delayed-to-2035-11794982739586.html)
-The steelmaker expects to reach its domestic capacity target three to five years late, while seeking government support to fund its green steel transition in the Netherlands.
+### [Google Rolls Out Gemini 4 Neon With One Million-Token Context Window](https://www.ndtvprofit.com/technology/google-rolls-out-gemini-4-neon-with-one-million-token-context-window-12348619#publisher=newsstand)
+Google launches Gemini 4 Neon
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
-### [Biocon secures EC marketing authorisation for pertuzumab biosimilar Pebrilzo](https://www.expresspharma.in/biocon-secures-ec-marketing-authorisation-for-pertuzumab-biosimilar-pebrilzo/)
-The approval makes Pebrilzo the first biosimilar to receive EC marketing authorisation under the EMA’s new tailored clinical approach The post Biocon secures EC marketing authorisation for pertuzumab biosimilar Pebrilzo appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-11-18
-
-### [Senores Pharmaceuticals secures PIC/S GMP certification for Gujarat facility](https://www.expresspharma.in/senores-pharmaceuticals-secures-pic-s-gmp-certification-for-gujarat-facility/)
-The certification covers injectable and oral solid manufacturing at its subsidiary Ratnatris Pharmaceuticals’ Mehsana facility and supports the company’s plans to pursue approvals across semi-regulated markets The post Senores Pharmaceuticals secures PIC/S GMP certification for Gujarat facility appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-11-18
-
-### [DALPL: Building India’s next-gen of specialised testing capabilities](https://www.expresspharma.in/dalpl-building-indias-next-gen-of-specialised-testing-capabilities/)
-From a food and agricultural testing laboratory to a specialised pharma testing facility, the company’s journey reflects the evolution of India’s analytical testing industry. In this conversation, Ashay Mehta, Founder &#038; Managing Director of Doctors’ Analytical Laboratories Pvt Ltd (DALPL) discusses regulatory compliance, data integrity, emerging testing requirements, talent challenges and plans to expand into peptides, topical products and medical device testing with Swati Rana The post DAL
-
-**Source:** Express Pharma  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
 ---
 
-## 📉 Analyst & Brokerage Calls (8)
+## 📉 Analyst & Brokerage Calls (7)
 
-### [Kotak MF, BlackRock, others buy stake worth Rs 1,905 cr in Groww](https://economictimes.indiatimes.com/markets/stocks/news/kotak-mf-blackrock-others-buy-stake-worth-rs-1905-cr-in-groww/articleshow/135964570.cms)
-Kotak Mahindra Mutual Fund (MF) led the buying spree, acquiring 2.05 crore shares or a 0.33 per cent stake, for Rs 448.95 crore, making it the biggest buyer in the transaction.
+### [Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list](https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms)
+Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
+
+### [The mystery 31% shareholder towering over Deepinder Goyal’s Temple](https://www.livemint.com/companies/news/who-owns-deepinder-goyal-temple-wearable-startup-stake-11795082965679.html)
+Deepinder Goyal’s ₹1,715-crore wearable startup Temple has attracted India’s marquee investors. Yet corporate filings reveal a silent figure holding a bigger stake than Goyal himself. Behind the ₹85,000 device lies an intriguing trail.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ### [Sell-Side Analysts Rip Short-Seller Report on Retailer Dynamite](https://www.livemint.com/companies/sellside-analysts-rip-short-seller-report-on-retailer-dynamite-11795027352005.html)
 Several financial analysts fended off a negative report from short-seller Spruce Point Capital Management LLC about fast-fashion retailer Groupe Dynamite Inc.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-18
 
-### [Air India Express bets on Rajawat to turn growth into profits](https://www.livemint.com/companies/news/air-india-express-bets-on-rajawat-to-turn-growth-into-profits-11795000954047.html)
-Air India Express's earlier CEO, Aloke Singh, left in March, and the budget carrier then appointed Captain Hamish Maxwell, the airline's chief operating officer, as its ‘accountable manager’
+### [Buying A Car Or Jewellery Via UPI? New Merchant Rules Could Change Checkout Options](https://www.ndtvprofit.com/personal-finance/buying-a-car-or-jewellery-via-upi-new-merchant-rules-could-change-checkout-options-12348537#publisher=newsstand)
+MDR is generally distributed among participants in the payment network after a transaction is settled.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [Krishna Reddy raises  ₹7,000 crore to buy out uncle PP Reddy’s stake in Megha Engineering: Report](https://www.livemint.com/companies/news/krishna-reddy-raises-rs-7-000-crore-to-buy-out-uncle-pp-reddy-s-stake-in-megha-engineering-report-11794990852503.html)
-MEIL managing director PV Krishna Reddy has reportedly raised about ₹7,000 crore from global investors, led by Davidson Kempner, to buy his uncle PP Reddy’s stake. The financing supports a family settlement that could value the controlling stake at ₹12,000–15,000 crore.
+### [Stock Market Highlights: Final Hour Buying Lifts Sensex 990 Points; Nifty Ends At 25,514; Bank Nifty Hits Record](https://www.ndtvprofit.com/markets/stock-market-live-update-november-19-sensex-today-nifty-open-lower-amid-mixed-cues-brent-crude-oil-prices-anthropic-ipo-listing-bse-nse-12347038#publisher=newsstand)
+Indian Stock Market Today, November 19, 2026
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [Waymo pauses robotaxi rides on freeways after California bars its driverless vehicles, citing an 'imminent hazard'](https://www.livemint.com/companies/news/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-bans-autonomous-vehicles-for-posing-an-imminent-hazard-11794967322655.html)
-California has barred Waymo from testing or operating driverless vehicles on state freeways, citing repeated incursions into active construction zones and an imminent public safety hazard. Waymo has paused freeway operations in its other markets and is reviewing performance.
+### [Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off - TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTkwTm8yR2FXWnNlY2szYnF0OVBsY3lTYlZ4T3NEOVlOMEp2ZzR1bU5fREpoLWpGWWZfaGh1YTRON0lDSXp1YlE5NmlzRU1iTFluRFZJclp2ZE9zNzN5c2EtYWRYOFJnTlE2OHZCT3JzMmVoNFVsNDA4WWhlYlFHanplSUZiOUoySFVka3B4UVp0bmlYZUlsX3JMX0NxeUFKQWJTUjNSMUV4ZExBSVMwUk0zdDdKb2JvMFFDS0FOQXNNQQ?oc=5)
+Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off &nbsp;&nbsp; TradingView
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Buy, Sell Or Hold: MCX, LG Electronics India, Tata Motors PV, HDFC Bank And ITC — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-mcx-lg-electronics-india-tata-motors-pv-hdfc-bank-and-itc-ask-profit-12345528#publisher=newsstand)
-Market experts shared buy, sell and hold recommendations for an array of stocks.
+### [Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSkFKT2x0RHZYZEFSRjJyT0I0X0s5MXcyak1SQVd5bW53MUlHLVlFVEhCMVZQbkUzWWV3alIxcExqbHd3bDNEVDBtTHB6SVhRZXA3OWpPN3p0dDBUZUNBNS00dzNoR254THBzWXZzZFIyYWQ3cVlaTkdyUDhjWTZ5UVhuUUtDSDUtcVNWYkV0RGxEeXpoRFFEUXBzQWl5ZjluNWFBNmFTSGxYZERDcVhVRkFRVWk4RnZSQ2hxR1QtTkRiNHlrSy1YLXZvb05Uc2dvTFUwcnFrMDJ3MTNtekpSVml3cHlZR1ZVTEZN?oc=5)
+Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026 &nbsp;&nbsp; Kalkine Media
 
-**Source:** NDTV Profit  **Date:** 2026-11-18
-
-### [Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMTN3MndTaEthVWM4Tnp4b3FocEpYVUlhbDZNQzI1VmtZN1djbm9HWG1xSW45dDZCRG1yNHluOXY1bWpkTW00Sldjdm1BTG43U3J5MGoxX3gtd2E1S2lsTmw1eVhfbEF1TlhsVl9CNkNQYUtacDlsU3duMVQ3d2wxNW5yV3RMV2dMcmIzclNId1JEYW1Wb2JrbmZXcjdyeHFpS1A0LTlndFB5dV9IUjhIX2FjY0NFMm5NR3Jpd21zY3lJTGVaOThNUk1WUUhQUzN3Um53UE44ZFA?oc=5)
-Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026 &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
-
-### [FIIs pump in Rs 5,866 crore, DIIs net sellers: 3 triggers driving market volatility - The Financial Express](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmtkS1BrWmRSU2U1UWlmUzh6aFZrdDh3QW9PdHpwajZaM3B6VklOQmR2RVB5Tlc4ZnA1REhDakdWdnA3VHk3a1pYWGNERmpTcmRyYklvQS1vNWVkU0VHMWtxMjRQT3lWSXUxVjZ4eXRoYXkyNHlzb3hHUWlLQjJ4bW84Y2VNdS05bE54WEhGWkZUNVFKS0FLclZGaHpreUlna2JINkZWWk8xLXdHUkhCV3gxUGRZWTcyTDAxdGxOb0dia3EzaVJhdtIBzwFBVV95cUxNdTAxQmpFRHpxT0JZNkNMTHpnd2l0TDFUUm4yMjBlYmI0S016WmxEQXo3WGdNYnB0cDBOeUpUUkhDZTc5WTA0c2ZNekNhMGdGVWNtZU9QVXpuLVdKSXFUYUgzWWZhM0tiRkRUSU9uT0NwUjlGRUJqRjRDVUVPRkdPRVNXZG1GWWJ6TlpOcmExWGFIQzZtelhBVzJMZXoyS3RmR3hhbHJnOUFKYVdMVlc4ckdRUk5wQnVvbmZBcmpSdlRIdTdBWkFHTFFNbGkwTUE?oc=5)
-FIIs pump in Rs 5,866 crore, DIIs net sellers: 3 triggers driving market volatility &nbsp;&nbsp; The Financial Express
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
 ---
 
-## 📰 Industry & Policy News (28)
+## 📰 Industry & Policy News (23)
 
-### [Max Healthcare among 10 Nifty stocks rallied up to 22% in 1 month. Did you miss the rally?](https://economictimes.indiatimes.com/markets/stocks/news/max-healthcare-among-10-nifty-stocks-rallied-up-to-22-in-1-month-did-you-miss-the-rally/slideshow/135951355.cms)
-Nifty has surged impressively, claiming the title of the top-performing major equity market lately. Max Healthcare Institute reported a striking gain of almost 22% over the past month. InterGlobe Aviation and Mahindra &amp; Mahindra followed suit with increases of approximately 20% and 17% respectively. The State Bank of India, a prominent public-sector entity, saw an uplift of about 15% as well.
+### [CreditAccess Grameen among 7 stocks closing below VWAP](https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-7-stocks-closing-below-vwap/slideshow/135976841.cms)
+Seven Nifty 500 stocks, including CreditAccess Grameen, Swan Corp, Black Box and Torrent Pharmaceuticals, closed more than 1% below their respective Volume Weighted Average Prices (VWAPs) on November 18, according to StockEdge data. The technical scan identifies stocks that ended the session below their volume-weighted average traded prices.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Prime Focus among 4 stocks that closed above VWAP](https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-that-closed-above-vwap/slideshow/135948232.cms)
-Four Nifty500 stocks, including Prime Focus, RHI Magnesita India, Laurus Labs and Tata Investment Corporation, closed more than 1.5% above their respective volume-weighted average prices (VWAPs) on November 18. The technical scan by StockEdge highlights stocks that ended the trading session above their volume-weighted average traded prices.
+### [Cipla Share Price Live Updates: Cipla's Market Activity Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-19-nov-2026/liveblog/135976080.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+### [Divis Labs Share Price Live Updates: Divis Labs ends the trading session at Rs 11135.5](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-19-nov-2026/liveblog/135975929.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-18-nov-2026/liveblog/135946796.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+### [Sun Pharma Share Price Live Updates: Sun Pharma closes higher today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-19-nov-2026/liveblog/135975739.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-18-nov-2026/liveblog/135946463.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+### [Gold Rates Live Updates: Gold prices fall marginally, silver gains on MCX. Check future estimates](https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-18-nov-2026/liveblog/135946399.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Price and Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-19-nov-2026/liveblog/135975896.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-18-nov-2026/liveblog/135946378.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+### [HCL Tech Share Price Live Updates: Current Status of HCL Tech Shares](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-19-nov-2026/liveblog/135975802.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [‘Very wrong signal to investors’: Anil Agarwal on transfer of Vedanta’s oil and gas block in Gujarat to ONGC](https://www.livemint.com/companies/news/very-wrong-signal-to-investors-anil-agarwal-on-transfer-of-vedanta-s-oil-and-gas-block-in-gujarat-to-ongc-11794983284309.html)
-Vedanta Chairman Anil Agarwal said transferring the producing Cambay offshore block to ONGC could undermine investor confidence. The transfer followed the government’s rejection of a contract extension; Vedanta’s legal challenge is awaiting a Delhi HC division bench judgment.
+### [Who is Krishna Rao? Meet the low-profile Indian-origin CFO behind Anthropic IPO - Biggest AI listing soon](https://www.livemint.com/companies/people/who-is-krishna-rao-meet-the-low-profile-indian-origin-cfo-behind-anthropic-ipo-biggest-ai-listing-soon-11795070299535.html)
+Anthropic CFO Krishna Rao has helped guide the company’s rapid growth, fundraising and IPO while balancing investor expectations with its commitment to safe AI.&amp;nbsp;
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Market Trading Guide: Deepak Fertilisers among 3 stock recommendations for Thursday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepak-fertilisers-among-3-stock-recommendations-for-thursday/slideshow/135967160.cms)
-Indian equity benchmarks declined amid weak global cues and profit booking, with the Nifty falling 0.63% and Sensex 0.61%. Choice Broking's Sachin Gupta recommended three stocks—Vijaya, Eureka Forbes and Deepak Fertilisers—with bullish technical setups and defined targets.
+### ['Not a smart decision': Elon Musk calls former Nvidia CEO Jensen Huang 'irreplaceable'](https://www.livemint.com/companies/people/not-a-smart-decision-elon-musk-calls-former-nvidia-ceo-jensen-huang-irreplaceable-11795070130332.html)
+Elon Musk has criticised Jensen Huang's exit from Nvidia, comparing the former CEO to Michael Jordan and saying removing him from the chipmaker was not a smart decision as he would be difficult to replace.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [PI Industries among 5 stocks hitting 52-week low; slipped up to 26% in a month](https://economictimes.indiatimes.com/markets/stocks/news/pi-industries-among-5-stocks-hitting-52-week-low-slipped-up-to-26-in-a-month/slideshow/135961979.cms)
-Five BSE 500 stocks, including PI Industries, Aditya Birla Fashion and Retail and Thermax, hit fresh 52-week lows as the market weakened, with losses reaching 26% in a month.
+### [Can your laptop do what Deepinder Goyal’s  ₹85,000 Temple device does? Man’s experiment gets Zomato founder’s attention](https://www.livemint.com/companies/people/can-your-laptop-do-what-deepinder-goyal-s-85-000-temple-device-does-man-s-experiment-gets-zomato-founder-s-attention-11795063871782.html)
+A venture capital employee partially recreated Zomato co-founder Deepinder Goyal’s microphone-free Temple technology using his laptop’s accelerometer.&amp;nbsp;
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [16 microcap stocks surge up to 390% in CY26, emerge as multibaggers](https://economictimes.indiatimes.com/markets/stocks/news/16-microcap-stocks-surge-up-to-390-in-cy26-emerge-as-multibaggers/slideshow/135953025.cms)
-The Nifty Microcap 250 has outperformed the benchmark Nifty 50 in CY26, with several constituents delivering multibagger returns. Sixteen microcap stocks have more than doubled investors' wealth so far this year, led by Sigma Advanced Systems, while nearly 50 stocks in the index have gained over 50%.
+### [Masayoshi Son’s Anthropic regret: ‘I wish I’d invested back then’ as AI startup heads for IPO](https://www.livemint.com/companies/people/masayoshi-son-s-anthropic-regret-i-wish-i-d-invested-back-then-as-ai-startup-heads-for-ipo-11795055869562.html)
+SoftBank founder Masayoshi Son said he regrets passing on an opportunity to invest in Anthropic after SoftBank had committed to OpenAI. Anthropic priced its IPO at $83 per share, valuing the company at $1.5 trillion and raising $81 billion.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-18-nov-2026/liveblog/135946814.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-18
+### ['Let's move forward': Nvidia interim CEO Kress announces pay raises at first all-hands meeting since Huang's exit](https://www.livemint.com/companies/news/lets-move-forward-nvidia-interim-ceo-kress-announces-pay-raises-at-first-all-hands-meeting-since-huangs-exit-11795051109976.html)
+Nvidia interim CEO Colette Kress urged employees to move forward at the company's first all-hands meeting since Jensen Huang's resignation, announcing pay raises as calls for the former chief's return grow despite the board ruling out his reinstatement.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ### [Nvidia’s ‘selective’ funding: Could interim CEO Colette Kress’s 'disciplined' approach slow neocloud boom? Explained](https://www.livemint.com/companies/news/will-nvidia-s-selective-funding-reshape-the-neocloud-boom-why-colette-kress-s-pledge-matters-11794998285339.html)
 Nvidia interim CEO Colette Kress has pledged selective funding for neoclouds and AI startups. Could the move reshape the industry's growth?
 
 **Source:** Mint - Pharma  **Date:** 2026-11-18
 
-### [Nvidia hires Heidrick &amp; Struggles as it intensifies search for next CEO | All you need to know about firm](https://www.livemint.com/companies/news/nvidia-hires-heidrick-struggles-as-it-intensifies-search-for-next-ceo-after-jensen-huang-stepped-down-all-you-ne-11794990457747.html)
-Nvidia has hired executive search firm Heidrick &amp;amp; Struggles to find its next CEO following Jensen Huang's resignation. The firm has previously helped major companies appoint leaders, including Google's Eric Schmidt, Microsoft's Satya Nadella and Freddie Mac's Charles Haldeman Jr.
+### [HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites - The Economic Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWkJpRzhEcS1HS2M1OXBQenpkQmNlbmlnZzJyQjJLYkVQb2xqRkREZjlIcUVTa0liSXRPSkxHdmlQNXB6clRXQ0FqY1ExZXZEX2Mzdy13X01yd3AxT3NQemJiNjQyRXp5WjlqXy0tU1lMSm5iQjR0MWExRTlSODdTVUZQUnY0SG1jbTBncUhPX285ZnJkT00yM0x2ZXA3VF9ZMkl6akYzNE0xX29xdEZUZkdpOTVDSHVfVUxfdzFlUWc2djFSUmcwRGJDQ3ZLZmYtMEw1UmtvUUEybzNEZzBxNFlIRXI4NENuV0ZRbThOU2xRanlWOHFiWkxTRG5zLWwyVDl4V2hCcWfSAY4CQVVfeXFMT0FYemcxaTBKS0Zwa0tYQUVYMGllRXdtTnhYUVNnUmk3S2JmejNsVlRDWS0xVzEtV01LTHgyUW9CVUNra2RxNlkwVzZDWFR2Y2xhTFJBbnhGN2g4dHdVTGFaaVEzTWEtTUlIa1FVSER2ZGJkZmVVZ3ljTXhSOWlaTXRCZW4xZE9SOTJuckl1V2lBZFpSM19iUElhdzVZNDAwT3J2eDdVRTZjU1I2TVhEVkRvTlRsLVJkb25DU1N2QkVFdE1sU3Jqdm5BRk5LN3htS3JxdzFfbVh6SnJQb0haMEk5am10UmZzMTFkM05peWREQnk0WVVMWkh5THd2WVF1VWZYSFZEWGFIQm51a3lR?oc=5)
+HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites &nbsp;&nbsp; The Economic Times
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Doors shut on Jensen Huang: Where are the other Nvidia co-founders, Chris Malachowsky and Curtis Priem, now?](https://www.livemint.com/companies/people/doors-shut-on-jensen-huang-where-are-the-other-nvidia-co-founders-chris-malachowsky-and-curtis-priem-now-11794988659661.html)
-Nvidia’s three co-founders built the company after meeting at a Denny’s in East San Jose. Jensen Huang became its longtime public face, while Chris Malachowsky remains a senior technical leader. Curtis Priem retired in 2003, later donating most of his Nvidia fortune to his alma mater.
+### [Gokul Dairy Announces Its Biggest Milk Price Hike Yet. And Another May Come In January](https://www.ndtvprofit.com/business/a-rs-70-crore-gap-behind-gokul-s-record-milk-price-hike-and-another-may-come-in-january-12349235#publisher=newsstand)
+The dairy union's latest price revision follows a reported Rs 70 crore financial deficit.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [Boutique firms take on McKinsey, BCG and the Big Four in B-school hiring](https://www.livemint.com/companies/news/boutique-consulting-firms-compete-for-iim-campus-talent-mckinsey-bcg-big-four-11794976482483.html)
-Consulting is drawing 35-40% of management graduates, and boutique firms &amp;nbsp;are now directly challenging giants like BCG, Bain and the Big Four on campus. B-schools expect the rivalry to intensify further as AI reshapes junior consulting roles.
+### [India vs Malaysia Women's Asian Champions Trophy Live Streaming: When And Where To Watch IND vs MAS On TV, Online?](https://www.ndtvprofit.com/sports/india-vs-malaysia-womens-asian-champions-trophy-live-streaming-when-and-where-to-watch-ind-vs-mas-on-tv-online-12346389#publisher=newsstand)
+Defending champions India begin their campaign against Malaysia in Bhopal as they eye a third consecutive Women's Asian Champions Trophy title.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [‘I would not hire an outsider’: Jeff Bezos on why Nvidia should look within to replace Jensen Huang as next CEO](https://www.livemint.com/companies/people/i-would-not-hire-an-outsider-jeff-bezos-on-why-nvidia-should-look-within-to-replace-jensen-huang-as-next-ceo-11794972210732.html)
-Nvidia is searching for a new CEO after Jensen Huang’s resignation, with board chair Harvey Jones ruling out his return. Jeff Bezos urged the company to promote from within, arguing Nvidia’s complexity makes an outside hire risky.&amp;nbsp;
+### [PG Electroplast: How A Penny Stock Became A Rs 16,000 Crore Multibagger](https://www.ndtvprofit.com/markets/from-penny-stock-to-rs-16-000-crore-giant-the-118x-multibagger-journey-of-pg-electroplast-12348746#publisher=newsstand)
+A look at how PG Electroplast turned a Rs 1 lakh investment into Rs 1.18 crore in seven years, emerging as a Rs 16,000 crore multibagger.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [End of the road for Jensen Huang? Nvidia Board Chairman Harvey Jones says no intention to rehire him as CEO](https://www.livemint.com/companies/news/end-of-the-road-for-jensen-huang-nvidia-board-chairman-harvey-jones-says-no-intention-to-rehire-him-as-ceo-11794963686059.html)
-Nvidia Board Chair Harvey Jones said the board does not intend to reinstate co-founder Jensen Huang as CEO. The company has hired Heidrick &amp;amp; Struggles to find a permanent leader, while interim CEO Colette Kress oversees operations during an investigation into Huang’s departure.
+### [Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification - Kalkine Media](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFA0NHhoUXpOQTNsSFQ0OGJKVmlJSnpFNlBZQUdxR1RxYWMzN0FNSVZtZHR3RFAxM1E5SVZyS281aWVRQXhGX2VlOFZfZGdIMUNvNFpFNHhzc0lYelJldXV2UlZxYkxfZ012ODVHMkxJSjhDcU1sTVB3UDhoamI3WTNqMm9XanN3MFRGVFE1bElLb1RneGdvY0tIaHJDa0IyUTB2OFNOSkxLSVppTUQyY3hiTG91SDU5TUd4SGo1b21qdW53MlVoUDBYNWRzVkc4R1FtX1RGbHU?oc=5)
+Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification &nbsp;&nbsp; Kalkine Media
 
-**Source:** Mint - Pharma  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [AI and the future of pharmacy education](https://www.expresspharma.in/ai-and-the-future-of-pharmacy-education/)
-Prof. (Dr) Satish Sardana, Director, Amity Institute of Pharmacy, Amity University Haryana speaks to Kalyani Sharma about how AI is shaping pharmacy education and the skills future pharmacists will need in an evolving healthcare landscape The post AI and the future of pharmacy education appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-11-18
-
-### [Stocks to Watch Today: Ashoka Buildcon, Prestige Estates, Advait Energy, Glenmark, IIFL Finance, NDR Auto,... - Moneycontrol.com](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNHJTX1l3WjEyWl9sS0o1OFRZcXpPd0ZlOWpQcWIxYWcybWNjbWM5WTFkM3FUUV9ueC1qdDFoZHJQcDMwWHZFT1FBLTE4NDJUaVN3UGtlb0ZSWlBvU01BRmVQZXpDWFdkSXM3eHVSMFpnQ050cUVEOHoyRlpidVduQTJ4d0RtVDBBRi1xcTFTZkxSZXVIWkkwWVJJeU9La0lPUkZEc0xIMFExNVQyZ3Uya3VCZi1OZkhQbGFDd1VmVmIxb2ZmQ1A2Sk85T05feDZtbkxwSmtTWENINS04SVJKaXhzWmJ2cHlUWkU2NWg1YVB5aUk3RFdzM09xRTl6R0hFOXJ1UVFwd3RDRmhYOGJURnZXOXhDMk9nTzJmRmQ0Z3Y0bHRPNU5SLUxrTFpNTmpMZF9WNTI1WUtCLWhBOHNuVUpn0gHHAkFVX3lxTFAxRmNuSjd2NThmUGlmamFoeExQUU5qeENQcTI0WFVzaVJtYUc5bFg5aDNYRUc3WWFhdEF5VjduVFh1M2RJemk5UFdkNjBpTXlCSWo0QnJ6YkxFdjg4VTRwTE54dG9DaGJEdnphdU02UWoyUVE1UXRRdkhFaVNkOUc2alpRUTN6ZFczQ2kxWGZ2WEVSb2FORGZiakZINzd2MnBPb3N5WnNPWlBReXRvWW5XTXVnM0tGdWF1SWJnUXBKUzFyZE5ESkdWSGdWTDNScW5STGFISXBhVGdDdlUxYkhCaE5UMUh5b3lkcVk3NXEyVFQxbjdTUjhSNllyalozMW9RMGRRQk9KY2NydC1OWi16VVE1MWVPcXpDbFYwM1FxUjcxYVBDM2pMVVh2ejAtLUlXa1paUFU5ZkFQVnJNaWNieWctUW11WQ?oc=5)
-Stocks to Watch Today: Ashoka Buildcon, Prestige Estates, Advait Energy, Glenmark, IIFL Finance, NDR Auto,... &nbsp;&nbsp; Moneycontrol.com
+### [Anthem Biosciences IPO Date, Price Band, Issue Size - IPO Watch](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWHA0Vk5CbWhGWEdDUkFxRmhMQlJnTXI2YXB4T1RoT1N0aVVqbHNudTVGbDJzVkU0ZkE5emEzbHRPYXJGRkF6T2xtM3k0X0NDVHhyaFhfUWlwUk1KOXpfOQ?oc=5)
+Anthem Biosciences IPO Date, Price Band, Issue Size &nbsp;&nbsp; IPO Watch
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-18
 
-### [Why Did DC Trade Kuldeep Yadav For Rishabh Pant? Sourav Ganguly Explains](https://www.ndtvprofit.com/sports/why-did-dc-trade-kuldeep-yadav-for-rishabh-pant-sourav-ganguly-explains-12345951#publisher=newsstand)
-Ganguly will take charge as Delhi Capitals head coach for the first time in the IPL, while Vettori faces the challenge of replacing Travis Head.
+### [JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVC1acDVXS3AyR2sybmFfTGRidFVqUXJtUHhORkw2aTJwdXhJeDFfS3BSd2dYUklpR1kyby1BVFItMWVZOXBqVi1wYnZsazhkaEZUSU5ZSy1WX2stU011VmJWQVI2QU9KdnN2Vm9HZzlfZ2pKdG1XMm9VSVpDTlJRaGZSc0FnMlc3ekhSZHhteE1URHItTWpoN1gwZjc0Q2JyMW0tcA?oc=5)
+JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes &nbsp;&nbsp; Equitymaster
 
-**Source:** NDTV Profit  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Fevicol Is Getting Costlier From Dec 1: Pidilite Hikes Prices By Up To 7%](https://www.ndtvprofit.com/business/fevicol-is-getting-costlier-from-dec-1-pidilite-hikes-prices-by-up-to-7-12345923#publisher=newsstand)
-The price hike is aimed at offsetting elevated raw material costs and supporting margins amid persistent input cost pressures.
+### [Dalal Street cheers: Sensex gains 990 points, Nifty ends above 25,500 - India Today](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2FxQmRXc0FYVEsyYTF3aXNEdzN6SWhsSlhScV83TzR1YTJFemJheEs1TWVFMkloMUQtT3B2R3Z0ckt0Wkl4bk5nLVR6T3I3QklVNW1DbkZsRkxxRWMyOERtQkV2LUxXQndBWFVheUFZTDc4NXV3eTZERnBfUnRlMUpvQVk4SThza2tPajlvX3prR1FUNGk5MXRRMzY3OWUzeU1oMEJoME5LaXRPVmFhMVN1OU1RT2ZzMFYyejF0WklFSjQtWWhDTnk0NDkxQkVYaERr0gHTAUFVX3lxTE9XYXFCZFdzQVhUSzJhMXdpc0R3M3pJaGxKWFJxXzdPNHVhMkV6YmF4SzVNZUUySWgxRC1PcHZHdnRyS3RaSXhuTmctVHpPcjdCSVU1bUNuRmxGTHFFYzI4RG1CRXYtTFdCd0FYVWF5QVlMNzg1dXd5NkRGcF9SdGUxSm9BWThJOHNra09qOW9femtHUVQ0aTkxdFEzNjc5ZTN5TWgwQmgwTktpdE9WYWExU3U5TVFPZnMwVjJ6MXRaSUVKNC1ZaENOeTQ0OTFCRVhoRGs?oc=5)
+Dalal Street cheers: Sensex gains 990 points, Nifty ends above 25,500 &nbsp;&nbsp; India Today
 
-**Source:** NDTV Profit  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Bihar Heist: Robbers Loot Jewellery Worth Rs 40 Crore, Tell Staff 'We'll Be Back' Before Escaping](https://www.ndtvprofit.com/india/bihar-heist-robbers-loot-jewellery-worth-rs-40-crore-tell-staff-well-be-back-before-escaping-12345326#publisher=newsstand)
-Eight armed men carried out a multi-crore robbery at a Senco Jewellers showroom.
+### [NLC India Renewables files DRHP for ₹3,300 crore fresh issue IPO - scanx.trade](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOThsN2JINXBheHJmYjRaZFRvREc3VmZEQzhDN2JKOEF0c2hGTmYyWmd4UEQ0V0haZzR6M0RxbUVYak41Nkp2VTc5Ny1SX0VYWm1CamNMWGJHb2JFeEhxOVpsdnB6ZkpDTVMtZl9Gd2E4N2JIMVZ1VDd5aVlITVNVZWV2Q2RGYy1pa0k0TmZmNVc3WDU3eWNHQTQ4MFREWkExVDRHQzJ0UjFMTzJqdlNXS0hjWkU2Y3NxZ1E?oc=5)
+NLC India Renewables files DRHP for ₹3,300 crore fresh issue IPO &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-11-18
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Ramayana's Rs 1,000 Crore Run Lifting PVR Inox Shares? What Weekly Stock Movement Shows](https://www.ndtvprofit.com/markets/ramayanas-rs-1-000-crore-run-is-lifting-pvr-inox-shares-what-weekly-stock-movement-shows-12345664#publisher=newsstand)
-Since Ramayana's release on Nov. 5, PVR Inox shares have risen nearly 8% so far, amid the nationwide buzz of theRanbir Kapoor-led multi starrer. Earlier today, the stock hit a fresh 52-week high of Rs 1,740 apiece on NSE, pushing the market cap above Rs 17,060 crore.
+### [Apimeds Pharmaceuticals US Reports Third Quarter 2026 - GlobeNewswire](https://news.google.com/rss/articles/CBMimwJBVV95cUxObzkyeXJ2eW03ZHFFRnh3QU9YRDlOUjJYR3ZMbW1YTEVCaHlLRXREVkoyb3BjMEpzRm5CeTZmSDFZbnRCZTdrX29ya2l5X05vdFhGNElPNEhwUGN5N2l2MndPR0NOT000LTFuclAwNWtQWUZjeXZKNHNOYUxKaG1xcE5sMkZhRDZxaXNzczEzdV9zWGQ3TzNBYjN2aEl6SjBYNkE3SkkwUGRiUE1kaWFfUVJzRjRJT1N3blk5Y0xmOEJORVhLd3JwZVE3WWVtcXdIUDY3TjdPUGctelBwaV9fTnBTbF90TnhLa1lJMmlRcHRNVlI2RlRnbVJfTnUxbjAtRnYtMTZXY0hVTEdRdXlBY29NaHE0VzdoT19r?oc=5)
+Apimeds Pharmaceuticals US Reports Third Quarter 2026 &nbsp;&nbsp; GlobeNewswire
 
-**Source:** NDTV Profit  **Date:** 2026-11-18
-
-### [Anthropic Mulls Raising IPO Price Above $80 As Investor Demand Nears $500 Billion: Report](https://www.ndtvprofit.com/markets/anthropic-mulls-raising-ipo-price-above-80-as-investor-demand-nears-500-billion-report-12345719#publisher=newsstand)
-Anthropic attracted around $400 billion in institutional investor interest.
-
-**Source:** NDTV Profit  **Date:** 2026-11-18
-
-### [Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4% - India Today](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1RCWFZkTHROS3Rwa1pSWi1fN3FKUURwbTBOcGVzaWk3bGFTclJZTFRXQlBqUzROWlBhbURLNjl6U3l0LWktTGdtMkhneHZlSlJGcWJGVWQ4RlU3TGJlREMtdW5PVTNfQ3FHbTNsa3M2OUd6SFM5M0JqUURjb1N6S3Rza1IwenRrSDhmbkFIaHJ2UGtpYmNxZlNlQmRxb1hmdDlSWHpEeWItOGNBdHJMZHFZRmxSck5FdWNLR2VOcFhUenM3dnFHWEhFQVNuNjMxcnfSAdIBQVVfeXFMTzNUQlhWZEx0Tkt0cGtaUlotXzdxSlFEcG0wTnBlc2lpN2xhU3JSWUxUV0JQalM0TlpQYW1ESzY5elN5dC1pLUxnbTJIZ3h2ZUpSRnFiRlVkOEZVN0xiZURDLXVuT1UzX0NxR20zbGtzNjlHekhTOTNCalFEY29Tekt0c2tSMHp0a0g4Zm5BSGhydlBraWJjcWZTZUJkcW9YZnQ5Ulh6RHliLThjQXRyTGRxWUZsUnJORXVjS0dlTnBYVHpzN3ZxR1hIRUFTbjYzMXJ3?oc=5)
-Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4% &nbsp;&nbsp; India Today
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
-
-### [Green Energy Stocks Witness Mixed Trading as Battery and Gas Shares Gain While Solar and Wind Stocks Decline (18 November 2026) - SolarQuarter](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT0JVeXlGOUpBbGJVLVhfYm0zbFE3ZklnSTVIZWUzV3dYQ2VCcTBkZWZVbThvXzk3bjlyRkpxZWI3TGx6dmQzaGxwRFRoQm9jOWoyR29jdms5N0tlcTF0WHRycVZmeDRaTEhXNGxhaUFPYjRrUGV0bHItMUxXcVh4Ujc2YVZaQlBkaUV3dklBQkhTWV9RU3I4OW44YXpwWktyQU40cURjVDhfMFlnUTgzWVhlVnNwbEdLVEtpQjlXZElkampOYVM2MWtuSlFIY3F0bks1V2hqVldsU0k5LWUyS2NrM0Z5QnlRM29fR284VWprNlpM?oc=5)
-Green Energy Stocks Witness Mixed Trading as Battery and Gas Shares Gain While Solar and Wind Stocks Decline (18 November 2026) &nbsp;&nbsp; SolarQuarter
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
-
-### [CAMS (NSE:CAMS) Announces Investor Meeting with SPARX Asset Management on November 23, 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTE2dkdGMWowQ0xEQTJKcUNab3RrNHpwR1FFTVBoYkdpdHl5bEVZazVRRFNNSHFpajFQSXprVHh2RnhkbTVjZktUdXRuTVhkTXZDOE5vV2RLRFcxeE9FQjEwcEFUWXNjTVJJMFBZY2tIOXlhQzNWY25fbzdKcWl2d2JfcW9iTGZBTHJETEI1cHJXZ2NfNE4tN2RLNWdmTnY1U0RyaHNNUlYwVFA3cmpFMmJzLUJmYVluT29NcWJTZzQ0ZVVhV3JWTk1tVC1wYWs?oc=5)
-CAMS (NSE:CAMS) Announces Investor Meeting with SPARX Asset Management on November 23, 2026 &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
-
-### [Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250 - NewsDrum](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUQxSWIyeEgxbG55cHRQSjh5WXFkczRLTm42SXl5SU5tNTNQaENhRGtkWUxSV292a0UzdHZPdGl4cEc2Vmx6TF9Fdi1YLWJMdzdwMS1XZ1J4S0FMSlVmSEh2d3lFbTNDbW9pYnZRZHRyQ1daSlgzOTVSWHpvTk8zQnBiMXIwRlRyRi1kX2lWRFBHRnVMUVp2TFk0dUFDTWN6NThvQlFObDdQM1JDaFowcjlhMVR1X0VISGFn0gG7AUFVX3lxTE5VRDFJYjJ4SDFsbnlwdFBKOHlZcWRzNEtObjZJeXlJTm01M1BoQ2FEa2RZTFJXb3ZrRTN0dk90aXhwRzZWbHpMX0V2LVgtYkx3N3AxLVdnUnhLQUxKVWZISHZ3eUVtM0Ntb2lidlFkdHJDV1pKWDM5NVJYem9OTzNCcGIxcjBGVHJGLWRfaVZEUEdGdUxRWnZMWTR1QUNNY3o1OG9CUU5sN1AzUkNoWjByOWExVHVfRUhIYWc?oc=5)
-Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250 &nbsp;&nbsp; NewsDrum
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-18
 
 ---
