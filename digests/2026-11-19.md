@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-11-19
 
-> 58 items · 2026-11-19 12:29 UTC
+> 59 items · 2026-11-19 19:59 UTC
 
-## 📊 BSE / NSE Filings (4)
+## 📊 BSE / NSE Filings (5)
+
+### [Natco Pharma: Company has submitted an application to BSE Limited for approval of reclassification request of fifteen promoter and promoter group members for their reclassification into the public category.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/5049d2bd-8070-4050-a475-22ca3897a01d.pdf)
+Category: Others | Sub: None | BSE Code: 539798
+
+**Source:** BSE Filing  **Date:** 2026-11-19
 
 ### [Aurobindo Pharma: Submission of copy of notice published in newspapers.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/53006ee7-c377-4abc-b269-dcd7d04385c2.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 524804
@@ -26,17 +31,17 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523
 
 ---
 
-## 💰 Results & Financials (5)
+## 💰 Results & Financials (7)
 
-### [In GCC race, Cognizant bets on reskilling talent, Infosys on rewiring legacy tech](https://www.livemint.com/companies/news/cognizant-infosys-gccs-bengaluru-it-companies-11795009462357.html)
-Separated by less than $1 billion in annual revenue, the two IT rivals are taking sharply different routes to win over global capability centres—a bet that could break the deadlock between them.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [What lurks beneath India's strong quarterly earnings](https://www.livemint.com/companies/company-results/india-inc-q2-corporate-earnings-profit-revenue-11794995889259.html)
-Adjusted net profit of 3,835 companies rose 30% in Q2FY27, the fastest growth in three years, a Mint analysis showed. But rising input costs and limited pricing power could weigh on margins in the second half.
+### [Disney plans $3 billion cost cuts by 2029, warns of more layoffs despite strong quarterly results](https://www.livemint.com/companies/news/disney-plans-3-billion-cost-cuts-by-2029-warns-of-more-layoffs-despite-strong-quarterly-results-11795094214232.html)
+Disney CFO Hugh Johnston, as per CNBC report, indicated “we do expect more layoffs” as the company pursues its cost-reduction target. However, the company has not disclosed how many employees could be affected or when the layoffs would take place.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official](https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms)
+Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both domestic and global savings for inclusive wealth c
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
 ### [Morgan Stanley is ‘overweight’ on these 9 largecap stocks. How many do you own?](https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-is-overweight-on-these-9-largecap-stocks-how-many-do-you-own/slideshow/135977398.cms)
 Morgan Stanley has given an overweight rating to nine major largecap stocks in India in light of current market dynamics. While several stocks faced downturns over the past year, some others experienced increases. The analysis stresses that for India to excel on a global scale, earnings growth is vital. Companies like Hyundai Motor and Trent saw significant declines, while Adani Power distinguished itself with impressive growth, underscoring varied market outcomes.
@@ -53,14 +58,19 @@ Saif Ali Khan has been named brand ambassador for Gowardhan Ghee, two years afte
 
 **Source:** Mint - Pharma  **Date:** 2026-11-19
 
+### [Arjun Sarja Breaks Silence On Aishwarya’s Controversy, Files Complaint Over 'Derogatory Allegations’](https://www.ndtvprofit.com/entertainment/arjun-sarja-breaks-silence-on-aishwarya-s-controversy-files-complaint-over-derogatory-allegations-12351343#publisher=newsstand)
+Arjun Sarja says Aishwarya’s marriage to Umapathy is a private matter.
+
+**Source:** NDTV Profit  **Date:** 2026-11-19
+
+### [Mookuthi Amman 2 Box Office Collection Day 14: Nayanthara's Film Holds Steady, Check Earnings](https://www.ndtvprofit.com/entertainment/mookuthi-amman-2-box-office-collection-day-14-nayantharas-film-holds-steady-check-earnings-12351095#publisher=newsstand)
+Mookuthi Amman 2 stars Nayanthara in the lead.
+
+**Source:** NDTV Profit  **Date:** 2026-11-19
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (11)
-
-### [In growth push, Howden eyes insurance broker buyouts in India](https://www.livemint.com/companies/howden-insurance-broker-acquisition-irdai-11795001168771.html)
-Having taken full ownership of its Indian arm, Howden could consider acquisitions that add expertise and capabilities and not just scale, joining a growing list of global firms eyeing a bigger slice of India's insurance pie.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
+## 🤝 Deals, M&A & Partnerships (6)
 
 ### [Piramal Pharma moves to take full ownership of Yapan Bio](https://www.expresspharma.in/piramal-pharma-moves-to-take-full-ownership-of-yapan-bio/)
 The acquisition will take Piramal Pharma’s shareholding from 74 per cent to 100 per cent, subject to completion The post Piramal Pharma moves to take full ownership of Yapan Bio appeared first on Express Pharma .
@@ -77,21 +87,6 @@ Meta has paused its plan to issue non-voting Class C shares to Mark Zuckerberg a
 
 **Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Style Union parent Nexon raises  ₹485 crore from Venturi, Elev8 Venture](https://www.livemint.com/companies/news/style-union-parent-nexon-raises-485-crore-from-venturi-elev8-venture-11795013657417.html)
-The deal values the fashion retail chain at about ₹8,000 crore, a person with knowledge of the matter said.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Intel layoffs: Fresh job cuts hit chipmaker, workforce falls to 81,100 as Lip-Bu Tan steps up restructuring](https://www.livemint.com/companies/news/intel-layoffs-fresh-job-cuts-hit-chipmaker-workforce-falls-to-81-100-as-lip-bu-tan-steps-up-restructuring-11795018413325.html)
-Intel has announced fresh job cuts as CEO Lip-Bu Tan pushes ahead with restructuring. The chipmaker's workforce has fallen to 81,100 amid mounting business challenges.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
-### [Who is Pragya Misra? OpenAI elevates its first India employee to lead business development across South Asia](https://www.livemint.com/companies/who-is-pragya-misra-openai-elevates-its-first-india-employee-to-lead-business-development-across-south-asia-11794999586627.html)
-OpenAI’s head of Strategy and Global Affairs to lead commercial partnerships in India and South Asia, as the AI company expands its presence in the region.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
 ### [Indegene joins C-CAMP-Imperial Indo-UK Life Science Corridor as first industry partner](https://www.expresspharma.in/indegene-joins-c-camp-imperial-indo-uk-life-science-corridor-as-first-industry-partner/)
 The partnership will focus on connecting research, entrepreneurship and industry, with initial priority areas including antimicrobial resistance, diagnostics, digital health, agritech, brain science and mental health. The post Indegene joins C-CAMP-Imperial Indo-UK Life Science Corridor as first industry partner appeared first on Express Pharma .
 
@@ -107,14 +102,19 @@ VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger &nbsp;&
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Petrol Pump Dealers Meet Oil Minister Today With One Demand: Higher Margins](https://www.ndtvprofit.com/markets/petrol-pump-dealers-meet-oil-minister-today-with-one-demand-higher-margins-12348686#publisher=newsstand)
-Petrol dealers are pushing for an early revision of margins.
-
-**Source:** NDTV Profit  **Date:** 2026-11-19
-
 ---
 
-## 🏭 Operations & Approvals (8)
+## 🏭 Operations & Approvals (7)
+
+### [Kay Beauty bags top honour at PETA India 2026 Awards: All you need to know about Katrina Kaif's  ₹350 cr beauty brand](https://www.livemint.com/companies/news/kay-beauty-bags-top-honour-at-peta-india-2026-awards-all-you-need-to-know-about-katrina-kaifs-rs-350-cr-beauty-brand-11795090127202.html)
+Kay Beauty, co-founded by Nykaa, and actor Katrina Kaif, was launched in 2019. The brand recently launched a skincare line.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Subhash Chandra insolvency: Responses served to stakeholders as creditor dispute continues](https://www.livemint.com/companies/news/subhash-chandra-insolvency-responses-served-to-stakeholders-as-creditor-dispute-continues-11795085082599.html)
+The NCLT has given the CBI three weeks to file its reply, while creditors continue to contest the admission of claims by five entities that helped secure approval for Chandra’s ₹6.5 crore repayment plan.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ### [KKR picks up minority stake in Gentari’s India renewables business](https://www.livemint.com/companies/news/kkr-acquires-minority-stake-in-gentari-renewables-india-11795068988820.html)
 The investment will provide growth capital to Gentari’s India platform, which has about 8 GW of operating, under-construction and contracted renewable energy capacity.
@@ -131,57 +131,62 @@ The 161-year-old B2B meat exporter is building consumer brands Bowlers and Purrf
 
 **Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Wise CEO questions RBI’s  ₹25 lakh cap on cross-border fintech payments](https://www.livemint.com/companies/news/wise-ceo-questions-rbi-s-25-lakh-cap-on-cross-border-fintech-payments-11795003830944.html)
-Kristo Käärmann says the limit makes it harder for Indian exporters to bring money home, even as Wise moves $15 billion, or about 10% of India’s inward remittances, into the country
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Meet Amruda Nair, granddaughter of The Leela founder Captain CP Krishnan Nair who launched Araiya Hotels &amp; Resorts](https://www.livemint.com/companies/people/meet-amruda-nair-granddaughter-of-the-leela-founder-captain-cp-krishnan-nair-who-launched-araiya-hotels-resorts-11795016627692.html)
-Amruda Nair founded Araiya Hotels &amp;amp; Resorts in 2018, focusing on destination-led luxury and experiences. The company aims to reach 40 hotels over the next five years, she revealed in a new interview with Hotelier India.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
-### [ACME takes final investment decision on $3.6 billion Odisha green ammonia project](https://www.livemint.com/companies/news/acme-completes-final-investment-decision-for-its-3-6-bn-green-ammonia-project-11795009268502.html)
-The 760,000-tonne facility, expected to be commissioned by 2029, will supply green ammonia to buyers in India and Japan, with Brookfield committing $600 million to ACME’s green molecule business.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
 ### [Alkem Laboratories ALKEM US FDA Warning Letter Daman Plant 2026 - Kalkine India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUdFVnZWSmVXZk4ySS1lSm9HUDVNSUdJVnlSbnhlaHMxTHVNcXFRMzRZV3ZLR0NRUGVkTm1EY2hDNkt6Vi0yUVFWSjFQZ1lVeGtaS0pXeFlkTlIwMF91ZU9feXZxcGxHdjZKckpHMDF4WDZsUG1UNGdIMlhJOTBTY2JHQWFKWTZtWjFxU3VZYm5vWUxyYS1SNHJzM0pGZnc0X0hLQVcyclFzSXBiLURCTzI3VlNjLW42X3dqOTVlWGFOZ2FMbUw4Sms3WmNCV1lrOVE?oc=5)
 Alkem Laboratories ALKEM US FDA Warning Letter Daman Plant 2026 &nbsp;&nbsp; Kalkine India
 
 **Source:** GNews - India Pharma Export  **Date:** 2026-11-19
 
-### [Google Rolls Out Gemini 4 Neon With One Million-Token Context Window](https://www.ndtvprofit.com/technology/google-rolls-out-gemini-4-neon-with-one-million-token-context-window-12348619#publisher=newsstand)
-Google launches Gemini 4 Neon
+### [India Ranks Fourth Globally In Employees Taking Leave For GTA VI Launch](https://www.ndtvprofit.com/trending/india-ranks-fourth-globally-in-employees-taking-leave-for-gta-vi-launch-12351185#publisher=newsstand)
+Portugal was behind India at fifth place with 1.29 times more wage earners taking a leave of absence.
 
 **Source:** NDTV Profit  **Date:** 2026-11-19
 
 ---
 
-## 📉 Analyst & Brokerage Calls (7)
+## 📉 Analyst & Brokerage Calls (10)
 
 ### [Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list](https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms)
 Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
+### [As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives](https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html)
+As Anthropic makes its stock market debut, co-founders Dario and Daniela Amodei highlight how AI could accelerate medical research, reshape workplaces and improve everyday lives, while stressing the need for responsible development.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Anthropic’s $81 billion IPO creates a massive payday, but employees face an unusual hurdle before cashing in](https://www.livemint.com/companies/news/anthropics-81-billion-ipo-creates-a-massive-payday-but-employees-face-an-unusual-hurdle-before-cashing-in-11795079903295.html)
+Anthropic’s $81 billion IPO promises a massive payday for employees, but strict stock-selling rules could make cashing in more complicated.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
 ### [The mystery 31% shareholder towering over Deepinder Goyal’s Temple](https://www.livemint.com/companies/news/who-owns-deepinder-goyal-temple-wearable-startup-stake-11795082965679.html)
 Deepinder Goyal’s ₹1,715-crore wearable startup Temple has attracted India’s marquee investors. Yet corporate filings reveal a silent figure holding a bigger stake than Goyal himself. Behind the ₹85,000 device lies an intriguing trail.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Sell-Side Analysts Rip Short-Seller Report on Retailer Dynamite](https://www.livemint.com/companies/sellside-analysts-rip-short-seller-report-on-retailer-dynamite-11795027352005.html)
-Several financial analysts fended off a negative report from short-seller Spruce Point Capital Management LLC about fast-fashion retailer Groupe Dynamite Inc.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
-### [Buying A Car Or Jewellery Via UPI? New Merchant Rules Could Change Checkout Options](https://www.ndtvprofit.com/personal-finance/buying-a-car-or-jewellery-via-upi-new-merchant-rules-could-change-checkout-options-12348537#publisher=newsstand)
-MDR is generally distributed among participants in the payment network after a transaction is settled.
+### [Anthropic IPO Highlights: Claude Maker Lists With 34% Gains, Surpassing Estimates](https://www.ndtvprofit.com/markets/anthropic-ipo-live-updates-claude-maker-set-for-wall-street-debut-after-record-81-billion-public-issue-12350186#publisher=newsstand)
+Follow our live blog for the latest updates on Anthropic listing, stock performance, analyst ratings and investor sentiment.
 
 **Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [Stock Market Highlights: Final Hour Buying Lifts Sensex 990 Points; Nifty Ends At 25,514; Bank Nifty Hits Record](https://www.ndtvprofit.com/markets/stock-market-live-update-november-19-sensex-today-nifty-open-lower-amid-mixed-cues-brent-crude-oil-prices-anthropic-ipo-listing-bse-nse-12347038#publisher=newsstand)
-Indian Stock Market Today, November 19, 2026
+### [Trade Setup For Nov 20: Will Nifty Cross 26,000 Mark Next? Technical Analysts Flag Key Levels](https://www.ndtvprofit.com/markets/trade-setup-for-nov-20-will-nifty-cross-26-000-mark-next-technical-analysts-flag-key-levels-12351333#publisher=newsstand)
+Expert notes that the immediate support zone has shifted higher to 25380-25350 level. As long as the index sustains above 25350, the prevailing bullish momentum is likely to remain intact.
+
+**Source:** NDTV Profit  **Date:** 2026-11-19
+
+### [Can't Compete With IPL': PSL Team Quetta Gladiators' Owner Confirms Plans To Sell Franchise](https://www.ndtvprofit.com/sports/cant-compete-with-ipl-psl-team-quetta-gladiators-owner-confirms-plans-to-sell-franchise-12351172#publisher=newsstand)
+Quetta have reached the PSL final four times and won the title once, but Omar says the franchise has not achieved all his ambitions.
+
+**Source:** NDTV Profit  **Date:** 2026-11-19
+
+### [Hackers Leak Data Linked To JPMorgan's $10-Million-Club Card Holders; Visa, Mastercard Also Targeted](https://www.ndtvprofit.com/business/hackers-leak-data-linked-to-jpmorgan-s-10-million-club-card-holders-visa-mastercard-also-targeted-12351008#publisher=newsstand)
+The incident raised fresh concerns about customer data security across the global financial industry.
+
+**Source:** NDTV Profit  **Date:** 2026-11-19
+
+### [Alphabet Shares Spike Nearly 5% After Opening Bell. Here's The Anthropic Link To It](https://www.ndtvprofit.com/markets/alphabet-shares-open-4-6-higher-most-since-nov-4-there-s-an-anthropic-link-to-it-12350545#publisher=newsstand)
+Alphabet holding approximately 1.79 billion shares in the Claude.
 
 **Source:** NDTV Profit  **Date:** 2026-11-19
 
@@ -190,37 +195,56 @@ Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off &nbsp;&nbs
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSkFKT2x0RHZYZEFSRjJyT0I0X0s5MXcyak1SQVd5bW53MUlHLVlFVEhCMVZQbkUzWWV3alIxcExqbHd3bDNEVDBtTHB6SVhRZXA3OWpPN3p0dDBUZUNBNS00dzNoR254THBzWXZzZFIyYWQ3cVlaTkdyUDhjWTZ5UVhuUUtDSDUtcVNWYkV0RGxEeXpoRFFEUXBzQWl5ZjluNWFBNmFTSGxYZERDcVhVRkFRVWk4RnZSQ2hxR1QtTkRiNHlrSy1YLXZvb05Uc2dvTFUwcnFrMDJ3MTNtekpSVml3cHlZR1ZVTEZN?oc=5)
-Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026 &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-19
-
 ---
 
-## 📰 Industry & Policy News (23)
+## 📰 Industry & Policy News (24)
 
 ### [CreditAccess Grameen among 7 stocks closing below VWAP](https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-7-stocks-closing-below-vwap/slideshow/135976841.cms)
 Seven Nifty 500 stocks, including CreditAccess Grameen, Swan Corp, Black Box and Torrent Pharmaceuticals, closed more than 1% below their respective Volume Weighted Average Prices (VWAPs) on November 18, according to StockEdge data. The technical scan identifies stocks that ended the session below their volume-weighted average traded prices.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Cipla Share Price Live Updates: Cipla's Market Activity Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-19-nov-2026/liveblog/135976080.cms)
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-19-nov-2026/liveblog/135976080.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Divis Labs Share Price Live Updates: Divis Labs ends the trading session at Rs 11135.5](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-19-nov-2026/liveblog/135975929.cms)
+### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-19-nov-2026/liveblog/135975929.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Sun Pharma Share Price Live Updates: Sun Pharma closes higher today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-19-nov-2026/liveblog/135975739.cms)
+### [Fund managers turn overweight on India, first such classification since Jan](https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms)
+Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts toward defensive sectors have been noted, reflecting changing priorities among investors. Despite concerns over potential risks, half of the fund managers predict a soft landing for the global econom
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-19
+
+### [NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month](https://economictimes.indiatimes.com/markets/stocks/news/nse-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-27-in-a-month/slideshow/135991598.cms)
+Five BSE 200 stocks, including NSE, GAIL and PNB, hit fresh 52-week highs on Thursday as Sensex rallied 990 points. Here's how these stocks have performed recently.
+
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
 ### [Gold Rates Live Updates: Gold prices fall marginally, silver gains on MCX. Check future estimates](https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Price and Market Performance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-19-nov-2026/liveblog/135975896.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-19-nov-2026/liveblog/135975896.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-19
 
-### [HCL Tech Share Price Live Updates: Current Status of HCL Tech Shares](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-19-nov-2026/liveblog/135975802.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-19
+### [Anthropic IPO jackpot! CEO Dario Amodei's 237.3 million shares at $83 apiece now carry a $19.7 billion valuation](https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html)
+The surge in Anthropic's share price also highlights the wealth created for its early investors and founders as the company completed what became the largest IPO in history, raising approximately $81.34 billion.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Anthropic IPO windfall: More than 400 employees could be worth over  ₹935 crore each](https://www.livemint.com/companies/news/anthropic-ipo-windfall-more-than-400-employees-could-be-worth-over-935-crore-each-11795095476490.html)
+Anthropic's $1.5 trillion IPO could make the average employee worth over ₹370 crore, with 400 early staff potentially becoming multimillionaires.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO](https://www.livemint.com/companies/news/anthropic-is-not-a-safe-ai-company-nobel-laureates-accuse-claude-maker-of-abandoning-promises-ahead-of-ipo-11795091158478.html)
+Nobel laureates and leading AI experts accuse Anthropic of putting its race for AI dominance ahead of safety commitments as it makes its stock market debut.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
+
+### [Who is Jaan Tallinn? Meet Skype co-founder who fears AI could end humanity but may make billions from Anthropic’s IPO](https://www.livemint.com/companies/people/who-is-jaan-tallinn-meet-skype-co-founder-who-fears-ai-could-end-humanity-but-may-make-billions-from-anthropic-s-ipo-11795088094396.html)
+Jaan Tallinn, Skype co-founder and AI safety advocate, could make billions from Anthropic's IPO after leading its first $124 million funding round.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-19
 
 ### [Who is Krishna Rao? Meet the low-profile Indian-origin CFO behind Anthropic IPO - Biggest AI listing soon](https://www.livemint.com/companies/people/who-is-krishna-rao-meet-the-low-profile-indian-origin-cfo-behind-anthropic-ipo-biggest-ai-listing-soon-11795070299535.html)
 Anthropic CFO Krishna Rao has helped guide the company’s rapid growth, fundraising and IPO while balancing investor expectations with its commitment to safe AI.&amp;nbsp;
@@ -247,28 +271,18 @@ Nvidia interim CEO Colette Kress urged employees to move forward at the company'
 
 **Source:** Mint - Pharma  **Date:** 2026-11-19
 
-### [Nvidia’s ‘selective’ funding: Could interim CEO Colette Kress’s 'disciplined' approach slow neocloud boom? Explained](https://www.livemint.com/companies/news/will-nvidia-s-selective-funding-reshape-the-neocloud-boom-why-colette-kress-s-pledge-matters-11794998285339.html)
-Nvidia interim CEO Colette Kress has pledged selective funding for neoclouds and AI startups. Could the move reshape the industry's growth?
-
-**Source:** Mint - Pharma  **Date:** 2026-11-18
-
 ### [HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites - The Economic Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWkJpRzhEcS1HS2M1OXBQenpkQmNlbmlnZzJyQjJLYkVQb2xqRkREZjlIcUVTa0liSXRPSkxHdmlQNXB6clRXQ0FqY1ExZXZEX2Mzdy13X01yd3AxT3NQemJiNjQyRXp5WjlqXy0tU1lMSm5iQjR0MWExRTlSODdTVUZQUnY0SG1jbTBncUhPX285ZnJkT00yM0x2ZXA3VF9ZMkl6akYzNE0xX29xdEZUZkdpOTVDSHVfVUxfdzFlUWc2djFSUmcwRGJDQ3ZLZmYtMEw1UmtvUUEybzNEZzBxNFlIRXI4NENuV0ZRbThOU2xRanlWOHFiWkxTRG5zLWwyVDl4V2hCcWfSAY4CQVVfeXFMT0FYemcxaTBKS0Zwa0tYQUVYMGllRXdtTnhYUVNnUmk3S2JmejNsVlRDWS0xVzEtV01LTHgyUW9CVUNra2RxNlkwVzZDWFR2Y2xhTFJBbnhGN2g4dHdVTGFaaVEzTWEtTUlIa1FVSER2ZGJkZmVVZ3ljTXhSOWlaTXRCZW4xZE9SOTJuckl1V2lBZFpSM19iUElhdzVZNDAwT3J2eDdVRTZjU1I2TVhEVkRvTlRsLVJkb25DU1N2QkVFdE1sU3Jqdm5BRk5LN3htS3JxdzFfbVh6SnJQb0haMEk5am10UmZzMTFkM05peWREQnk0WVVMWkh5THd2WVF1VWZYSFZEWGFIQm51a3lR?oc=5)
 HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites &nbsp;&nbsp; The Economic Times
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-19
 
-### [Gokul Dairy Announces Its Biggest Milk Price Hike Yet. And Another May Come In January](https://www.ndtvprofit.com/business/a-rs-70-crore-gap-behind-gokul-s-record-milk-price-hike-and-another-may-come-in-january-12349235#publisher=newsstand)
-The dairy union's latest price revision follows a reported Rs 70 crore financial deficit.
+### [$83 To $111.5 In One Trade: Anthropic Makes Blockbuster Stock Market Debut, Hits $2 Tn Valuation](https://www.ndtvprofit.com/markets/83-to-111-5-in-one-trade-anthropic-makes-blockbuster-stock-market-debut-hits-2-tn-valuation-12351250#publisher=newsstand)
+Anthropic shares jumped 34% above their IPO price after raising $107 billion.
 
 **Source:** NDTV Profit  **Date:** 2026-11-19
 
-### [India vs Malaysia Women's Asian Champions Trophy Live Streaming: When And Where To Watch IND vs MAS On TV, Online?](https://www.ndtvprofit.com/sports/india-vs-malaysia-womens-asian-champions-trophy-live-streaming-when-and-where-to-watch-ind-vs-mas-on-tv-online-12346389#publisher=newsstand)
-Defending champions India begin their campaign against Malaysia in Bhopal as they eye a third consecutive Women's Asian Champions Trophy title.
-
-**Source:** NDTV Profit  **Date:** 2026-11-19
-
-### [PG Electroplast: How A Penny Stock Became A Rs 16,000 Crore Multibagger](https://www.ndtvprofit.com/markets/from-penny-stock-to-rs-16-000-crore-giant-the-118x-multibagger-journey-of-pg-electroplast-12348746#publisher=newsstand)
-A look at how PG Electroplast turned a Rs 1 lakh investment into Rs 1.18 crore in seven years, emerging as a Rs 16,000 crore multibagger.
+### [This 'AI Doomer' Warned Of Threat To Humanity. Now He May Make Billions From Anthropic IPO](https://www.ndtvprofit.com/technology/this-ai-doomer-warned-of-threat-to-humanity-now-he-may-make-billions-from-anthropic-ipo-12351173#publisher=newsstand)
+Jaan Tallinn, Skype co-founder and early Anthropic investor, could make billions from its IPO.
 
 **Source:** NDTV Profit  **Date:** 2026-11-19
 
@@ -276,11 +290,6 @@ A look at how PG Electroplast turned a Rs 1 lakh investment into Rs 1.18 crore i
 Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification &nbsp;&nbsp; Kalkine Media
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-19
-
-### [Anthem Biosciences IPO Date, Price Band, Issue Size - IPO Watch](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWHA0Vk5CbWhGWEdDUkFxRmhMQlJnTXI2YXB4T1RoT1N0aVVqbHNudTVGbDJzVkU0ZkE5emEzbHRPYXJGRkF6T2xtM3k0X0NDVHhyaFhfUWlwUk1KOXpfOQ?oc=5)
-Anthem Biosciences IPO Date, Price Band, Issue Size &nbsp;&nbsp; IPO Watch
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-18
 
 ### [JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVC1acDVXS3AyR2sybmFfTGRidFVqUXJtUHhORkw2aTJwdXhJeDFfS3BSd2dYUklpR1kyby1BVFItMWVZOXBqVi1wYnZsazhkaEZUSU5ZSy1WX2stU011VmJWQVI2QU9KdnN2Vm9HZzlfZ2pKdG1XMm9VSVpDTlJRaGZSc0FnMlc3ekhSZHhteE1URHItTWpoN1gwZjc0Q2JyMW0tcA?oc=5)
 JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes &nbsp;&nbsp; Equitymaster
@@ -292,14 +301,14 @@ Dalal Street cheers: Sensex gains 990 points, Nifty ends above 25,500 &nbsp;&nbs
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-19
 
+### [Bhagyanagar India gets in-principle listing nod for Tieramet shares - scanx.trade](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWxjUll2ZV9hUHZjS2pyWHZZdFFQNDVNWWFaZjZacGZjSjRJTU9xTmFoMlRQM0VzT2U4SjhRRDllRjE1V2FJTndwWk1tS1g2dTlHcjlsOC1pMVZSYjdhbVFnckRkbUljQ0IyaUU2YThrYnhpcWZrOE9SOEtabTFEeERza3haaFQ4YU5kRWk0U1ZPR19XNV9rcm9TRTF0anR6QWhVdVppR2h0VXJXTHdYbnJERVBmSTla?oc=5)
+Bhagyanagar India gets in-principle listing nod for Tieramet shares &nbsp;&nbsp; scanx.trade
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-19
+
 ### [NLC India Renewables files DRHP for ₹3,300 crore fresh issue IPO - scanx.trade](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOThsN2JINXBheHJmYjRaZFRvREc3VmZEQzhDN2JKOEF0c2hGTmYyWmd4UEQ0V0haZzR6M0RxbUVYak41Nkp2VTc5Ny1SX0VYWm1CamNMWGJHb2JFeEhxOVpsdnB6ZkpDTVMtZl9Gd2E4N2JIMVZ1VDd5aVlITVNVZWV2Q2RGYy1pa0k0TmZmNVc3WDU3eWNHQTQ4MFREWkExVDRHQzJ0UjFMTzJqdlNXS0hjWkU2Y3NxZ1E?oc=5)
 NLC India Renewables files DRHP for ₹3,300 crore fresh issue IPO &nbsp;&nbsp; scanx.trade
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-19
-
-### [Apimeds Pharmaceuticals US Reports Third Quarter 2026 - GlobeNewswire](https://news.google.com/rss/articles/CBMimwJBVV95cUxObzkyeXJ2eW03ZHFFRnh3QU9YRDlOUjJYR3ZMbW1YTEVCaHlLRXREVkoyb3BjMEpzRm5CeTZmSDFZbnRCZTdrX29ya2l5X05vdFhGNElPNEhwUGN5N2l2MndPR0NOT000LTFuclAwNWtQWUZjeXZKNHNOYUxKaG1xcE5sMkZhRDZxaXNzczEzdV9zWGQ3TzNBYjN2aEl6SjBYNkE3SkkwUGRiUE1kaWFfUVJzRjRJT1N3blk5Y0xmOEJORVhLd3JwZVE3WWVtcXdIUDY3TjdPUGctelBwaV9fTnBTbF90TnhLa1lJMmlRcHRNVlI2RlRnbVJfTnUxbjAtRnYtMTZXY0hVTEdRdXlBY29NaHE0VzdoT19r?oc=5)
-Apimeds Pharmaceuticals US Reports Third Quarter 2026 &nbsp;&nbsp; GlobeNewswire
-
-**Source:** GNews - Pharma Q Results  **Date:** 2026-11-18
 
 ---
