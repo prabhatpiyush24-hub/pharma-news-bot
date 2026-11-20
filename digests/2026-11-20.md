@@ -1,6 +1,6 @@
 # 🏥 India Pharma Investor Digest — 2026-11-20
 
-> 55 items · 2026-11-20 12:30 UTC
+> 46 items · 2026-11-20 19:39 UTC
 
 ## 📊 BSE / NSE Filings (6)
 
@@ -36,7 +36,7 @@ Category: Company Update | Sub: General | BSE Code: 524230
 
 ---
 
-## 💰 Results & Financials (10)
+## 💰 Results & Financials (4)
 
 ### [Anthropic's $1 trillion AI bet: Why it may need $602 billion in annual revenue to justify the investment](https://www.livemint.com/companies/news/anthropics-1-trillion-ai-bet-why-it-may-need-602-billion-in-annual-revenue-to-justify-the-investment-11795159243685.html)
 The Financial Times estimates Anthropic may need $602 billion in annual revenue to earn a 20% return on its roughly $1 trillion in compute commitments. The calculation highlights the scale of the commercial challenge facing AI companies investing heavily in infrastructure.
@@ -48,54 +48,34 @@ Nvidia raised its 2027 revenue growth forecast to 75% and projected fourth-quart
 
 **Source:** Mint - Pharma  **Date:** 2026-11-20
 
-### [Disney plans $3 billion cost cuts by 2029, warns of more layoffs despite strong quarterly results](https://www.livemint.com/companies/news/disney-plans-3-billion-cost-cuts-by-2029-warns-of-more-layoffs-despite-strong-quarterly-results-11795094214232.html)
-Disney CFO Hugh Johnston, as per CNBC report, indicated “we do expect more layoffs” as the company pursues its cost-reduction target. However, the company has not disclosed how many employees could be affected or when the layoffs would take place.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
 ### [Indian finance hub eyes dual share model to kickstart public offers: Report](https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms)
 Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigorate equity market activity in GIFT City, which has faced challenges regarding limited primary market participation. One class of shares would be traded in rupees, while the other would be dollar-denominated, granting foreign investors easier access alongside reduced tax implications.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-20
-
-### [IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades](https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms)
-Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, utilities and financials.
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-20
-
-### [Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and  Maruti Suzuki feature in list](https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms)
-Axis Direct has pinpointed 35 high-potential stocks spanning diverse sectors, including banking, cement, and pharmaceuticals, offering promising buying opportunities. Each stock features a target price indicating anticipated growth in the upcoming months. This recommendation stems from a robust earnings season for Indian businesses in the September quarter, urging investors to weave these stocks into their financial strategies.
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-20
-
-### [Maruti Suzuki among 6 stocks flashing White Marubozu pattern](https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-among-6-stocks-flashing-white-marubozu-pattern/slideshow/136011413.cms)
-A White Marubozu is a bullish candlestick pattern in technical analysis that occurs when the opening price is the lowest for a given period and the closing price is the highest.
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-20
-
-### [Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official](https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms)
-Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both domestic and global savings for inclusive wealth c
-
-**Source:** Economic Times - Markets  **Date:** 2026-11-19
 
 ### [Natco Pharma stock: Q2 net profit falls 61% to INR 203 crore - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3V3S2pnMWoyNTFET25kdTNPb19aZW5nb2lJd2ZmWlpHMUc3VkZPOHdyMmdHOUQ4NkMxb2RKdnl0UnM4VjNiQV8yZkZvV0V2UFBhc0NCT0x3Y2xkSlVObG1oNE42UEU0SG1SbmVJc0FKUTA5MW1JQ3BQWUlpTGQyZC1CT3N2cDI0di0tbnFHSS1Bd0ozYlBTQnVpRE1rb1d5MHlEWlVwNjJrbUJ5ZmFrMkVlc0ozU28t?oc=5)
 Natco Pharma stock: Q2 net profit falls 61% to INR 203 crore &nbsp;&nbsp; ad-hoc-news.de
 
 **Source:** GNews - Pharma Q Results  **Date:** 2026-11-20
 
-### [Sandpapergate Row: Irfan Pathan Warns Pat Cummins Of 'Lot Of Talk' During India Tour](https://www.ndtvprofit.com/sports/sandpapergate-row-irfan-pathan-warns-pat-cummins-of-lot-of-talk-during-india-tour-12354379#publisher=newsstand)
-With Sandpapergate back in the spotlight, Pathan has warned that the Australian team will have to be mentally strong when it travels to India for the five-Test series.
-
-**Source:** NDTV Profit  **Date:** 2026-11-20
-
 ---
 
-## 🤝 Deals, M&A & Partnerships (1)
+## 🤝 Deals, M&A & Partnerships (3)
+
+### [Who is Jay Mehta? Meet Juhi Chawla’s husband selling half of his 45% KKR stake for $400 million](https://www.livemint.com/companies/people/who-is-jay-mehta-meet-juhi-chawla-s-husband-selling-half-of-his-45-kkr-stake-for-400-million-11795193603052.html)
+Jay Mehta, husband of actor Juhi Chawla and a director of the Mehta Group, is reportedly set to sell half of his 45% stake in Kolkata Knight Riders to US-based Ares Management for $400 million. The deal would value the IPL franchise at around $1.78 billion, subject to BCCI approval.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-20
 
 ### [Motilal Oswal Alternates to raise up to  ₹3,000 crore for maiden office fund](https://www.livemint.com/companies/news/motilal-oswal-alternates-rs-3-000-crore-maiden-office-fund-11794990332790.html)
 It will focus on early-stage investments and partner with property developers through equity joint ventures in Grade A office developments across Bengaluru, Hyderabad, Mumbai, the National Capital Region, Pune and Chennai.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-20
+
+### [How Did JK Shah List Itself on the NSE Without an IPO? Understanding Demerger Listings and How They Work - Trade Brains](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0xvNUE4cVpnZlVLOGE0NzlrV09JX2VETDc2WGUwVlQxY0xUQ1NHRElEVHNmclA5VVdNTk4wMmJFd0ZoMEhrSVJrV2owQWg4WW9LZ21xNU1KRDN0YmRvUzd6X1o2UDk2WmdyZU1fRXNNRHBPLTNjYzZrSDByWklXZmhTY29HLTZzbmVyckxKRUtVRU5JZkc0LVVOaVRHakg4MDFlOXNiVE9feWJHNV9OV3cxZTc0aEZkMk5pUWtWVXl3R2Q5UGdzWUQ1OXFmN1ZqTjh5MExxbUUwdVBITXpUQndOaHc?oc=5)
+How Did JK Shah List Itself on the NSE Without an IPO? Understanding Demerger Listings and How They Work &nbsp;&nbsp; Trade Brains
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-20
 
 ---
 
@@ -108,27 +88,10 @@ Photonence is strengthening its market presence and expanding its portfolio acro
 
 ---
 
-## 🏭 Operations & Approvals (2)
+## 📉 Analyst & Brokerage Calls (9)
 
-### [Kay Beauty bags top honour at PETA India 2026 Awards: All you need to know about Katrina Kaif's  ₹350 cr beauty brand](https://www.livemint.com/companies/news/kay-beauty-bags-top-honour-at-peta-india-2026-awards-all-you-need-to-know-about-katrina-kaifs-rs-350-cr-beauty-brand-11795090127202.html)
-Kay Beauty, co-founded by Nykaa, and actor Katrina Kaif, was launched in 2019. The brand recently launched a skincare line.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Lufthansa To Cut 1,000 Jobs At Struggling Flagship Airline](https://www.ndtvprofit.com/business/lufthansa-to-cut-1-000-jobs-at-struggling-flagship-airline-12354038#publisher=newsstand)
-Lufthansa Airlines also plans to further reduce capacity on short- and medium-haul routes and shrink its fleet of Airbus SE A320 aircraft, switching to the smaller A220 type.
-
-**Source:** NDTV Profit  **Date:** 2026-11-20
-
----
-
-## 📉 Analyst & Brokerage Calls (12)
-
-### [Gold Rate Live Updates: Gold, silver prices slide up to 3% on MCX. Buy the dip or wait?](https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-20
-
-### [Tata Technologies among 4 stocks showing RSI trending up](https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-among-4-stocks-showing-rsi-trending-up/slideshow/136011353.cms)
-Four Nifty 500 stocks, including Tata Technologies, Crompton Greaves Consumer Electricals, Physicswallah and Amber Enterprises India, feature in StockEdge's RSI Trending Up scan on November 20. The stocks record RSI values above 50, indicating strengthening price momentum after their previous RSI readings were below the threshold.
+### [Sebi proposes limiting tenure of chief executives, independent directors at exchanges](https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms)
+India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years, instituting a maximum of two three-year terms for directors, and restricting managing directors to an eight-year tenure. Current executives can finish their ongoing terms despite these proposed changes. SEBI is seeking public feedback on these recommendations by December 11.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-20
 
@@ -157,30 +120,20 @@ Anthropic's record IPO has turned an estimated 5,100 employees into millionaires
 
 **Source:** Mint - Pharma  **Date:** 2026-11-20
 
-### [As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives](https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html)
-As Anthropic makes its stock market debut, co-founders Dario and Daniela Amodei highlight how AI could accelerate medical research, reshape workplaces and improve everyday lives, while stressing the need for responsible development.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Anthropic’s $81 billion IPO creates a massive payday, but employees face an unusual hurdle before cashing in](https://www.livemint.com/companies/news/anthropics-81-billion-ipo-creates-a-massive-payday-but-employees-face-an-unusual-hurdle-before-cashing-in-11795079903295.html)
-Anthropic’s $81 billion IPO promises a massive payday for employees, but strict stock-selling rules could make cashing in more complicated.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Traffic Violators, Beware: Traffic Police To Get Advanced E-Challan Machines With Night-Vision Cameras](https://www.ndtvprofit.com/india/traffic-violators-beware-traffic-police-to-get-advanced-e-challan-machines-with-night-vision-cameras-12353424#publisher=newsstand)
-The equipment upgrade is part of the broader 'One Nation, One Challan' initiative.
+### [Rupee Settles Above 93 Level After 7 Months On FII Flows, Weak Crude; Gains 70 Paise To 92.62/USD](https://www.ndtvprofit.com/markets/rupee-settles-above-93-level-after-7-months-on-fii-flows-weak-crude-gains-70-paise-to-92-62-usd-12356158#publisher=newsstand)
+Forex analysts attributed the rupee's strength to foreign institutional investors' unabated chase for higher returns amid a weaker American currency and waning AI-related stock rallies in the US and markets like Taiwan and South Korea.
 
 **Source:** NDTV Profit  **Date:** 2026-11-20
 
-### [Every $10 Gain In Crude Oil Hurts India’s Inflation, Warns Analyst: What Bear Case Shows](https://www.ndtvprofit.com/markets/every-10-gain-in-crude-oil-hurts-india-s-inflation-warns-manish-sonthalia-what-bear-case-shows-12354075#publisher=newsstand)
-Operating leverage is playing out across companies.
+### [Bitcoin Breaches $60,000, Slips 51% From Record High: Is The Worst Slump Since 2022 Nearing A Bottom?](https://www.ndtvprofit.com/crypto/bitcoin-below-60-000-in-steepest-correction-since-2022-bear-market-three-catalysts-that-may-drive-recovery-12356081#publisher=newsstand)
+Bitcoin's sell-off has intensified amid institutional withdrawals.
 
 **Source:** NDTV Profit  **Date:** 2026-11-20
 
-### [Mumbai: Prabhadevi Chawl Demolition Put On Hold By Western Railway After 102 Occupants Protest](https://www.ndtvprofit.com/india/mumbai-prabhadevi-chawl-demolition-put-on-hold-by-western-railway-after-102-occupants-protest-12354095#publisher=newsstand)
-Western Railway halts Prabhadevi demolition drive after protests, giving 102 occupants temporary relief.
+### [Indian Green Energy Stocks Trade Mixed Despite Strong Gains In Benchmark Market As Solar and Wind Shares Face Selling Pressure (20 November 2026) - SolarQuarter](https://news.google.com/rss/articles/CBMijAJBVV95cUxQczNtZ0t3MUhqNS0wLXhQUEJoZDZCa3FveDdHM2hNN2hKSE8yMnJMLXF1bmRVZUwzOUd1TlRWamhIZGV0YV9EdXZ1a2hleXE0VG1oWG5VbTFmMHp6UWExN2FwS2Nqa183dm5iMXVUQkh6aVFnSUpkYTNHTk1SM3FacFhvSG85RGpvSTJreWk4QXI4aDFsRjd1Zy1BVmtWS2ZpVWRscVEyNGxES25fTWxwc3haQmVZbkw2My0zempXc01TWU92aUwzeVZPbTkzZGxEY0pwS0VHVm5CT01ZdG9wTDRYYzZ3SnFJWUlFenNBWE9ab1Q5QW5xSlZEeGxpdF9ZalZiVmxHWWFSdG1M?oc=5)
+Indian Green Energy Stocks Trade Mixed Despite Strong Gains In Benchmark Market As Solar and Wind Shares Face Selling Pressure (20 November 2026) &nbsp;&nbsp; SolarQuarter
 
-**Source:** NDTV Profit  **Date:** 2026-11-20
+**Source:** GNews - India Pharma  **Date:** 2026-11-20
 
 ---
 
@@ -191,9 +144,16 @@ Tata Sons leaders reviewed Air India’s financial and operational challenges ah
 
 **Source:** Mint - Pharma  **Date:** 2026-11-20
 
-### [TVS Motor Company among 4 stocks that close above VWAP](https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-company-among-4-stocks-that-close-above-vwap/slideshow/136011430.cms)
-Four Nifty 500 stocks, including TVS Motor Company, Polycab India, Wockhardt and Vedanta Iron And Steel, feature in StockEdge's technical scan for stocks closing above their volume-weighted average prices (VWAPs) on November 19. The scan identifies stocks trading above their average traded prices, indicating positive price action.
+### [Sun Pharma Share Price Live Updates: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-livestock-price-today-live-updates-20-nov-2026/liveblog/136016959.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-20
 
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-20-nov-2026/liveblog/136013439.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-20
+
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-20-nov-2026/liveblog/136013398.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-20
+
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-20-nov-2026/liveblog/136013323.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-20
 
 ### [Sebi plans consultation paper to remove FPI constraints absent in other markets](https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms)
@@ -201,13 +161,23 @@ SEBI is set to release a consultation paper aimed at simplifying regulations for
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-20
 
-### [Stock Market Highlights: Sensex rockets 898 pts, Nifty ends at 25,800; bank stocks lead gainers](https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms)
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-today-live-20-nov-2026/liveblog/136013285.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-20
 
-### [Fund managers turn overweight on India, first such classification since Jan](https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms)
-Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts toward defensive sectors have been noted, reflecting changing priorities among investors. Despite concerns over potential risks, half of the fund managers predict a soft landing for the global econom
+### [Nvidia Employees Complained About Huang’s Behavior Years Ago](https://www.livemint.com/companies/nvidia-employees-complained-about-huang-s-behavior-years-ago-11795200230275.html)
+About two decades ago, two Nvidia Corp. employees complained about how then-Chief Executive Officer Jensen Huang treated his staff, including allegations that he threatened them and made sexually explicit remarks, according to allegations contained in a California lawsuit filed in 2007.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-19
+**Source:** Mint - Pharma  **Date:** 2026-11-20
+
+### [Who is Travis Kalanick? What Uber co-founder is planning after Jensen Huang episode at Nvidia; details here](https://www.livemint.com/companies/people/who-is-travis-kalanick-what-uber-co-founder-is-planning-after-jensen-huang-episode-at-nvidia-details-here-11795183802199.html)
+Uber co-founder Travis Kalanick says he may demonstrate at Nvidia’s headquarters to support efforts to bring back former CEO Jensen Huang. His comments join public appeals from technology leaders and investors, although Nvidia’s board has indicated it does not plan to reinstate Huang.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-20
+
+### [Nitin Gadkari bats for allowing private two-wheelers as Rapido, Ola bike taxis: How will the move help 20 crore people?](https://www.livemint.com/companies/news/nitin-gadkari-bats-for-allowing-private-two-wheelers-as-rapido-ola-bike-taxis-how-will-the-move-help-20-crore-people-11795175870084.html)
+Union minister Nitin Gadkari has urged states to allow privately owned bikes and scooters to operate as Rapido, Ola and Uber bike taxis, saying the move could create livelihood opportunities for 15-20 crore people. Only Rajasthan has fully implemented the Centre's 2025 aggregator guidelines so far.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-20
 
 ### [Anthropics IPO caps an explosive growth period for the AI startup, filled with contradictions](https://www.livemint.com/companies/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions-11795150984237.html)
 Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions
@@ -234,26 +204,6 @@ A licence to restart its digital wallet business could help Paytm reclaim paymen
 
 **Source:** Mint - Pharma  **Date:** 2026-11-20
 
-### [Anthropic IPO jackpot! CEO Dario Amodei's 237.3 million shares at $83 apiece now carry a $19.7 billion valuation](https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html)
-The surge in Anthropic's share price also highlights the wealth created for its early investors and founders as the company completed what became the largest IPO in history, raising approximately $81.34 billion.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Anthropic IPO windfall: More than 400 employees could be worth over  ₹935 crore each](https://www.livemint.com/companies/news/anthropic-ipo-windfall-more-than-400-employees-could-be-worth-over-935-crore-each-11795095476490.html)
-Anthropic's $1.5 trillion IPO could make the average employee worth over ₹370 crore, with 400 early staff potentially becoming multimillionaires.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO](https://www.livemint.com/companies/news/anthropic-is-not-a-safe-ai-company-nobel-laureates-accuse-claude-maker-of-abandoning-promises-ahead-of-ipo-11795091158478.html)
-Nobel laureates and leading AI experts accuse Anthropic of putting its race for AI dominance ahead of safety commitments as it makes its stock market debut.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
-### [Who is Jaan Tallinn? Meet Skype co-founder who fears AI could end humanity but may make billions from Anthropic’s IPO](https://www.livemint.com/companies/people/who-is-jaan-tallinn-meet-skype-co-founder-who-fears-ai-could-end-humanity-but-may-make-billions-from-anthropic-s-ipo-11795088094396.html)
-Jaan Tallinn, Skype co-founder and AI safety advocate, could make billions from Anthropic's IPO after leading its first $124 million funding round.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-19
-
 ### [Advancing skin longevity through research and clinical validation](https://www.expresspharma.in/advancing-skin-longevity-through-research-and-clinical-validation/)
 What will the fresh investment enable in terms of research priorities, formulation development and clinical validation? The investment allows us to deepen our research capabilities, particularly in photobiology: understanding how different wavelengths of light interact with skin, and translating that knowledge into better photoprotection and care for pigmentation and skin ageing. We also want to [&#8230;] The post Advancing skin longevity through research and clinical validation appeared first o
 
@@ -269,33 +219,28 @@ Gland Pharma appoints Ajay Sahni as President of Phixen SAS &nbsp;&nbsp; scanx.t
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-20
 
-### [Nvidia's Biggest Challenge After Jensen Huang? Retaining The Engineers Behind Its AI Dominance](https://www.ndtvprofit.com/business/nvidias-biggest-challenge-after-jensen-huang-retaining-the-engineers-behind-its-ai-dominance-12353913#publisher=newsstand)
-Huang said on Tuesday he would be honoured to return as CEO if the board approves.
+### [Hardik Pandya, Marcus Stoinis, Marco Jansen: Ponting On Punjab Kings' All-Rounder Challenge](https://www.ndtvprofit.com/sports/hardik-pandya-marcus-stoinis-marco-jansen-ponting-on-punjab-kings-all-rounder-challenge-12356325#publisher=newsstand)
+With Hardik Pandya joining Marco Jansen, Marcus Stoinis and other all-rounders, PBKS believe they have a balanced squad for IPL 2027.
 
 **Source:** NDTV Profit  **Date:** 2026-11-20
 
-### ['Bring Jensen Huang Back': Uber Co-Founder Offers To Lead Walkout At Nvidia Headquarters](https://www.ndtvprofit.com/business/bring-jensen-huang-back-uber-co-founder-travis-kalanick-offers-to-lead-walkout-at-nvidia-headquarters-12354123#publisher=newsstand)
-Travis Kalanick has backed the campaign to bring Jensen Huang back as Nvidia CEO, proposing an employee walkout at the chipmaker's headquarters.
+### [Soni Razdan Gets Nostalgic As She Shares Rare Childhood Photos Of Alia, Shaheen Bhatt](https://www.ndtvprofit.com/entertainment/soni-razdan-gets-nostalgic-as-she-shares-rare-childhood-photos-of-alia-and-shaheen-bhatt-12356011#publisher=newsstand)
+The pictures offered a glimpse of the sisters during their early years, before they went on to build their own identities in the entertainment industry.
 
 **Source:** NDTV Profit  **Date:** 2026-11-20
-
-### [Stock Market Highlights: Sensex Jumps 900 Points, Nifty 50 Ends At 25,800, Banks, IT Stock Lead](https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-bank-nifty-gift-nifty-global-market-gold-rate-today-silver-price-12352424#publisher=newsstand)
-For the week, the Sensex jumped 2.85%, the Nifty 50 rallied 2.61% and the Bank Nifty index surged5.90%.
-
-**Source:** NDTV Profit  **Date:** 2026-11-20
-
-### [Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFFSZFo1a21vZ0hZTmpGaHEwLWFWYkRXaFFCcmpkU09Hb3ZZNEx1NzRRaTh6UnpvbnowRWhZRkl1Zzl6b1JhTXFscWFsYjhiSGdCU0FNTkNOTVp1bkt2YjFtUUhUZ2VRZ1BHRVM1eVNiR2hMbE8yZjF0dUdra0NEWVhEWlB4eXRPVVlpVFpqeW9tYXE1OUp6VUp0M1FvSzZTN2RTel94N0FaMnpCSFBzYUdjWFRraDNNV05oRjdQa0pGUQ?oc=5)
-Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026 &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-20
 
 ### [Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5)
 Integris Medtech IPO Date, Price Band, Issue Size &nbsp;&nbsp; IPO Watch
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-20
 
-### [Why Tips Music (NSE:TIPSMUSIC) Is Set to Attend Kotak Midcap Conference 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1RMR1pjb1hVTU4tendZX1dYX2xqUzhoWGhvTjRITXhUNW1BZWY3dWItakpScVh1czNiNEdBUUZkN0hYT3NtS05KNXExNVBSNWdiQnNYUzFCUnNfcm1mWEJaUzdnTGxHWnBsZkJEaVdEWm9LVmxMUFJFUlh0S1hPOW1qb2tKZmhLTWtuNnRyTkVybDNfUHFmNkNXNmtLZWxJNXB4bjN4ekVIYXdTR2h1ZDBaaHVpZ3pnYU5RTA?oc=5)
-Why Tips Music (NSE:TIPSMUSIC) Is Set to Attend Kotak Midcap Conference 2026 &nbsp;&nbsp; Kalkine Media
+### [Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFFSZFo1a21vZ0hZTmpGaHEwLWFWYkRXaFFCcmpkU09Hb3ZZNEx1NzRRaTh6UnpvbnowRWhZRkl1Zzl6b1JhTXFscWFsYjhiSGdCU0FNTkNOTVp1bkt2YjFtUUhUZ2VRZ1BHRVM1eVNiR2hMbE8yZjF0dUdra0NEWVhEWlB4eXRPVVlpVFpqeW9tYXE1OUp6VUp0M1FvSzZTN2RTel94N0FaMnpCSFBzYUdjWFRraDNNV05oRjdQa0pGUQ?oc=5)
+Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026 &nbsp;&nbsp; Kalkine Media
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-20
+
+### [Mitsu Chem Plast to list on NSE from November 25, 2026 - scanx.trade](https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0twRlFocUp0SVhkMV9xWnc4Um02Sk9MY0FLYXRodUNya21hZF9JVWxYUHd2MVoxemtPSFpRSDBJYWxMcl9aVWlWVVQxbDg3RWFscmthVUpyanl0bks3OTk2UUFvbUpRWHpDNmxFUHJ0SHdhZy1vMVJFeFV1bEhGWHRFYThzMVBRSHE4NDhJcTFHcUdlaVBFeTRoNlVfQjMzeWRyTmFTYw?oc=5)
+Mitsu Chem Plast to list on NSE from November 25, 2026 &nbsp;&nbsp; scanx.trade
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-20
 
