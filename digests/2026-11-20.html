@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Pharma Digest — 2026-11-20</title>
+<style>
+  :root{--bg:#f0f4f8;--surface:#fff;--border:#dde3ea;--primary:#1a3a5c;
+        --accent:#1565c0;--muted:#607d8b;--green:#1a7a4a;--red:#c0392b;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+       background:var(--bg);color:#1a1a2e;line-height:1.6;}
+
+  /* Header */
+  header{background:var(--primary);color:#fff;padding:1.2rem 2rem;
+          display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.8rem;}
+  header h1{font-size:1.4rem;font-weight:700;}
+  header .meta{font-size:.82rem;opacity:.8;}
+
+  /* Tabs */
+  .tabs{background:#122740;padding:0 1rem;overflow-x:auto;display:flex;
+         scrollbar-width:none;border-top:1px solid rgba(255,255,255,.08);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{background:none;border:none;color:rgba(255,255,255,.65);
+            padding:.65rem 1rem;font-size:.8rem;cursor:pointer;white-space:nowrap;
+            border-bottom:3px solid transparent;transition:all .18s;}
+  .tab-btn:hover{color:#fff;background:rgba(255,255,255,.06);}
+  .tab-btn.active{color:#fff;border-bottom-color:#64b5f6;font-weight:600;}
+
+  /* Layout */
+  .container{max-width:1400px;margin:0 auto;padding:1.5rem 1rem;}
+  .section{margin-bottom:2rem;}
+  h2{font-size:1.1rem;font-weight:700;color:var(--primary);
+      border-left:4px solid var(--accent);padding-left:.75rem;
+      margin-bottom:.9rem;display:flex;align-items:center;gap:.5rem;}
+  .count{background:var(--accent);color:#fff;border-radius:99px;
+          font-size:.7rem;padding:.1rem .45rem;}
+  .note{font-size:.8rem;color:var(--muted);margin-bottom:.75rem;}
+  .legend{font-size:.78rem;font-weight:600;}
+  .green-leg{color:var(--green);}
+  .red-leg  {color:var(--red);}
+
+  /* Stock table */
+  .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);}
+  .stock-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .stock-table th{background:var(--primary);color:#fff;padding:.6rem .75rem;
+                   text-align:left;white-space:nowrap;font-weight:600;}
+  .stock-table td{padding:.5rem .75rem;border-bottom:1px solid var(--border);
+                   white-space:nowrap;}
+  .stock-table tbody tr:last-child td{border-bottom:none;}
+  .stock-table tbody tr:hover td{background:#f0f6ff;}
+  .stock-table tr.near-high td{background:#e8f5e9;}
+  .stock-table tr.near-low  td{background:#fdecea;}
+  .co-name{max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .num{text-align:right;font-variant-numeric:tabular-nums;font-family:'SF Mono',Consolas,monospace;}
+
+  /* News cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.85rem;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:9px;
+         padding:.95rem;display:flex;flex-direction:column;gap:.4rem;
+         transition:box-shadow .15s;}
+  .card:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);}
+  .card-title{font-weight:600;color:var(--accent);text-decoration:none;
+               font-size:.88rem;line-height:1.45;}
+  .card-title:hover{text-decoration:underline;}
+  .card-summary{font-size:.8rem;color:#444;line-height:1.5;}
+  .card-meta{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap;margin-top:.15rem;}
+  .badge{color:#fff;font-size:.7rem;padding:.12rem .45rem;border-radius:4px;font-weight:500;}
+  .date{font-size:.7rem;color:var(--muted);}
+
+  footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.78rem;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🏥 India Pharma Investor Digest</h1>
+    <div class="meta">NSE · BSE · News · Filings</div>
+  </div>
+  <div class="meta">2026-11-20 &nbsp;·&nbsp; 0 stocks &nbsp;·&nbsp; 55 news items</div>
+</header>
+<nav class="tabs" id="tabNav"><button class="tab-btn" onclick="showTab('tab_stocks')" id="btn-tab_stocks">📈 Stocks (0)</button><button class="tab-btn" onclick="showTab('tab___BSE___NSE_Filings')" id="btn-tab___BSE___NSE_Filings">📊 BSE / NSE Filings (6)</button><button class="tab-btn" onclick="showTab('tab___Results___Financials')" id="btn-tab___Results___Financials">💰 Results & Financials (10)</button><button class="tab-btn" onclick="showTab('tab___Deals__M_A___Partnerships')" id="btn-tab___Deals__M_A___Partnerships">🤝 Deals, M&A & Partnerships (1)</button><button class="tab-btn" onclick="showTab('tab___Corporate_Actions')" id="btn-tab___Corporate_Actions">💸 Corporate Actions (1)</button><button class="tab-btn" onclick="showTab('tab___Operations___Approvals')" id="btn-tab___Operations___Approvals">🏭 Operations & Approvals (2)</button><button class="tab-btn" onclick="showTab('tab___Analyst___Brokerage_Calls')" id="btn-tab___Analyst___Brokerage_Calls">📉 Analyst & Brokerage Calls (12)</button><button class="tab-btn" onclick="showTab('tab___Industry___Policy_News')" id="btn-tab___Industry___Policy_News">📰 Industry & Policy News (23)</button></nav>
+<div class="container">
+  
+    <div class="section" id="tab_stocks">
+      <h2>📈 Indian Pharma — NSE Stock Prices <span class="count">0</span></h2>
+      <p class="note">
+        Prices in ₹ (INR) &nbsp;·&nbsp; Source: Yahoo Finance / NSE &nbsp;·&nbsp; As of 2026-11-20
+        &nbsp;&nbsp;
+        <span class="legend green-leg">■ Near 52W High</span>
+        &nbsp;
+        <span class="legend red-leg">■ Near 52W Low</span>
+      </p>
+      <div class="table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Company</th>
+              <th class="num">Price (₹)</th>
+              <th class="num">Change %</th>
+              <th class="num">Change (₹)</th>
+              <th class="num">Prev Close</th>
+              <th class="num">Day High</th>
+              <th class="num">Day Low</th>
+              <th class="num">52W High</th>
+              <th class="num">52W Low</th>
+              <th class="num">Mkt Cap</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  
+        <div class="section" id="tab___BSE___NSE_Filings">
+          <h2>📊 BSE / NSE Filings <span class="count">6</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/5049d2bd-8070-4050-a475-22ca3897a01d.pdf" target="_blank" rel="noopener">Natco Pharma: Company has submitted an application to BSE Limited for approval of reclassification request of fifteen promoter and promoter group members for their reclassification into the public category.</a>
+              <p class='card-summary'>Category: Others | Sub: None | BSE Code: 539798</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/53006ee7-c377-4abc-b269-dcd7d04385c2.pdf" target="_blank" rel="noopener">Aurobindo Pharma: Submission of copy of notice published in newspapers.</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 524804</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/5deee560-4a11-4831-be88-3622b3cfc315.pdf" target="_blank" rel="noopener">IPCA Laboratories: Closing of manufacturing operations and sale of leasehold land and old factory building / structures / sheds standing thereon at Company''s Drug Intermediates / bulk drug manufacturing ....</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 524494</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/9ecfe7c4-6e55-44dc-afbb-6f16ca3e5db2.pdf" target="_blank" rel="noopener">Alkem Laboratories: Newspaper Advertisement regarding the requests received for Issue of Duplicate Share Certificate(s).</a>
+              <p class='card-summary'>Category: Company Update | Sub: Newspaper Publication | BSE Code: 500825</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/9e099330-3966-4b88-b2c3-8986010cd80c.pdf" target="_blank" rel="noopener">Sanofi India: Pursuant to Regulation 5(5) of SEBI (Prohibition of Insider Trading) Regulations, 2015 (SEBI PIT Regulations) read with Asian Paints Limited - Code of Conduct to Regulate, Monitor and Report ....</a>
+              <p class='card-summary'>Category: Company Update | Sub: Trading Plan under SEBI (PIT) Regulations, 2015 | BSE Code: 500820</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.bseindia.com/xml-data/corpfiling/AttachLive/9e8d00c5-1f65-4b88-8831-a30582f1a361.pdf" target="_blank" rel="noopener">FDC Limited: Outcome enclosed herewith</a>
+              <p class='card-summary'>Category: Company Update | Sub: General | BSE Code: 524230</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#1a5276">BSE Filing</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Results___Financials">
+          <h2>💰 Results & Financials <span class="count">10</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropics-1-trillion-ai-bet-why-it-may-need-602-billion-in-annual-revenue-to-justify-the-investment-11795159243685.html" target="_blank" rel="noopener">Anthropic's $1 trillion AI bet: Why it may need $602 billion in annual revenue to justify the investment</a>
+              <p class='card-summary'>The Financial Times estimates Anthropic may need $602 billion in annual revenue to earn a 20% return on its roughly $1 trillion in compute commitments. The calculation highlights the scale of the commercial challenge facing AI companies investing heavily in infrastructure.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidia-growth-outlook-bofa-expert-says-jensen-huang-singular-but-company-more-than-one-person-demand-remains-strong-11795155375951.html" target="_blank" rel="noopener">Nvidia growth outlook: BofA expert says Jensen Huang ‘singular’, but company more than one person, demand remains strong</a>
+              <p class='card-summary'>Nvidia raised its 2027 revenue growth forecast to 75% and projected fourth-quarter sales of $130 billion, beating analyst expectations. Vivek Arya, senior semiconductor analyst at the Bank of America Securities feels that Jensen Huang “set up the foundation of a very strong enterprise”.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/disney-plans-3-billion-cost-cuts-by-2029-warns-of-more-layoffs-despite-strong-quarterly-results-11795094214232.html" target="_blank" rel="noopener">Disney plans $3 billion cost cuts by 2029, warns of more layoffs despite strong quarterly results</a>
+              <p class='card-summary'>Disney CFO Hugh Johnston, as per CNBC report, indicated “we do expect more layoffs” as the company pursues its cost-reduction target. However, the company has not disclosed how many employees could be affected or when the layoffs would take place.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms" target="_blank" rel="noopener">Indian finance hub eyes dual share model to kickstart public offers: Report</a>
+              <p class='card-summary'>Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigorate equity market activity in GIFT City, which has faced challenges regarding limited primary market</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms" target="_blank" rel="noopener">IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades</a>
+              <p class='card-summary'>Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, u</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms" target="_blank" rel="noopener">Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and  Maruti Suzuki feature in list</a>
+              <p class='card-summary'>Axis Direct has pinpointed 35 high-potential stocks spanning diverse sectors, including banking, cement, and pharmaceuticals, offering promising buying opportunities. Each stock features a target price indicating anticipated growth in the upcoming months. This recommendation stems from a robust earn</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-among-6-stocks-flashing-white-marubozu-pattern/slideshow/136011413.cms" target="_blank" rel="noopener">Maruti Suzuki among 6 stocks flashing White Marubozu pattern</a>
+              <p class='card-summary'>A White Marubozu is a bullish candlestick pattern in technical analysis that occurs when the opening price is the lowest for a given period and the closing price is the highest.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms" target="_blank" rel="noopener">Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official</a>
+              <p class='card-summary'>Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is al</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3V3S2pnMWoyNTFET25kdTNPb19aZW5nb2lJd2ZmWlpHMUc3VkZPOHdyMmdHOUQ4NkMxb2RKdnl0UnM4VjNiQV8yZkZvV0V2UFBhc0NCT0x3Y2xkSlVObG1oNE42UEU0SG1SbmVJc0FKUTA5MW1JQ3BQWUlpTGQyZC1CT3N2cDI0di0tbnFHSS1Bd0ozYlBTQnVpRE1rb1d5MHlEWlVwNjJrbUJ5ZmFrMkVlc0ozU28t?oc=5" target="_blank" rel="noopener">Natco Pharma stock: Q2 net profit falls 61% to INR 203 crore - ad-hoc-news.de</a>
+              <p class='card-summary'>Natco Pharma stock: Q2 net profit falls 61% to INR 203 crore &amp;nbsp;&amp;nbsp; ad-hoc-news.de</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - Pharma Q Results</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/sports/sandpapergate-row-irfan-pathan-warns-pat-cummins-of-lot-of-talk-during-india-tour-12354379#publisher=newsstand" target="_blank" rel="noopener">Sandpapergate Row: Irfan Pathan Warns Pat Cummins Of 'Lot Of Talk' During India Tour</a>
+              <p class='card-summary'>With Sandpapergate back in the spotlight, Pathan has warned that the Australian team will have to be mentally strong when it travels to India for the five-Test series.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Deals__M_A___Partnerships">
+          <h2>🤝 Deals, M&A & Partnerships <span class="count">1</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/motilal-oswal-alternates-rs-3-000-crore-maiden-office-fund-11794990332790.html" target="_blank" rel="noopener">Motilal Oswal Alternates to raise up to  ₹3,000 crore for maiden office fund</a>
+              <p class='card-summary'>It will focus on early-stage investments and partner with property developers through equity joint ventures in Grade A office developments across Bengaluru, Hyderabad, Mumbai, the National Capital Region, Pune and Chennai.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Corporate_Actions">
+          <h2>💸 Corporate Actions <span class="count">1</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/photonence-expands-its-medical-aesthetics-portfolio/" target="_blank" rel="noopener">Photonence expands its medical aesthetics portfolio</a>
+              <p class='card-summary'>Photonence is strengthening its market presence and expanding its portfolio across emerging segments of the medical aesthetics and wellness industry. Building on its strong position in skin lifting and tightening, the company is now looking to tap into newer opportunities in post-procedure care, str</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Operations___Approvals">
+          <h2>🏭 Operations & Approvals <span class="count">2</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/kay-beauty-bags-top-honour-at-peta-india-2026-awards-all-you-need-to-know-about-katrina-kaifs-rs-350-cr-beauty-brand-11795090127202.html" target="_blank" rel="noopener">Kay Beauty bags top honour at PETA India 2026 Awards: All you need to know about Katrina Kaif's  ₹350 cr beauty brand</a>
+              <p class='card-summary'>Kay Beauty, co-founded by Nykaa, and actor Katrina Kaif, was launched in 2019. The brand recently launched a skincare line.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/lufthansa-to-cut-1-000-jobs-at-struggling-flagship-airline-12354038#publisher=newsstand" target="_blank" rel="noopener">Lufthansa To Cut 1,000 Jobs At Struggling Flagship Airline</a>
+              <p class='card-summary'>Lufthansa Airlines also plans to further reduce capacity on short- and medium-haul routes and shrink its fleet of Airbus SE A320 aircraft, switching to the smaller A220 type.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Analyst___Brokerage_Calls">
+          <h2>📉 Analyst & Brokerage Calls <span class="count">12</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms" target="_blank" rel="noopener">Gold Rate Live Updates: Gold, silver prices slide up to 3% on MCX. Buy the dip or wait?</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-among-4-stocks-showing-rsi-trending-up/slideshow/136011353.cms" target="_blank" rel="noopener">Tata Technologies among 4 stocks showing RSI trending up</a>
+              <p class='card-summary'>Four Nifty 500 stocks, including Tata Technologies, Crompton Greaves Consumer Electricals, Physicswallah and Amber Enterprises India, feature in StockEdge's RSI Trending Up scan on November 20. The stocks record RSI values above 50, indicating strengthening price momentum after their previous RSI re</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/who-is-jon-mccormack-the-apple-executive-who-helped-shape-your-iphone-camera-and-draws-the-line-on-ai-photography-11795176101442.html" target="_blank" rel="noopener">Who is Jon McCormack? The Apple executive who helped shape your iPhone camera and draws the line on AI photography</a>
+              <p class='card-summary'>McCormack's departure is significant because the camera is one of the top selling points of an iPhone, and he played an important role in developing the photography and video features we see today. His work covered several camera upgrades across recent iPhone models.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/trump-traded-nvidia-stock-103-times-in-his-second-term-when-did-he-buy-and-sell-and-whats-his-stake-worth-11794938377312.html" target="_blank" rel="noopener">Trump traded Nvidia stock 103 times in his second term: When did he buy and sell, and what's his stake worth?</a>
+              <p class='card-summary'>Trump’s investment accounts made 103 Nvidia trades worth up to $97.5 million since his return to the White House in January 2025, a CNBC analysis found. His Nvidia holdings surged to as much as $58 million by end-2025, as his ties with Jensen Huang deepened amid shifting US chip policies on China.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/quick-commerce-supplement-sales-concerns-informed-buying-11795153108627.html" target="_blank" rel="noopener">Quick commerce boosts supplement sales amid concerns over informed buying</a>
+              <p class='card-summary'>Quick commerce is becoming a key growth channel for Wellbeing Nutrition, Fast&amp;amp;amp;Up and Kapiva even as consumer education remains central to supplement purchases.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/bsnl-employees-postpone-strike-dot-jyotiraditya-scindia-telecom-sector-india-11795153738117.html" target="_blank" rel="noopener">BSNL employees postpone strike as DoT to look into pay scale revision</a>
+              <p class='card-summary'>Telecom minister Jyotiraditya Scindia has cited BSNL’s financial condition as the main hurdle for implementation of the pay scale upgrade. He also emphasised the need to improve BSNL's services and make it profitable.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropic-ipo-windfall-over-5-000-employees-become-millionaires-600-join-the-100-million-club-11795141454809.html" target="_blank" rel="noopener">Anthropic IPO windfall: Over 5,000 employees become millionaires; 600 join the $100 million club</a>
+              <p class='card-summary'>Anthropic's record IPO has turned an estimated 5,100 employees into millionaires, with nearly 600 holding equity worth over $100 million. The windfall could boost San Francisco's housing market and charitable giving.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html" target="_blank" rel="noopener">As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives</a>
+              <p class='card-summary'>As Anthropic makes its stock market debut, co-founders Dario and Daniela Amodei highlight how AI could accelerate medical research, reshape workplaces and improve everyday lives, while stressing the need for responsible development.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropics-81-billion-ipo-creates-a-massive-payday-but-employees-face-an-unusual-hurdle-before-cashing-in-11795079903295.html" target="_blank" rel="noopener">Anthropic’s $81 billion IPO creates a massive payday, but employees face an unusual hurdle before cashing in</a>
+              <p class='card-summary'>Anthropic’s $81 billion IPO promises a massive payday for employees, but strict stock-selling rules could make cashing in more complicated.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/india/traffic-violators-beware-traffic-police-to-get-advanced-e-challan-machines-with-night-vision-cameras-12353424#publisher=newsstand" target="_blank" rel="noopener">Traffic Violators, Beware: Traffic Police To Get Advanced E-Challan Machines With Night-Vision Cameras</a>
+              <p class='card-summary'>The equipment upgrade is part of the broader 'One Nation, One Challan' initiative.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/every-10-gain-in-crude-oil-hurts-india-s-inflation-warns-manish-sonthalia-what-bear-case-shows-12354075#publisher=newsstand" target="_blank" rel="noopener">Every $10 Gain In Crude Oil Hurts India’s Inflation, Warns Analyst: What Bear Case Shows</a>
+              <p class='card-summary'>Operating leverage is playing out across companies.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/india/mumbai-prabhadevi-chawl-demolition-put-on-hold-by-western-railway-after-102-occupants-protest-12354095#publisher=newsstand" target="_blank" rel="noopener">Mumbai: Prabhadevi Chawl Demolition Put On Hold By Western Railway After 102 Occupants Protest</a>
+              <p class='card-summary'>Western Railway halts Prabhadevi demolition drive after protests, giving 102 occupants temporary relief.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="section" id="tab___Industry___Policy_News">
+          <h2>📰 Industry & Policy News <span class="count">23</span></h2>
+          <div class="cards">
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/air-india-faces-22-000-crore-loss-tata-sons-board-reviews-airlines-performance-ahead-of-crucial-meeting-11795166061145.html" target="_blank" rel="noopener">Air India faces  ₹22,000 crore loss: Tata Sons Board reviews airline's performance ahead of crucial meeting</a>
+              <p class='card-summary'>Tata Sons leaders reviewed Air India’s financial and operational challenges ahead of a board meeting. The airline lost more than ₹22,000 crore in FY2025-26, with fuel costs, airspace restrictions and aircraft delays adding pressure.&amp;amp;nbsp;</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-company-among-4-stocks-that-close-above-vwap/slideshow/136011430.cms" target="_blank" rel="noopener">TVS Motor Company among 4 stocks that close above VWAP</a>
+              <p class='card-summary'>Four Nifty 500 stocks, including TVS Motor Company, Polycab India, Wockhardt and Vedanta Iron And Steel, feature in StockEdge's technical scan for stocks closing above their volume-weighted average prices (VWAPs) on November 19. The scan identifies stocks trading above their average traded prices, i</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms" target="_blank" rel="noopener">Sebi plans consultation paper to remove FPI constraints absent in other markets</a>
+              <p class='card-summary'>SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five </p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms" target="_blank" rel="noopener">Stock Market Highlights: Sensex rockets 898 pts, Nifty ends at 25,800; bank stocks lead gainers</a>
+              
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms" target="_blank" rel="noopener">Fund managers turn overweight on India, first such classification since Jan</a>
+              <p class='card-summary'>Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Economic Times - Markets</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions-11795150984237.html" target="_blank" rel="noopener">Anthropics IPO caps an explosive growth period for the AI startup, filled with contradictions</a>
+              <p class='card-summary'>Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html" target="_blank" rel="noopener">Nvidia faces talent exodus risk after Jensen Huang's exit: Can the chipmaker retain engineers behind its AI dominance?</a>
+              <p class='card-summary'>Nvidia faces a potential talent exodus after Jensen Huang's departure, with rivals expected to poach its engineers. Interim CEO Colette Kress has promised early pay raises and stock grants to retain key employees, but questions remain over their long-term loyalty.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropic-ipo-raises-81-billion-at-1-75-trillion-valuation-numbers-that-explain-the-record-listing-11795138451629.html" target="_blank" rel="noopener">Anthropic IPO raises $81 billion at $1.75 trillion valuation: Numbers that explain the record listing</a>
+              <p class='card-summary'>Anthropic raised a record $81 billion in its IPO, surpassing SpaceX’s $75 billion listing. Shares surged over 30% on debut, briefly valuing the Claude maker at $2.01 trillion before closing at $1.75 trillion. Its co-founders, employees and early investors stand to gain substantially.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/anthropic-shares-jump-21-after-107-3-billion-ipo-breaks-record-11795137716176.html" target="_blank" rel="noopener">Anthropic shares jump 21% after $107.3 billion IPO breaks record</a>
+              <p class='card-summary'>Anthropic PBC shares soared 21% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/paytm-returns-to-wallet-business-will-it-help-regain-some-of-its-lost-markets-11794989806605.html" target="_blank" rel="noopener">Paytm returns to wallet business, will it help regain some of its lost markets?</a>
+              <p class='card-summary'>A licence to restart its digital wallet business could help Paytm reclaim payment transactions and improve margins, but UPI's dominance makes a revival harder.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html" target="_blank" rel="noopener">Anthropic IPO jackpot! CEO Dario Amodei's 237.3 million shares at $83 apiece now carry a $19.7 billion valuation</a>
+              <p class='card-summary'>The surge in Anthropic's share price also highlights the wealth created for its early investors and founders as the company completed what became the largest IPO in history, raising approximately $81.34 billion.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropic-ipo-windfall-more-than-400-employees-could-be-worth-over-935-crore-each-11795095476490.html" target="_blank" rel="noopener">Anthropic IPO windfall: More than 400 employees could be worth over  ₹935 crore each</a>
+              <p class='card-summary'>Anthropic's $1.5 trillion IPO could make the average employee worth over ₹370 crore, with 400 early staff potentially becoming multimillionaires.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/news/anthropic-is-not-a-safe-ai-company-nobel-laureates-accuse-claude-maker-of-abandoning-promises-ahead-of-ipo-11795091158478.html" target="_blank" rel="noopener">Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO</a>
+              <p class='card-summary'>Nobel laureates and leading AI experts accuse Anthropic of putting its race for AI dominance ahead of safety commitments as it makes its stock market debut.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.livemint.com/companies/people/who-is-jaan-tallinn-meet-skype-co-founder-who-fears-ai-could-end-humanity-but-may-make-billions-from-anthropic-s-ipo-11795088094396.html" target="_blank" rel="noopener">Who is Jaan Tallinn? Meet Skype co-founder who fears AI could end humanity but may make billions from Anthropic’s IPO</a>
+              <p class='card-summary'>Jaan Tallinn, Skype co-founder and AI safety advocate, could make billions from Anthropic's IPO after leading its first $124 million funding round.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Mint - Pharma</span>
+                <span class='date'>2026-11-19</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/advancing-skin-longevity-through-research-and-clinical-validation/" target="_blank" rel="noopener">Advancing skin longevity through research and clinical validation</a>
+              <p class='card-summary'>What will the fresh investment enable in terms of research priorities, formulation development and clinical validation? The investment allows us to deepen our research capabilities, particularly in photobiology: understanding how different wavelengths of light interact with skin, and translating tha</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.expresspharma.in/capitalism-at-the-cost-of-healthcare/" target="_blank" rel="noopener">Capitalism at the cost of healthcare</a>
+              <p class='card-summary'>Dr Suresh Saravdekar, Consultant – Healthcare and Pharmaceuticals highlights the Supreme Court's observations on medicine prices and examines Norway's National Health and Drug Policy as a model for India's drug pricing framework. The post Capitalism at the cost of healthcare appeared first on Expres</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">Express Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzZjaG1pUExtcGF1dEl6di1hSHJfa3RIWmRydTF2ZmY5NTBFWFZGWjBZSEo3X2ttY1FrMmo3LTZON3otSFpWc2tJQXU3RFdUMldaMFlxZXZyZ09uQVdjTGdCejlaZ0dybU1TdVQtTGNrdDJWMWZ5LUFlZE9DTF9YLWM3Nkx3UDRWRTdZQjEzY0tEdjBHeGVEV0k4a2NDX0pKMldZdjcxYTJ1YnVJMXVv?oc=5" target="_blank" rel="noopener">Gland Pharma appoints Ajay Sahni as President of Phixen SAS - scanx.trade</a>
+              <p class='card-summary'>Gland Pharma appoints Ajay Sahni as President of Phixen SAS &amp;nbsp;&amp;nbsp; scanx.trade</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/nvidias-biggest-challenge-after-jensen-huang-retaining-the-engineers-behind-its-ai-dominance-12353913#publisher=newsstand" target="_blank" rel="noopener">Nvidia's Biggest Challenge After Jensen Huang? Retaining The Engineers Behind Its AI Dominance</a>
+              <p class='card-summary'>Huang said on Tuesday he would be honoured to return as CEO if the board approves.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/business/bring-jensen-huang-back-uber-co-founder-travis-kalanick-offers-to-lead-walkout-at-nvidia-headquarters-12354123#publisher=newsstand" target="_blank" rel="noopener">'Bring Jensen Huang Back': Uber Co-Founder Offers To Lead Walkout At Nvidia Headquarters</a>
+              <p class='card-summary'>Travis Kalanick has backed the campaign to bring Jensen Huang back as Nvidia CEO, proposing an employee walkout at the chipmaker's headquarters.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-bank-nifty-gift-nifty-global-market-gold-rate-today-silver-price-12352424#publisher=newsstand" target="_blank" rel="noopener">Stock Market Highlights: Sensex Jumps 900 Points, Nifty 50 Ends At 25,800, Banks, IT Stock Lead</a>
+              <p class='card-summary'>For the week, the Sensex jumped 2.85%, the Nifty 50 rallied 2.61% and the Bank Nifty index surged5.90%.</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">NDTV Profit</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFFSZFo1a21vZ0hZTmpGaHEwLWFWYkRXaFFCcmpkU09Hb3ZZNEx1NzRRaTh6UnpvbnowRWhZRkl1Zzl6b1JhTXFscWFsYjhiSGdCU0FNTkNOTVp1bkt2YjFtUUhUZ2VRZ1BHRVM1eVNiR2hMbE8yZjF0dUdra0NEWVhEWlB4eXRPVVlpVFpqeW9tYXE1OUp6VUp0M1FvSzZTN2RTel94N0FaMnpCSFBzYUdjWFRraDNNV05oRjdQa0pGUQ?oc=5" target="_blank" rel="noopener">Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026 - Kalkine Media</a>
+              <p class='card-summary'>Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026 &amp;nbsp;&amp;nbsp; Kalkine Media</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5" target="_blank" rel="noopener">Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch</a>
+              <p class='card-summary'>Integris Medtech IPO Date, Price Band, Issue Size &amp;nbsp;&amp;nbsp; IPO Watch</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div>
+            <div class="card">
+              <a class="card-title" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1RMR1pjb1hVTU4tendZX1dYX2xqUzhoWGhvTjRITXhUNW1BZWY3dWItakpScVh1czNiNEdBUUZkN0hYT3NtS05KNXExNVBSNWdiQnNYUzFCUnNfcm1mWEJaUzdnTGxHWnBsZkJEaVdEWm9LVmxMUFJFUlh0S1hPOW1qb2tKZmhLTWtuNnRyTkVybDNfUHFmNkNXNmtLZWxJNXB4bjN4ekVIYXdTR2h1ZDBaaHVpZ3pnYU5RTA?oc=5" target="_blank" rel="noopener">Why Tips Music (NSE:TIPSMUSIC) Is Set to Attend Kotak Midcap Conference 2026 - Kalkine Media</a>
+              <p class='card-summary'>Why Tips Music (NSE:TIPSMUSIC) Is Set to Attend Kotak Midcap Conference 2026 &amp;nbsp;&amp;nbsp; Kalkine Media</p>
+              <div class="card-meta">
+                <span class="badge" style="background:#546e7a">GNews - India Pharma</span>
+                <span class='date'>2026-11-20</span>
+              </div>
+            </div></div>
+        </div>
+</div>
+<footer>
+  Auto-generated by india-pharma-digest &nbsp;·&nbsp;
+  2026-11-20 12:30 UTC &nbsp;·&nbsp;
+  Data: Yahoo Finance, BSE, NSE, Economic Times, Moneycontrol
+</footer>
+<script>
+  function showTab(id) {
+    document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    var el  = document.getElementById(id);
+    var btn = document.getElementById('btn-' + id);
+    if (el)  el.style.display  = 'block';
+    if (btn) btn.classList.add('active');
+    // Scroll tab button into view
+    if (btn) btn.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  }
+  document.addEventListener('DOMContentLoaded', function() { showTab('tab_stocks'); });
+</script>
+</body>
+</html>
