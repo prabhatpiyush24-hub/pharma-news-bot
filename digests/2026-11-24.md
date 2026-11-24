@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-11-24
 
-> 60 items · 2026-11-24 14:33 UTC
+> 51 items · 2026-11-24 21:57 UTC
 
-## 📊 BSE / NSE Filings (9)
+## 📊 BSE / NSE Filings (8)
 
 ### [Biocon: We hereby enclose reminder Letter to the eligible Shareholders and Newspaper Advertisement for transfer of Unclaimed Dividend and Equity Shares to the Investor Education and Protection Fund Authority.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ef2ae52f-c935-4e23-93e6-89d28b88d3a8.pdf)
 Category: Company Update | Sub: General | BSE Code: 532892
@@ -44,14 +44,9 @@ BSE Code: 506879
 
 **Source:** BSE Filing  **Date:** 2026-11-24
 
-### [CHD Chemicals Ltd: We hereby inform you that the meeting of the Board of Directors of the Company was held on Monday, 23rd  November, 2026 at 10:00 A.M. at the Corporate Office of the Company and considered ....](https://www.bseindia.com/corporates/ann.html?scrip=539800)
-BSE Code: 539800
-
-**Source:** BSE Filing  **Date:** 2026-11-23
-
 ---
 
-## 💰 Results & Financials (7)
+## 💰 Results & Financials (9)
 
 ### [GSK India enters blood cancer space with Blenrep launch, bets on new drugs for growth](https://www.livemint.com/companies/news/gsk-india-enters-blood-cancer-space-with-blenrep-launch-bets-on-new-drugs-for-growth-11795519487348.html)
 The launch of its third oncology drug expands GSK’s innovative medicines portfolio as it targets doubling revenue to ₹8,000 crore by FY30, with new assets expected to contribute at least 20% to overall revenue.
@@ -73,6 +68,11 @@ With the rise in the share of MFs and also an overall net investment of Rs 1.69 
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-24
 
+### [Sanofi’s $41 Billion Insmed Deal Shows Cost of a Patent Cliff](https://www.livemint.com/companies/sanofis-41-billion-insmed-deal-shows-cost-of-a-patent-cliff-11795545425011.html)
+Sanofi SA’s $41 billion purchase of Insmed Inc. shows the high cost of waiting to plug the gaps in Big Pharma’s drug pipeline.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
+
 ### [Ventive plans  ₹1,350 crore hotel expansion without fresh equity](https://www.livemint.com/companies/news/ventive-plans-1-350-crore-hotel-expansion-without-fresh-equity-11795512185406.html)
 Ventive Hospitality targets ₹2,000–2,200 crore in operating earnings by FY31, with growth led mainly by its existing hotels.
 
@@ -83,24 +83,34 @@ GlaxoSmithKline Pharmaceuticals Limited (GSK India) announced the launch of BLEN
 
 **Source:** Express Pharma  **Date:** 2026-11-24
 
-### [Swish Spends Rs 3 To Earn Rs 1: What The Earnings Reveal About 10-Minute Food Delivery Bet](https://www.ndtvprofit.com/business/swish-spends-rs-3-to-earn-rs-1-what-the-earnings-reveal-about-10-minute-food-delivery-bet-12371067#publisher=newsstand)
-Swish's expenditure jumped to Rs 144.8 crore in FY26.
+### [IKEA India Revenue Grows 14% In FY26; Targets Profitability By 2030, Plans 30 Stores](https://www.ndtvprofit.com/business/ikea-india-revenue-grows-14-in-fy26-targets-profitability-by-2030-plans-30-stores-12372283#publisher=newsstand)
+IKEA India's online sales grow 29%, contributing nearly a third of its total revenue in FY26.
 
 **Source:** NDTV Profit  **Date:** 2026-11-24
 
+### [Company Results: Company Quarterly Result, Annual Results, Financial Results - Business Standard](https://news.google.com/rss/articles/CBMibkFVX3lxTE55bVBpQVJTM1Z2YVBjZTRBdkdVc2xCeUVWSTZSVlFvSHVMWngwZ2IyVEFjdThJR1pDeUMtN2FCWWl1d3RqTHlPd0dIN05oeHpxektLR3ZDd19nYm5CX3NUZUdHcTJROExXVmNudXF3?oc=5)
+Company Results: Company Quarterly Result, Annual Results, Financial Results &nbsp;&nbsp; Business Standard
+
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-24
+
 ---
 
-## 🤝 Deals, M&A & Partnerships (11)
+## 🤝 Deals, M&A & Partnerships (10)
+
+### [Can Amazon’s Trainium chips reduce its dependence on Nvidia? The Decart technology acquisition offers clues](https://www.livemint.com/companies/news/can-amazon-s-trainium-chips-reduce-its-dependence-on-nvidia-the-decart-technology-acquisition-offers-clues-11795541315149.html)
+Amazon is acquiring AI startup Decart’s technology and hiring its founders and staff, aiming to strengthen its Trainium chips against Nvidia. Decart’s software helps optimize AI workloads across different hardware, potentially easing customers’ transition between chip platforms.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
+
+### [Shadowfax buys WeFast for  ₹23 crore to enter intra-city logistics](https://www.livemint.com/companies/news/shadowfax-buys-wefast-enters-intracity-logistics-incrin-borzo-parcel-hyperlocal-deliveries-redseer-peakxv-11795534209210.html)
+The acquisition gives Shadowfax access to a market valued at $15 billion, where nearly 70% of activity is still handled by unorganized operators.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
 
 ### [Ashok Leyland turns to Bengal for manufacturing expansion: What is the company planning to make in Singur? Details here](https://www.livemint.com/companies/news/ashok-leyland-turns-to-bengal-for-manufacturing-expansion-what-is-the-company-planning-to-make-in-singur-details-here-11795521455454.html)
 Union minister Sukanta Majumdar says Ashok Leyland will build a heavy-vehicle plant in Singur, where a planned Tata Nano factory was abandoned after protests over land acquisition. The announcement follows initial talks with the company, but project details remain unclear.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal](https://www.livemint.com/companies/zscalers-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal-11795458673610.html)
-The biggest winners of CrowdStrike Holdings Inc.’s $44 billion acquisition of cybersecurity software maker Zscaler Inc. — by far — are the company’s billionaire founder, Jay Chaudhry, and members of his family, who combined own more than a third of the company’s shares, according to regulatory filings.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-23
 
 ### [Uday Kotak on Jensen Huang coming back as NVIDIA CEO: ‘When elephants dance, everyone moves to give space!’ - Full text](https://www.livemint.com/companies/people/uday-kotak-on-jensen-huang-coming-back-as-nvidia-ceo-when-elephants-dance-everyone-moves-to-give-space-full-text-11795515952949.html)
 Uday Kotak described Nvidia’s decision to reinstate co-founder Jensen Huang as CEO as consequential for global markets, linking it to the AI race and shifting geopolitical priorities. Nvidia shares and Taiwan’s Taiex rallied after the board unanimously approved Huang’s return.
@@ -137,48 +147,28 @@ Jensen Huang has returned as NVIDIA CEO after the board reconsidered his resigna
 
 **Source:** Mint - Pharma  **Date:** 2026-11-24
 
-### [Jensen Huang is back at Nvidia as CEO: How Donald Trump helped engineer the return of a ‘national treasure’](https://www.livemint.com/companies/news/jensen-huang-is-back-at-nvidia-as-ceo-how-donald-trump-helped-engineer-the-return-of-a-national-treasure-11795482252245.html)
-Nvidia’s board unanimously reinstated co-founder Jensen Huang as CEO less than two weeks after his resignation amid allegations of extramarital affairs. President Donald Trump said he had intervened with the board, which concluded Huang’s return posed no national security risk.
+---
+
+## 💸 Corporate Actions (1)
+
+### [Tata Sons wins ITAT backing for  ₹1,498 crore interest deduction on group investments](https://www.livemint.com/companies/news/tata-sons-wins-itat-backing-for-1-498-crore-interest-deduction-on-group-investments-11795529522443.html)
+The ITAT ruled that Tata Sons may deduct interest on loans used to invest in group companies, subject to limits for expenses linked to tax-exempt income. It said the company’s activities extend beyond passively earning dividends and that its business purpose must be considered.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount](https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html)
-ZSCALER-M-A-CROWDSTRIKE:CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount
-
-**Source:** Mint - Pharma  **Date:** 2026-11-23
 
 ---
 
-## 💸 Corporate Actions (3)
-
-### [Lok Capital raises $130 mn in first tranche of fifth fund, eyes $250 mn at final close](https://www.livemint.com/companies/start-ups/lok-capital-fundraise-130-million-fifth-fund-rajat-bansal-limited-partners-11795415430282.html)
-Lok Capital is deepening its focus in core areas including financial services and climate transition segments
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November - Kalkine Media](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZkRuQ21JWHI2c0RmLWFWLURkM0h3SWM2NzNmLUlMVURvR2FySUVNMFBJbUZRT1o2Q3hZVmR1Q1dNZVhzazByak1FdXZXaWFYQzd6czJ6V25XYk1XWF93T2tmcXhnd29ycHVYRFJsSmpodmh0c3V0VnJVejE3djBVY0FuNlV3bUNld2k3T2NMQUhzMWpUaWdyU3R3ZjZscUd5eWVaQTNYRl9jQmtTVHNMUUVHa2ViZGNjTi10Z1NQZTN4VUp4RnhLaThnUDhkV090WUZqVXVIR3REVGZrbldsQg?oc=5)
-NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
-### [Bank of Baroda publishes EGM notice in leading newspapers - Business Upturn](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZGg4QTVOVTF1OW55YVd0VkJLOGZhbk4wazZGcWdaa1pEOUVtNmJScHlnczh6SFdWd3V6S0w5RElBQTN1ODlZSzFZdU1BTXN4aGdGZ194OGtpV2RnQm1aU1pCV0lQTjI4TGN1aEtGRzhHQWxvbzdzQTRKS2pUOURjdGZPXzVETzllSWZUOW9RdFNaNHlkNEl2ZGFn?oc=5)
-Bank of Baroda publishes EGM notice in leading newspapers &nbsp;&nbsp; Business Upturn
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
----
-
-## 🏭 Operations & Approvals (8)
-
-### [Tata Steel's 5-million-tonne partner is an APL Apollo promoter family firm with a real estate tag](https://www.livemint.com/companies/news/tata-steel-apl-apollo-acquisition-deal-sanjay-gupta-family-11795444515768.html)
-Promoter Gupta family, which is selling its stake in APL Apollo for ₹15,510 crore, will set up 5 mtpa of colour-coated steel capacity for Tata Steel through SG Tech, a company with no operating income in FY25.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
+## 🏭 Operations & Approvals (5)
 
 ### [Lupin receives USFDA approval for Ferric Citrate Tablets](https://www.expresspharma.in/lupin-receives-usfda-approval-for-ferric-citrate-tablets/)
 The 210 mg tablets are bioequivalent to Auryxia and are indicated for the treatment of hyperphosphatemia and iron deficiency anaemia in adults with chronic kidney disease The post Lupin receives USFDA approval for Ferric Citrate Tablets appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-11-24
+
+### [Pixxel’s big Bengaluru bet: Inside the startup’s plan to build 2.5 lakh sq ft satellite factory near Kempegowda airport](https://www.livemint.com/companies/news/pixxels-big-bengaluru-bet-inside-the-startup-s-plan-to-build-2-5-lakh-sq-ft-satellite-factory-near-kempegowda-airport-11795530432336.html)
+Pixxel will set up a 2.5 lakh sq ft satellite manufacturing facility near Bengaluru’s Kempegowda airport. The GigaPixxel unit aims to produce 50 satellites simultaneously by mid-2027, scaling to 200 by mid-2028, boosting Karnataka’s spacetech ecosystem.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
 
 ### [IKEA pushes India profitability target to FY29 as losses persist](https://www.livemint.com/companies/news/ikea-pushes-india-profitability-target-to-fy29-as-losses-persist-11795507409667.html)
 The delayed profitability timeline comes as IKEA India continues to invest in expansion, even as it makes progress in improving its financial performance.
@@ -190,43 +180,48 @@ An Amazon Prime Air drone crashed into a garage in Huntington Woods, Michigan, a
 
 **Source:** Mint - Pharma  **Date:** 2026-11-24
 
-### [Jensen Huang’s net worth jumps $34 billion as he returns as Nvidia CEO amid Chinese spy ‘scandal’](https://www.livemint.com/companies/people/jensen-huang-s-net-worth-jumps-34-billion-as-he-returns-as-nvidia-ceo-after-chinese-spy-scandal-11795482816527.html)
-Jensen Huang made a triumphant return to Nvidia's Santa Clara, California, headquarters on Monday.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
 ### [Ministry of Ayush showcases traditional healthcare systems at IITF 2026](https://www.expresspharma.in/ministry-of-ayush-showcases-traditional-healthcare-systems-at-iitf-2026/)
 The Ayush Pavilion at Bharat Mandapam, New Delhi, features healthcare consultations, medicinal plant displays, dietary preparations and interactive activities from 13 to 27 November The post Ministry of Ayush showcases traditional healthcare systems at IITF 2026 appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-11-24
 
-### [Lupin Receives Approval from U.S. FDA for Ferric Citrate Tablets - PR Newswire](https://news.google.com/rss/articles/CBMiugFBVV95cUxONzQyQl9XSUJ3NVh5Yl9qZDUzdGFVam15WDFjYVE1am5nRURwcWZPZm9Bc1FkMDdSdDhmNElBMWw0WEN2M0k3ZXlQNzdoSTh0MFlqcXhiT1hrYXJHWU95bWgwel9nN3RUM25MX3dUanFBX0dEZ1R5YWFvZXFZZFJIQkVzajhwNXNsQTcyTkdVTERRUjZZdDVoLXpGcFg2bkFIX0lvWUg1ZFpHU011MjZmTkMxMmJoZ3o1eXc?oc=5)
-Lupin Receives Approval from U.S. FDA for Ferric Citrate Tablets &nbsp;&nbsp; PR Newswire
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-23
-
-### [GSK launches multiple myeloma drug Blenrep in India - Moneycontrol.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnpxMEoxZmdnRDM0Q1JTdjJjUndTcTRtMEJWMTZVM2llNkpjWVpKRlJwemJlenZZelQwUm5BcjA3bXRUYzdmMTQwU19sVU41LUVfTnhvSmgyRHBRdlRSWTNOWjJaLXZIeXZjelNkdkxCVVUzcGdFcG0ybXJ2dmJtSGtPMEFJV3pBbmVuRHhxSmpkTFVTbnl5LXFCV2UzWHNyajF5QzZWQVdOSndu0gGyAUFVX3lxTFAzOGhraE1IM3dXN05LeWZBbnpwakhPajZ2NHY4M0c3MV8wNmNEUWlsV3dCQ2dtR1p0dFRTdFZ3bVEtZjNueS1nbnFkYzJZX2tNVkRhQXNoWUxGVk5FSXBNV3VMclA5aFJlU2dubFFKOVk2MFRwajQtbU9GWTY4YWM2c3VRU0VCbGg4TVJtczJDOVpKV0drckM5UFE2VzdSQW5xaHkzM1dEejZRQUdveW5xWWc?oc=5)
-GSK launches multiple myeloma drug Blenrep in India &nbsp;&nbsp; Moneycontrol.com
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
 ---
 
-## 📉 Analyst & Brokerage Calls (2)
+## 📉 Analyst & Brokerage Calls (6)
 
 ### [Slurrp Farm parent eyes majority stake sale at up to  ₹2,000 crore valuation](https://www.livemint.com/companies/start-ups/wholsum-foods-fundraise-slurrp-farm-mille-majority-stake-sale-rs-2-000-crore-valuation-11795512527400.html)
 Wholsum Foods, which operates Slurrp Farm and Mille, has approached players like Nestle and ITC, and even European buyers
 
 **Source:** Mint - Pharma  **Date:** 2026-11-24
 
-### [Gold Is Rs 22,000 Cheaper Than A Month Ago. Should You Buy Amid The Wedding Season?](https://www.ndtvprofit.com/markets/gold-is-rs-22-000-cheaper-than-a-month-ago-should-you-buy-amid-the-wedding-season-12370975#publisher=newsstand)
-IBJA's latest rate, set on Monday evening, was Rs 1,24,945, still Rs 21,461 below the Oct. 19 level.
+### [Trade Setup For Nov 25: GIFT Nifty Signals Strong Rebound, Analysts See 26,000 As Key Hurdle To Cross](https://www.ndtvprofit.com/markets/trade-setup-for-nov-25-nifty-finds-support-at-25-230-25-200-levels-as-stock-markets-trade-lower-global-tech-shares-fall-12372333#publisher=newsstand)
+The 62,000-61,900 zone would likely to act as an immediate support area for the Bank Nifty index.
+
+**Source:** NDTV Profit  **Date:** 2026-11-24
+
+### [GTA VI Chartbuster: 'Flower In A Hurricane' Top Song On Spotify Global List](https://www.ndtvprofit.com/entertainment/music-grand-theft-auto-vi-video-game-gta-6-album-song-flower-in-a-hurricane-tops-spotify-global-chart-12372072#publisher=newsstand)
+Shop selling Grand Theft Auto VI (GTA 6) video game in New Delhi.
+
+**Source:** NDTV Profit  **Date:** 2026-11-24
+
+### [From Rs 10,000 To Rs 700 Crore: The Story Of Happilo Founder Vikas Nahar](https://www.ndtvprofit.com/business/after-20-investor-rejections-how-vikas-nahar-built-rs-700-crore-happilo-12371015#publisher=newsstand)
+Happilo sells dry fruits and healthy snacks.
+
+**Source:** NDTV Profit  **Date:** 2026-11-24
+
+### [SGB Turned Rs 1 Lakh Into Rs 2.67 Lakh, But Gold Is Falling. Cash Out Now Or Hold Till 2029?](https://www.ndtvprofit.com/personal-finance/sgb-turned-rs-1-lakh-into-rs-2-67-lakh-but-gold-is-falling-cash-out-now-or-hold-till-2029-12371680#publisher=newsstand)
+SGB 2021-22 Series I investors are sitting on substantial gains after gold's rally.
+
+**Source:** NDTV Profit  **Date:** 2026-11-24
+
+### [Is Nvidia RTX 5090 Scalping Bubble Bursting? A $140,000 GPU Stash Tests The Market](https://www.ndtvprofit.com/world/is-nvidia-rtx-5090-scalping-bubble-bursting-a-140-000-gpu-stash-tests-the-market-12371959#publisher=newsstand)
+A Canadian reseller's RTX 5090 inventory is estimated to be worth around $140,000
 
 **Source:** NDTV Profit  **Date:** 2026-11-24
 
 ---
 
-## 📰 Industry & Policy News (20)
+## 📰 Industry & Policy News (12)
 
 ### [Spotify outage: Music streaming service back online after more than 16,000 users report problems](https://www.livemint.com/companies/news/spotify-outage-thousands-of-users-report-problems-music-streaming-platform-acknowledges-service-disruption-11795524675418.html)
 Spotify acknowledged the disruption in a post on X, saying it was aware of the issues and was investigating them. However, the company subsequently indicated that the situation was improving, suggesting that services were gradually returning to normal.
@@ -237,6 +232,21 @@ Spotify acknowledged the disruption in a post on X, saying it was aware of the i
 Foreign Institutional Investor capital is leaving Indian markets, raising concerns over the unpredictability of tax policies. Investors are urging for the reconsideration of Long-Term Capital Gains tax provisions. Historical changes in LTCG have created volatility that affects long-term investors negatively. A stable tax policy framework is essential to attract and retain investment in the Indian financial market.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-24
+
+### [HPE shares tumble as shrinking AI margins overshadow upbeat forecast](https://www.livemint.com/companies/hpe-shares-tumble-as-shrinking-ai-margins-overshadow-upbeat-forecast-11795546294323.html)
+HPE-STOCKS:HPE shares tumble as shrinking AI margins overshadow upbeat forecast
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
+
+### [Why Karnataka drivers' unions oppose Nitin Gadkari's push for private two-wheelers as Rapido, Uber, Ola bike taxis](https://www.livemint.com/companies/news/why-karnataka-drivers-unions-oppose-nitin-gadkaris-push-for-private-two-wheelers-as-rapido-uber-ola-bike-taxis-11795536723259.html)
+Karnataka drivers' unions have opposed Nitin Gadkari's proposal to allow private two-wheelers as Rapido, Uber, and Ola bike taxis, citing concerns about livelihoods, unfair competition and passenger safety. They argue that private vehicles should face the same commercial regulations as taxis.&amp;nbsp;
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
+
+### [Jensen Huang back as Nvidia CEO: What his return means for Colette Kress after her 11-day stint as interim CEO](https://www.livemint.com/companies/people/jensen-huang-back-as-nvidia-ceo-what-his-return-means-for-colette-kress-after-her-11-day-stint-as-interim-ceo-11795533795850.html)
+Nvidia reinstated Jensen Huang as CEO and board president after an 11-day interim leadership period under CFO Colette Kress. The board said his return posed no national security risk, despite its investigation remaining incomplete. Kress is expected to resume her CFO duties.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-24
 
 ### [Before returning as CEO, Jensen Huang told Nvidia board of additional affairs beyond two reported | What we know](https://www.livemint.com/companies/people/before-returning-as-ceo-jensen-huang-told-nvidia-board-of-additional-affairs-beyond-two-reported-what-we-know-11795512476839.html)
 Nvidia has reinstated CEO Jensen Huang, 11 days after he stepped down amid revelations about his extramarital relationships. The decision followed intervention by Donald Trump, support from Elon Musk and other tech leaders, and assurances from the Justice Department.
@@ -258,74 +268,19 @@ Nvidia's board reinstated CEO Jensen Huang 11 days later on November 23, 2026, s
 
 **Source:** Mint - Pharma  **Date:** 2026-11-24
 
-### [Nvidia Board decided to reinstate Jensen Huang on Sunday, management was informed at the last minute: Report](https://www.livemint.com/companies/news/nvidia-board-decided-to-reinstate-jensen-huang-on-sunday-management-was-informed-at-the-last-minute-report-11795487345041.html)
-Nvidia reinstated Jensen Huang as CEO in a rapid board reversal, reportedly following pressure from President Donald Trump and investors. The company said it consulted senior US officials, who provided input supporting the view that Huang’s return posed no national security risk.
+### [PMEC India 2026 opens, puts spotlight on the next phase of pharma manufacturing](https://www.expresspharma.in/pmec-india-2026-opens-puts-spotlight-on-the-next-phase-of-pharma-manufacturing/)
+Dignitaries including Satyaprakash T L, IAS, Joint Secretary, Department of Pharmaceuticals, and Dr Raj Shirumala, Senior Scientific Advisor, Department of Pharmaceuticals, called for greater investment in advanced manufacturing, indigenous machinery, science and innovation, and a shift towards higher-value pharmaceuticals and next-generation biologics at the inauguration of the event The post PMEC India 2026 opens, puts spotlight on the next phase of pharma manufacturing appeared first on Expre
 
-**Source:** Mint - Pharma  **Date:** 2026-11-24
+**Source:** Express Pharma  **Date:** 2026-11-24
 
-### [From FBI, intelligence probe to antitrust investigation: Here’s a look at several charges that Nvidia, Jensen Huang face](https://www.livemint.com/companies/news/from-fbi-intelligence-probe-to-antitrust-investigation-here-s-a-look-at-several-charges-that-nvidia-jensen-huang-face-11795487025040.html)
-Nvidia CEO Jensen Huang's return has not ended the scrutiny surrounding the chipmaker. From FBI and intelligence inquiries into alleged Chinese links to antitrust, congressional and SEC investigations, the company continues to face multiple probes in the US.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### ['Jensen! Jensen! Jensen!’: Nvidia employees chant Huang’s name as he makes stunning return as CEO | Watch](https://www.livemint.com/companies/news/jensen-jensen-jensen-nvidia-employees-chant-huang-s-name-as-he-makes-stunning-return-as-ceo-watch-11795482992167.html)
-Nvidia employees celebrated Jensen Huang's return as CEO, chanting his name and distributing cupcakes bearing the message “Jensen is back.” However, his reinstatement comes amid questions over the board's handling of the crisis and ongoing investigations into allegations surrounding the chipmaker.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [New data centre cable business helps Diamond Power reduce reliance on Adani Group](https://www.livemint.com/companies/news/new-data-centre-cable-business-helps-diamond-power-reduce-reliance-on-adani-group-11795442059444.html)
-The early traction marks a significant step in the Diamond Power’s efforts to diversify beyond the Adani Group, which has dominated its order book.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [Jensen Huangs return to Nvidia caps a comeback bid that stumbled before White House helped](https://www.livemint.com/companies/jensen-huangs-return-to-nvidia-caps-a-comeback-bid-that-stumbled-before-white-house-helped-11795468659174.html)
-Jensen Huang's return to Nvidia caps a comeback bid that stumbled before White House helped
-
-**Source:** Mint - Pharma  **Date:** 2026-11-23
-
-### [CPHI India opens in New Delhi, puts spotlight on India Pharma’s next phase of growth](https://www.expresspharma.in/cphi-india-opens-in-new-delhi-puts-spotlight-on-india-pharmas-next-phase-of-growth/)
-The 19th edition brings together over 2,000 exhibitors, with organisers expecting more than 50,000 pharma professionals from over 120 countries The post CPHI India opens in New Delhi, puts spotlight on India Pharma&#8217;s next phase of growth appeared first on Express Pharma .
-
-**Source:** Express Pharma  **Date:** 2026-11-23
-
-### [Why Is Sun Pharma Share Price Falling? Key Reasons 2026 - Univest](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zeHpXZVZFLXlEUFZhWkFmRUNYa3BDRkhNQ3ZOM2JIMlNHMnd4LXBDbW5SMkd5Wk4xZE5yWURVcnF3VFVPcFpVUWJ3RVRpdFJsVF9KN0xzbFhIc0ViSGN0R2hFMUFFR2p3V1RjYVFHdw?oc=5)
-Why Is Sun Pharma Share Price Falling? Key Reasons 2026 &nbsp;&nbsp; Univest
-
-**Source:** GNews - Sun Pharma  **Date:** 2026-11-23
-
-### [Phone Battery Draining Too Fast? Instagram Influencer Shares 3 Settings You Should Change](https://www.ndtvprofit.com/trending/phone-battery-draining-too-fast-instagram-influencer-shares-3-settings-you-should-change-12370812#publisher=newsstand)
-A few quick changes in your phone's settings could help your battery last longer.
+### [A Bug From July Took Down Outlook And Teams For 24 Hours. Now Microsoft Has Declared 'Code Red’](https://www.ndtvprofit.com/business/a-bug-from-july-took-down-outlook-and-teams-for-24-hours-now-microsoft-has-declared-code-red-12372392#publisher=newsstand)
+Microsoft apps
 
 **Source:** NDTV Profit  **Date:** 2026-11-24
 
-### [Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti - Moneycontrol.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFB0R3B1OHZiWTZqVFVNU0c2LThEWDNIT1djU2s1Nmd6aFhWbzctdk1LUEtyM3RadXF1a1o4aklLOG9jLUVmVjR1Z09BU05oWnpJaGNHLXpVN1kyTGMyeHZ6Q2R3R25TQkJBMkFLS1ZkdHVpYjNacU9RbkV6S1JQSExqZjZ1LXZ2NHZkS0JLZnVQb0lQWG9odzFtemFYT0dEZGRLNHlYWXAxX2xCRkh5WmlhUUV1ZmdCS0Y2SDhJd2dCbkFyY2MybzgwQlVIdWhxSGVrONIB2gFBVV95cUxNYXN1cXZpN3JuZDNWcXlIb0Z4WFppNjRUVEpiVllrV2FtOEt1Uno0SkdvTl9LU3N1WGIzbWlXRWphbmQyMWEtU0wwRzh0QXY1ZzJNMzBkN0lYeko1UlYwcDhuUnFOcTJLOXVwWEdIYncyRGcwc2J2NmFUMXJUeEFzcHdMNVFwQVQzbl9ZVTJfYks4cEMtR2hjZGxRdVN4eXQtZXZQcXR1N1p6cGdPRjdzM0ttdHRTTWhpSjV4STRXcnEwdE9Cem9TT3VuclNCNjVTcU13RE4yVkVvdw?oc=5)
-Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti &nbsp;&nbsp; Moneycontrol.com
+### ['A Joyful Face Is Always Beautiful': Sadhguru's Response To Tamannaah Bhatia Goes Viral](https://www.ndtvprofit.com/entertainment/a-joyful-face-is-always-beautiful-sadhgurus-response-to-tamannaah-bhatia-goes-viral-12372386#publisher=newsstand)
+Tamannaah Bhatia met Sadhguru and Vishal Bhardwaj at a Mumbai event for his photo book Disappearing Faces.
 
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
-### [Are markets open or closed today for Guru Nanak Jayanti? Check NSE, BSE holiday list - India Today](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHNDLWNuOU5ndlZSZExBWXNGU2lLeDFodzl2Tzc4TWRMMVFkU1FHYVlidU13cmlZQXZGeWlHSnJRRzlmc3dzRnV1eFFQOUlCNlFJNjB3Q0NUU1I3M3NrbW5tV280dXFXY3B6XzREajM3YkdNS2hOdGFFelhwNUhpN0NpMFl2UXcyWWtESmVQTWtDLTIyYmY4blpvMGZZd3EtOVFmSjE2X21WejlBckJhTkVuWUVGYjloMGNNWGV4Q3FfTlBXZTFtOWxCME1CeXNHMTJyTHhjQnBfUXJLUWZoNmphb1ZBNGdTOUHSAe8BQVVfeXFMT0hfbW1nVXRlUVlLcGlBOUFycmpTUzNua2p2VHJjRkljRTdJUFFNNnNCalZyMG5uUENFb0xGUVFXMnBTWF9KejNzUUdoR0ZYb1MzN3hwOC1jRzBaV1ZVbjNKVUFnRUwzRjlTRm5JQ21kRTdieEJva2c4MnF0ZG1DbE1HTjVjRDBOWVBaVVVZaHJKMjNrUEI5RmlZMDZEMDFuSDhWNEsydVVaX0N2OTFZYk1VZy0wVDlzdWQ3V2ZZdjUzSktaVmdYUWFnZGtfRkdRdm1ZTFN6Zy1WTk1tOTNhX2sxc183MFAzOHUydjhnLVE?oc=5)
-Are markets open or closed today for Guru Nanak Jayanti? Check NSE, BSE holiday list &nbsp;&nbsp; India Today
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
-### [Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines - Kalkine Media](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRkMweG8yZWhfUjFVYXE2eUVjNF9yZERWSjZHYVNlT2FLSmFYNFBLdVdMTVlZZV9TM2IyVkJDaDNIYmVDZ0R1UVlqLXhYRTFwdTF5VjJEWnFZeTNjN0pfMWZOWXAtRXNWaDVhdTFXakozRHRaN3lZNjVFNjgwTzNRUHJJaGNLdVRCbDR1Uld0M2IxNERTX1U0aEFMWkZ4M3h4R3ljNVpsdFpXODd5YWliQS1keUExdFNmS1E4eFVFOTljbEJRWGZOWnFuR3VzdE93OE9TOTMzVG51SmthUmxCQzFMVVBuZlFLZExndkV2T2RTMDdCb3RJ?oc=5)
-Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
-### [Mahanadi Coalfields IPO allotment tomorrow; check status on BSE, NSE and registrar - Moneycontrol.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0tfM0RhYlloMGh6TVBfMmxBeG1KQWNyd2hXTm13YUVPY0VUdHJNTDFYTUFXQjhpdmZBaEd5RGpDNzc1VVVvc3ZmOVAtNE1tbmRZUEZXRHFLbnJvM3NfbjJkNWcyWlZidHozUWU0M18tbWE2dlZtVERXa1oxYWdWRmd2bWdIUzhreW85Z0ZXNXdWY1dramswRjg1VTlMVGtYMW4wNWNhdHAwX0VQeGFmLU9RZE5DZmM0SFFTMDAyUmJvT0FPb0pzOXJRRTJWMVhEUjlPUGJpU3nSAd4BQVVfeXFMUGlTZThMQUVOQ1FPeTVmWFNEaEdUUkRJandEM05HU3g1cDN6ZE9sLWtuRmZuWUloNmdnaTdldFNqNEdmVFpnM3VFTzJlemFYUFpKMnctWjFFWE5GMkNIbXdZcFhhZlFKUTFiUm5KLWtSNGp6cE1nZU15UWQzenlZSXk1QkREUkhtMk5NME5EWV9DNUYtMWRiVk1rWl9HdlNYLWdwMmJpdmNQLWtXM0tEdGN3Q2FuVC1fYVRBSEFhSUlKSnJCMFMzTjNjLTJfN0E3dno5cElVX1cwb3pLNDNB?oc=5)
-Mahanadi Coalfields IPO allotment tomorrow; check status on BSE, NSE and registrar &nbsp;&nbsp; Moneycontrol.com
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
-### [Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies - Kalkine Media](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOWtrUEgwdDhUSlZRQl9fNjloSWxnUl9TWUxTZUhhSENJVUFzdHBvVnlfLW10UVplX2tWTUladGVvZUNhOUZQZmhRVFo3ZUQwc2FHVXlmR3VWbDJ0aXp1TXpTSTkybTUtN2l6Z0lEZ1d0emZfTklLbFJYM1c0UVFqSUhUV3cxTmdTZzZpS0N1YjZYQjhRbVd4VS1GOVBRVUJWOTB6eWRKUmNIc1JIb1ctemdJUUJpeENlNlM3em9fS2pvMlR1bUNsT2hkd2hIU3B4bzNaTFFjMnJZTGND?oc=5)
-Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies &nbsp;&nbsp; Kalkine Media
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
-
-### [Mahanadi Coalfields IPO: Allotment date, status check online by PAN number on BSE, NSE, Kfin Tech websites; listing date - Livemint](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNczhVclRaYWo5dVAtakNEOFRJUUFqdnJUTW9DVm80R1oyTmU3NHU0V2w5RWRvZnVQZWFIRFZlR3AyWGd5UkQ2VFpkd0otNzZhZzFLRDF4NDdvSDlsM1pXc0NKMnc1eERzTXFya29PTDdZOEhzWFBnQ0dIbVpNZ1VRQWU5SHdjXzRzNWtJcWtWc29iMlZ3Q0dpUmlRU3NONkNQYUhCVWx4bjlvQTFHN0lLQ2RfTk9Kc0ZpZ0g3Z014c0g0OE41UnlFUm1DR3dDYWtSMkNDUzZJcGh3VnhQTS1XeEt2ZDlTb3p3ZWVlTTVkYUh3YlpQNDVFTkhrYnd5Z9IBgwJBVV95cUxOdTZZeldUZGpEZ2YxM3RBbk9EUGI2REk3WFJyRzZlclJ0RWZCT0dGN0hJaDBkVU0za0p4SFFFLS1pMUxnZkJvYll6WXprWnRNeU84YVE5WVNnLU02YjZHR3V6ZEZQbGhwcW03cDZ0VkM2aGluMXdxeXhucDFFcGNLV0RJUXZxSEoweElhMjJ0N1ZVNk00Zzd1cGIyQjUyVUgzZzBralpNT3MtSmUtRUxadmN4YmpmZ3JxVXVnN3R5RGZXdWowUkJkbHV2R3NmMlhSVUlQRmtrb0dkVDNHUlN6ZVpYN2c3dXZDOVVEekE0Yk9RYjdadkVDcHNTZDRzWG14SjhZ?oc=5)
-Mahanadi Coalfields IPO: Allotment date, status check online by PAN number on BSE, NSE, Kfin Tech websites; listing date &nbsp;&nbsp; Livemint
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-24
+**Source:** NDTV Profit  **Date:** 2026-11-24
 
 ---
