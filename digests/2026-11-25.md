@@ -1,8 +1,8 @@
 # 🏥 India Pharma Investor Digest — 2026-11-25
 
-> 64 items · 2026-11-25 13:53 UTC
+> 69 items · 2026-11-25 21:04 UTC
 
-## 📊 BSE / NSE Filings (9)
+## 📊 BSE / NSE Filings (11)
 
 ### [Sanofi India: This is to inform you that the management representatives would be meeting the members of the Promoter(s) & Promoter(s) Group on Friday, 27th November 2026, 4.00 pm (IST) onwards in Mumbai, ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/67e18bfb-cb6a-4a41-8aca-1e179feb1ed7.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
@@ -19,6 +19,11 @@ Category: Company Update | Sub: General | BSE Code: 500087
 
 **Source:** BSE Filing  **Date:** 2026-11-25
 
+### [Lupin: Lupin Receives Approval from U.S. FDA for Dalbavancin Injection for Single-dose Regimen use.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2668503-0f77-41e1-a035-0f003a710f08.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
+
+**Source:** BSE Filing  **Date:** 2026-11-25
+
 ### [Lupin: Lupin Receives Approval from U.S. FDA for Sitagliptin and Metformin Hydrochloride Tablets, in the United States.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dcaa17-daf8-4368-b78d-04da688554cf.pdf)
 Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
 
@@ -26,6 +31,11 @@ Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
 
 ### [Aurobindo Pharma: Intimation of change in corporate office address of the RTA of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc5ddff4-70e3-4c73-b9c2-152ccdd98c82.pdf)
 Category: Company Update | Sub: General | BSE Code: 524804
+
+**Source:** BSE Filing  **Date:** 2026-11-25
+
+### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 15 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, this is to inform you that the Management of the Company will participate ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9151b00a-7e7f-4798-8efb-6a1e0484d13d.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500825
 
 **Source:** BSE Filing  **Date:** 2026-11-25
 
@@ -58,42 +68,47 @@ Mukesh Bansal sees opportunities beyond gyms and apparel, with Cult.fit aiming t
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
 
-### [Sanofi’s $41 Billion Insmed Deal Shows Cost of a Patent Cliff](https://www.livemint.com/companies/sanofis-41-billion-insmed-deal-shows-cost-of-a-patent-cliff-11795545425011.html)
-Sanofi SA’s $41 billion purchase of Insmed Inc. shows the high cost of waiting to plug the gaps in Big Pharma’s drug pipeline.
+### [Debt wary Naveen Jindal picks a prudent growth path](https://www.livemint.com/companies/news/two-brothers-two-steel-strategies-naveen-shuns-debt-while-sajjan-chases-scale-11795536538050.html)
+For Naveen Jindal, India’s growing steel market offers enough opportunity without taking on too much financial risk. India’s steel capacity, now about 220 million tonnes, is expected to rise to 300 million tonnes by 2031, with the government aiming for 600 million tonnes by 2047.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-24
+**Source:** Mint - Pharma  **Date:** 2026-11-25
 
 ### [SRMIST licenses patented poly-herbal formulation technology to Dr. SHREEVARMA’s Wellness](https://www.expresspharma.in/srmist-licenses-patented-poly-herbal-formulation-technology-to-dr-shreevarmas-wellness/)
 The non-exclusive agreement covers the manufacturing and marketing of the technology in India, with the formulation developed by SRMIST researchers The post SRMIST licenses patented poly-herbal formulation technology to Dr. SHREEVARMA’s Wellness appeared first on Express Pharma .
 
 **Source:** Express Pharma  **Date:** 2026-11-25
 
-### [Medtronic misses quarterly revenue estimates after diabetes business spinoff - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTdJMTVmekw4SkV5cXlGbzZkblkzRXZ0Z1lQTEtlVXp1elFnRFJlT25Na1B5a295SHhXV1F5cE50dkdxS3NjWkVFc3VwdXFJSXh3XzNmWGZwUnBWaWVfV3phVGFCNEF0ZUNnbmFIcWNWWVZoR2tSWE1yZWt4U3hEWHBoeTdlMjM4WXJnbjk1TnR2NEQ4bFpUbnhyaTJLR2ROQmJhY0xxbG4tQU1lcVVTdU5XeFF2N00wRy1qWElvRkZNS2NHWnRkNXcxcGtwWkZNSlV3?oc=5)
-Medtronic misses quarterly revenue estimates after diabetes business spinoff &nbsp;&nbsp; Reuters
+### [Shukra Medtech: Huge Capital Infusion by Promoter Anar Patel to fund growth - Investing.com India](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT21yeGZMRjQtOWowY3k1VjhsS3JTUHppcURjUGQ0Q1pIMEp1WG9aV1VsYVVKVGRvOHFUdWFHTk9ob3FSMmdzVjlaanZvZVZMamFESTQxNm1abkxDckwzMTFCdzVVTER0cmZRY3JJR1Ruam1jLUx5RDlNemYwd3h3Yk54R0JYTGJVVjV6aDR3RGpGLXd6ZmQwUHVDSWlhb3c5bzlhYUhxMnQyQUljWjJ4NFRWZS1QVlZIQmc?oc=5)
+Shukra Medtech: Huge Capital Infusion by Promoter Anar Patel to fund growth &nbsp;&nbsp; Investing.com India
 
-**Source:** GNews - Pharma Q Results  **Date:** 2026-11-24
+**Source:** GNews - India Pharma  **Date:** 2026-11-25
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (7)
-
-### [Investors, proxy firms question fairness of APL Apollo's  ₹28k-cr Tata Steel deal](https://www.livemint.com/companies/investors-proxy-firms-question-fairness-of-apl-apollos-28k-cr-tata-steel-deal-11795528424973.html)
-The key concern lies in the complex structuring of the deal, where APL Apollo will buy two assets from Tata Steel for a total ₹28,000 crore, funded through debt. Tata Steel, in turn, will pay ₹15,510 crore for the 26.38% promoter stake in the tubes firm and make an open offer for another 26% stake.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-25
+## 🤝 Deals, M&A & Partnerships (8)
 
 ### [SpaceX-Tesla merger: Elon Musk’s companies assemble teams to discuss ‘biggest ever’ $3.2 trillion deal](https://www.livemint.com/companies/news/spacextesla-merger-elon-musk-s-companies-assemble-teams-to-discuss-biggest-ever-3-2-trillion-deal-11795572495864.html)
 Tesla and SpaceX have formed committees, with five directors and three investment banks, to evaluate a potential $3.2 trillion all-stock merger. The companies are reportedly negotiating a deal that could be announced as soon as December.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
 
-### [Can Amazon’s Trainium chips reduce its dependence on Nvidia? The Decart acquisition offers clues](https://www.livemint.com/companies/news/can-amazon-s-trainium-chips-reduce-its-dependence-on-nvidia-the-decart-technology-acquisition-offers-clues-11795541315149.html)
-Amazon is acquiring AI startup Decart’s technology and hiring its founders and staff, aiming to strengthen its Trainium chips against Nvidia. Decart’s software helps optimize AI workloads across different hardware, potentially easing customers’ transition between chip platforms.
+### [Carlyle pares 7.4% stake in Piramal Pharma for over Rs 2,211 crore](https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms)
+The Carlyle Group has divested 7.4 percent of its stake in Piramal Pharma through an open market deal, selling approximately 9.86 crore shares at an average rate of Rs 224.17 each. As a result, its stake decreased from 17.93 percent to 10.52 percent. Aditya Birla Sun Life Mutual Fund was the most significant buyer, acquiring over 2.12 crore shares. Subsequently, Piramal Pharma's share price dropped by 1.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-24
+**Source:** Economic Times - Markets  **Date:** 2026-11-25
+
+### [Tata Steel open to revisiting APL Apollo deal structure after investor backlash](https://www.livemint.com/companies/news/tata-steel-open-to-revisiting-apl-apollo-deal-structure-after-investor-backlash-11795616029618.html)
+Tata Steel's management is discussing possible changes with APL Apollo after shareholders raised concerns over debt, valuations and the financial implications of the proposed transactions.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-25
 
 ### [Tata Steel working on tweaking APL Apollo Tubes deal amid questions of fairness: Report](https://www.livemint.com/companies/news/tata-steel-working-on-tweaking-apl-apollo-tubes-deal-amid-questions-of-fairness-report-11795592277062.html)
 Tata Steel is reportedly considering changes to its proposed APL Apollo Tubes deal to address concerns from minority shareholders, potentially by reducing debt costs and restructuring APL Apollo’s debt. The transactions, subject to approvals, are expected to close in FY2027.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-25
+
+### [Wipro secures over $500 million contract from energy major BP](https://www.livemint.com/companies/news/wipro-bags-500-million-contract-from-bp-11795614860412.html)
+The deal spanning around seven years will bring an average of about $75 million in annual business for Wipro and see 3,000 BP employees move to the IT services company, offering a boost to CEO Srini Pallia’s growth efforts.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
 
@@ -107,8 +122,8 @@ Block deal impact: Piramal Pharma down 7% on trades of 100 mn shares on BSE &nbs
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [LG Electronics India Block Deal: Korean Parent Sets Rs 1,709 Floor For 2% Stake Sale](https://www.ndtvprofit.com/markets/lg-electronics-india-block-deal-korean-parent-sets-rs-1-709-floor-for-2-stake-sale-12375977#publisher=newsstand)
-The transaction could fetch around Rs 2,320 crore.
+### [Gemini's New Google Messages Feature Can Alert You About Deals, Travel And Deliveries](https://www.ndtvprofit.com/technology/geminis-new-google-messages-feature-can-alert-you-about-deals-travel-and-deliveries-12377382#publisher=newsstand)
+Gemini may soon begin texting users first, from flight price changes to parcel updates.
 
 **Source:** NDTV Profit  **Date:** 2026-11-25
 
@@ -131,13 +146,18 @@ Sebi introduced a proposal for an early pay-out framework designed to assist Far
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-25
 
-### [Who is behind China's $270 million AI server network? Fresh Alice Huang links emerge after US blacklists Megaspeed](https://www.livemint.com/companies/news/who-is-behind-chinas-270-million-ai-server-network-fresh-alice-huang-links-emerge-after-us-blacklists-megaspeed-11795601361199.html)
-The US has blacklisted Megaspeed amid scrutiny of Nvidia chip exports to China. Report finds Alice Huang's family-linked firms financed $270 million in AI servers.
+### [SpaceX Receives Government Approval to Launch Space Data Centers](https://www.livemint.com/companies/spacex-receives-government-approval-to-launch-space-data-centers-11795632238029.html)
+The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites for Elon Musk’s vision to build a network of data centers in orbit for complex artificial intelligence computing.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
 
-### [Once bitten: Naveen Jindal chooses low debt over brother Sajjan’s big steel bet](https://www.livemint.com/companies/news/two-brothers-two-steel-strategies-naveen-shuns-debt-while-sajjan-chases-scale-11795536538050.html)
-For Naveen Jindal, India’s growing steel market offers enough opportunity without taking on too much financial risk. India’s steel capacity, now about 220 million tonnes, is expected to rise to 300 million tonnes by 2031, with the government aiming for 600 million tonnes by 2047.
+### [IPO on agenda: Tata Sons board to discuss listing plan at Monday's meeting](https://www.livemint.com/companies/news/tata-sons-listing-board-meeting-agenda-noel-tata-trusts-11795623321841.html)
+Tata Sons’ board agenda now includes an IPO plan, with a draft prospectus due within 90 days of shareholder approval and listing within the following 90 days.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-25
+
+### [Who is behind China's $270 million AI server network? Fresh Alice Huang links emerge after US blacklists Megaspeed](https://www.livemint.com/companies/news/who-is-behind-chinas-270-million-ai-server-network-fresh-alice-huang-links-emerge-after-us-blacklists-megaspeed-11795601361199.html)
+The US has blacklisted Megaspeed amid scrutiny of Nvidia chip exports to China. Report finds Alice Huang's family-linked firms financed $270 million in AI servers.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
 
@@ -151,23 +171,18 @@ QualiShield CL60-AI inspects empty vials before filling, detecting defects at sp
 
 **Source:** Express Pharma  **Date:** 2026-11-25
 
-### [Alembic Pharma secures USFDA approval for Bosutinib 400 mg tablets - scanx.trade](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUtfS3Z1bEhQTWY0cFd0WlhRS3J1NlplQlpoMHQxSUFCd01iQmI0OWg3eGt1V1lfSENoeFRUZDJkeDh2bWt5MFU3MlhpUURLNV9tNVN0eV9uUW1felpqdUczRlZ6Rlc5TXQzWGFQdkdSeUpYMHRKZEE4X0MwWTY4cktEbk1xdFZ4S2plaFdPNnB2RGYwSUV3VjZmY0ZMVmhic3ZkYktVYWZTMUhyUklYZmotRlMySXNUUV8w?oc=5)
-Alembic Pharma secures USFDA approval for Bosutinib 400 mg tablets &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - Pharma Q Results  **Date:** 2026-11-24
-
 ### [Stocks to watch: Tata Motors PV, Hyundai Motor, Lenskart, Gland Pharma - Business Standard](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHpxeFprZFFUY19IR3k3clZ2b1dsMThzbXU3Q2Z3QTFXRnNWczlFWDJZWWxwZVp5UHhiU0pwUUhLVkFGNEVJWXd3Z0hYMWs1aHl4ZnMwdHNfazlDTlF2YXpQeTlxQUdxWXAxUU03bkxfbTVBaTZZX0ZLQ1NPdEhaRkh5ckZFN2trMkpYRUdEeElHY0lyeDMxdkNaTGc1UUlFSzB1YTY5TnpqYloyX0FDMERtY1ZpS3FXMG51ZEpKVmFmWDREVEtWSV9uSnd0Z9IB0wFBVV95cUxPU3pBZzJuRFhUUmg5M3h4c1FGZ054MXVaT2RfY0RidFlmM3FwTFRzd0tBMUdScm5odDlfZWVnMHowYkxVZllnVXZVTXo1eEZWcV9LZDRVejdfUkNHV2NIbUxsZ0JwWmNBQWZ4X2E4U3VXODBwRExELTU4VDRtTVlZQmdGX2xwSFNvVkhKMFNwekV6RzAxT2t5QVRaUHFfTGxYVUFqNXp4N2VRMEZ1Wnd1WnhIdjcxd2VUbXl5Q2RGYWFWdTEteDN3ZkZGZDdJazEtMC1r?oc=5)
 Stocks to watch: Tata Motors PV, Hyundai Motor, Lenskart, Gland Pharma &nbsp;&nbsp; Business Standard
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [Zydus Lifesciences Secures USFDA EIR For SEZ II Ahmedabad Plant - Sahi](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVDdUdsVzJybkdWSURaZXRwTXl2bzJ6LVBwS2wxOWwtVEdwYlQ3cENRNHRFamtBLUhFaUdld0FYdnQ2cTZLZ0VRUmRscGZId1IzblQ1UWwyaUpzQnpqWnd1WUR1Y3BFQ3pobUJBcXZ6TE1pd2tKa0FiRDM0aGF1Ym9aZWxSQTgyeW9lbFMyTkdsQnM?oc=5)
-Zydus Lifesciences Secures USFDA EIR For SEZ II Ahmedabad Plant &nbsp;&nbsp; Sahi
+### [Lupin Receives Approval from U.S. FDA for Sitagliptin and Metformin Hydrochloride Tablets, in the United States - PR Newswire Canada](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSWZXUnZUaWFsUlNvamFNRUxLRlUyY3c3ajF1NGh0bk5TejljNnFoVjNSVUF1Y245NTdGQ2JwN1E1amw4S3ZWa0hWcG1SSi1GckpERVNLYVoydUNSR0J5dDV4dWlfOWFBbERXMGhKdHhUWmJmdXc5aURhMlhJRDc3U185QzM3czliaElhMGY4LVUxRUs0UXU1d19pUFptSk81VHQxUUdiNEpFN2ZPTE41MzkyR1piZ3Q5c0xiTDd4TGVENmZncWlnLTFVcUZtcmlMVVpIUWlSUVNzSWQyRE0zc182QWxwdjVCUHgtTGpsVlBvVWR4?oc=5)
+Lupin Receives Approval from U.S. FDA for Sitagliptin and Metformin Hydrochloride Tablets, in the United States &nbsp;&nbsp; PR Newswire Canada
 
-**Source:** GNews - India Pharma Export  **Date:** 2026-11-25
+**Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [Toyota Innova Hycross Facelift Launched: Price, New Features, Design And More](https://www.ndtvprofit.com/business/toyota-innova-hycross-facelift-launched-price-new-features-design-and-more-12376096#publisher=newsstand)
-The Toyota Innova HyCross flex hybrid can run on fuel blends ranging from E20 to E85.
+### ['No Structural Excess Capacity In Any Sector': India Pushes Back As US Proposes Up To 25% Tariffs](https://www.ndtvprofit.com/economy/no-structural-excess-capacity-in-any-sector-india-pushes-back-as-us-proposes-up-to-25-tariffs-12377514#publisher=newsstand)
+The government said India "engaged constructively throughout this investigation".
 
 **Source:** NDTV Profit  **Date:** 2026-11-25
 
@@ -183,12 +198,22 @@ Alembic Pharmaceuticals Receives USFDA Inspection Reports For Vadodara Bioequiva
 
 ---
 
-## 📉 Analyst & Brokerage Calls (2)
+## 📉 Analyst & Brokerage Calls (4)
+
+### [Anthropic made record $81.3bn in IPO, but where the money is going? why public shareholders have little say?](https://www.livemint.com/companies/anthropic-made-record-81-3bn-in-ipo-but-where-the-money-is-going-why-public-shareholders-have-little-say-11795606790039.html)
+Anthropic's record $81.3 billion IPO and $120 billion fundraising effort have created a massive AI war chest. But early investors, insiders and public shareholders have different stakes in the company.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-25
 
 ### [‘Zuckerberg in RSS attire’ posters: Meta, Congress hold talks amid claims of BJP bias, rising curbs on political posts](https://www.livemint.com/companies/news/zuckerberg-in-rss-attire-posters-meta-congress-hold-talks-amid-claims-of-bjp-bias-rising-curbs-on-political-posts-11795600797904.html)
 Meta executives hold talks with Congress leaders in New Delhi amid protests over social media content restrictions, account takedowns and allegations of political bias favouring the BJP.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
+
+### [Buy, Sell Or Hold: Samvardhana Motherson, ITC, IRCTC, Hitachi Energy India, Shriram Finance And HDFC Bank — Ask Profit](https://www.ndtvprofit.com/markets/buy-sell-or-hold-samvardhana-motherson-itc-irctc-hitachi-energy-india-shriram-finance-and-hdfc-bank-ask-profit-12377325#publisher=newsstand)
+Market experts shared their insights on fundamentals and technical levels for key stocks.
+
+**Source:** NDTV Profit  **Date:** 2026-11-25
 
 ### [P N Gadgil Jewellers (NSE:PNGJL) Announces Analyst and Investor Meeting on 30 November 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVU5hZXRORWxPUVQ1dWJDR1pDcGMtcDM2Qks2eFpwcEMxNFBPWmU3SkdUdG5KbGpYOXBRc0ZCMmJJNDhkYWNraDh0NjE3ZVdOSXpmZVNlNHp6QW1mWVdEY0I0Q3pabWxXVTAyTVZINWpCbF9CRmNCYUhVcjBaNFdONVhJV1dvYjlIdmxZTkdxT2s2RWoyOWNweG9DTFZnV3lfYTZzRlQ3MlBoa2dkUVNBX3ZzWUhHcGY4cHh1U3VJWWgtaHF1SkJHTkIxZ25iOFdn?oc=5)
 P N Gadgil Jewellers (NSE:PNGJL) Announces Analyst and Investor Meeting on 30 November 2026 &nbsp;&nbsp; Kalkine Media
@@ -234,6 +259,11 @@ Shapoor Mistry, the head of the Shapoorji Pallonji Group, has reached out to Pri
 ### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-25-nov-2026/liveblog/136148182.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-25
 
+### [BNP Paribas moves up global systemic bank list, capital buffer rises](https://www.livemint.com/companies/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-11795635991423.html)
+BNP PARIBAS-CAPITAL/:BNP Paribas moves up global systemic bank list, capital buffer rises
+
+**Source:** Mint - Pharma  **Date:** 2026-11-25
+
 ### [Flipkart CEO Kalyan Krishnamurthy set to exit after 11 years, amid IPO delay](https://www.livemint.com/companies/news/kalyan-krishnamurthy-flipkart-ipo-walmart-11795596685318.html)
 Flipkart’s chief product and technology officer Balaji Thiagarajan is set to take over as interim CEO. Krishnamurthy’s last day will be 4 December.
 
@@ -259,28 +289,18 @@ Microsoft declared a “Code Red” to overhaul how it prevents and responds to 
 
 **Source:** Mint - Pharma  **Date:** 2026-11-25
 
-### [Nvidia all-hands meeting: Jensen Huang tells employees he is in therapy, still doesn’t believe in a succession plan](https://www.livemint.com/companies/people/nvidia-all-hands-meeting-jensen-huang-tells-employees-he-is-in-therapy-still-doesn-t-believe-in-a-succession-plan-11795568676430.html)
-Jensen Huang apologized to Nvidia employees after returning as CEO, saying he had made serious mistakes and was in therapy. He denied political pressure behind his reinstatement and rejected claims he was above the law. Huang also defended Nvidia’s lack of a succession plan.
+### [Stocks To Watch Today: Siemens Energy, Wipro, Lupin, Punjab National Bank And Acme Solar](https://www.ndtvprofit.com/markets/stocks-to-watch-today-siemens-energy-wipro-lupin-punjab-national-bank-and-acme-solar-12377476#publisher=newsstand)
+Here are the notable corporate announcements that came after Wednesday's market hours.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-25
-
-### [HPE shares tumble as shrinking AI margins overshadow upbeat forecast](https://www.livemint.com/companies/hpe-shares-tumble-as-shrinking-ai-margins-overshadow-upbeat-forecast-11795546294323.html)
-HPE-STOCKS:HPE shares tumble as shrinking AI margins overshadow upbeat forecast
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [Why Karnataka drivers' unions oppose Nitin Gadkari's push for private two-wheelers as Rapido, Uber, Ola bike taxis](https://www.livemint.com/companies/news/why-karnataka-drivers-unions-oppose-nitin-gadkaris-push-for-private-two-wheelers-as-rapido-uber-ola-bike-taxis-11795536723259.html)
-Karnataka drivers' unions have opposed Nitin Gadkari's proposal to allow private two-wheelers as Rapido, Uber, and Ola bike taxis, citing concerns about livelihoods, unfair competition and passenger safety. They argue that private vehicles should face the same commercial regulations as taxis.&amp;nbsp;
-
-**Source:** Mint - Pharma  **Date:** 2026-11-24
-
-### [PMEC India 2026 opens, puts spotlight on the next phase of pharma manufacturing](https://www.expresspharma.in/pmec-india-2026-opens-puts-spotlight-on-the-next-phase-of-pharma-manufacturing/)
-Dignitaries including Satyaprakash T L, IAS, Joint Secretary, Department of Pharmaceuticals, and Dr Raj Shirumala, Senior Scientific Advisor, Department of Pharmaceuticals, called for greater investment in advanced manufacturing, indigenous machinery, science and innovation, and a shift towards higher-value pharmaceuticals and next-generation biologics at the inauguration of the event The post PMEC India 2026 opens, puts spotlight on the next phase of pharma manufacturing appeared first on Expre
-
-**Source:** Express Pharma  **Date:** 2026-11-24
+**Source:** NDTV Profit  **Date:** 2026-11-25
 
 ### [Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India,... - Moneycontrol.com](https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXJzTXB1TUxVaTZSVVBxOC1ZOEFRWlB4bHZDdnZqWUE2eG9NN0RSMXk1QkpvVG1UZm1Vam5IeVFMU1hiZzJaMllCVTdabHA4Y0M4MnIwSkFDbFRsdDd1bHV2SmEwQ0ItUjZmaXN3WHZrOV9TNVp3VjlCaDE5NkpwTDBpNzZOalFzR3hDbGFGNlhwOENlUXFiLVpFN0ZxVVcwbU5aN0I4MHQ3NFNLVVBIbEZmdUczZG5JLUdRX3VPTGFXVXFmTE40NFFrXzlyb01nTjFzTGgyejBoZXV0YU5oVDJ6d0NiN25SdjcwOGVqbjJXREREaEE1U1pLTy1mWVBBdGVfZGpiQmMtbC10VGVzTXdtNGo1d1VOTXJjZjJzMU9wazVTeWfSAasCQVVfeXFMUFpTM3NCb3RWbkJTWllZdjcxc29idnV2eU1kVF9qcm9Rbm9FLTNVY3BDeWQwaFd2YVBnY2kyMWJsX0hSYVhZQ0JVcHphQmNpYW9wSjlnQ1hIazR3MTFfOFVUR2tsYTBUNmhHNnlySFM0c2hibUR4MThNRUUzRnlUU2d0a1J3bXZnUFdfYkRHTENHR1VpV3g3c2xHQ3BCcEpYUDlSb28zOXBhVDVRMmcwVXdtTVJjOWJya2xjRUpKNm9tb1hZVUx6bENrMWxHUFcxdWI3VTZmSTBEVDF0UFZDLVYtdVR5UkM5d1V6NWlROVVMOG5oT1ppaFgwQW1LbEhGTlY5b01fV08tMDc2YXZqYXk1YUdkMGhxenNUaF9wOUVObnNCRW5GSnRtWDA?oc=5)
 Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India,... &nbsp;&nbsp; Moneycontrol.com
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-25
+
+### [Aurobindo Pharma's Share Transfer Agent KFin Technologies Relocates Hyderabad Office from December 1, 2026 - Kalkine Media](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUpvcVpLdmw4SV9zTHdYRnU2R2k1NkdiRVpfOE9hRUQzU3ZsdVlmV0F0bVpDVmk4aks1YWFtN0UybTBEZU9HbXI3Y0FnQnh1VGFqYTFweTBrVkxGUkQwdjQ1bDMwX3FONTF6WXBJMUZXeVRyb1IxbXhzUmdjUlJhdTBEVjJRM19fcDUxVjdndXNZcE9jcWpCOHdOa1hyWGNhVnVzYkVrTWpFb0JvMTRsY0wyRGJ4Zk5HLUFVUUJKdnhtRjVGT1ZhMVJvdEhZNHZZUXk5eEhOWnRKbXdTY3JfbFc2RnR3UQ?oc=5)
+Aurobindo Pharma's Share Transfer Agent KFin Technologies Relocates Hyderabad Office from December 1, 2026 &nbsp;&nbsp; Kalkine Media
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
@@ -289,38 +309,43 @@ Stocks to Watch Today: ABB, Brigade Enterprises, Gland Pharma, RMC Switchgears, 
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [Aurobindo Pharma notes KFin Technologies office shift from Dec 1 - scanx.trade](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZndxMkVuOHlQeUlOWlhUaW5zcFlVSkdQUWh0Z1ZwVmc5cWloY3BmOUZscERFUE5WS3pwVlFaaE1yc2hSLVRmTUpTX2p1bEp3cTZwUVk2N21CSE5SWHgyZEdxdU9kVXFlVzhuTWZmVFN4VFZhWXVKTGo2V2s3Q0lOMDl5TC1wTjhpT3piZl9RbE93RDdoMTB2bU9fcFZQTjZoQjBaUFlsakw2R2VaV3F2RmxKdkw0S0E?oc=5)
-Aurobindo Pharma notes KFin Technologies office shift from Dec 1 &nbsp;&nbsp; scanx.trade
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-25
-
-### [Pharma stocks rally, NIFTY PHARMA up 11% in a month: Why Gland Pharma, Cipla, Sun Pharma are in focus - Upstox](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0FXcWcyOUZaSjhkOGZrdmdYMUJxZmQxZkpXSEJIT25Hb05EeEx0SzhOV2s5WlE5U2NWZFhrQ0xXeWtqYXlacWxFLW01dFJYVG5QUnVuSmh5X3RKYU1CamdLRlRpdG9nZkFjSVRMZUpHQlIwZ1VmaHcyV3o4VzZUTUZYenZ5Tm5WVGN1MTJPLTVyZld2eEpNOE4wa1dQTEpvRHRNcXhPblZQVng5eExrR3d0dUp3a1JFVEk3RGJZeWV6a2lKOEFEVmhmOVBVcnlkZUk3Nk9sWDhSMFdm?oc=5)
-Pharma stocks rally, NIFTY PHARMA up 11% in a month: Why Gland Pharma, Cipla, Sun Pharma are in focus &nbsp;&nbsp; Upstox
-
-**Source:** GNews - India Pharma  **Date:** 2026-11-25
-
 ### [Dr. Reddy's Laboratories allots 7,050 equity shares under employee stock options schemes - Business Upturn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3pQeHRMazE1M2VDdlpVbHhtRkplRnhWdllRX1gyWDNWNVUybWRXdlhqdnZjS3JLR2cxQWVLeXBWcFl5NFRmUkhsT2RSSDdlbE5vazlLSUtmRUlBTktNN3ozOTlQRG9KRy0taTI4MlIwSzRWRUY3NDlvUjlLX1ZyVi1vLTVqUVBIdVMtZmtLTUx6eUJMYmNuU3ZlWUFDeE9SMVFJcnFGQ21WTjVuNkxQRVVGbG1JYjlCSWxicV84MUE?oc=5)
 Dr. Reddy's Laboratories allots 7,050 equity shares under employee stock options schemes &nbsp;&nbsp; Business Upturn
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [Rs 25 Lakh Trading Loss, Rs 60 Lakh In Debt, And No Way Out](https://www.ndtvprofit.com/personal-finance/rs-25-lakh-trading-loss-rs-60-lakh-in-debt-and-no-way-out-12374967#publisher=newsstand)
-The post highlights the financial and emotional consequences of excessive borrowing, speculative trading and relying on fresh loans to repay existing debt.
+### [From Glenmark Pharma to DLF: 4 Stocks Scale Fresh 52-Week Highs - Dalal Street Investment Journal](https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3NBX0Y1UUtQQlB0S2s4MEV4VWxNcHJ1WGNPTmlMalVUYTJqUURESHhLVjBGNjJWVGltTHh2OWVia1BVUEJFZE5ZcTJtbV9QVkxDS2lRNDVOOHdzaG00c1N4aElZeGtXdExZamprdG1MeFVRaWRONjBXNk9FVTlXOGdkT2hraF9rcm1CUFBLMGpUUWVIVUU0U0dYREEtdU9KU2tVdld6VVpzbmp2b0dNTQ?oc=5)
+From Glenmark Pharma to DLF: 4 Stocks Scale Fresh 52-Week Highs &nbsp;&nbsp; Dalal Street Investment Journal
+
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-25
+
+### [Sporting CP vs Manchester United Live Streaming: Likely Lineups; How To Watch Champions League Match On TV, Online?](https://www.ndtvprofit.com/sports/sporting-cp-vs-manchester-united-live-streaming-likely-lineups-how-to-watch-champions-league-match-on-tv-online-12377526#publisher=newsstand)
+Manchester United travel to Lisbon to take on Sporting CP in a Champions League league-phase clash, with Bruno Fernandes set for a return to his former club.
 
 **Source:** NDTV Profit  **Date:** 2026-11-25
 
-### [Encube Ethicals IPO Date, Price Band, Issue Size - IPO Watch](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQS1dwN3Y3MW00eTJ2UjFNWGZ5dU9BSVdoSFdld3ljT1RRUFZzbmJ6WTN3YjN2d2ZVUk9tUmxrOXhxeUlVU1ZUamVILTk4LTdqU19MSmEybENKN2hy?oc=5)
-Encube Ethicals IPO Date, Price Band, Issue Size &nbsp;&nbsp; IPO Watch
+### [Who Is Sanjay Mehrotra? The Indian-Origin Micron CEO Whose Security Costs Just Jumped 2,000%](https://www.ndtvprofit.com/technology/who-is-sanjay-mehrotra-the-indian-origin-micron-ceo-whose-security-costs-just-jumped-2-000-12377494#publisher=newsstand)
+Sanjay Mehrotra, Micron CEO, has seen his security expenses surge nearly 2,000% in FY26.
 
-**Source:** GNews - India Pharma  **Date:** 2026-11-25
+**Source:** NDTV Profit  **Date:** 2026-11-25
+
+### [Nandini Curd Gets Cheaper From November 29: Check New Prices For 500 g And 1 Kg Packs](https://www.ndtvprofit.com/business/nandini-curd-gets-cheaper-from-november-29-check-new-prices-for-500-g-and-1-kg-packs-12377160#publisher=newsstand)
+The price reduction follows criticism of the earlier price revision.
+
+**Source:** NDTV Profit  **Date:** 2026-11-25
 
 ### [Watrana Rentals IPO allotment: How to check status online on NSE, Maashitla Securities; listing date, time revealed - Upstox](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOek53UFl5ZkU4cFhCNTBUQmJncHVfdVdMeVNEM2o2ek1MTWhMVGZON3pnMjFGWUc3OUM4TGhuVnZ4Y0RBUEJjczNxNUpuc3R4MUc1ZmlHVXRuQmNldjJEQlJqLUFKZzdDMm9ucFVrdnFFaGFSRmp2Nm12NW11cGdCeDF0RVRwdVQ3TnZqQ3JKN2tVNTU5bzd0NkdsazNROEVYSHFSbXJJUlp6S0daUnRteHVTMDNkdFJWMEtIRnZrb0h2SFJwdzE4ZWdyUG1CUHpYYzJGUF9lLS0tNG1EM3Jwc25XWU11a2t6OHJDNjdLdzZjVHJ0Z2pGamhkdw?oc=5)
 Watrana Rentals IPO allotment: How to check status online on NSE, Maashitla Securities; listing date, time revealed &nbsp;&nbsp; Upstox
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [Mahanadi Coalfields IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaHg3S2kxWFpySzVQYzJFbWZzaHBEdG9NQXU2S2Y0T2t2d05sT0ktbE9EcXVFVVQxOXotdXQtVTJ0b1lGa2l2WURHQjhMUHprUWJPbV9NWk1jaWlQVkNDb1RoOWMwQ2xCeFFWVUJiZFJkdEdnOURHWHJKYnBWbExpWEwwa2hmS3VhZGpTZDduc0djZk5VLXVyMlpWR2ZiM041Q081SF9IWnR4aWxVZnRMSU4xQWViVGs5a2ZvSnlrU0ZhVTdhMXIzOHRVYWpLV3pMVThLeXcwTl9QbXpkNWV2eDk2VnhMSC1icGNJX0lYY0kxN2lwcjhFVEJRWmNhUQ?oc=5)
-Mahanadi Coalfields IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here &nbsp;&nbsp; Upstox
+### [Encube Ethicals IPO Date, Price Band, Issue Size - IPO Watch](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQS1dwN3Y3MW00eTJ2UjFNWGZ5dU9BSVdoSFdld3ljT1RRUFZzbmJ6WTN3YjN2d2ZVUk9tUmxrOXhxeUlVU1ZUamVILTk4LTdqU19MSmEybENKN2hy?oc=5)
+Encube Ethicals IPO Date, Price Band, Issue Size &nbsp;&nbsp; IPO Watch
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-25
+
+### [Mahanadi Coalfields IPO allotment finalised: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaHg3S2kxWFpySzVQYzJFbWZzaHBEdG9NQXU2S2Y0T2t2d05sT0ktbE9EcXVFVVQxOXotdXQtVTJ0b1lGa2l2WURHQjhMUHprUWJPbV9NWk1jaWlQVkNDb1RoOWMwQ2xCeFFWVUJiZFJkdEdnOURHWHJKYnBWbExpWEwwa2hmS3VhZGpTZDduc0djZk5VLXVyMlpWR2ZiM041Q081SF9IWnR4aWxVZnRMSU4xQWViVGs5a2ZvSnlrU0ZhVTdhMXIzOHRVYWpLV3pMVThLeXcwTl9QbXpkNWV2eDk2VnhMSC1icGNJX0lYY0kxN2lwcjhFVEJRWmNhUQ?oc=5)
+Mahanadi Coalfields IPO allotment finalised: How to check status online on NSE, BSE, KFin Technologies; listing date, time here &nbsp;&nbsp; Upstox
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
@@ -329,9 +354,9 @@ NSE, BSE, MCX: Elara initiates on India's leading exchanges; check fresh price t
 
 **Source:** GNews - India Pharma  **Date:** 2026-11-25
 
-### [Sensex, Nifty trade higher; pharma shares surge - Dailyhunt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzFtSDZ1ZDBUN3ZQT1lRdEowa3ZBci1vVXp3TU9pNW1VWTBOR3dwX0RweHYxeTh5dUdHT3ZkeFJVcFE3LXBROFNEYmdTSm9vdmdIeXB4MkZ3cEc1RW11S1IzZ2Q3TG5qS0xPbmxLRmR1RzAyRlJHdncwUG5HaVlUMHhJUThYVXR6Q0JtUmJXSDF2R1ZqVURXeWNYdTIwWE54NTlQQktralBUdmJNNUFhVHVRaG53VkU1QXlfREVkV1pEY3FQZUJuWGw4S1RVeTA?oc=5)
-Sensex, Nifty trade higher; pharma shares surge &nbsp;&nbsp; Dailyhunt
+### [BioSyent Shares Gain Bullish Momentum as Pharmaceutical Growth Prospects Strengthen Investor Optimism - kalkine.ca](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcEZZQUdZejdEUmVKWG14U1dGejI5NkNSM05vN1JpTi1vTFZDU1FBU2pQOUNUT3NPMDk4M0cxQjktY2JQeXBUMjhsZUdwSjdZc202UmFCbXlUYjg0VExsWG1yRmFSZXVmbTJBSjR1S2lTSUZTaFdfODBuRWNkaHA5eTY1TzNPdzQzOWZfLUcwYmRYcjZKWUpDaFFRVnIxWXhNcGhMSnVfeVR2ekJiRlRPN3d0XzdYNnFYck5TN29odFJ5WURhRHItSWV0c3IyOG5PTUE?oc=5)
+BioSyent Shares Gain Bullish Momentum as Pharmaceutical Growth Prospects Strengthen Investor Optimism &nbsp;&nbsp; kalkine.ca
 
-**Source:** GNews - India Pharma  **Date:** 2026-11-25
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-25
 
 ---
