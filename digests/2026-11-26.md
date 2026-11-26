@@ -1,8 +1,13 @@
 # 🏥 India Pharma Investor Digest — 2026-11-26
 
-> 45 items · 2026-11-26 13:32 UTC
+> 49 items · 2026-11-26 20:59 UTC
 
-## 📊 BSE / NSE Filings (12)
+## 📊 BSE / NSE Filings (16)
+
+### [Sun Pharma: Investor Presentation -Nov 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ae5df8e3-52b5-4257-8cad-b7cc0d34fb4d.pdf)
+Category: Company Update | Sub: Investor Presentation | BSE Code: 524715
+
+**Source:** BSE Filing  **Date:** 2026-11-26
 
 ### [Dr. Reddy's Laboratories: Allotment of employee stock options.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1991c82e-98ec-4cdf-973a-4df59daea628.pdf)
 Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500124
@@ -49,15 +54,30 @@ Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500825
 
 **Source:** BSE Filing  **Date:** 2026-11-25
 
+### [Sanofi India: Pursuant to Regulation 30 of the SEBI(LODR) Regulations 2015, find enclosed the presentation to be made at the Nomura Investment Forum, Japan, denominated in Indian Rupees.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/fb491e28-0f0d-42fa-8d83-4fcd48ae1359.pdf)
+Category: Company Update | Sub: Investor Presentation | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-11-26
+
 ### [Sanofi India: This is to inform you that the Company through its representatives, will be participating in the meeting as per enclosed schedule.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/69f322c4-6b2d-40b8-99a9-d8b6672bfe56.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-11-25
 
+### [Jubilant Pharmova: Shifting of Corporate Office of Registrar & Share Transfer Agent](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ed8dbb1f-afc8-41a6-b943-ceaeff769af2.pdf)
+Category: Company Update | Sub: General | BSE Code: 532523
+
+**Source:** BSE Filing  **Date:** 2026-11-26
+
 ### [Marksans Pharma: Please find enclosed the Investor Presentation of the Company for your reference and records.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb9baca5-8687-4122-a915-893cf81eb313.pdf)
 Category: Company Update | Sub: Investor Presentation | BSE Code: 524208
 
 **Source:** BSE Filing  **Date:** 2026-11-25
+
+### [Glaxosmithkline Pharma: As per the disclosure attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/25023994-b4a0-4165-b119-c30539ab5227.pdf)
+Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500271
+
+**Source:** BSE Filing  **Date:** 2026-11-26
 
 ### [CHD Chemicals Ltd: 1. Approved the issuance of fully paid-up equity shares having a face value of ? 10.00/- (Rupees Ten Only) each ('Equity Shares') for an aggregate amount not exceeding ? 2000 Lakhs (Rupees ....](https://www.bseindia.com/corporates/ann.html?scrip=539800)
 BSE Code: 539800
@@ -66,46 +86,31 @@ BSE Code: 539800
 
 ---
 
-## 💰 Results & Financials (6)
+## 💰 Results & Financials (4)
 
 ### [Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?](https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms)
 In the September 2026 quarter, Foreign Institutional Investors (FIIs) boosted their stakes in various firms, notably in Eternal and Adani Enterprises, despite facing mixed performance trends in stock values. While ICICI Bank and the Life Insurance Corporation of India saw a downturn, Welspun Corp and Lenskart Solutions marked notable stock price increases. Overall, the aggregate FII investment in NSE-listed companies observed a decline in value during this period.
 
 **Source:** Economic Times - Markets  **Date:** 2026-11-26
 
-### [Tamil Nadu Paternity Leave Explained: 15 Days, When It Starts, And Who Qualifies](https://www.ndtvprofit.com/india/tamil-nadu-paternity-leave-explained-15-days-when-it-starts-and-who-qualifies-12380895#publisher=newsstand)
-Tamil Nadu introduces 15 days of paternity leave for married male government employees.
+### [Stocks To Watch Today: Patanjali Foods, Torrent Power, Asian Paints, KPI Green And Ashiana Housing](https://www.ndtvprofit.com/markets/stocks-to-watch-today-patanjali-foods-torrent-power-asian-paints-kpi-green-and-ashiana-housing-12382326#publisher=newsstand)
+Here are the notable corporate announcements that came afterThursday's market hours.
 
 **Source:** NDTV Profit  **Date:** 2026-11-26
 
-### [Tom Hanks Watches Vijay Sethupathi's Maharaja, Praises Sachana Namidass' Performance: 'Still Can't Get Over That Girl'](https://www.ndtvprofit.com/entertainment/tom-hanks-impressed-by-sachana-namidass-performance-in-maharaja-says-what-an-incredible-actor-12380495#publisher=newsstand)
-Maharaja is now set to receive a Hollywood adaptation.
+### [OM: Operation Mole Box Office Collection Day 7: Dhanush-Mammootty Starrer Continues Its Run; Check Earnings](https://www.ndtvprofit.com/entertainment/om-operation-mole-box-office-collection-day-7-dhanush-mammootty-starrer-continues-its-run-check-earnings-12382093#publisher=newsstand)
+OM: Operation Mole released on November 20.
 
 **Source:** NDTV Profit  **Date:** 2026-11-26
 
-### [Ventive Hospitality Bets On Room Rates, New Keys To Double Earnings By FY31: CEO Ranjit Batra](https://www.ndtvprofit.com/business/ventive-hospitality-bets-on-room-rates-new-keys-to-double-earnings-by-fy31-ceo-ranjit-batra-12380640#publisher=newsstand)
-Chief Executive Officer Ranjit Batra pointed to sustained office-led demand and the absence of any significant new luxury hotel supply in the city's pipeline.
+### [JPMorgan's 2027 India Stock List: 33 Top Picks, And The 10 Stocks It Wants You To Avoid](https://www.ndtvprofit.com/business/jpmorgans-2027-india-stock-list-33-top-picks-and-the-10-stocks-it-wants-you-to-avoid-12382015#publisher=newsstand)
+JPMorgan's 2027 India strategy favours domestic cyclicals, banks and healthcare stocks amid earnings growth expectations.
 
 **Source:** NDTV Profit  **Date:** 2026-11-26
-
-### [Quarterly Earnings Review: Mixed Results as 53% of Companies Report Profit Growth in Sep-2026 - MarketsMojo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmxZajZxSmhXMGY2RkFfVWt3dFFnUm4xcGJIVXh1YVlJb0trWHZCTVk0RmpnSk01RUJoZ0xLTGxBUXljYXBCZXVZNzM2dlBZNWxpVnJIOEdkaldJTjB3eHU2Rkd6ZGJGSVpVREZLYUdONWJCZnFSaE5vLS01RzYzSENqZ1cxUkhKWnI5MjNMU3Fsd0JOc1RBbWc3RnhLVnhzck1peDJYYnZqVzg0NTZoRnBMRnhUd2FzMW1VWHRzYkhrUXNZWU5MbGxXQU5lanBWSHNFWjM2VzMyZnFDeUpJSERoT1M?oc=5)
-Quarterly Earnings Review: Mixed Results as 53% of Companies Report Profit Growth in Sep-2026 &nbsp;&nbsp; MarketsMojo
-
-**Source:** GNews - Pharma Q Results  **Date:** 2026-11-26
-
-### [Quarterly Earnings Review: Mixed Results Across 4,314 Stocks in Sep-2026 - MarketsMojo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnhEUE1pOFdPMElrV2NYM2tNVjlVUFdKWW5FeVFZbzV1U1U4RjBYQVhsOHp5a3djSVJxMzdVNW5VVVJhb09PblhzRXdETmhxTWVrWHU5cklDeFM5MWtYb3ZWeXdwMUV6VGVzaGZfcXdYNUdIWTRXWjNKWlRFdndIRXQ2VFV6dUM0eV9KWHdaRS1tSEVRbWRibnhPU1l2Nzl2b3J4S2VYZ08wTlFzUjJvYzdydGVRZHhCZ2l0cTM4UUdmdm9MSzNxQw?oc=5)
-Quarterly Earnings Review: Mixed Results Across 4,314 Stocks in Sep-2026 &nbsp;&nbsp; MarketsMojo
-
-**Source:** GNews - Pharma Q Results  **Date:** 2026-11-26
 
 ---
 
-## 🤝 Deals, M&A & Partnerships (6)
-
-### [Tata Steel open to revisiting APL Apollo deal structure after investor backlash](https://www.livemint.com/companies/news/tata-steel-open-to-revisiting-apl-apollo-deal-structure-after-investor-backlash-11795616029618.html)
-Tata Steel's management is discussing possible changes with APL Apollo after shareholders raised concerns over debt, valuations and the financial implications of the proposed transactions.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-25
+## 🤝 Deals, M&A & Partnerships (4)
 
 ### [Wipro takes over 3,000 BP employees in new deal: What's behind the British oil giant's big move?](https://www.livemint.com/companies/wipro-lands-major-bp-deal-takes-over-3-000-employees-across-3-countries-why-is-the-british-co-transferring-staff-11795693466869.html)
 BP will transfer over 3,000 finance employees in India, Hungary and Malaysia to Wipro in 2027 as the energy giant reshapes operations and cuts costs.
@@ -122,13 +127,8 @@ Mizuho Securities and Avendus Capital have combined their operations following a
 
 **Source:** Mint - Pharma  **Date:** 2026-11-26
 
-### [Wipro secures over $500 million contract from energy major BP](https://www.livemint.com/companies/news/wipro-bags-500-million-contract-from-bp-11795614860412.html)
-The deal spanning around seven years will bring an average of about $75 million in annual business for Wipro and see 3,000 BP employees move to the IT services company, offering a boost to CEO Srini Pallia’s growth efforts.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-25
-
-### [Retirement At 60, But A Home Loan Until 70: How Should You Plan Your Last 10 Years Of Working Life?](https://www.ndtvprofit.com/personal-finance/retirement-at-60-but-a-home-loan-until-70-how-should-you-plan-your-last-10-years-of-working-life-12380581#publisher=newsstand)
-Exhausting the entire retirement corpus to pre-pay loans may not be an ideal option.
+### [Marlboro Maker Could Return To Global Cigarette Sales For First Time In 20 Years Via Imperial Deal](https://www.ndtvprofit.com/business/marlboro-maker-could-return-to-global-cigarette-sales-for-first-time-in-20-years-via-imperial-deal-12382337#publisher=newsstand)
+Altria could use an Imperial Brands acquisition to expand its international cigarette business.
 
 **Source:** NDTV Profit  **Date:** 2026-11-26
 
@@ -143,22 +143,17 @@ The vote comes amid a history of investor resistance, with five of 11 special re
 
 ---
 
-## 🏭 Operations & Approvals (4)
+## 🏭 Operations & Approvals (3)
+
+### [JioStar enters US streaming market with 7 Indian channels on Fubo; here’s how much it costs for Hindi entertainment](https://www.livemint.com/companies/news/jiostar-enters-us-streaming-market-with-7-indian-channels-on-fubo-here-s-how-much-it-costs-for-hindi-entertainment-11795712140816.html)
+JioStar is bringing popular Indian TV channels, including Star Plus, Colors, MTV India and more in the US. The launch came with an introductory price, effective from November 16.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-26
 
 ### [Why is GE Shipping buying its own stock instead of new ships with its Iran war windfall?](https://www.livemint.com/companies/news/ge-shipping-share-buyback-ship-acquisition-strategy-11795668141551.html)
 GE Shipping has decided to put off all fleet expansions until prices come down.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-26
-
-### [SpaceX Receives Government Approval to Launch Space Data Centers](https://www.livemint.com/companies/spacex-receives-government-approval-to-launch-space-data-centers-11795632238029.html)
-The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites for Elon Musk’s vision to build a network of data centers in orbit for complex artificial intelligence computing.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-25
-
-### [IPO on agenda: Tata Sons board to discuss listing plan at Monday's meeting](https://www.livemint.com/companies/news/tata-sons-listing-board-meeting-agenda-noel-tata-trusts-11795623321841.html)
-Tata Sons’ board agenda now includes an IPO plan, with a draft prospectus due within 90 days of shareholder approval and listing within the following 90 days.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-25
 
 ### [CBC India and METALCO-ALUPACK unveil PureCore at CPHI India 2026](https://www.expresspharma.in/cbc-india-and-metalco-alupack-unveil-purecore-at-cphi-india-2026/)
 CBC India’s Ingredients &#38; Packaging Solutions (IPS) Division marked a major milestone at CPHI India 2026 with the global launch of METALCO ALUPACK’s PureCore™ family, comprising PureCore™ RTU (Ready-to-Use) and [&#8230;] The post CBC India and METALCO-ALUPACK unveil PureCore at CPHI India 2026 appeared first on Express Pharma .
@@ -189,14 +184,14 @@ Nvidia is selling its most cutting-edge chips to at least two companies that are
 
 **Source:** Mint - Pharma  **Date:** 2026-11-26
 
-### [Anthropic made record $81.3bn in IPO, but where the money is going? why public shareholders have little say?](https://www.livemint.com/companies/anthropic-made-record-81-3bn-in-ipo-but-where-the-money-is-going-why-public-shareholders-have-little-say-11795606790039.html)
-Anthropic's record $81.3 billion IPO and $120 billion fundraising effort have created a massive AI war chest. But early investors, insiders and public shareholders have different stakes in the company.
+### [Aakasamlo Oka Tara Box Office Collection Day 7: Dulquer Salmaan Starrer Nears Rs 25 Crore, Holds Steady](https://www.ndtvprofit.com/entertainment/aakasamlo-oka-tara-box-office-collection-day-7-dulquer-salmaan-starrer-nears-rs-25-crore-holds-steady-12382167#publisher=newsstand)
+Aakasamlo Oka Tara released on November 20, 2026.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-25
+**Source:** NDTV Profit  **Date:** 2026-11-26
 
 ---
 
-## 📰 Industry & Policy News (11)
+## 📰 Industry & Policy News (16)
 
 ### [Bombay HC to hear Tata Trusts' lawsuits against Chandrasekaran’s reappointment on Friday ahead of Nov 30 board meeting](https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html)
 The Bombay HC will hear two Tata trusts’ lawsuits challenging N Chandrasekaran’s reappointment as Tata Sons chairman and CEO. The trusts say the board resolution lacked the affirmative votes required by the company’s articles.
@@ -218,6 +213,11 @@ The Bombay HC will hear two Tata trusts’ lawsuits challenging N Chandrasekaran
 ### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-26-nov-2026/liveblog/136178625.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-26
 
+### [Market Trading Guide: Tech Mahindra, Angel One among 5 stock recommendations for Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tech-mahindra-angel-one-among-5-stock-recommendations-for-friday/slideshow/136196068.cms)
+Market experts recommend five stocks for Friday, including Tech Mahindra, Angel One, Tata Consumer, Kansai Nerolac and Agarwal Eye, outlining entry levels, stop losses and upside targets.
+
+**Source:** Economic Times - Markets  **Date:** 2026-11-26
+
 ### [NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month](https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms)
 Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week highs on Thursday. NSE led monthly gains, surging 35%, followed by Prestige Estates at 32%.
 
@@ -226,18 +226,38 @@ Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week h
 ### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-26-nov-2026/liveblog/136178700.cms)
 **Source:** Economic Times - Markets  **Date:** 2026-11-26
 
+### [Sleeping With a Subordinate Gets CEOs Fired. Except for Jensen Huang.](https://www.livemint.com/companies/sleeping-with-a-subordinate-gets-ceos-fired-except-for-jensen-huang-11795719825116.html)
+Across corporate America, lying to the board about a relationship with a subordinate has reliably ended the careers of powerful business leaders.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-26
+
+### [Raymond taps Jaideep Ahlawat as ‘Friend of the Brand’ to revive retro Bollywood fashion: All you need to know](https://www.livemint.com/companies/people/raymond-taps-jaideep-ahlawat-as-friend-of-the-brand-to-revive-retro-bollywood-fashion-all-you-need-to-know-11795703077416.html)
+Jaideep Ahlawat has joined Raymond Lifestyle’s Chairman’s Collection as ‘Friend of Brand’. Unveiled on Nov 25 in Mumbai, the collaboration draws inspiration from Bollywood fashion of 1960s, 1970s and 1980s, reinterpreting retro styles through contemporary tailoring, craftsmanship and bespoke luxury.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-26
+
+### [Flipkart’s incoming CEO faces a multi-front battle](https://www.livemint.com/companies/news/flipkarts-incoming-ceo-faces-a-multi-front-battle-11795691496329.html)
+A stalled IPO, disgruntled employees and rising competition will test the new CEO, who must also manage a sprawling portfolio of capital-intensive businesses.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-26
+
+### [US-based GEF Capital prepares to ramp up India climate-tech investments](https://www.livemint.com/companies/news/usbased-gef-capital-prepares-to-ramp-up-india-climate-tech-investments-pe-firm-11795687202336.html)
+Over the next 4-5 years, the PE firm will invest in 3-4 mid-market companies every year with cheques ranging from $30 million to $60 million. The investments will be in companies across energy transition, electric mobility, industrial decarbonisation, sustainable agriculture, and water efficiency.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-26
+
 ### [‘To the dishes he washed’: On Jensen Huang's comeback, Denny's says 'something you just don't take off the menu'](https://www.livemint.com/companies/to-the-dishes-he-washed-on-jensen-huangs-comeback-dennys-says-something-you-just-dont-take-off-the-menu-11795659529206.html)
 The diner chain said its history with Jensen goes back much further, “to the dishes he washed, the guests he served and the work he still talks about with pride.”
 
 **Source:** Mint - Pharma  **Date:** 2026-11-26
 
-### [BNP Paribas moves up global systemic bank list, capital buffer rises](https://www.livemint.com/companies/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-11795635991423.html)
-BNP PARIBAS-CAPITAL/:BNP Paribas moves up global systemic bank list, capital buffer rises
+### [Juventus vs Omonia Live Streaming: When And Where To Watch Europa League Match In India?](https://www.ndtvprofit.com/sports/juventus-vs-omonia-live-streaming-when-and-where-to-watch-europa-league-match-in-india-12382381#publisher=newsstand)
+Juventus host Omonia in a crucial Europa League league-phase clash. Check the match time, venue, predicted XIs and broadcast information.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-25
+**Source:** NDTV Profit  **Date:** 2026-11-26
 
-### [Navi Mumbai Water Shutdown: Supply To Remain Affected On Friday For 12 Hours In THESE Regions](https://www.ndtvprofit.com/india/navi-mumbai-water-shutdown-supply-to-remain-affected-on-friday-for-12-hours-in-these-regions-12380983#publisher=newsstand)
-The civic body will install new flow meters and valves on the Belapur-Airoli pipeline and at several water reservoir sites.
+### [Forget Nvidia Shares? Wealthy Europeans See A Different Way To Bet On AI](https://www.ndtvprofit.com/markets/forget-nvidia-shares-wealthy-europeans-see-a-different-way-to-bet-on-ai-12382269#publisher=newsstand)
+Wealthy European investors are turning to private markets for exposure to AI growth.
 
 **Source:** NDTV Profit  **Date:** 2026-11-26
 
