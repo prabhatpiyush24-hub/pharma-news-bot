@@ -1,33 +1,28 @@
-# 🏥 India Pharma Investor Digest — 2026-11-26
+# 🏥 India Pharma Investor Digest — 2026-11-27
 
-> 49 items · 2026-11-26 20:59 UTC
+> 45 items · 2026-11-27 13:30 UTC
 
-## 📊 BSE / NSE Filings (16)
+## 📊 BSE / NSE Filings (13)
+
+### [Natural Biocon (India) Ltd: outcome of board meeting](https://www.bseindia.com/corporates/ann.html?scrip=543207)
+BSE Code: 543207
+
+**Source:** BSE Filing  **Date:** 2026-11-27
+
+### [Gujarat Themis Biosyn Ltd: Outcome of the Board Meeting related to issue of NCDs on Private Placement basis.](https://www.bseindia.com/corporates/ann.html?scrip=506879)
+BSE Code: 506879
+
+**Source:** BSE Filing  **Date:** 2026-11-27
 
 ### [Sun Pharma: Investor Presentation -Nov 2026](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ae5df8e3-52b5-4257-8cad-b7cc0d34fb4d.pdf)
 Category: Company Update | Sub: Investor Presentation | BSE Code: 524715
 
 **Source:** BSE Filing  **Date:** 2026-11-26
 
-### [Dr. Reddy's Laboratories: Allotment of employee stock options.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1991c82e-98ec-4cdf-973a-4df59daea628.pdf)
-Category: Company Update | Sub: Allotment of ESOP / ESPS | BSE Code: 500124
+### [Divis Lab: Intimation of change in corporate office address of Kfin Technologies Limited, RTA of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/a1a773f3-e2ff-4e8c-8e68-65f433e48972.pdf)
+Category: Company Update | Sub: General | BSE Code: 532488
 
-**Source:** BSE Filing  **Date:** 2026-11-25
-
-### [Cipla: Please find enclosed Press Release](https://www.bseindia.com/xml-data/corpfiling/AttachLive/7d7b210a-a801-4ca5-9334-490c9f2a6701.pdf)
-Category: Company Update | Sub: General | BSE Code: 500087
-
-**Source:** BSE Filing  **Date:** 2026-11-25
-
-### [Lupin: Lupin Receives Approval from U.S. FDA for Dalbavancin Injection for Single-dose Regimen use.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2668503-0f77-41e1-a035-0f003a710f08.pdf)
-Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
-
-**Source:** BSE Filing  **Date:** 2026-11-25
-
-### [Lupin: Lupin Receives Approval from U.S. FDA for Sitagliptin and Metformin Hydrochloride Tablets, in the United States.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dcaa17-daf8-4368-b78d-04da688554cf.pdf)
-Category: Company Update | Sub: Press Release / Media Release | BSE Code: 500257
-
-**Source:** BSE Filing  **Date:** 2026-11-25
+**Source:** BSE Filing  **Date:** 2026-11-27
 
 ### [Divis Lab: Newspaper Clippings-Special Window for transfer and dematerialisation of physical shares](https://www.bseindia.com/xml-data/corpfiling/AttachLive/1bf16d5d-6d2b-4734-9bb6-db958af4651a.pdf)
 Category: Company Update | Sub: Newspaper Publication | BSE Code: 532488
@@ -39,48 +34,38 @@ Category: Company Update | Sub: Newspaper Publication | BSE Code: 524804
 
 **Source:** BSE Filing  **Date:** 2026-11-26
 
-### [Aurobindo Pharma: Intimation of change in corporate office address of the RTA of the Company.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc5ddff4-70e3-4c73-b9c2-152ccdd98c82.pdf)
-Category: Company Update | Sub: General | BSE Code: 524804
-
-**Source:** BSE Filing  **Date:** 2026-11-25
-
 ### [Biocon: We wish to inform the Exchanges that the Securities and Exchange Board of India has passed an Adjudication Order dated November 25, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/cd288264-a536-446d-8b9d-c5c65155801b.pdf)
 Category: Company Update | Sub: General | BSE Code: 532892
 
 **Source:** BSE Filing  **Date:** 2026-11-26
 
-### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 15 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, this is to inform you that the Management of the Company will participate ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9151b00a-7e7f-4798-8efb-6a1e0484d13d.pdf)
-Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500825
+### [Alkem Laboratories: Pursuant to Regulation 30 read with Clause 7 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015, this is to inform you that Mr. Puneet Das, Chief Marketing Officer, ....](https://www.bseindia.com/xml-data/corpfiling/AttachLive/615bbddc-10bc-40dc-84ca-e444e6552f2f.pdf)
+Category: Company Update | Sub: Change in Management | BSE Code: 500825
 
-**Source:** BSE Filing  **Date:** 2026-11-25
+**Source:** BSE Filing  **Date:** 2026-11-27
+
+### [Sanofi India: Find enclosed communication with respect to the cancellation of the meeting scheduled for 27th November 2026 with analyst/institutional investors.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/55134076-4fae-46d4-8242-ad8449f45409.pdf)
+Category: Company Update | Sub: General | BSE Code: 500820
+
+**Source:** BSE Filing  **Date:** 2026-11-27
 
 ### [Sanofi India: Pursuant to Regulation 30 of the SEBI(LODR) Regulations 2015, find enclosed the presentation to be made at the Nomura Investment Forum, Japan, denominated in Indian Rupees.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/fb491e28-0f0d-42fa-8d83-4fcd48ae1359.pdf)
 Category: Company Update | Sub: Investor Presentation | BSE Code: 500820
 
 **Source:** BSE Filing  **Date:** 2026-11-26
 
-### [Sanofi India: This is to inform you that the Company through its representatives, will be participating in the meeting as per enclosed schedule.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/69f322c4-6b2d-40b8-99a9-d8b6672bfe56.pdf)
-Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500820
+### [Jubilant Pharmova: Press Release](https://www.bseindia.com/xml-data/corpfiling/AttachLive/fdd66e4f-7936-4ec4-aead-9fcfeca28f01.pdf)
+Category: Company Update | Sub: Press Release / Media Release | BSE Code: 532523
 
-**Source:** BSE Filing  **Date:** 2026-11-25
+**Source:** BSE Filing  **Date:** 2026-11-27
 
 ### [Jubilant Pharmova: Shifting of Corporate Office of Registrar & Share Transfer Agent](https://www.bseindia.com/xml-data/corpfiling/AttachLive/ed8dbb1f-afc8-41a6-b943-ceaeff769af2.pdf)
 Category: Company Update | Sub: General | BSE Code: 532523
 
 **Source:** BSE Filing  **Date:** 2026-11-26
 
-### [Marksans Pharma: Please find enclosed the Investor Presentation of the Company for your reference and records.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb9baca5-8687-4122-a915-893cf81eb313.pdf)
-Category: Company Update | Sub: Investor Presentation | BSE Code: 524208
-
-**Source:** BSE Filing  **Date:** 2026-11-25
-
 ### [Glaxosmithkline Pharma: As per the disclosure attached](https://www.bseindia.com/xml-data/corpfiling/AttachLive/25023994-b4a0-4165-b119-c30539ab5227.pdf)
 Category: Company Update | Sub: Analyst / Investor Meet | BSE Code: 500271
-
-**Source:** BSE Filing  **Date:** 2026-11-26
-
-### [CHD Chemicals Ltd: 1. Approved the issuance of fully paid-up equity shares having a face value of ? 10.00/- (Rupees Ten Only) each ('Equity Shares') for an aggregate amount not exceeding ? 2000 Lakhs (Rupees ....](https://www.bseindia.com/corporates/ann.html?scrip=539800)
-BSE Code: 539800
 
 **Source:** BSE Filing  **Date:** 2026-11-26
 
@@ -88,143 +73,122 @@ BSE Code: 539800
 
 ## 💰 Results & Financials (4)
 
-### [Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?](https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms)
-In the September 2026 quarter, Foreign Institutional Investors (FIIs) boosted their stakes in various firms, notably in Eternal and Adani Enterprises, despite facing mixed performance trends in stock values. While ICICI Bank and the Life Insurance Corporation of India saw a downturn, Welspun Corp and Lenskart Solutions marked notable stock price increases. Overall, the aggregate FII investment in NSE-listed companies observed a decline in value during this period.
+### [Lupin receives USFDA approval for Dalbavancin Injection](https://www.expresspharma.in/lupin-receives-usfda-approval-for-dalbavancin-injection/)
+The 500 mg/5 mL single-dose vial is indicated for the treatment of acute bacterial skin and skin structure infections in adult and paediatric patients The post Lupin receives USFDA approval for Dalbavancin Injection appeared first on Express Pharma .
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+**Source:** Express Pharma  **Date:** 2026-11-27
 
-### [Stocks To Watch Today: Patanjali Foods, Torrent Power, Asian Paints, KPI Green And Ashiana Housing](https://www.ndtvprofit.com/markets/stocks-to-watch-today-patanjali-foods-torrent-power-asian-paints-kpi-green-and-ashiana-housing-12382326#publisher=newsstand)
-Here are the notable corporate announcements that came afterThursday's market hours.
+### [Divis Labs Q2FY27 net profit up 64%; peptide capacity expands - scanx.trade](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjRFR290U1A3R0NvaVJEVi1KTGt6TGNUZkprT0pnSm9INDRwaHRDdU5OX3pBbkRXWHB6bTJhT3RCRFlETmF5RjhBcUZqenJSMmFjRC1GRW9LbFlMb0tRRG5hLTd0YlFmMmhNTTMyNkZYTk1FZjNhWkhTdnVobnpxbWtmU1hIQ2UxeGpNLS12NVNXZ0tKd19XWFR6OHoyclRPaWhoTERBTWwwYzc2bFIyb3hJSGxmY1BDaEE?oc=5)
+Divis Labs Q2FY27 net profit up 64%; peptide capacity expands &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-11-26
+**Source:** GNews - Divi's  **Date:** 2026-11-26
 
-### [OM: Operation Mole Box Office Collection Day 7: Dhanush-Mammootty Starrer Continues Its Run; Check Earnings](https://www.ndtvprofit.com/entertainment/om-operation-mole-box-office-collection-day-7-dhanush-mammootty-starrer-continues-its-run-check-earnings-12382093#publisher=newsstand)
-OM: Operation Mole released on November 20.
+### [Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA margin hits 30.3% - scanx.trade](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGdRSF9UVTlSYU4xUUl6b0hpbkFqS2dCSmlsTFNJS3VTcnVVM2RXNFhpZzI0RFhKVmwtazVmdHVuVllyZW1EV3lpWkZ0VmdLUkRZRi1pdXkxNlprUDJqckhITzd6R0VTdHV2YWhhOEV4aHNfU2t1V3NyeWFTUW9tQ19UVFNDVlltYTg1TG9OSHlyMm44dXVoemV5X3U1ZlQzZTlQeWtJb19semtOc0poZmRzRnVnTmlkbzVCbUl3?oc=5)
+Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA margin hits 30.3% &nbsp;&nbsp; scanx.trade
 
-**Source:** NDTV Profit  **Date:** 2026-11-26
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-26
 
-### [JPMorgan's 2027 India Stock List: 33 Top Picks, And The 10 Stocks It Wants You To Avoid](https://www.ndtvprofit.com/business/jpmorgans-2027-india-stock-list-33-top-picks-and-the-10-stocks-it-wants-you-to-avoid-12382015#publisher=newsstand)
-JPMorgan's 2027 India strategy favours domestic cyclicals, banks and healthcare stocks amid earnings growth expectations.
+### [Quarterly Earnings Review: Mixed Results Across 4,315 Stocks in Sep-2026 Quarter - MarketsMojo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXR2LUIzOXlpU2NEc1dqWTk4T0tvLS1sYlZCOGp0WVVpamg4aFVlZ1RoNDZYU19LcUZGSG5yZmxhaEwwemQ2WGZYYjdHMndQbmxQTTJKeTNhczN5TmEwYkpjNERVOEJuLVV3NmhjX1ZwR3RfNGg2Zkl0aWZKY3ByMXVlR05nYmczQkxhZ2ZGdTQtMGVOZ1JybVBiVGVHVnJiOUVKN2dJcEZIdWhKRmZ6dkhsQ18xRXdfenNUWlFjX3RWOXMyUUdhYWFsaVppNEFZVF9v?oc=5)
+Quarterly Earnings Review: Mixed Results Across 4,315 Stocks in Sep-2026 Quarter &nbsp;&nbsp; MarketsMojo
 
-**Source:** NDTV Profit  **Date:** 2026-11-26
+**Source:** GNews - Pharma Q Results  **Date:** 2026-11-26
 
 ---
 
 ## 🤝 Deals, M&A & Partnerships (4)
 
-### [Wipro takes over 3,000 BP employees in new deal: What's behind the British oil giant's big move?](https://www.livemint.com/companies/wipro-lands-major-bp-deal-takes-over-3-000-employees-across-3-countries-why-is-the-british-co-transferring-staff-11795693466869.html)
-BP will transfer over 3,000 finance employees in India, Hungary and Malaysia to Wipro in 2027 as the energy giant reshapes operations and cuts costs.
+### [Proxy advisors urge Sebi intervention over related-party concerns in Tata Steel-APL Apollo deal](https://www.livemint.com/companies/proxy-advisors-flag-related-party-concerns-in-tata-steel-apl-apollo-transaction-11795704764028.html)
+Three proxy advisory firms warn Tata Steel and APL Apollo’s complex ₹28,000-crore deal may breach Sebi related-party rules. They urge scrutiny, arguing the linked transactions could benefit APL Apollo’s promoters while shifting debt to public shareholders.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+**Source:** Mint - Pharma  **Date:** 2026-11-27
 
-### [Norse Atlantic’s financial woes deepen: Flights cancelled, IndiGo deal ends, takeover talks on](https://www.livemint.com/companies/news/norse-atlantic-s-financial-woes-deepen-flights-cancelled-indigo-deal-ends-takeover-talks-on-11795658948871.html)
-Norse Atlantic’s financial crisis worsened as shares plunged, flights were cancelled and the airline disclosed talks over short-term financing and a possible takeover. Its wet-lease agreement with IndiGo has ended, while PIA has shifted cancelled Norse-operated routes to its own aircraft.
+### [Kalyan Silks promoters eye minority stake sale at up to  ₹3,000 cr valuation](https://www.livemint.com/companies/news/kalyan-silks-promoters-explore-minority-stake-sale-at-upto-rs-3-000-cr-valn-11795687123191.html)
+The deal may involve a 20% stake sale, with the capital likely to be a mix of primary and secondary share sales. Kalyan Silks has hired Mumbai-based investment bank O3 Capital to arrange the transaction.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+**Source:** Mint - Pharma  **Date:** 2026-11-27
 
-### [Mizuho, Avendus commence partnership a year after takeover announcement](https://www.livemint.com/companies/news/mizuho-avendus-commence-partnership-a-year-after-takeover-announcement-11795605307049.html)
-Mizuho Securities and Avendus Capital have combined their operations following approvals, with Avendus retaining its brand and leadership team.
+### [GSK spinoff Haleon eyes billion-dollar Healthkart bet](https://www.livemint.com/companies/gsk-consumer-healthkart-acquisition-deal-11795688783370.html)
+GSK spinoff Haleon is looking to tap India’s fast-growing health and wellness market through a controlling stake in homegrown nutrition and supplements platform HealthKart. The deal, still in its early stages, could value the company at $1.2-1.4 billion, say people in the know.
 
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+**Source:** Mint - Pharma  **Date:** 2026-11-27
 
-### [Marlboro Maker Could Return To Global Cigarette Sales For First Time In 20 Years Via Imperial Deal](https://www.ndtvprofit.com/business/marlboro-maker-could-return-to-global-cigarette-sales-for-first-time-in-20-years-via-imperial-deal-12382337#publisher=newsstand)
-Altria could use an Imperial Brands acquisition to expand its international cigarette business.
+### [Biocon’s biosimilar Pertuzumab receives ANVISA approval in Brazil](https://www.expresspharma.in/biocons-biosimilar-pertuzumab-receives-anvisa-approval-in-brazil/)
+Hertuzo approval covers HER2-positive breast cancer across multiple disease stages and advances the company's 10-year partnership with Bionovis and Bahiafarma The post Biocon&#8217;s biosimilar Pertuzumab receives ANVISA approval in Brazil appeared first on Express Pharma .
 
-**Source:** NDTV Profit  **Date:** 2026-11-26
-
----
-
-## 💸 Corporate Actions (1)
-
-### [Shareholders who said no before now hold the key to APL Apollo's big bet](https://www.livemint.com/companies/news/apl-apollo-shareholders-tata-steel-28000-crore-deal-vote-11795672935764.html)
-The vote comes amid a history of investor resistance, with five of 11 special resolutions at its 2025 and 2026 AGMs failing to secure the required 75% approval.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+**Source:** Express Pharma  **Date:** 2026-11-27
 
 ---
 
-## 🏭 Operations & Approvals (3)
+## 🏭 Operations & Approvals (7)
+
+### [Casio launches new G-Shock pilot watch with unusual Kevlar, nylon and metal strap, priced at £920 in the UK](https://www.livemint.com/companies/news/casio-launches-new-g-shock-pilot-watch-with-unusual-kevlar-nylon-and-metal-strap-priced-at-920-in-the-uk-11795779674147.html)
+Casio has launched a new G-Shock Gravitymaster pilot watch with a strap combining Kevlar, nylon and metal. The GWR-B3000SC-1A also features solar charging, Bluetooth and radio-controlled timekeeping. It is priced at £920 in the UK.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-27
+
+### [Urban Company forays into AC market, announces the launch of two new air conditioners under 'Native' brand: Here's why](https://www.livemint.com/companies/news/urban-company-forays-into-ac-market-announces-the-launch-of-two-new-air-conditioners-under-native-brand-heres-why-11795764096385.html)
+Urban Company has entered India's residential AC market with its Native Ultra and Ultra Air range, priced from ₹55,499. The company is offering a five-year unconditional warranty, including gas refills, as it looks to leverage its experience in AC servicing and repairs.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-27
+
+### [Nvidia chip buyers told to rule out Chinese firms as customers to access advanced GPUs under new US curbs](https://www.livemint.com/companies/news/nvidia-chip-buyers-told-to-rule-out-chinese-firms-as-customers-to-access-advanced-gpus-under-new-us-curbs-11795751648276.html)
+Nvidia chip sellers have warned neocloud providers they could lose access to advanced GPUs if they rent computing capacity to Chinese firms. The warning follows new US restrictions targeting China's remote access to AI chips.
+
+**Source:** Mint - Pharma  **Date:** 2026-11-27
 
 ### [JioStar enters US streaming market with 7 Indian channels on Fubo; here’s how much it costs for Hindi entertainment](https://www.livemint.com/companies/news/jiostar-enters-us-streaming-market-with-7-indian-channels-on-fubo-here-s-how-much-it-costs-for-hindi-entertainment-11795712140816.html)
 JioStar is bringing popular Indian TV channels, including Star Plus, Colors, MTV India and more in the US. The launch came with an introductory price, effective from November 16.
 
 **Source:** Mint - Pharma  **Date:** 2026-11-26
 
-### [Why is GE Shipping buying its own stock instead of new ships with its Iran war windfall?](https://www.livemint.com/companies/news/ge-shipping-share-buyback-ship-acquisition-strategy-11795668141551.html)
-GE Shipping has decided to put off all fleet expansions until prices come down.
+### [Centre calls for stronger food and drug regulatory systems at national conference](https://www.expresspharma.in/centre-calls-for-stronger-food-and-drug-regulatory-systems-at-national-conference/)
+Conference in Bengaluru focuses on risk-based inspections, regulatory capacity, surveillance and coordination between Central and State authorities The post Centre calls for stronger food and drug regulatory systems at national conference appeared first on Express Pharma .
 
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+**Source:** Express Pharma  **Date:** 2026-11-27
 
-### [CBC India and METALCO-ALUPACK unveil PureCore at CPHI India 2026](https://www.expresspharma.in/cbc-india-and-metalco-alupack-unveil-purecore-at-cphi-india-2026/)
-CBC India’s Ingredients &#38; Packaging Solutions (IPS) Division marked a major milestone at CPHI India 2026 with the global launch of METALCO ALUPACK’s PureCore™ family, comprising PureCore™ RTU (Ready-to-Use) and [&#8230;] The post CBC India and METALCO-ALUPACK unveil PureCore at CPHI India 2026 appeared first on Express Pharma .
+### [Hetero begins shipments of generic lenacapavir for HIV prevention to Africa](https://www.expresspharma.in/hetero-begins-shipments-of-generic-lenacapavir-for-hiv-prevention-to-africa/)
+Company plans initial supply of 300,000 vials across Zambia, Uganda and Zimbabwe, with oral initiation tablets expected by January 2027 The post Hetero begins shipments of generic lenacapavir for HIV prevention to Africa appeared first on Express Pharma .
 
-**Source:** Express Pharma  **Date:** 2026-11-26
+**Source:** Express Pharma  **Date:** 2026-11-27
 
----
+### [Indian Airlines Schedule Fewer Flights In December As Capacity Falls | Profit Exclusive](https://www.ndtvprofit.com/business/indian-airlines-indigo-air-india-spicejet-schedule-fewer-flights-in-december-as-capacity-falls-profit-exclusive-12384760#publisher=newsstand)
+IndiGo, Air India and SpiceJet will operate fewer flights in December as overall capacity falls 1.68%.
 
-## 📉 Analyst & Brokerage Calls (5)
-
-### [Noel Tata pushes for changes to Tata Sons' November 30 board agenda, seeks priority for issues raised by him](https://www.livemint.com/companies/people/noel-tata-pushes-for-changes-to-tata-sons-november-30-board-agenda-seeks-priority-for-issues-raised-by-him-11795670457350.html)
-Noel Tata has sought priority for key governance issues at the November 30 Tata Sons board meeting, reiterating his opposition to N Chandrasekaran's reappointment and seeking the meeting's recording.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-26
-
-### [US closed cloud loophole for China. Now Nvidia’s B300 GPUs are on sale. Who’s buying? What changes for global market?](https://www.livemint.com/companies/us-closed-cloud-loophole-for-china-now-nvidia-s-b300-gpus-are-on-sale-who-s-buying-what-changes-for-global-market-11795691475319.html)
-Nvidia's B300 chips are flooding the resale market after the US closed a cloud computing loophole for China. What does this mean for global AI demand?
-
-**Source:** Mint - Pharma  **Date:** 2026-11-26
-
-### [Nvidia reinstated Jensen Huang as CEO. Now S&amp;P may downgrade its AA credit rating](https://www.livemint.com/companies/news/nvidia-board-s-flip-flop-on-jensen-huang-as-ceo-puts-its-aa-credit-rating-at-risk-why-s-p-is-considering-a-downgrad-11795685706714.html)
-Nvidia has reinstated Jensen Huang as CEO, but S&amp;amp;P Global Ratings has placed its AA credit rating on watch for a possible downgrade over governance concerns.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-26
-
-### [Nvidia’s China link revealed? Investigation claims two US-based firms with Chinese owners are buying most advanced chips](https://www.livemint.com/companies/news/nvidias-china-link-revealed-investigation-claims-two-us-based-firms-with-chinese-owners-are-buying-most-advanced-chips-11795655636492.html)
-Nvidia is selling its most cutting-edge chips to at least two companies that are US-based, but are actually controlled by Chinese-owned firms, a CBS News investigation found.
-
-**Source:** Mint - Pharma  **Date:** 2026-11-26
-
-### [Aakasamlo Oka Tara Box Office Collection Day 7: Dulquer Salmaan Starrer Nears Rs 25 Crore, Holds Steady](https://www.ndtvprofit.com/entertainment/aakasamlo-oka-tara-box-office-collection-day-7-dulquer-salmaan-starrer-nears-rs-25-crore-holds-steady-12382167#publisher=newsstand)
-Aakasamlo Oka Tara released on November 20, 2026.
-
-**Source:** NDTV Profit  **Date:** 2026-11-26
+**Source:** NDTV Profit  **Date:** 2026-11-27
 
 ---
 
-## 📰 Industry & Policy News (16)
+## 📰 Industry & Policy News (17)
 
-### [Bombay HC to hear Tata Trusts' lawsuits against Chandrasekaran’s reappointment on Friday ahead of Nov 30 board meeting](https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html)
-The Bombay HC will hear two Tata trusts’ lawsuits challenging N Chandrasekaran’s reappointment as Tata Sons chairman and CEO. The trusts say the board resolution lacked the affirmative votes required by the company’s articles.
+### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-27-nov-2026/liveblog/136209134.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-27
 
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-27-nov-2026/liveblog/136209117.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-27
 
-### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-livestock-price-today-live-updates-26-nov-2026/liveblog/136178766.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+### [Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-27-nov-2026/liveblog/136209081.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-27
 
-### [Divis Labs Share Price Highlights: Divis Labs Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-26-nov-2026/liveblog/136178741.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-27-nov-2026/liveblog/136209067.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-27
 
-### [Cipla Share Price Highlights: Cipla Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-26-nov-2026/liveblog/136178729.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+### [Ion Exchange India among 6 stocks hitting 52-week low; shares slipped up to 20% in a month](https://economictimes.indiatimes.com/markets/stocks/news/ion-exchange-india-among-6-stocks-hitting-52-week-low-shares-slipped-up-to-20-in-a-month/slideshow/136219516.cms)
+Six BSE 1000 stocks, including Dishman Carbogen Amcis, Happiest Minds and TCI Express, touched fresh 52-week lows on Friday amid weakness in the broader market.
 
-### [Sun Pharma Share Price Highlights: Sun Pharma Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-26-nov-2026/liveblog/136178676.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+**Source:** Economic Times - Markets  **Date:** 2026-11-27
 
-### [Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-26-nov-2026/liveblog/136178625.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-27-nov-2026/liveblog/136209123.cms)
+**Source:** Economic Times - Markets  **Date:** 2026-11-27
 
-### [Market Trading Guide: Tech Mahindra, Angel One among 5 stock recommendations for Friday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tech-mahindra-angel-one-among-5-stock-recommendations-for-friday/slideshow/136196068.cms)
-Market experts recommend five stocks for Friday, including Tech Mahindra, Angel One, Tata Consumer, Kansai Nerolac and Agarwal Eye, outlining entry levels, stop losses and upside targets.
+### [HSBC’s AI-led restructuring: Finance employees in Hyderabad, Pune asked to relocate to three other cities](https://www.livemint.com/companies/news/hsbcs-ai-led-restructuring-finance-employees-in-hyderabad-pune-asked-to-relocate-to-three-other-cities-11795780769992.html)
+HSBC is consolidating finance support functions across India, with roles in Hyderabad and Pune set to be phased out. Affected employees will be offered relocation support to move to Chennai, Gurugram or Bengaluru, as the lender accelerates its AI-led restructuring.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+**Source:** Mint - Pharma  **Date:** 2026-11-27
 
-### [NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month](https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms)
-Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week highs on Thursday. NSE led monthly gains, surging 35%, followed by Prestige Estates at 32%.
+### [Elon Musk's SpaceX share giveaway could be worth $18 billion: What will US children get?](https://www.livemint.com/companies/people/elon-musks-spacex-share-giveaway-could-be-worth-18-billion-what-will-us-children-get-11795744860683.html)
+Elon Musk plans to give every US child two SpaceX shares worth nearly $18 billion collectively, with one share from the company and another from him personally. He also plans to extend the giveaway annually.
 
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
-
-### [Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-26-nov-2026/liveblog/136178700.cms)
-**Source:** Economic Times - Markets  **Date:** 2026-11-26
+**Source:** Mint - Pharma  **Date:** 2026-11-27
 
 ### [Sleeping With a Subordinate Gets CEOs Fired. Except for Jensen Huang.](https://www.livemint.com/companies/sleeping-with-a-subordinate-gets-ceos-fired-except-for-jensen-huang-11795719825116.html)
 Across corporate America, lying to the board about a relationship with a subordinate has reliably ended the careers of powerful business leaders.
@@ -246,19 +210,29 @@ Over the next 4-5 years, the PE firm will invest in 3-4 mid-market companies eve
 
 **Source:** Mint - Pharma  **Date:** 2026-11-26
 
-### [‘To the dishes he washed’: On Jensen Huang's comeback, Denny's says 'something you just don't take off the menu'](https://www.livemint.com/companies/to-the-dishes-he-washed-on-jensen-huangs-comeback-dennys-says-something-you-just-dont-take-off-the-menu-11795659529206.html)
-The diner chain said its history with Jensen goes back much further, “to the dishes he washed, the guests he served and the work he still talks about with pride.”
+### [Tata Trusts Move To Defer Nov. 30 Board Meet, Flag 'Complete Misuse' Of Chairman's Casting Vote](https://www.ndtvprofit.com/business/tata-trusts-move-to-defer-nov-30-board-meet-flag-complete-misuse-of-chairmans-casting-vote-on-sept-17-12384851#publisher=newsstand)
+Tata Trusts has approached the Bombay High Court seeking an injunction or deferment of the upcoming Tata Sons board meeting scheduled for November 30, alleging that the Chairman's casting vote was completely misused
 
-**Source:** Mint - Pharma  **Date:** 2026-11-26
+**Source:** NDTV Profit  **Date:** 2026-11-27
 
-### [Juventus vs Omonia Live Streaming: When And Where To Watch Europa League Match In India?](https://www.ndtvprofit.com/sports/juventus-vs-omonia-live-streaming-when-and-where-to-watch-europa-league-match-in-india-12382381#publisher=newsstand)
-Juventus host Omonia in a crucial Europa League league-phase clash. Check the match time, venue, predicted XIs and broadcast information.
+### [Sharjah Warriorz vs Dubai Capitals Live Streaming: When And Where To Watch ILT20 Match?](https://www.ndtvprofit.com/sports/sharjah-warriorz-vs-dubai-capitals-live-streaming-when-and-where-to-watch-ilt20-match-12382492#publisher=newsstand)
+Sharjah Warriorz face Dubai Capitals in the eighth match of ILT20 2026-27 on November 27. Check the match time, venue, live telecast and streaming details in India.
 
-**Source:** NDTV Profit  **Date:** 2026-11-26
+**Source:** NDTV Profit  **Date:** 2026-11-27
 
-### [Forget Nvidia Shares? Wealthy Europeans See A Different Way To Bet On AI](https://www.ndtvprofit.com/markets/forget-nvidia-shares-wealthy-europeans-see-a-different-way-to-bet-on-ai-12382269#publisher=newsstand)
-Wealthy European investors are turning to private markets for exposure to AI growth.
+### [Atal Pension Yojana Vs NPS: Which Retirement Scheme Makes Sense For Someone Earning Rs 25,000 A Month?](https://www.ndtvprofit.com/personal-finance/atal-pension-yojana-vs-nps-which-retirement-scheme-makes-sense-for-someone-earning-rs-25-000-a-month-12385000#publisher=newsstand)
+Atal Pension Yojana provides a guaranteed minimum monthly pension of Rs 1,000 to Rs 5,000.
 
-**Source:** NDTV Profit  **Date:** 2026-11-26
+**Source:** NDTV Profit  **Date:** 2026-11-27
+
+### [8th Pay Commission Could Add Rs 3 Lakh Crore To Govt Spend, Keep FY28 Deficit Stuck At 4.3%: Report](https://www.ndtvprofit.com/personal-finance/8th-pay-commission-could-add-rs-3-lakh-crore-to-govt-spend-keep-fy28-deficit-stuck-at-4-3-report-12384943#publisher=newsstand)
+Delayed implementation of the pay commission recommendations would only provide onlv temporarv relief to government finances, with the burden of expenditure to rise further due to accumulated arrears.
+
+**Source:** NDTV Profit  **Date:** 2026-11-27
+
+### [Bal Pharma Ltd Share Price Today NSE/BSE Charts - Alice Blue](https://news.google.com/rss/articles/CBMibEFVX3lxTFBwRnhLYUZLT2xmOXU5YkFLb1phVGlfS2wwdTNIbXRVNnFnd0FlaEdXaGlqTklkT2VncWhscV8tMWFoczlzb0x6VThKaHlfblJUT1pSQk02SlV3R1hyVUlUTWhBWU1MMzd2NTdoYg?oc=5)
+Bal Pharma Ltd Share Price Today NSE/BSE Charts &nbsp;&nbsp; Alice Blue
+
+**Source:** GNews - India Pharma  **Date:** 2026-11-26
 
 ---
